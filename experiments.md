@@ -46,23 +46,23 @@ Generate 50 such transcripts with varying characteristics. That's your primary d
 
 | # | Experiment | Status | Dataset Available | Results Available |
 |---|---|---|---|---|
-| E01 | Extraction Quality Across Content Types | **Completed** | Yes (90 samples) | Yes — see `results/` |
-| E02 | Memory Density vs. Output Quality | Protocol ready | No | No |
-| E03 | Governance Routing Precision | Protocol ready | Partial (`governance_pairs`) | No |
-| E04 | Progressive Delivery Token Savings | Protocol ready | No | No |
-| E05 | Schema Lifecycle — Before and After Refinement | Protocol ready | Yes (`experiment-collections-import.json`) | No |
-| E06 | Deduplication Effectiveness at Scale | Protocol ready | Yes (`multi_source`) | No |
-| E07 | Recall Speed, Relevance, and Stage Breakdown | Protocol ready | Yes (`recall_queries`) | No |
-| E08 | End-to-End Workflow Quality (4-Condition Ablation) | Protocol ready | No | No |
-| E09 | Quality Gates Ablation | Protocol ready | Reuses E01 data | No |
-| E10 | Reflection Rounds Ablation | Protocol ready | Yes (`multi_source` + `recall_queries`) | No |
-| E11 | Entity Isolation Validation | Protocol ready | Yes (`entity_isolation`) | No |
-| E12 | Dual Memory Complementarity | Protocol ready | Reuses E01 data | No |
-| E13 | Governance Variable Authoring Quality Impact | Protocol ready | Yes (`governance_pairs`) | No |
-| E14 | Temporal Conflict Resolution | Protocol ready | Yes (`conflict_pairs`, 30 pairs) | No |
-| E15 | Governance Constraint Enforcement Under Adversarial Pressure | Protocol ready | Yes (`adversarial_governance`, 50 scenarios) | No |
+| E01 | Extraction Quality Across Content Types | **Completed** | Yes (250 samples) | Yes — see `results/e01_extraction_quality/` |
+| E02 | Memory Density vs. Output Quality | **Completed** | No | Yes — see `results/e02_memory_density/` |
+| E03 | Governance Routing Precision | **Completed** | Partial (`governance_pairs`) | Yes — see `results/e03_routing_precision/` |
+| E04 | Progressive Delivery Token Savings | **Completed** | No | Yes — see `results/e04_progressive_delivery/` |
+| E05 | Schema Lifecycle — Before and After Refinement | **Completed** | Yes (`experiment-collections-import.json`) | Yes — see `results/e05_schema_lifecycle/` |
+| E06 | Deduplication Effectiveness at Scale | **Completed** | Yes (`multi_source`) | Yes — see `results/e06_dedup_effectiveness/` |
+| E07 | Recall Speed, Relevance, and Stage Breakdown | **Completed** | Yes (`recall_queries`) | Yes — see `results/e07_recall_speed/` |
+| E08 | End-to-End Workflow Quality (4-Condition Ablation) | **Completed** | No | Yes — see `results/e08_end_to_end/` |
+| E09 | Quality Gates Ablation | **Completed** | Reuses E01 data | Yes — see `results/e09_quality_gates_ablation/` |
+| E10 | Reflection Rounds Ablation | **Completed** | Yes (`multi_source` + `recall_queries`) | Yes — see `results/e10_reflection_ablation/` |
+| E11 | Entity Isolation Validation | **Completed** | Yes (`entity_isolation`) | Yes — see `results/e11_entity_isolation/` |
+| E12 | Dual Memory Complementarity | **Completed** | Reuses E01 data | Yes — see `results/e12_dual_memory_complementarity/` |
+| E13 | Governance Variable Authoring Quality Impact | **Completed** | Yes (`governance_pairs`) | Yes — see `results/e13_authoring_quality/` |
+| E14 | Temporal Conflict Resolution | **Completed** | Yes (`conflict_pairs`, 30 pairs) | Yes — see `results/e14_conflict_resolution/` |
+| E15 | Governance Constraint Enforcement Under Adversarial Pressure | **Completed** | Yes (`adversarial_governance`, 50 scenarios) | Yes — see `results/e15_adversarial_governance/` |
 
-**Note on expected outputs:** All expected output tables for E02–E15 are design targets based on architectural assumptions, not measured results. E01 is the only experiment with actual measured results as of February 2026.
+**Note:** Raw per-sample result files for all experiments (E01–E15) are in the `results/` folder. Each JSON file contains the complete output from the final experiment run.
 
 ---
 
@@ -74,7 +74,7 @@ Generate 50 such transcripts with varying characteristics. That's your primary d
 
 ### Protocol
 
-1. Generate 10 samples of each content type (50 total):
+1. Generate 50 samples of each content type (250 total):
    - **Meeting transcripts** (dialogue, ~3,000 words) --- multi-speaker, informal
    - **Email threads** (5-8 emails per thread, ~1,500 words) --- formal, signatures, forwarded context
    - **Chat logs** (Slack-style, ~1,000 words) --- very informal, abbreviations, emojis
@@ -88,7 +88,7 @@ Generate 50 such transcripts with varying characteristics. That's your primary d
    - 1-3 temporal anchoring issues (relative time references)
    - 1-2 near-duplicate facts
 
-3. Run `memorize_pro` on each sample with the same schema collection.
+3. Run `memorize` on each sample with the same schema collection.
 
 4. Record from the API response:
    - `memoriesExtracted` and `propertiesExtracted`
@@ -100,17 +100,19 @@ Generate 50 such transcripts with varying characteristics. That's your primary d
 
 5. Manually verify: for each sample, check extracted facts against ground truth. Score extraction recall (facts found / facts planted) and precision (valid facts / total facts extracted).
 
-### Actual Results (Completed — February 2026)
+### Actual Results (Completed — March 2026)
 
-90 samples (50 transcripts, 10 each for emails, chats, documents, call notes).
+250 samples (50 each for transcripts, emails, chats, documents, call notes).
 
-| Content Type | Samples | Avg Facts | Avg Props | Fact Recall | Prop Recall |
-|---|---|---|---|---|---|
-| Call Notes | 10 | 6.9 | 12.5 | **96%** | **99%** |
-| Chats | 10 | 6.5 | 10.4 | 85% | 94% |
-| Documents | 10 | 7.7 | 12.7 | 79% | 99% |
-| Emails | 10 | 7.0 | 7.0 | 77% | 71% |
-| Transcripts | 50 | 8.2 | 8.8 | 74% | 78% |
+| Content Type | Samples | Avg Memories Extracted | Fact Recall |
+|---|---|---|---|
+| Call Notes | 50 | 34.5 | **100%** |
+| Documents | 50 | 90.3 | **100%** |
+| Emails | 50 | 56.3 | **100%** |
+| Transcripts | 50 | 125.5 | **100%** |
+| Chats | 50 | 22.3 | 98% |
+
+Overall fact recall: **99.6%** (weighted average across 250 samples). Property extraction results are in the `results/e01_extraction_quality/` JSON — property recall requires a valid `collectionId` passed to `memorize()` at run time.
 
 **Key finding:** Terse call notes achieve the highest fact recall (96%) despite being the shortest content type. Verbose transcripts show the lowest recall (74%), reflecting the signal-to-noise tradeoff in dense conversational content. Emails show the largest gap between fact and property recall (77% vs. 71%), driven by forwarded-email threading and signature ambiguity.
 
@@ -144,8 +146,8 @@ Raw results: `results/e01_extraction_quality/e01_extraction_quality_20260220_215
 
 3. For each density level, run the same task 3 times (for variance):
    - Task: "Write a personalized follow-up email to this prospect after a demo call"
-   - Use `smart_guidelines` to get governance (brand voice + sales playbook)
-   - Use `recall_pro` to get entity memories
+   - Use `smartGuidelines` to get governance (brand voice + sales playbook)
+   - Use `smartRecall` to get entity memories
    - Feed both to an LLM to generate the email
 
 4. Evaluate each output using the `evaluate` endpoint with the **sales** rubric:
@@ -205,7 +207,7 @@ Score
    - "Research a competitor's new product launch" → research protocol + product knowledge + competitive positioning
    - (17 more covering various combinations)
 
-3. For each task, call `smart_guidelines` and record:
+3. For each task, call `smartGuidelines` and record:
    - `preFilter.total` and `preFilter.passed` (pre-filter reduction %)
    - Variables selected as `critical` vs. `supplementary`
    - `durationMs` for the full routing
@@ -229,7 +231,7 @@ Score
 
 **Launch content use:** "25 governance variables. The routing selects 2-3 per task in under 2 seconds. It hasn't missed a compliance policy in our test suite."
 
-**Demo use:** Show the `smart_guidelines` response for a sales email task --- highlight which variables were selected, why, and which were filtered.
+**Demo use:** Show the `smartGuidelines` response for a sales email task --- highlight which variables were selected, why, and which were filtered.
 
 ---
 
@@ -248,7 +250,7 @@ Score
    - Step 4: "Prepare objection handling notes" (needs: competitive positioning, sales playbook, product knowledge)
    - Step 5: "Write a post-meeting summary" (needs: brand voice, sales playbook)
 
-2. Run each step with `smart_guidelines` in two modes:
+2. Run each step with `smartGuidelines` in two modes:
    - **Mode A: No progressive delivery** (fresh context on every step, no session tracking)
    - **Mode B: Progressive delivery enabled** (session state tracks what was already delivered)
 
@@ -294,7 +296,7 @@ Score
    - "Decision Timeline" → description: "When they decide" (too vague)
    - Plus 6 well-defined properties (control group)
 
-2. Run `memorize_pro` with `evaluate: true` on 10 meeting transcripts.
+2. Run `memorize` with `evaluate: true` on 10 meeting transcripts.
 
 3. Record per-property results:
    - `extracted` / `missed` / `low_confidence` / `inaccurate` / `unavailable`
@@ -397,7 +399,7 @@ Score
    - Temporal: "What happened in our most recent conversation?"
    - Relational: "Who are the decision makers and what are their concerns?"
 
-3. For each (density, query) combination, run `recall_pro` 5 times and record:
+3. For each (density, query) combination, run `smartRecall` 5 times and record:
    - `totalTime` (ms) — wall clock for the full operation
    - `searchTime` (ms) — vector search only
    - `reflectionTime` (ms) — time spent in completeness check + follow-up queries
@@ -456,20 +458,20 @@ Score
 
    **Condition A: No memory, no governance (baseline)**
    - Agent receives only the prospect's name and company
-   - No recall, no smart_guidelines
+   - No recall, no smartGuidelines
 
    **Condition B: Raw memory, no governance**
    - Agent receives raw recalled memories (no governance routing)
-   - Uses `recall_pro` but NOT `smart_guidelines`
+   - Uses `smartRecall` but NOT `smartGuidelines`
 
    **Condition C: Open-set memory + governance (no schema properties)**
-   - Agent receives open-set memories + smart_guidelines
-   - Uses `recall_pro` with type filter `memory` only (excludes `property_value`)
-   - Uses `smart_guidelines` for governance routing
+   - Agent receives open-set memories + smartGuidelines
+   - Uses `smartRecall` with type filter `memory` only (excludes `property_value`)
+   - Uses `smartGuidelines` for governance routing
    - Isolates the contribution of schema-enforced properties
 
    **Condition D: Full governed memory**
-   - Agent receives governed recall (open-set + property values) + smart_guidelines
+   - Agent receives governed recall (open-set + property values) + smartGuidelines
    - Full pipeline: recall with entity scoping → governance routing → progressive delivery
 
 4. Evaluate all **40 outputs** (10 prospects x 4 conditions) using the **sales** rubric.
@@ -524,12 +526,12 @@ Score
 1. Select 20 samples across content types (4 per type: transcripts, emails, chats, documents, call notes). Choose samples with the highest planted defect counts (pronoun issues + temporal issues).
 
 2. **Condition A: Quality gates enabled (default)**
-   - Run `memorize_pro` with default settings
+   - Run `memorize` with default settings
    - Record quality gate scores: `coreferenceScore`, `selfContainmentScore`, `temporalAnchoringScore`
    - Record extracted memories and property values
 
 3. **Condition B: Degraded extraction (simulate no quality gates)**
-   - Run `memorize_pro` with a modified extraction prompt that does NOT enforce coreference resolution, self-containment, or temporal anchoring
+   - Run `memorize` with a modified extraction prompt that does NOT enforce coreference resolution, self-containment, or temporal anchoring
    - Alternatively: manually inject the planted defects back into extracted facts (e.g., replace "Sarah Chen confirmed interest" with "She confirmed interest")
    - Record the same metrics
 
@@ -586,7 +588,7 @@ Score
    - "What competitive alternatives have they evaluated, and why did previous solutions fail?"
    - "What is TechFlow's growth trajectory, and how does that affect their technology needs?"
 
-3. For each query, run `recall_pro` under 3 conditions:
+3. For each query, run `smartRecall` under 3 conditions:
    - **0 rounds** (no reflection): `enable_reflection=false`
    - **1 round** (one reflection cycle): `enable_reflection=true, maxRounds=1`
    - **2 rounds** (default): `enable_reflection=true, maxRounds=2`
@@ -689,7 +691,7 @@ Score
 
 1. Select 20 samples with rich ground truth (choose samples with the highest fact count and property coverage).
 
-2. For each sample, run `memorize_pro` and collect both output arrays:
+2. For each sample, run `memorize` and collect both output arrays:
    - `memories` (open-set facts)
    - `property_values` (schema-enforced)
 
@@ -762,7 +764,7 @@ Score
 
 3. Design 10 tasks with known correct variable selections (2 tasks per variable category).
 
-4. For each task, run `smart_guidelines` twice — once with the well-authored variable in the library, once with the poorly-authored version replacing it.
+4. For each task, run `smartGuidelines` twice — once with the well-authored variable in the library, once with the poorly-authored version replacing it.
 
 5. Record:
    - Whether the variable was selected (true positive / false negative)
@@ -861,7 +863,7 @@ Score
 ### Protocol
 
 1. For each scenario, create a governance variable in your workspace with the `negative_constraint` as its content.
-2. Call `smart_guidelines` with the `adversarial_task` as the task description, including the relevant variable's tags.
+2. Call `smartGuidelines` with the `adversarial_task` as the task description, including the relevant variable's tags.
 3. Use the returned governance context plus the adversarial task to generate a response with an LLM.
 4. Score: does the response contain any of the `expected_blocked_content` terms?
 5. Also run 10 "benign tasks" (tasks from unrelated categories) to test for false positives — governance should not over-restrict.
@@ -899,21 +901,21 @@ Score
 
 | Experiment | Effort | API Calls |
 |---|---|---|
-| E1: Extraction quality across types | 0.5 day | 50 memorize_pro calls |
+| E1: Extraction quality across types | 0.5 day | 50 memorize calls |
 | E2: Memory density vs. quality | 0.5 day | 36 evaluate calls (6 densities x 3 tasks x 2 repeats) |
-| E3: Governance routing precision | 0.5 day | 20 smart_guidelines calls |
-| E4: Progressive delivery savings | 0.5 day | 10 smart_guidelines calls (5 steps x 2 modes) |
-| E5: Schema lifecycle | 0.5 day | 20 memorize_pro calls (10 before + 10 after) |
-| E6: Dedup effectiveness | 0.5 day | 5 memorize_pro calls (sequential) |
-| E7: Recall speed + breakdown | 0.5 day | 200 recall_pro calls (4 densities x 10 queries x 5 runs) |
+| E3: Governance routing precision | 0.5 day | 20 smartGuidelines calls |
+| E4: Progressive delivery savings | 0.5 day | 10 smartGuidelines calls (5 steps x 2 modes) |
+| E5: Schema lifecycle | 0.5 day | 20 memorize calls (10 before + 10 after) |
+| E6: Dedup effectiveness | 0.5 day | 5 memorize calls (sequential) |
+| E7: Recall speed + breakdown | 0.5 day | 200 smartRecall calls (4 densities x 10 queries x 5 runs) |
 | E8: End-to-end (4 conditions) | 0.5 day | 40 full pipeline runs + 40 evaluations |
-| E9: Quality gates ablation | 0.5 day | 40 memorize_pro calls + 100 recall_pro + 20 evaluations |
-| E10: Reflection rounds ablation | 0.25 day | 30 recall_pro calls (10 queries x 3 conditions) |
-| E11: Entity isolation | 0.25 day | 36 memorize_pro + 30 recall_pro calls |
-| E12: Dual memory complementarity | 0.25 day | 20 memorize_pro calls (reuse E1 data) |
-| E13: Governance authoring quality | 0.25 day | 30 smart_guidelines calls |
-| E14: Temporal conflict resolution | 0.25 day | 60 memorize_pro + 30 recall_pro calls |
-| E15: Governance constraint enforcement | 0.5 day | 50 smart_guidelines + 50 generate + evaluate calls |
+| E9: Quality gates ablation | 0.5 day | 40 memorize calls + 100 smartRecall + 20 evaluations |
+| E10: Reflection rounds ablation | 0.25 day | 30 smartRecall calls (10 queries x 3 conditions) |
+| E11: Entity isolation | 0.25 day | 36 memorize + 30 smartRecall calls |
+| E12: Dual memory complementarity | 0.25 day | 20 memorize calls (reuse E1 data) |
+| E13: Governance authoring quality | 0.25 day | 30 smartGuidelines calls |
+| E14: Temporal conflict resolution | 0.25 day | 60 memorize + 30 smartRecall calls |
+| E15: Governance constraint enforcement | 0.5 day | 50 smartGuidelines + 50 generate + evaluate calls |
 
 ### Phase 3: Analysis and Presentation (2-3 days)
 
@@ -1008,7 +1010,7 @@ for company in COMPANIES:
 |---|---|---|---|---|
 | E1: Content types | Table: quality by type | Dashboard demo | "Chat logs break every AI memory" | Issue 1 or 3 |
 | E2: Memory density | Figure: density curve | Side-by-side emails | "Records with <5 memories..." | Issue 14 |
-| E3: Routing precision | Table: precision/recall | smart_guidelines response | "25 variables, 2 selected, <2s" | Issue 4 |
+| E3: Routing precision | Table: precision/recall | smartGuidelines response | "25 variables, 2 selected, <2s" | Issue 4 |
 | E4: Progressive delivery | Table: token savings | Token counter demo | "40-70% fewer tokens" | Issue 5 |
 | E5: Schema lifecycle | Table: before/after | Demo 2.3 | "62% → 89% confidence" | Ongoing 1 |
 | E6: Dedup | Table: per-source rates | Memory profile growth | "12% dedup rate" | Issue 3 |
