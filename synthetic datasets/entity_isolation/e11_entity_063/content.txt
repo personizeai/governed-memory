@@ -1,0 +1,16 @@
+### Account Overview
+Nova Signal is a Healthcare Tech company specializing in innovative signal processing solutions for medical devices and diagnostics. With 2713 employees and annual revenue of ~$84M, they are a mid-sized player experiencing rapid growth in a competitive sector. Key contact is Omar Chen, VP of Customer Success (omar.chen@novasignal.com), who oversees client retention, onboarding, and success metrics. Omar has been instrumental in scaling customer operations amid expanding pipelines, making him a pivotal decision-maker for CRM and pipeline management tools.
+
+### Key Details
+Nova Signal's tech stack includes Ruby on Rails for their core application, Heroku for hosting, PostgreSQL as the primary database, and Sidekiq for background job processing. These choices support their agile development but have led to notable pain points: poor visibility into pipeline health, which hampers forecasting and resource allocation; integration complexity with legacy systems, slowing down data synchronization across platforms; and high infrastructure costs on Heroku that are eating into margins. They currently rely on competitors like ZoomInfo for sales intelligence, but dissatisfaction with data accuracy and integration issues has opened doors for alternatives. Omar Chen has highlighted these challenges in recent discussions, emphasizing the need for a unified platform to streamline CS operations.
+
+### Deal Status
+Prospecting stage with strong potential. Proposed solution aligns directly with their pain points, offering enhanced pipeline visibility, seamless integrations, and cost-efficient infrastructure. Deal value: $400,000 ACV. Decision timeline: Q2 2026, pending internal buy-in from engineering and finance teams. Omar has expressed enthusiasm but noted budget cycles and pilot requirements as gating factors. Competitive landscape favors us over ZoomInfo due to better healthcare-specific features and lower TCO.
+
+### Next Steps
+- Schedule demo with Omar Chen and engineering leads to showcase Ruby on Rails/PostgreSQL integrations and Sidekiq optimizations (target: week of [current week +2]).
+- Share customized ROI analysis addressing infrastructure costs and pipeline visibility (deliver by EOW).
+- Follow up on intro to CFO for margin impact discussion.
+- Monitor Q4 pipeline health metrics from their side to tailor pitch.
+
+(Word count: 347)

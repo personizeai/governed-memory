@@ -1,0 +1,71 @@
+{
+  "sample_id": "email_013",
+  "content_type": "email_thread",
+  "company": "SpecLine",
+  "industry": "Manufacturing",
+  "email_count": 6,
+  "actual_word_count": 1293,
+  "expected_facts": [
+    {
+      "text": "Budget allocated is approximately $850,000",
+      "type": "explicit"
+    },
+    {
+      "text": "SpecLine is a Manufacturing company with about 768 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using spreadsheets and manual data entry",
+      "type": "explicit"
+    },
+    {
+      "text": "James Johnson has been at SpecLine for 2 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes PHP, Laravel, DigitalOcean, MySQL, Redis",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with poor developer experience slowing feature velocity",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating ZoomInfo, Apollo.io",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with technical debt from rapid early growth",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Operations",
+    "company_name": "SpecLine",
+    "company_size": "201-1000",
+    "technology_stack": "PHP, Laravel, DigitalOcean, MySQL, Redis",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "technical debt from rapid early growth",
+      "poor developer experience slowing feature velocity",
+      "integration complexity with legacy systems",
+      "data silos between engineering and sales teams"
+    ],
+    "deal_value": 850000,
+    "decision_timeline": "2026-10-05",
+    "competitors_mentioned": [
+      "ZoomInfo",
+      "Apollo.io"
+    ],
+    "decision_maker": true,
+    "buying_process": "Procurement requires three competitive bids before decision",
+    "current_solution": "spreadsheets and manual data entry"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 1
+  },
+  "introduces_new_person": true,
+  "colleague": "Derek Bhandari, Engineering Manager",
+  "property_coverage": 0.86
+}

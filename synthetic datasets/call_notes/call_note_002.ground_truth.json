@@ -1,0 +1,56 @@
+{
+  "sample_id": "call_note_002",
+  "content_type": "call_notes",
+  "company": "LedgerPoint",
+  "industry": "Fintech",
+  "duration_minutes": 25,
+  "target_word_count": 572,
+  "actual_word_count": 380,
+  "expected_facts": [
+    {
+      "text": "They're dealing with inconsistent messaging across sales team",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Gong",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with manual processes for customer onboarding",
+      "type": "explicit"
+    },
+    {
+      "text": "LedgerPoint is a Fintech company with about 49 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $120,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Tariq Patel has been at LedgerPoint for 6 years",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Chief Product Officer",
+    "company_name": "LedgerPoint",
+    "company_size": "11-50",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "manual processes for customer onboarding",
+      "inconsistent messaging across sales team"
+    ],
+    "deal_value": 120000,
+    "decision_timeline": "2026-10-31",
+    "competitors_mentioned": [
+      "Gong"
+    ],
+    "decision_maker": true
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 2
+  },
+  "property_coverage": 0.64
+}

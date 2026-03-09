@@ -1,0 +1,18 @@
+**Call Note: Sales Meeting - Rachel Novak, VP Engineering, Solstice AI**  
+**Date:** December 12, 2025  
+**Duration:** 45 min | **Attendees:** Me, Rachel Novak | **Industry:** E-commerce  
+
+Met with Rachel to discuss Solstice AI's platform optimization needs amid holiday scaling. Confirmed they run entire infrastructure on AWS, leveraging EC2, S3, and Lambda for their high-volume e-commerce ops—currently handling 5M+ daily transactions but hitting latency spikes >500ms during peaks.  
+
+Rachel highlighted pain points: AWS costs up 25% YoY due to inefficient auto-scaling; seeking AI tools to predict and mitigate traffic surges without over-provisioning. Expressed strong interest in our CacheAI solution for AWS-native integration, citing a recent competitor eval that fell short on real-time analytics.  
+
+Budget: Q1 2026 approval targeted (~$250K pilot). No blockers; Rachel's team is technical buyer, will loop in CTO.  
+
+**Next Steps:**  
+- Send tailored AWS POC proposal + ROI calc by Dec 18.  
+- Schedule 1-hr demo w/ their DevOps lead for Jan 8.  
+- Follow up Jan 2 on any pre-qual questions.  
+
+Opportunity rated High | Est. ACV: $750K ARR | Score: 85/100  
+
+(198 words)

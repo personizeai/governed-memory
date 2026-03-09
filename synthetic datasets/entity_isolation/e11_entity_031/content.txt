@@ -1,0 +1,17 @@
+### Account Overview
+Sapphire Tech is a leading InsurTech company with 2643 employees and approximately $72M in annual revenue. Specializing in innovative insurance technology solutions, the company faces scaling challenges in infrastructure and data management. Primary contact is Sarah Reyes, Head of Infrastructure (sarah.reyes@sapphiretech.com), who oversees critical tech operations amid rapid growth in the competitive InsurTech landscape.
+
+### Key Details
+Sapphire Tech's tech stack includes Go, Kubernetes, AWS, DynamoDB, and gRPC, supporting their cloud-native architecture for handling high-volume insurance data. Key pain points include difficulty measuring ROI on AI initiatives, which hampers investment justification; compliance audit failures on data handling, risking regulatory penalties; and inconsistent messaging across the sales team, leading to lost opportunities and fragmented customer experiences. They are currently evaluating alternatives to competitors like Chorus.ai to address conversation intelligence and sales enablement gaps.
+
+### Deal Status
+This prospect represents a high-value opportunity with an estimated deal value of $250,000. Sarah Reyes has expressed strong interest in solutions that align with their tech stack to resolve ROI measurement, compliance, and sales messaging issues. The decision timeline is targeted for Q2 2026, pending internal buy-in from infrastructure and sales leadership. Current stage: Discovery complete; moving toward demo and POC.
+
+### Next Steps
+- Schedule a technical demo with Sarah Reyes in the next two weeks to showcase integration with Go, Kubernetes, AWS, DynamoDB, and gRPC.
+- Prepare customized ROI calculator addressing AI initiative pain points and compliance audit risks.
+- Follow up on sales messaging inconsistencies with case studies outperforming Chorus.ai.
+- Align on Q2 2026 timeline by requesting stakeholder intro for cross-functional validation.
+- Update pipeline with any new intel from Sarah post-demo.
+
+(Word count: 347)

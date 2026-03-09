@@ -1,0 +1,22 @@
+**Follow-up Sales Call Note**  
+**Date:** January 24, 2026  
+**Contact:** Chloe Anderson, VP Engineering, Tempest Software (Healthcare Tech)  
+**Call Type:** Zoom, 35 mins | Attendees: Me, Chloe, their Lead DevOps  
+
+**CRITICAL UPDATE (Supersedes Prior Notes):** Tempest Software has fully dropped Salesforce CRM effective Jan 1, 2026, due to escalating licensing fees and poor scalability for HIPAA-compliant workflows. They are now actively evaluating HubSpot AI as primary replacement—POC underway.  
+
+**Meeting Summary:**  
+Chloe confirmed Q4 2025 migration pains from SFDC: integration delays with EHR systems cost them 20% in lost pipeline visibility. HubSpot AI appeals for its native predictive lead scoring and automated compliance auditing, fitting their 200-user engineering team.  
+
+Budget allocated: $300K ARR for core CRM + AI modules. Timeline accelerated—decision by Feb 28, 2026; rollout Q2. They're also glancing at Zoho but HubSpot leads due to healthcare-specific templates.  
+
+Chloe highlighted need for seamless API hooks to their patient data platform. Expressed urgency post-SFDC churn.  
+
+**Action Items:**  
+- Send customized HubSpot AI demo (HIPAA focus) by Jan 27.  
+- Schedule joint POC workshop Feb 5 (invite DevOps).  
+- Internal: Escalate to AE for pricing discount discussion.  
+
+**Disposition:** Hot lead. Next touchpoint: Jan 27 email. Interest: 9/10.  
+
+(Word count: 198)

@@ -1,0 +1,23 @@
+Call with: Simone Tanaka, Director of Sales Engineering at LearnStack  
+Date: February 28, 2026  
+Duration: 30 min  
+
+Key Points:  
+- EdTech, ~41 emp (11-50 sz)  
+- Stack: Py/Django/AWS/PG/Redis  
+- Pains: no RT analytics dec mkg, high infra $ eating margins, churn fr slow supp resp, data silos eng/sales  
+- Curr sol: SFDC w/ custom Apex trigs  
+- Stage: Proposal  
+- She's DM, 1yr @ LearnStack  
+- Timeline: 2026-04-27  
+- Buy proc: CFO app for >$100k  
+
+Action Items:  
+- [ ] Set up POC env for her team to eval (me, by Fri)  
+- [ ] Send POC access + agenda next week (me)  
+- [ ] F/u on CFO intro by EOQ (her)  
+
+Notes:  
+Simone solid DM, def decision maker. Knows pains firsthand—RT analytics gap killing quick decs, esp w/ eng/sales silos. High AWS bills crushing margins, churn spiking bc slow supp. She's pushing hard internally but he (eng lead?) hesitant on switch fr SFDC Apex hacks. Told her POC will demo RT wins on their stack.  
+
+Next week f/u critical—aim POC live by EOQ to hit 4/27 close. She mentioned he's open if CFO blesses budget >100k. Excited abt Python fit, will loop team. Quick rapport, she's been there 1yr, scaling fast. Prob need CFO mtg soon.

@@ -1,0 +1,193 @@
+[09:15] alex.m: Quick update from call w/ Ivan Garcia @ HealthSync. He's Dir of Eng, been there 2 yrs. Healthcare tech co w/ ~414 employees. [👍 from @sarah.k]
+
+[09:17] sarah.k: nice! what's their stack?
+
+[09:18] alex.m: Python, FastAPI, AWS Lambda, DynamoDB, SQS. Perfect fit tbh.
+
+[09:19] mike.r: they mentioned security issues?
+
+  ↳ [09:20] alex.m: yeah, concerns w/ current architecture. Audit coming up in Q3.
+
+[09:21] heather.c: oof, that sucks. Hiring probs too?
+
+[09:22] alex.m: Big time, difficulty hiring specialized engineers. Ngl, that's our in.
+
+[09:23] sarah.k: competitors?
+
+[09:24] alex.m: Looking at in-house build, Chorus.ai, Drift.
+
+[09:25] mike.r: Chorus? Solid but pricey imo.
+
+[09:26] alex.m: Budget ~850k allocated. Deal stage qual rn.
+
+[09:27] heather.c: Whoa 850k? Solid.
+
+  ↳ [09:28] sarah.k: is that annual or what? lmk [👍 from @mike.r]
+
+[09:29] alex.m: He can sign off up to 200k direct, board above that.
+
+[09:30] mike.r: Makes sense for their size (201-1000).
+
+[09:31] sarah.k: Timeline?
+
+[09:32] alex.m: Decision by 2026-08-18. Kinda far but ok.
+
+[09:33] heather.c: Next steps?
+
+[09:34] alex.m: Ivan presents internally, circles back next week.
+
+[09:35] @here who's owning this? Alex?
+
+[09:36] alex.m: Yep, got it.
+
+[09:37] mike.r: She said they're decision makers? [👍 from @alex.m]
+
+[09:38] sarah.k: Pain points nailed: security + hiring.
+
+[09:39] alex.m: [shared link: HealthSync pricing page] Check this for ref.
+
+[09:40] heather.c: Got it, thx.
+
+  ↳ [09:41] mike.r: Their stack matches ours perfect fwiw.
+
+[09:42] sarah.k: They eval'd Drift last Friday?
+
+[09:43] alex.m: Yeah he mentioned it.
+
+[09:44] mike.r: Ivan's legit DM right?
+
+[09:45] heather.c: He said so. Tbh not sure.
+
+[09:46] sarah.k: Security audit Q3 is huge leverage imo.
+
+[09:47] mike.r: Repeated: stack is Python/FastAPI/Lambda etc. Spot on.
+
+[09:48] alex.m: Yup confirmed twice.
+
+[09:49] heather.c: In-house build sounds painful for them.
+
+[09:50] sarah.k: Especially w/ hiring woes.
+
+[09:51] mike.r: Chorus.ai won't fix security.
+
+[09:52] alex.m: Exactly. Drift neither.
+
+[09:53] heather.c: Budget 850k is play money for them?
+
+  ↳ [09:54] sarah.k: Above 200k needs board but yeah.
+
+[09:55] @channel any risks?
+
+[09:56] mike.r: Nah, qual stage solid.
+
+[09:57] sarah.k: He mentioned tomorrow's internal mtg?
+
+[09:58] alex.m: Possible, lmk if hear back early.
+
+[09:59] heather.c: 👍
+
+[10:00] mike.r: Makes sense.
+
+  ↳ [10:01] alex.m: Will follow up next sprint if no word.
+
+[10:02] sarah.k: They said security concerns w/ arch - who fixes that?
+
+[10:03] heather.c: Us obv.
+
+[10:04] alex.m: Pain point #1.
+
+[10:05] mike.r: Hiring engs too hard in healthcare tech.
+
+[10:06] sarah.k: 414 employees, growing probs.
+
+[10:07] heather.c: Ivan been there 2 years, knows pains.
+
+[10:08] mike.r: Deal value 850k? Sweet.
+
+[10:09] alex.m: Approx yes.
+
+[10:10] sarah.k: Board approval process lengthy?
+
+  ↳ [10:11] heather.c: He can direct <200k.
+
+[10:12] mike.r: Timeline to Aug 2026 tho...
+
+[10:13] alex.m: Fiscal maybe.
+
+[10:14] heather.c: Got it.
+
+[10:15] sarah.k: Competitors weak: in-house risky.
+
+[10:16] mike.r: Chorus pricey, Drift meh.
+
+[10:17] alex.m: Our stack aligns perfect.
+
+[10:18] heather.c: Shared pricing link looks good.
+
+[10:19] mike.r: 👍
+
+[10:20] sarah.k: She eval'd Drift - not impressed.
+
+[10:21] alex.m: Who she? Client side?
+
+[10:22] heather.c: Think eng team.
+
+[10:23] sarah.k: Anyway, next week follow up.
+
+[10:24] mike.r: On it.
+
+[10:25] alex.m: Thx team.
+
+[10:26] heather.c: Np.
+
+  ↳ [10:27] mike.r: Security audit Q3 pressure.
+
+[10:28] sarah.k: Yep.
+
+[10:29] alex.m: Closing thread?
+
+[10:30] heather.c: All good.
+
+[10:31] mike.r: They building in-house? No way w/ hiring.
+
+[10:32] sarah.k: Agreed.
+
+[10:33] alex.m: Budget confirms serious.
+
+[10:34] heather.c: 850k allocated.
+
+[10:35] mike.r: Decision maker confirmed.
+
+[10:36] sarah.k: Ivan yes.
+
+[10:37] alex.m: Cool.
+
+[10:38] heather.c: Timeline far but qual now.
+
+[10:39] mike.r: Next steps clear.
+
+[10:40] sarah.k: Present internally.
+
+[10:41] alex.m: Circle back next week.
+
+[10:42] heather.c: Sounds good.
+
+[10:43] mike.r: 👍 from me [👍 from @sarah.k]
+
+[10:44] sarah.k: Tech stack repeat: FastAPI etc. Love it.
+
+[10:45] alex.m: Double confirmed.
+
+[10:46] heather.c: Pain points hit.
+
+[10:47] mike.r: Security first.
+
+[10:48] sarah.k: Hiring second.
+
+[10:49] alex.m: Done for now?
+
+[10:50] heather.c: Yep.
+
+[10:51] mike.r: Gotcha.
+
+[10:52] sarah.k: 🎉

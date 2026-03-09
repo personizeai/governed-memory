@@ -1,0 +1,20 @@
+**Follow-up Sales Call Note**  
+**Date:** January 20, 2026  
+**Contact:** Alex Williams, VP Engineering, Catalyst IO (Fintech)  
+**Attendees:** Alex Williams, [Your Name] (Sales Rep)  
+**Duration:** 45 min  
+
+Discussed post-acquisition scaling challenges. **UPDATE/CHANGE:** Catalyst IO has grown to over 300 employees after recent acquisition—supersedes prior intel of ~150 headcount. This drives urgent need for robust API infrastructure to handle 3x transaction volume without downtime.  
+
+Alex confirmed Q2 budget allocation (~$500K) for engineering tools, prioritizing compliance-ready solutions (PCI-DSS, SOC 2). Expressed frustration with current vendor (Stripe integrations lagging); open to our platform as alternative for real-time fraud detection and microservices orchestration.  
+
+Demo interest high—requested tailored POC for their payment gateway by Feb 5. No blockers noted; decision-maker buy-in from CTO.  
+
+**Next Steps:**  
+- Send customized proposal + ROI calc by Jan 25.  
+- Schedule POC kickoff call wk of Feb 2.  
+- Nurture via case study on similar fintech scale-up (e.g., Acme Pay).  
+
+Opportunity heating up—strong fit post-growth. Probability: 70%. Follow up EOD Jan 25.  
+
+(198 words)

@@ -1,0 +1,26 @@
+**Sales Call Note**  
+**Date:** July 10, 2025  
+**Contact:** Elena Johansson, VP Engineering, Orion Platforms (Healthcare Tech)  
+**Call Type:** 30-min Zoom intro meeting w/ SDR Alex Rivera  
+**Attendees:** Elena, me  
+
+**Summary:**  
+Introduced our AI-powered patient monitoring suite, emphasizing HIPAA compliance and real-time analytics. Elena shared Orion's pain points: legacy EHR integration lags cause 20% data downtime during peak hours; seeking scalable solution for 50K+ patient loads.  
+
+Strong alignment—Elena confirmed fit for their telehealth expansion. Budget approved: $250K for Q4 pilot (3 sites). Timeline: POC by Sept, full rollout Q1 2026. Referenced competitor (MediTrack) but noted our edge in edge-compute processing.  
+
+**Key Decision Maker:** Orion Platforms said their CTO makes the final decision. Elena to loop in CTO Priya Singh next week.  
+
+**Interests:**  
+- Custom API hooks for Epic EHR  
+- Demo of anomaly detection (80% false positive reduction)  
+
+**Objections:** None major; minor concern on onboarding time (addressed w/ 2-wk SLA).  
+
+**Next Steps:**  
+- Send tailored demo video + Epic case study by 7/12  
+- Elena to intro CTO; target call 7/22-25  
+- Follow-up email sent  
+
+**Opp Stage:** Discovery → Demo Scheduled  
+**Score:** 8/10

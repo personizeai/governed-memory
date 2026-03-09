@@ -1,0 +1,72 @@
+{
+  "sample_id": "email_021",
+  "content_type": "email_thread",
+  "company": "BuildTech Corp",
+  "industry": "Manufacturing",
+  "email_count": 5,
+  "actual_word_count": 1416,
+  "expected_facts": [
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with fragmented tooling across departments",
+      "type": "explicit"
+    },
+    {
+      "text": "BuildTech Corp is a Manufacturing company with about 50 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with security concerns with current architecture",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in San Francisco",
+      "type": "explicit"
+    },
+    {
+      "text": "Tariq Costa has been at BuildTech Corp for 5 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q3",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Customer Success",
+    "company_name": "BuildTech Corp",
+    "company_size": "11-50",
+    "technology_stack": "Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "fragmented tooling across departments",
+      "security concerns with current architecture",
+      "difficulty hiring specialized engineers"
+    ],
+    "deal_value": 200000,
+    "decision_timeline": "2026-09-16",
+    "next_steps": "Send pricing proposal to Tariq by Friday"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 1
+  },
+  "introduces_new_person": true,
+  "colleague": "Victor Cho, Engineering Manager",
+  "property_coverage": 0.64
+}

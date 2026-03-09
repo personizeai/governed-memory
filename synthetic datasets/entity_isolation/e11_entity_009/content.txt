@@ -1,0 +1,16 @@
+### Account Overview
+Helix Software is a prominent player in the Cybersecurity industry, boasting approximately $130M in annual revenue and a workforce of 217 employees. As a key prospect, the company is led in technology by Amanda Williams, who serves as CTO (amanda.williams@helixsoftware.com). Helix specializes in advanced security solutions, leveraging a robust tech stack that includes Scala, Spark, Databricks, Snowflake, and Airflow to manage complex data pipelines and analytics. Their focus on innovation positions them well for growth, but they're grappling with significant challenges in modernizing their infrastructure.
+
+### Key Details
+Amanda Williams, CTO at Helix Software, has been instrumental in driving the company's technical strategy. During recent discussions, she highlighted critical pain points: difficulty measuring ROI on AI initiatives and integration complexity with legacy systems. These issues are hindering their ability to scale AI-driven threat detection effectively. Helix's current setup relies heavily on their existing stack, but gaps in analytics and orchestration are creating bottlenecks. Notably, they're evaluating alternatives to competitors like Gong, seeking a solution that offers seamless integration and clear ROI metrics. With 217 employees and ~$130M in revenue, Helix represents a high-value opportunity in the Cybersecurity space.
+
+### Deal Status
+The potential deal with Helix Software is valued at $400,000, targeting their AI analytics and integration needs. Amanda has expressed strong interest, aligning our platform's capabilities directly with their pain points around ROI measurement and legacy system compatibility. Current pipeline stage: Discovery/Qualification. Competitors like Gong are in play, but our differentiators in Spark and Airflow compatibility give us an edge. Decision timeline is set for Q4 2026, allowing time for a proof-of-concept demo tailored to their Databricks and Snowflake environments.
+
+### Next Steps
+1. Schedule a technical deep-dive call with Amanda Williams by end of next week to demo ROI dashboards integrated with Scala/Spark workflows.
+2. Prepare customized materials addressing legacy integration challenges, benchmarking against Gong.
+3. Follow up with a proposal outlining $400,000 value prop, emphasizing Q4 2026 timeline alignment.
+4. Engage engineering team for a POC using their Snowflake/Airflow stack to build urgency.
+
+This prospect has high potential—prioritize to secure pilot commitment ahead of competitor moves. (Word count: 378)

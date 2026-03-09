@@ -1,0 +1,85 @@
+{
+  "sample_id": "document_016",
+  "content_type": "wiki_document",
+  "company": "LearnStack",
+  "industry": "EdTech",
+  "target_word_count": 1808,
+  "actual_word_count": 1265,
+  "expected_facts": [
+    {
+      "text": "Currently using legacy Java application maintained by one person",
+      "type": "explicit"
+    },
+    {
+      "text": "LearnStack is a EdTech company with about 111 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with high infrastructure costs eating into margins",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating custom internal tool, Outreach",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with lack of real-time analytics for decision making",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "James Wright has been at LearnStack for 7 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes TypeScript, React, Node.js, GCP, MongoDB",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Engineering",
+    "company_name": "LearnStack",
+    "company_size": "51-200",
+    "technology_stack": "TypeScript, React, Node.js, GCP, MongoDB",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "high infrastructure costs eating into margins",
+      "lack of real-time analytics for decision making"
+    ],
+    "deal_value": 200000,
+    "decision_timeline": "2026-07-31",
+    "competitors_mentioned": [
+      "custom internal tool",
+      "Outreach"
+    ],
+    "decision_maker": true,
+    "next_steps": "Set up POC environment for James's team to evaluate",
+    "current_solution": "legacy Java application maintained by one person",
+    "urgency_level": "Low"
+  },
+  "planted_issues": {
+    "pronoun_issues": 1,
+    "temporal_issues": 2,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Ivan Hassan",
+      "title": "Director of Analytics",
+      "role": "Budget Owner"
+    },
+    {
+      "name": "Emily Mitchell",
+      "title": "Head of Infrastructure",
+      "role": "Budget Owner"
+    }
+  ],
+  "property_coverage": 0.93
+}

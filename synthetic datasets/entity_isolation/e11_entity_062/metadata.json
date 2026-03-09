@@ -1,0 +1,19 @@
+{
+  "entity_index": 62,
+  "name": "Elena Cho",
+  "company": "Core Logic",
+  "industry": "Fintech",
+  "email": "elena.cho@corelogic.com",
+  "title": "VP of Marketing",
+  "facts": [
+    "Elena Cho is VP of Marketing at Core Logic",
+    "Core Logic is a Fintech company with 424 employees",
+    "Tech stack: TypeScript, React, Node.js, GCP, MongoDB",
+    "Deal value: $650,000",
+    "Pain points: lack of real-time analytics for decision making; compliance audit failures on data handling; vendor lock-in with current cloud provider",
+    "Competitors: Intercom, Clari",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$155M"
+  ],
+  "actual_word_count": 315
+}

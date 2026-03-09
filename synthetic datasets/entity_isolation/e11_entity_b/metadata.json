@@ -1,0 +1,15 @@
+{
+  "entity_id": "e11_entity_b",
+  "name": "Sarah Kim",
+  "title": "VP of Engineering",
+  "company": "DataPulse Systems",
+  "email": "sarah.kim@datapulse-e11.test",
+  "industry": "B2B SaaS",
+  "employees": 310,
+  "unique_markers": [
+    "DataPulse",
+    "Sarah Kim",
+    "James Park",
+    "Andreessen Horowitz"
+  ]
+}

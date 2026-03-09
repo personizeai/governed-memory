@@ -1,0 +1,89 @@
+{
+  "sample_id": "document_024",
+  "content_type": "wiki_document",
+  "company": "SkillPulse",
+  "industry": "EdTech",
+  "target_word_count": 1540,
+  "actual_word_count": 1226,
+  "expected_facts": [
+    {
+      "text": "They're dealing with poor developer experience slowing feature velocity",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with compliance audit failures on data handling",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using Salesforce with custom Apex triggers",
+      "type": "explicit"
+    },
+    {
+      "text": "Ivan Patel has been at SkillPulse for 4 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Go, Kubernetes, AWS, DynamoDB, gRPC",
+      "type": "explicit"
+    },
+    {
+      "text": "SkillPulse is a EdTech company with about 136 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $161M",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Intercom",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 18% this fiscal year",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Engineering",
+    "company_name": "SkillPulse",
+    "company_size": "51-200",
+    "technology_stack": "Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "compliance audit failures on data handling",
+      "poor developer experience slowing feature velocity",
+      "difficulty measuring ROI on AI initiatives"
+    ],
+    "decision_timeline": "2026-04-29",
+    "competitors_mentioned": [
+      "Intercom"
+    ],
+    "decision_maker": false,
+    "next_steps": "Set up POC environment for Ivan's team to evaluate",
+    "current_solution": "Salesforce with custom Apex triggers",
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Rachel Cho",
+      "title": "Director of Engineering",
+      "role": "End User"
+    },
+    {
+      "name": "Omar Kaur",
+      "title": "Head of Data",
+      "role": "Champion"
+    },
+    {
+      "name": "Elena Chen",
+      "title": "VP of Marketing",
+      "role": "Budget Owner"
+    }
+  ],
+  "property_coverage": 0.86
+}

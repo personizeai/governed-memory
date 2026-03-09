@@ -1,0 +1,90 @@
+{
+  "sample_id": "document_017",
+  "content_type": "wiki_document",
+  "company": "CloudNova",
+  "industry": "B2B SaaS",
+  "target_word_count": 1703,
+  "actual_word_count": 1396,
+  "expected_facts": [
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 17% this fiscal year",
+      "type": "explicit"
+    },
+    {
+      "text": "CloudNova is a B2B SaaS company with about 37 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in San Francisco",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 3 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Microsoft Copilot",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes TypeScript, React, Node.js, GCP, MongoDB",
+      "type": "explicit"
+    },
+    {
+      "text": "Maya reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "Maya Mueller has been at CloudNova for 5 years",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Product",
+    "company_name": "CloudNova",
+    "company_size": "11-50",
+    "technology_stack": "TypeScript, React, Node.js, GCP, MongoDB",
+    "deal_stage": "Proposal",
+    "decision_timeline": "2026-10-17",
+    "competitors_mentioned": [
+      "Microsoft Copilot"
+    ],
+    "decision_maker": false
+  },
+  "planted_issues": {
+    "pronoun_issues": 1,
+    "temporal_issues": 1,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Tariq Mueller",
+      "title": "VP of Engineering",
+      "role": "Champion"
+    },
+    {
+      "name": "Simone Cho",
+      "title": "Director of IT",
+      "role": "End User"
+    },
+    {
+      "name": "Chloe Kim",
+      "title": "VP of Marketing",
+      "role": "End User"
+    },
+    {
+      "name": "Lisa Mitchell",
+      "title": "VP of Marketing",
+      "role": "Technical Evaluator"
+    }
+  ],
+  "property_coverage": 0.57
+}

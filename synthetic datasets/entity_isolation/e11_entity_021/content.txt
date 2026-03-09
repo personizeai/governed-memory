@@ -1,0 +1,16 @@
+### Account Overview
+Catalyst IO is a prominent B2B SaaS company specializing in analytics and data-driven solutions, boasting approximately 2670 employees and ~$239M in annual revenue. The primary point of contact is Daniel Reyes, Director of Analytics at Catalyst IO (daniel.reyes@catalystio.com). As a key decision-maker, Daniel oversees analytics operations and is actively seeking enhancements to streamline their data workflows. Catalyst IO operates in a competitive B2B SaaS landscape, facing rivals like ZoomInfo and Gong, and is evaluating solutions to address core operational inefficiencies.
+
+### Key Details
+Catalyst IO's tech stack includes Ruby on Rails for application development, Heroku for deployment, PostgreSQL as the primary database, and Sidekiq for background job processing. These technologies support their scalable SaaS platform but highlight vulnerabilities in integration and real-time capabilities. Key pain points identified during initial discussions include manual processes for customer onboarding, which slow down time-to-value; integration complexity with legacy systems, leading to data silos; and a lack of real-time analytics for timely decision-making. These challenges are hindering their ability to maintain a competitive edge against players like ZoomInfo and Gong, prompting Daniel to explore advanced CRM and analytics integrations.
+
+### Deal Status
+This prospect represents a high-potential opportunity with an estimated deal value of $50,000. Daniel Reyes has expressed strong interest in solutions that directly mitigate their pain points, particularly real-time analytics and seamless onboarding automation. The decision timeline is targeted for Q3 2026, aligned with their fiscal planning cycle. Current stage: Discovery complete; proposal pending. No major roadblocks identified, though budget approval from senior leadership is anticipated.
+
+### Next Steps
+- Schedule follow-up call with Daniel Reyes by end of next week to demo real-time analytics features tailored to their Ruby on Rails and PostgreSQL environment.
+- Prepare customized integration roadmap addressing legacy system complexities and Sidekiq workflows.
+- Share case studies contrasting outcomes vs. competitors ZoomInfo and Gong.
+- Confirm Q3 2026 timeline and secure intro to additional stakeholders if needed.
+
+(Word count: 378)

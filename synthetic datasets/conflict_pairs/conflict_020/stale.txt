@@ -1,0 +1,21 @@
+**Sales Call Note**  
+**Date:** October 19, 2025  
+**Contact:** David Cho, VP Engineering, Crest Digital (B2B SaaS)  
+**Duration:** 45 min | **Attendees:** Me, David Cho, Eng Lead Sarah Kim  
+
+Intro call on our SaaS platform for cloud-native app orchestration. David outlined Crest Digital's push to migrate from legacy on-prem systems to Kubernetes-based scaling amid 3x user growth in last year.  
+
+Key discussion:  
+- Confirmed Crest Digital has a budget of approximately $200K for this initiative, earmarked for Q4 spend.  
+- Pain points: Frequent downtime during traffic spikes; need seamless integration with their AWS EKS clusters and existing CI/CD pipeline (Jenkins/GitLab).  
+- Expressed strong interest in our zero-config deployment feature vs. competitors like Rancher—saw demo ROI calc showing 40% cost savings.  
+- Timeline: POC approval by end-Oct; decision post-Thanksgiving. No major blockers; David champions internally.  
+
+Objections: None raised; budget aligns with our mid-tier package (~$180K ARR).  
+
+**Next Steps:**  
+- Send customized proposal + pricing breakdown by 10/25.  
+- Schedule technical demo w/ their eng team for 11/5 (30 min).  
+- Follow up via email Fri 10/20 for confirmation.  
+
+Opportunity strong; high intent. Update stage to "Proposal Sent." (198 words)

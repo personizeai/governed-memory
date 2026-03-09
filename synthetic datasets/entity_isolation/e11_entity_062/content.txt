@@ -1,0 +1,16 @@
+### Account Overview
+Core Logic is a prominent Fintech company with 424 employees and approximately $155M in annual revenue. As a key prospect in the Fintech space, they are grappling with critical operational challenges that align perfectly with our analytics and cloud migration solutions. Primary contact is Elena Cho, VP of Marketing at Core Logic (elena.cho@corelogic.com). Elena oversees marketing strategies and has expressed strong interest in addressing data-driven inefficiencies to fuel growth.
+
+### Key Details
+Core Logic's tech stack includes TypeScript, React, Node.js, GCP, and MongoDB, which powers their core fintech applications but exposes vulnerabilities. Key pain points include a lack of real-time analytics for decision making, leading to delayed insights and missed opportunities; repeated compliance audit failures on data handling, risking regulatory penalties; and vendor lock-in with their current cloud provider (GCP), limiting flexibility and increasing costs. They are currently evaluating alternatives to competitors like Intercom and Clari, seeking a more integrated platform for analytics, compliance, and scalability.
+
+### Deal Status
+This opportunity represents a high-value deal at $650,000, with strong alignment to Core Logic's needs. Elena Cho has confirmed initial buy-in from marketing and engineering leads. The decision timeline is targeted for Q2 2026, allowing time for a proof-of-concept (PoC) and stakeholder alignment. Current stage: Discovery complete; moving to demo preparation. Competitive landscape is moderate, with Intercom positioned for customer success tools and Clari for revenue ops, but our real-time analytics edge positions us favorably.
+
+### Next Steps
+- Schedule technical demo with Elena Cho and engineering team by end of next week to showcase real-time analytics on their TypeScript/Node.js stack.
+- Prepare customized migration proposal addressing GCP vendor lock-in and compliance gaps, including MongoDB integration.
+- Follow up with Elena via email (elena.cho@corelogic.com) to confirm Q2 2026 timeline and secure intro to procurement.
+- Internal: Align sales engineering on $650K deal value and pain point mapping for PoC scoping.
+
+(Word count: 378)

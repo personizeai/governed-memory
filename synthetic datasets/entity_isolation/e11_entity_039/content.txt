@@ -1,0 +1,17 @@
+### Account Overview
+Aether IO is a cutting-edge SpaceTech company specializing in advanced satellite communications and data analytics for space missions. With 311 employees and an annual revenue of ~$192M, they are scaling rapidly in a competitive industry. Primary contact is Jennifer Baker, Head of Data (jennifer.baker@aetherio.com), who oversees data infrastructure and analytics teams. Jennifer is focused on modernizing their tooling to support faster innovation amid growing operational demands.
+
+### Key Details
+Aether IO's tech stack includes TypeScript, React, Node.js, GCP, and MongoDB, powering their real-time data processing and developer workflows. Key pain points include fragmented tooling across departments, leading to silos; poor developer experience that's slowing feature velocity; and inconsistent messaging across the sales team, which hampers customer engagement. Current solutions involve a custom internal tool and Intercom, but these are falling short on integration and scalability. Jennifer has highlighted the need for a unified platform to streamline data flows and improve cross-team collaboration.
+
+### Deal Status
+This is a high-potential B2B prospect with an estimated deal value of $1,000,000. Discussions have progressed to technical evaluation, with Jennifer expressing strong interest in addressing their developer experience and messaging consistency issues. Decision timeline is targeted for Q4 2026, aligned with their fiscal planning cycle. No major roadblocks identified yet, though budget approval from leadership is pending post-proof-of-concept.
+
+### Next Steps
+- Schedule demo tailored to TypeScript/Node.js integrations and GCP compatibility by end of next week.
+- Follow up with Jennifer on pain point deep-dive: request access to their MongoDB schemas for a customized POC.
+- Coordinate intro to sales lead for messaging consistency workshop.
+- Monitor competitor activity (custom tool enhancements, Intercom expansions) and prepare displacement pitch.
+- Internal: Update forecast with $1M opportunity; loop in solutions engineering for SpaceTech vertical expertise.
+
+(Word count: 348)

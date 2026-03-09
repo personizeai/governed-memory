@@ -1,0 +1,69 @@
+{
+  "sample_id": "chat_008",
+  "content_type": "chat_log",
+  "company": "CourseForge",
+  "industry": "EdTech",
+  "message_count_target": 52,
+  "actual_word_count": 577,
+  "expected_facts": [
+    {
+      "text": "They're dealing with data silos between engineering and sales teams",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 4 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "Rachel Reyes has been at CourseForge for 2 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with customer churn from slow support response times",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $600,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "CourseForge is a EdTech company with about 4821 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of IT",
+    "company_name": "CourseForge",
+    "company_size": "1000+",
+    "technology_stack": "Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "data silos between engineering and sales teams",
+      "customer churn from slow support response times"
+    ],
+    "deal_value": 600000,
+    "decision_maker": true,
+    "next_steps": "Set up POC environment for Rachel's team to evaluate",
+    "urgency_level": "Low"
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 2,
+    "duplicate_facts": 1
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@aisha.g"
+  ],
+  "property_coverage": 0.71
+}

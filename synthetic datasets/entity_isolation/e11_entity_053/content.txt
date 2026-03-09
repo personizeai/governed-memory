@@ -1,0 +1,16 @@
+### Account Overview
+Velvet Cloud is a PropTech company specializing in innovative real estate technology solutions, with approximately 325 employees and annual revenue of ~$183M. As a key prospect in the PropTech space, they are grappling with operational inefficiencies that hinder growth. Primary contact is Marcus Moreau, Director of IT (marcus.moreau@velvetcloud.com), who oversees their technical infrastructure and is actively evaluating solutions to modernize their stack and address cross-departmental challenges.
+
+### Key Details
+Velvet Cloud's current tech stack includes Go, Kubernetes, AWS, DynamoDB, and gRPC, reflecting a cloud-native, scalable architecture suited for high-volume PropTech applications. However, they face significant pain points: data silos between engineering and sales teams, difficulty hiring specialized engineers, fragmented tooling across departments, and a lack of real-time analytics for decision making. These issues are impeding agility in a competitive market where rivals like Chorus.ai and Microsoft Copilot are gaining traction with integrated AI-driven insights. Marcus Moreau has highlighted the need for unified platforms that bridge these gaps without disrupting their AWS-centric environment.
+
+### Deal Status
+This opportunity represents a high-value deal at $250,000, with a decision timeline targeted for Q3 2026. Initial discussions with Marcus have uncovered strong alignment with our solution's capabilities in real-time data integration and analytics, positioning us favorably against competitors. The prospect has progressed to the demo stage, with positive feedback on compatibility with their Go and Kubernetes workflows. No major roadblocks identified, though hiring constraints may influence procurement pace.
+
+### Next Steps
+- Schedule a technical deep-dive demo with Marcus Moreau by end of next week to showcase integrations with DynamoDB and gRPC.
+- Follow up on pain point validation via shared case studies from similar PropTech clients.
+- Prepare customized ROI analysis addressing data silos and real-time analytics, targeting delivery in 10 days.
+- Monitor for Q3 2026 budget confirmation and align internal resources for pilot proposal.
+
+(Word count: 348)

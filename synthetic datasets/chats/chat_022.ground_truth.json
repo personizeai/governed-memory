@@ -1,0 +1,75 @@
+{
+  "sample_id": "chat_022",
+  "content_type": "chat_log",
+  "company": "ShipGrid",
+  "industry": "Logistics",
+  "message_count_target": 52,
+  "actual_word_count": 754,
+  "expected_facts": [
+    {
+      "text": "They're dealing with customer churn from slow support response times",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Seattle",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+      "type": "explicit"
+    },
+    {
+      "text": "ShipGrid is a Logistics company with about 21 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Nadia Reyes has been at ShipGrid for 8 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Gong, building in-house, Chorus.ai",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with manual processes for customer onboarding",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Operations",
+    "company_name": "ShipGrid",
+    "company_size": "11-50",
+    "technology_stack": "Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "customer churn from slow support response times",
+      "manual processes for customer onboarding",
+      "poor developer experience slowing feature velocity",
+      "integration complexity with legacy systems"
+    ],
+    "decision_timeline": "2026-11-27",
+    "competitors_mentioned": [
+      "Gong",
+      "building in-house",
+      "Chorus.ai"
+    ],
+    "decision_maker": false,
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 5,
+    "temporal_issues": 2,
+    "duplicate_facts": 2
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@victor.c"
+  ],
+  "property_coverage": 0.71
+}

@@ -1,0 +1,71 @@
+{
+  "sample_id": "chat_007",
+  "content_type": "chat_log",
+  "company": "StreamOps",
+  "industry": "Digital Media",
+  "message_count_target": 60,
+  "actual_word_count": 753,
+  "expected_facts": [
+    {
+      "text": "Budget allocated is approximately $850,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q3",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with integration complexity with legacy systems",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "Priya Mueller has been at StreamOps for 3 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating custom internal tool, existing CRM workflows",
+      "type": "explicit"
+    },
+    {
+      "text": "StreamOps is a Digital Media company with about 169 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with data silos between engineering and sales teams",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Chief Revenue Officer",
+    "company_name": "StreamOps",
+    "company_size": "51-200",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "data silos between engineering and sales teams",
+      "integration complexity with legacy systems",
+      "high infrastructure costs eating into margins"
+    ],
+    "deal_value": 850000,
+    "competitors_mentioned": [
+      "custom internal tool",
+      "existing CRM workflows"
+    ],
+    "decision_maker": false
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 3,
+    "duplicate_facts": 1
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@maya.b"
+  ],
+  "property_coverage": 0.57
+}

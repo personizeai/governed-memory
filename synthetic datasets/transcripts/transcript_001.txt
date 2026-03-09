@@ -1,0 +1,138 @@
+---
+type: Contact
+record_id: crm-priya-techflow-inc
+email: priya@techflow.io
+website_url: https://techflow.io
+company: TechFlow Inc
+industry: B2B SaaS
+contact_name: Priya
+job_title: Head of Product
+---
+
+Alex: Hi Priya — thanks for taking the time today. How are you?
+
+Priya: Hi Alex, no problem. I'm doing well, thanks. A little hectic — end of quarter stuff — but good. How are you?
+
+Alex: Good, good. Busy as well. I appreciate you carving out an hour. I wanted to get into discovery and understand TechFlow's priorities, especially after the board meeting last month. Is now a good time?
+
+Priya: Yes, absolutely. We're at the discovery stage internally as well. Quick heads up: I'm Head of Product at TechFlow Inc, been here about four years, so I own product strategy but I'm not the final decision maker. We have to route procurement through finance and legal for sign-off.
+
+Alex: Great — that aligns with how we normally work. Just so I set expectations, our usual buying process is demo, security review, legal review, then sign-off from VP Finance. Is that roughly what you expect?
+
+Priya: Exactly — that's our standard procurement process. Demo, then security and legal, and ultimately it goes to the VP of Finance for sign-off. We do a security audit too — there's an audit coming up in Q2 — so security review will be front and center.
+
+Alex: Understood. Q2 security audit — we'll make sure to prioritize security materials. Before we dive into tech and security, could you tell me a bit about the biggest pains you're trying to solve right now?
+
+Priya: Sure. There are three things that keep me up at night right now. One: inconsistent messaging across the sales team. Two: security concerns with our current architecture. And three: data silos between engineering and sales teams that make it hard to act fast on feedback. Those are top of mind.
+
+Alex: Thanks — that helps. Can you expand on the inconsistent messaging? Is that CRM-related, training, or tooling?
+
+Priya: It's a mix. Our reps use different playbooks and different data sources. Some rely on a legacy Java application that one person maintains, some use spreadsheets, and others use ad-hoc tools. That leads to different positioning and inconsistent follow-up. We lost a major customer last quarter because onboarding fell through the cracks — that example really brought the problem into focus.
+
+Alex: Sorry to hear about the customer loss — that must have been painful.
+
+Priya: It was. We lost a seven-figure account, and it was a wake-up call. It wasn't a product failure, it was onboarding. The sequence of handoffs between sales, product, and engineering failed. It highlighted the data silos — engineering didn't get the right context from sales, and sales didn't have a single source of truth for implementation timelines.
+
+Alex: That makes sense. You said your legacy Java app is maintained by one person — is that in-house?
+
+Priya: Yes, it's in-house. It's a legacy Java monolith that was built years ago. One engineer has basically been the owner for the last five years, but they're overloaded. We are moving much of our stack to Rust and Actix for new services, with AWS hosting and PostgreSQL for our main data store, and NATS for messaging. So the ecosystem is a mix of legacy Java and modern components.
+
+Alex: Okay, the stack mix is helpful. Rust, Actix, AWS, PostgreSQL, NATS — got it. And the legacy system is a single point of failure, maintained by one person. That ties into your security concerns and reliability, I assume.
+
+Priya: Right. Security concerns are both architectural and operational. We have gaps in access control around that monolith; it's not cloud-native and doesn't integrate with our centralized IAM. The single-owner maintenance model worries us from an availability and risk perspective, and that was another reason the board pushed to reprioritize last month.
+
+Alex: You mentioned the board meeting shifted priorities. Can you share what changed?
+
+Priya: Sure. At the board meeting last month, the board emphasized revenue retention and operational resilience. They wanted us to stop adding features and focus on fixing churn risks. So priorities shifted to onboarding reliability, security hardening, and building repeatable go-to-market motions. They were pretty explicit that this was top priority for the next two quarters.
+
+Alex: Understood. So that means the product roadmap and procurement decisions need to align to those objectives.
+
+Priya: Exactly. We had a bit of a "do it all" roadmap before, and they wanted focus. Since that meeting, we've been reprioritizing milestones that reduce churn and shore up architecture. That also fed into a recent increase in IT budget — finance bumped our IT budget up by 40% this fiscal year to address these kinds of risks.
+
+Alex: That's a big increase. Good to know. We hear a lot of companies that have increased budgets but need to make sure the spend aligns with measurable outcomes. Just to confirm — IT budget increased by 40% this fiscal year?
+
+Priya: Yes, it was a 40% increase. We were granted extra capital to accelerate modernization and security work. And yes, to be clear, we've increased IT spend by forty percent this year to tackle exactly these things — security, hiring, and tooling.
+
+Alex: Great — you stated that twice, which is helpful. It tells me the funding is real and we should include cost/ROI in our POC metrics. On staffing, you mentioned the engineering team is growing. Any details there?
+
+Priya: We hired 19 engineers this quarter alone. We're scaling engineering — new hires are focused on Rust services, platform teams, and security. Even with the hires, onboarding complexity has increased, and the single-person maintenance problem with the legacy app remains a risk because knowledge hasn't been transferred.
+
+Alex: Hiring 19 people this quarter is significant. That could help capacity but also increases the need for standardization so you don't multiply the messaging and process problems.
+
+Priya: Exactly. More people means we need better shared tools and shared data. Right now sales uses Salesforce but we've also been evaluating Salesforce Einstein for AI-driven activity, ZoomInfo for data enrichment, and Outreach for sequence automation. We're exploring how those integrate with our internal systems.
+
+Alex: You're evaluating Einstein, ZoomInfo, and Outreach — are those direct competitors to what you're looking at, or complementary?
+
+Priya: Some are complementary, some overlap. Einstein would sit on top of our CRM for insights and forecasting; ZoomInfo is more about contact and company data; Outreach handles sequences and outreach automation. We're also evaluating solutions that can tie product usage and onboarding signals directly into the sales workflow so reps see where a customer is in onboarding and what needs to be done.
+
+Alex: Makes sense. For clarity, who else is involved in the evaluation? You mentioned you're not the decision maker.
+
+Priya: Right. I'm the head of product, so I drive the product and onboarding requirements. The stakeholders are sales ops, the VP of Sales, the VP of Customer Success, CTO for security and integration evaluation, and VP Finance for budget sign-off. Our procurement is standard: demo, security review, legal review, then VP Finance sign-off. I can shepherd the process but I'm not the final approver.
+
+Alex: Good to know. Decision timeline — do you have a target date for a vendor selection?
+
+Priya: We're aiming to make a decision by 2026-06-21. That's the day leadership expects a vendor selection or at least a go-forward plan for procurement. So, roughly mid-June.
+
+Alex: So the Decision Timeline is 2026-06-21. That gives us time to run a POC and go through security and legal. You mentioned a security audit in Q2 — would that block a POC if it's in flight?
+
+Priya: The audit will lift the bar; security will be much more detail-oriented. If we can provide encryption, SOC2 or similar evidence, and an architecture review, we can proceed concurrently. We just need to be responsive during the audit window because security will prioritize their efforts.
+
+Alex: Got it. We'll prepare SOC2 reports, detailed architecture docs, and a plan for integration with your IAM. We can also propose a POC environment that mirrors your stack — we can spin up connectors to AWS, PostgreSQL, and NATS if needed.
+
+Priya: That would be helpful. The engineering team would need a POC environment to evaluate. They like hands-on proof. Ideally, we get a POC sandbox that integrates with our Rust/Actix services or at least simulates the data streams via NATS. We can also provide a test Postgres instance.
+
+Alex: Next steps then would be to set up a POC environment for your team to evaluate. We'll scope a POC that lasts, say, four weeks and focuses on messaging standardization across sales, onboarding signal capture, and security posture. Does that timeline fit your decision timeline?
+
+Priya: Four weeks for a POC feels right. We need enough time for engineering to test integration and for sales to validate workflows. If the POC starts in late April or early May, we can have findings ready before mid-June.
+
+Alex: Sounds good. A quick question about the inconsistent messaging across sales team — what's currently generating the different messages? Is it different templates in the CRM, different tenure levels, or missing product positioning?
+
+Priya: It's everything combined. There are different templates, and compensation structures make some reps push certain features. Also, sales enablement hasn't kept pace. The content team hasn't fully aligned with product updates, so it's common to see mismatched positioning. That was part of what caused the onboarding failure — one rep promised a custom integration that engineering had not scoped.
+
+Alex: Okay, so misalignment and promises that engineering cannot keep. That also ties back to the board's shift toward operational resilience.
+
+Priya: Yes. They were pretty blunt in the board meeting — fix churn and make things reliable. He mentioned that the board expects us to deliver measurable improvements in customer success metrics. 
+
+Alex: He mentioned that... — who brought that up from the board, the chair or someone else? 
+
+Priya: The chair and our lead investor were vocal. They asked for clear metrics: reduce onboarding time by X, reduce churn by Y. So when we draft success criteria for the POC, we need to be specific about metrics: onboarding completion rates, time-to-value, and a reduction in failed handoffs.
+
+Alex: Understood. We'll map POC success criteria to those metrics. Regarding the legacy Java app, do you plan to rip and replace, or do a gradual migration?
+
+Priya: We'll do a gradual migration. The monolith does a bunch of things. Right now, the plan is to move new capabilities to Rust/Actix microservices while steadily decoupling critical modules. We need to make sure any vendor integrates cleanly with both the monolith and the modern services.
+
+Alex: That hybrid approach is common. We'll make sure the integration layer supports both. For security, what specific concerns worry you the most?
+
+Priya: At the top: access control and data separation. The monolith doesn't integrate with our centralized IAM and we don't have fine-grained audit logs for certain onboarding flows. There's also concern about data residency for a subset of customers. Additionally, we need to ensure vendor-supplied software doesn't introduce new vulnerabilities. A SOC2 report is table stakes, but we want architecture-level assurances.
+
+Alex: We can provide SOC2 Type II and a whitepaper on integration patterns with Rust and Actix-based services. We also have customers using NATS and Postgres with us, so we'll show reference architectures. We'll include details on audit logging, encryption at rest and in transit, and role-based access controls. Would that suffice for the security review?
+
+Priya: That would help. We also require penetration test results or a third-party risk assessment. The security team likes to see real test results or at least a clear path to performing one on the POC.
+
+Alex: We can schedule a pen test for the POC environment. And during the security audit in Q2, if they want to run anything specific, we can accommodate. By the way, where is your main office located?
+
+Priya: Our main office is in Denver. We have multiple offices, but Denver is the HQ.
+
+Alex: Denver — good to know. Any onsite requirements for implementation teams or is remote fine?
+
+Priya: Remote is fine for implementation. We prefer remote work for technical onboarding, but we may arrange an onsite steering session for key stakeholders if needed.
+
+Alex: Okay. Shifting gears a bit: you mentioned evaluating Salesforce Einstein, ZoomInfo, and Outreach. How does TechNova compare in your view?
+
+Priya: From what I've seen so far, Einstein is more of an analytics layer on CRM, ZoomInfo provides data enrichment, Outreach handles sequence automation. TechNova's angle seems to be tying product usage signals into sales and onboarding workflows, reducing the handoff friction and standardizing messaging. That’s appealing because it addresses the data silo problem directly, rather than being another point tool.
+
+Alex: That's our focus — unify product signals with sales workflows so reps get standardized, context-rich messaging. One of our customers reduced onboarding time by 30% after centralizing signals. We can try to model similar impacts for you.
+
+Priya: That would be compelling. We need proof points. Also, because we lost a major customer last quarter due to onboarding issues, the executive team is sensitive to any overpromises. We need to be careful with commitments.
+
+Alex: Absolutely. We'll be conservative in our POC commitment and tie success to measurable outcomes. On the legal side, any particular clauses that are deal-breakers for you? Data residency, indemnification, SLAs?
+
+Priya: Data residency for a subset of our customers is important. We have one enterprise customer who requires EU-only storage for certain records. We'll need the standard indemnities, SLA commitments around onboarding, and clear carve-outs if we are connecting to the monolith. Also, since the monolith is maintained by one person, we need guarantees about vendor support during migration.
+
+Alex: Fair points. We can include region-specific storage options and SLAs. We'll work with your legal team early. Can you introduce us to your procurement lead and the security contact as next steps?
+
+Priya: Yes, I'll put you in touch with our procurement manager, Nadia, and our security lead, Marco. Nadia handles contracts and procurement and Marco will want to run the architecture and risk review. He mentioned that he would like to see our threat model during the POC.
+
+Alex: He mentioned that... — okay, we'll make sure to produce a threat model and threat mitigation plan for the POC. Do you have any time constraints for the POC start date? You mentioned decision date of mid-June.
+
+Priya: Ideally, we start the POC in early May so we can finish and run a short internal

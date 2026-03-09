@@ -1,0 +1,125 @@
+[09:15] alex.m: Quick update on CareStack - just got off call with Jennifer Ito, their Head of Infrastructure. She's been there 1 year. Deal stage is qualification rn.
+
+[👍 from @sarah.k]
+
+[09:16] sarah.k: Nice! What's their tech stack look like?
+
+[09:17] alex.m: Go, Kubernetes, AWS, DynamoDB, gRPC. Pretty solid.
+
+[09:18] mike.r: Got it. Any pains?
+
+  ↳ [09:19] alex.m: Yeah, security concerns with current architecture. Also customer churn from slow support response times.
+
+[09:20] jennifer.a: Churn sucks. They mention integration complexity with legacy systems too?
+
+[09:21] alex.m: Yep, and lack of real-time analytics for decision making. Ngl, we're a good fit.
+
+[👍 from @mike.r]
+
+[09:22] sarah.k: Company size? [shared link: CareStack pricing page]
+
+[09:23] alex.m: Healthcare tech co, about 179 employees. 51-200 range.
+
+[09:24] mike.r: Engineering team growing? Hired 17 this quarter I heard.
+
+[09:25] alex.m: Spot on. Budget increased 12% this FY too. Fwiw.
+
+[09:26] jennifer.a: Who's Jennifer Ito again? She said they're evaluating others?
+
+[09:27] sarah.k: Competitors: Drift, Clari, Outreach. We need to differentiate.
+
+[09:28] mike.r: Timeline? Decision maker?
+
+[09:29] alex.m: Not decision maker. IT committee evaluates quarterly, next Q3 2026. Timeline 2026-05-27.
+
+[09:30] jennifer.a: That's forever out. Makes sense tho.
+
+[👍 from @alex.m]
+
+[09:31] @channel heads up on CareStack - qual stage, but pains align perfectly.
+
+[09:32] sarah.k: She mentioned security last week?
+
+[09:33] mike.r: Yeah tbh, they're worried about it. He said the same on the demo.
+
+[09:34] alex.m: Who, Ito? Anyway, budget boost helps.
+
+[09:35] jennifer.a: Engineering growth is key. 17 hires this quarter - repeat that intel?
+
+[09:36] sarah.k: Yep, Mike mentioned it earlier. They're scaling fast on AWS/K8s.
+
+[09:37] mike.r: Last Friday's notes confirm tech stack: Go, K8s, etc.
+
+[09:38] alex.l: Security concerns big - current arch is vulnerable imo.
+
+[09:39] jennifer.a: They? Got it.
+
+  ↳ [09:40] mike.r: CareStack. Churn from slow support killing them.
+
+[09:41] sarah.k: Outreach is their top comp rn?
+
+[09:42] alex.m: Maybe Drift too. Lmk if we loop in SE.
+
+[09:43] jennifer.a: Tomorrow's sprint we prioritize this?
+
+[09:44] mike.r: +1. Real-time analytics pain is low-hanging fruit.
+
+[👍 from @sarah.k]
+
+[09:45] sarah.k: Pricing page link above - they balked at cost?
+
+[09:46] alex.m: Nah, budget up 12% FY. She said it's fine.
+
+[09:47] jennifer.a: Who's "she"? Ito?
+
+[09:48] mike.r: Yeah. Not decision maker but influential.
+
+[09:49] sarah.k: Quarterly IT review next window Q3 2026. Patience game.
+
+[09:50] alex.m: @here - anyone have Drift battle cards?
+
+[09:51] jennifer.a: I do. Sharing now.
+
+[👍 from @mike.r]
+
+[09:52] mike.r: Customer churn data? Slow support responses main driver.
+
+[09:53] sarah.k: Yep, embed that in pitch.
+
+[09:54] alex.m: Tech stack repeat: Go, Kubernetes, AWS, DynamoDB, gRPC. We integrate seamless.
+
+[09:55] jennifer.a: Makes sense. Legacy integration complexity too.
+
+[09:56] mike.r: Ngl, Clari's analytics might compete on real-time.
+
+[09:57] sarah.k: We beat 'em on security. Fwiw.
+
+[09:58] alex.m: Engineering hired 17 this quarter - scaling pains.
+
+[09:59] jennifer.a: Got it. 179 employees, growing.
+
+[10:00] mike.r: Timeline locked 2026-05-27?
+
+[10:01] sarah.k: Per notes, yes.
+
+[👍 from @alex.m]
+
+[10:02] alex.m: Pain points summary: churn, security, integrations, analytics.
+
+[10:03] jennifer.a: Perfect. Qual call next week?
+
+[10:04] mike.r: Tomorrow?
+
+[10:05] sarah.k: Lmk schedule.
+
+[10:06] alex.m: Will do. Thx team.
+
+[👍 from @jennifer.a][👍 from @sarah.k]
+
+[10:07] jennifer.a: He mentioned budget increase again?
+
+[10:08] mike.r: Yeah, 12% this FY. Solid.
+
+[10:09] sarah.k: Company: CareStack, Head Infra Jennifer Ito 1yr.
+
+[10:10] alex.m: All good. Closing thread for now.

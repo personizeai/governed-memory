@@ -1,0 +1,30 @@
+Call with: Tom Thompson, VP of Engineering at ApiGrid  
+Date: February 25, 2026  
+Duration: 15 min  
+
+Key Points:  
+- Tom VP Eng @ ApiGrid (B2B SaaS, ~868 emp, 201-1000 sz)  
+- There 1 yr — still ramping teams  
+- Stack: TS, React, Node.js, GCP, MongoDB — def overlap w/ our tooling  
+- Pain 1: legacy sys integ complex — slowing deploys bad  
+- Pain 2: hiring spec engs tough — turnover high bc skills gap  
+- Budget alloc ~$850k — he's got it approved internally  
+- Deal stage: Negotiation  
+- Deal value: $850,000  
+- Timeline: 11/28/26 decision  
+- Decision maker: yes — owns eng buy-in  
+- He pushing Q2 pilot? Unclear but def interested  
+- Mentioned prob w/ current vendors — wants simpler API mgmt  
+- Our soln fits pains perf, esp hiring via faster onboarding  
+- He's looping in CTO next  
+
+Action Items:  
+- [ ] Send updated proposal w/ 850k pricing — me by EOD  
+- [ ] F/u on POC scope — Tom  
+- [ ] Schedule eng demo next week — me  
+- [ ] Conf timeline 11/28 — shared  
+
+Notes:  
+Quick intro call — Tom solid contact, decision maker confirmed. Went thru pains fast: legacy integ killing velocity (old mainframes clashing w/ Node/GCP stack), plus hiring crunch for TS/React pros in this mkt. Budget real, 850k ringfenced for API/grid tools. He's only 1 yr in so pushing changes hard, but teams resistant. Def alignment on our value prop bc reduces integ headaches 40% per case studies I cited. He wants to move but flagged internal review by EOQ — nudged for next week demo to unblock.  
+
+Closed strong on timeline — 11/28 hard close or lose FY budget. No red flags, just needs proposal tweaks for their Mongo scale. Follow up critical or he'll go dormant. Stage to Negotiation official post this. He's the guy, others follow.

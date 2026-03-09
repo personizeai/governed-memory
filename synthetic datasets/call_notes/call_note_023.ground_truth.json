@@ -1,0 +1,61 @@
+{
+  "sample_id": "call_note_023",
+  "content_type": "call_notes",
+  "company": "MediaForge",
+  "industry": "Digital Media",
+  "duration_minutes": 45,
+  "target_word_count": 697,
+  "actual_word_count": 209,
+  "expected_facts": [
+    {
+      "text": "MediaForge is a Digital Media company with about 45 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with scaling issues during peak traffic periods",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes TypeScript, React, Node.js, GCP, MongoDB",
+      "type": "explicit"
+    },
+    {
+      "text": "Emily Petrov has been at MediaForge for 7 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Intercom",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with customer churn from slow support response times",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $75,000",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "CTO",
+    "company_name": "MediaForge",
+    "company_size": "11-50",
+    "technology_stack": "TypeScript, React, Node.js, GCP, MongoDB",
+    "pain_points": [
+      "customer churn from slow support response times",
+      "scaling issues during peak traffic periods"
+    ],
+    "deal_value": 75000,
+    "decision_timeline": "2026-09-05",
+    "competitors_mentioned": [
+      "Intercom"
+    ],
+    "next_steps": "Emily to present internally and circle back next week",
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1
+  },
+  "property_coverage": 0.71
+}

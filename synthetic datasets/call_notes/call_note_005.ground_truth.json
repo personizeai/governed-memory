@@ -1,0 +1,50 @@
+{
+  "sample_id": "call_note_005",
+  "content_type": "call_notes",
+  "company": "CastPoint",
+  "industry": "Manufacturing",
+  "duration_minutes": 25,
+  "target_word_count": 600,
+  "actual_word_count": 366,
+  "expected_facts": [
+    {
+      "text": "They're dealing with lack of real-time analytics for decision making",
+      "type": "explicit"
+    },
+    {
+      "text": "Jennifer Hassan has been at CastPoint for 2 years",
+      "type": "explicit"
+    },
+    {
+      "text": "CastPoint is a Manufacturing company with about 98 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with scaling issues during peak traffic periods",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes PHP, Laravel, DigitalOcean, MySQL, Redis",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Engineering",
+    "company_name": "CastPoint",
+    "company_size": "51-200",
+    "technology_stack": "PHP, Laravel, DigitalOcean, MySQL, Redis",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "lack of real-time analytics for decision making",
+      "scaling issues during peak traffic periods"
+    ],
+    "deal_value": 600000,
+    "decision_timeline": "2026-11-25",
+    "urgency_level": "Low"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 2
+  },
+  "property_coverage": 0.64
+}

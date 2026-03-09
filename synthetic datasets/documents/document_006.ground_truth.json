@@ -1,0 +1,87 @@
+{
+  "sample_id": "document_006",
+  "content_type": "wiki_document",
+  "company": "RouteWise",
+  "industry": "Logistics",
+  "target_word_count": 2160,
+  "actual_word_count": 1243,
+  "expected_facts": [
+    {
+      "text": "Their main office is in Seattle",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating ZoomInfo, Intercom",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with data silos between engineering and sales teams",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $1,800,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Go, Kubernetes, AWS, DynamoDB, gRPC",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 23% this fiscal year",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with fragmented tooling across departments",
+      "type": "explicit"
+    },
+    {
+      "text": "RouteWise is a Logistics company with about 83 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q3",
+      "type": "explicit"
+    },
+    {
+      "text": "James Johnson has been at RouteWise for 4 years",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Engineering",
+    "company_name": "RouteWise",
+    "company_size": "51-200",
+    "technology_stack": "Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "fragmented tooling across departments",
+      "data silos between engineering and sales teams",
+      "poor developer experience slowing feature velocity"
+    ],
+    "deal_value": 1800000,
+    "decision_timeline": "2026-06-02",
+    "competitors_mentioned": [
+      "ZoomInfo",
+      "Intercom"
+    ],
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 1,
+    "temporal_issues": 2,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Lucia Mitchell",
+      "title": "VP of Sales",
+      "role": "Technical Evaluator"
+    },
+    {
+      "name": "Robert Johansson",
+      "title": "VP of Operations",
+      "role": "Budget Owner"
+    }
+  ],
+  "property_coverage": 0.71
+}

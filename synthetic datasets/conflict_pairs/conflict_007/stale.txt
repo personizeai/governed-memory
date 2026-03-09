@@ -1,0 +1,21 @@
+**Sales Call Note**  
+**Date:** December 14, 2025  
+**Contact:** Heather Nakamura, VP Engineering, Redwood Analytics (Digital Media)  
+**Duration:** 45 min | **Attendees:** Me, Heather N., Eng Lead Alex K.  
+
+Intro call focused on their platform's ad personalization stack. Heather highlighted pain points: legacy Hadoop cluster bottlenecks during peak traffic (up 300% YoY from streaming events), needing sub-100ms query latency for real-time bidding.  
+
+Strong alignment with our edge analytics engine—demoed quick-win dashboard integration via REST API. She noted competitor eval (Snowflake) fell short on cost for high-volume media logs.  
+
+**Key Update:** Confirmed Redwood targeting Q4 2026 for full deployment of upgraded infrastructure, post-Q3 pilots. Budget locked at $1.2M for core tools.  
+
+Heather excited about our ML ops toolkit for A/B testing ad variants; requested custom ROI calc based on their 50M DAU metric.  
+
+**Next Steps:**  
+- Send tailored proposal + ROI model by 12/18.  
+- Schedule technical deep-dive w/ their architects: Week of 1/6/26.  
+- Follow up on internal approval gates for Q1 contract.  
+
+High intent; Heather owns tech stack decision. Opportunity value: $750K ACV.  
+
+(Word count: 178)

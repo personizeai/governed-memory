@@ -1,0 +1,19 @@
+{
+  "entity_index": 83,
+  "name": "Keiko Alvarez",
+  "company": "Clover Solutions",
+  "industry": "Healthcare Tech",
+  "email": "keiko.alvarez@cloversolutions.com",
+  "title": "Director of Engineering",
+  "facts": [
+    "Keiko Alvarez is Director of Engineering at Clover Solutions",
+    "Clover Solutions is a Healthcare Tech company with 868 employees",
+    "Tech stack: C#, .NET, Azure, SQL Server, RabbitMQ",
+    "Deal value: $400,000",
+    "Pain points: difficulty measuring ROI on AI initiatives; poor visibility into pipeline health",
+    "Competitors: Intercom, Clari, Microsoft Copilot",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$131M"
+  ],
+  "actual_word_count": 333
+}

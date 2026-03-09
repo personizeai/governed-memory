@@ -1,0 +1,77 @@
+[09:15] @alex.m: @here quick update on LearnStack - just off call with Elena, their VP Eng. She's been there 7 years btw. Deal's in discovery, urgency medium.  
+[👍 from @sarah.k]  
+[09:17] @sarah.k: nice! what'd she say about pains?  
+[09:18]  ↳ @alex.m: integration complexity with legacy systems, and customer churn from slow support. Ngl sounds perfect for us.  
+[09:19] @mike.r: their stack? python fastapi aws lambda dynamodb sqs? we good there?  
+[09:20] @derek.g: yep matches what I saw on their site. EdTech co, 489 employees, 201-1000 range.  
+[09:21] @alex.m: they're evaluating 3 vendors incl us. Board meeting last month shifted priorities tho.  
+[09:22] @sarah.k: which priorities? she mention timeline?  
+[09:23]  ↳ @alex.m: decision by 2026-11-26. Makes sense post board.  
+[09:24] @mike.r: got it. legacy integration - they using old monoliths?  
+[09:25] @alex.m: yeah she said it's a nightmare tbh.  
+[09:26] [👍 from @derek.g]  
+[09:28] @sarah.k: churn from slow support? how bad?  
+[09:29]  ↳ @alex.m: bad enough they're losing customers. Heh.  
+[09:30] @derek.g: fwiw Elena's solid, 7 yrs tenure. Loyal type.  
+[09:31] @mike.r: imo we nail the demo on their stack. Lambda sqs etc.  
+[09:32] @alex.m: next steps: send pricing proposal to her by Friday. Lmk if I miss anything.  
+[09:33] @sarah.k: [shared link: LearnStack pricing page] wait that's ours? no their competitors?  
+[09:34]  ↳ @mike.r: ours lol. Check dynamodb compat.  
+[09:35] @derek.g: @channel let's align on proposal. Alex you drafting?  
+[09:36] @alex.m: yep on it.  
+[09:37] [👍 from @sarah.k] [👍 from @mike.r]  
+[09:39] @mike.r: they said board shifted to faster support tools?  
+[09:40] @sarah.k: unclear but yeah probs. She mention it?  
+[09:41]  ↳ @alex.m: she did, they're prioritizing now.  
+[09:42] @derek.g: stack repeat: python fastapi etc confirmed on call?  
+[09:43] @alex.m: yes twice over.  
+[09:45] @mike.r: cool. Tomorrow I can mock integration?  
+[09:46] @sarah.k: makes sense. Churn pain is key imo.  
+[09:47] @derek.g: got it. Urgency medium so no rush.  
+[09:49] @alex.m: legacy systems killing them he said.  
+[09:50] @mike.r: who said? Elena?  
+[09:51]  ↳ @alex.m: yeah her team.  
+[10:02] @sarah.k: last Friday they DMed about demo?  
+[10:03] @alex.m: yep that was Elena.  
+[10:05] @derek.g: evaluating 3 vendors - who else?  
+[10:06] @mike.r: she list them?  
+[10:07]  ↳ @alex.m: not specifics, but comps.  
+[10:08] @sarah.k: tbh our edge is sqs lambda fit.  
+[10:10] @alex.m: exactly. Proposal Friday key.  
+[👍 from @derek.g]  
+[10:12] @mike.r: pain repeat: support churn bad.  
+[10:13] @sarah.k: yeah she emphasized it.  
+[10:15] @derek.g: next sprint we prep full poc?  
+[10:16] @alex.m: sounds good. Lmk.  
+[10:18] @sarah.k: she say board meeting details?  
+[10:19]  ↳ @mike.r: last month shifted to edtech scale i think.  
+[10:20] @alex.m: 489 employees, growing pains.  
+[10:22] @derek.g: gotcha. Deal stage discovery locked.  
+[10:24] @mike.r: unclear on timeline - end of 26?  
+[10:25] @sarah.k: 2026-11-26 yes.  
+[10:27] @alex.m: pricing to Elena Friday. Who's helping?  
+[10:28] @derek.g: me and mike.  
+[👍 from @sarah.k]  
+[10:30] @mike.r: legacy integration - they on prem stuff?  
+[10:31] @alex.m: probs, she hinted.  
+[10:33] @sarah.k: churn from slow response - our slas fix that.  
+[10:35] @derek.g: fwiw stack matches perfect. Python etc.  
+[10:37] @alex.m: yeah repeated it to confirm.  
+[10:39] @mike.r: tomorrow morning mock?  
+[10:40] @sarah.k: yes pls.  
+[10:42] @derek.g: solid.  
+[10:44] @alex.m: she tenured 7 yrs, trusts us?  
+[10:45] @mike.r: building it.  
+[10:47]  ↳ @sarah.k: imo yes.  
+[10:49] @derek.g: @here proposal draft by EOD?  
+[10:50] @alex.m: onway.  
+[10:52] @sarah.k: link shared earlier good ref.  
+[👍 from @mike.r]  
+[10:54] @mike.r: board last month - they cut budget?  
+[10:55] @alex.m: nah shifted priorities.  
+[10:57] @derek.g: vendors 3 incl us - we #1?  
+[10:58] @sarah.k: she implied.  
+[11:00] @alex.m: urgency medium, play steady.  
+[11:02] [👍 from @derek.g]  
+[11:04] @mike.r: got it all.  
+[11:06] @sarah.k: makes sense. Friday send.

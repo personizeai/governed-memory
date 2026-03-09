@@ -1,0 +1,19 @@
+{
+  "entity_index": 13,
+  "name": "Brian Tanaka",
+  "company": "Clarity Insights",
+  "industry": "PropTech",
+  "email": "brian.tanaka@clarityinsights.com",
+  "title": "Chief Revenue Officer",
+  "facts": [
+    "Brian Tanaka is Chief Revenue Officer at Clarity Insights",
+    "Clarity Insights is a PropTech company with 174 employees",
+    "Tech stack: PHP, Laravel, DigitalOcean, MySQL, Redis",
+    "Deal value: $1,000,000",
+    "Pain points: vendor lock-in with current cloud provider; fragmented tooling across departments; security concerns with current architecture; difficulty hiring specialized engineers",
+    "Competitors: Apollo.io, Clari, Drift",
+    "Decision timeline: Q4 2026",
+    "Annual revenue: ~$250M"
+  ],
+  "actual_word_count": 366
+}

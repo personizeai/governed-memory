@@ -1,0 +1,19 @@
+{
+  "entity_index": 34,
+  "name": "Jennifer Anderson",
+  "company": "Quarry Digital",
+  "industry": "AgriTech",
+  "email": "jennifer.anderson@quarrydigital.com",
+  "title": "Director of IT",
+  "facts": [
+    "Jennifer Anderson is Director of IT at Quarry Digital",
+    "Quarry Digital is a AgriTech company with 729 employees",
+    "Tech stack: Java, Micronaut, GCP, Spanner, Pub/Sub",
+    "Deal value: $50,000",
+    "Pain points: inconsistent messaging across sales team; manual processes for customer onboarding; fragmented tooling across departments",
+    "Competitors: building in-house, Outreach, Apollo.io",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$282M"
+  ],
+  "actual_word_count": 284
+}

@@ -1,0 +1,91 @@
+{
+  "sample_id": "document_012",
+  "content_type": "wiki_document",
+  "company": "CartLogic",
+  "industry": "E-commerce",
+  "target_word_count": 1973,
+  "actual_word_count": 1318,
+  "expected_facts": [
+    {
+      "text": "They've also been evaluating Microsoft Copilot, existing CRM workflows, HubSpot AI",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with scaling issues during peak traffic periods",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+      "type": "explicit"
+    },
+    {
+      "text": "Lucia Ibrahim has been at CartLogic for 4 years",
+      "type": "explicit"
+    },
+    {
+      "text": "CartLogic is a E-commerce company with about 1272 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using internal Python scripts pulling from multiple APIs",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $350,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with inconsistent messaging across sales team",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Infrastructure",
+    "company_name": "CartLogic",
+    "company_size": "1000+",
+    "technology_stack": "Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "inconsistent messaging across sales team",
+      "scaling issues during peak traffic periods",
+      "vendor lock-in with current cloud provider"
+    ],
+    "deal_value": 350000,
+    "competitors_mentioned": [
+      "Microsoft Copilot",
+      "existing CRM workflows",
+      "HubSpot AI"
+    ],
+    "next_steps": "Send pricing proposal to Lucia by Friday",
+    "buying_process": "Can sign off directly up to $200K, board approval above that",
+    "current_solution": "internal Python scripts pulling from multiple APIs"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Brian Nakamura",
+      "title": "VP of Engineering",
+      "role": "Technical Evaluator"
+    },
+    {
+      "name": "Tom Dubois",
+      "title": "VP of Sales",
+      "role": "Budget Owner"
+    },
+    {
+      "name": "Emily Thompson",
+      "title": "Director of IT",
+      "role": "End User"
+    },
+    {
+      "name": "Marcus Costa",
+      "title": "Chief Product Officer",
+      "role": "Technical Evaluator"
+    }
+  ],
+  "property_coverage": 0.79
+}

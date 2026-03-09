@@ -1,0 +1,109 @@
+#deals-skillpulse
+
+[09:15] @alex.m: @channel quick update on SkillPulse - just moved to Negotiation stage. Tariq Xu (VP of Operations) is pushing it forward tbh
+
+[09:16] @sarah.k: nice! what's their timeline? lmk
+
+[09:17] @alex.m: Decision by 2026-05-24, their fiscal close I think
+
+[09:18]  ↳ @mike.r: that's forever away ngl
+
+[👍 from @sarah.k]
+
+[09:19] @daniel.a: yeah but EdTech moves slow. SkillPulse is Boston-based right? ~32 employees
+
+[09:20] @alex.m: yep main office Boston. Annual rev around $125M fwiw
+
+[09:21] @sarah.k: $125M with 32 people? damn efficient
+
+[09:22]  ↳ @mike.r: or they lied on the form lol. company size 11-50 matches
+
+[09:23] @daniel.a: Tariq's been there 6 years. solid contact imo
+
+[09:24] @alex.m: he mentioned they've been looking at custom internal tool and Microsoft Copilot as alts
+
+[09:25] @sarah.k: got it. so competitors are custom internal tool and Copilot?
+
+[09:26] @mike.r: yeah and their stack is Ruby on Rails, Heroku, Postgres, Sidekiq - we integrate great
+
+[09:27]  ↳ @alex.m: perfect for SE pitch
+
+[09:28] @daniel.a: what's the buying process? standard?
+
+[09:29] @alex.m: demo done, now security review then legal, sign-off from VP Finance
+
+[09:30] @sarah.k: she said security might drag - who was that again?
+
+[09:31]  ↳ @mike.r: their IT head? makes sense
+
+[09:32] @alex.m: [shared link: SkillPulse pricing page] - check this, they fit our enterprise tier easy
+
+[09:33] @daniel.a: 👍 saw it
+
+[09:34] @sarah.k: Tariq wants another call tomorrow to clarify pricing
+
+[09:35]  ↳ @daniel.a: tomorrow works? book it
+
+[09:36] @mike.r: their rev is $125M confirmed from last Friday's intel
+
+[09:37] @alex.m: yeah Daniel mentioned that earlier
+
+[09:38] @sarah.k: ngl Copilot integration worries him - Tariq I mean
+
+[09:39]  ↳ @mike.r: we beat it on Rails support imo
+
+[👍 from @alex.m]
+
+[09:40] @daniel.a: @here let's align on objections before tomorrow
+
+[09:41] @alex.m: got it. custom tool is their biggest fear rn
+
+[09:42] @sarah.k: he said they're scrapping the custom one tho
+
+[09:43]  ↳ @daniel.a: who he?
+
+[09:44] @mike.r: stack repeat: Ruby on Rails + Heroku etc, easy win
+
+[09:45] @alex.m: yeah Mike you nailed that earlier
+
+[09:46] @sarah.k: Boston office means East Coast legal delays probably
+
+[09:47] @daniel.a: true, but timeline is 2026-05-24 so buffer
+
+[09:48] @mike.r: VP Finance sign-off is key, she hates long reviews
+
+[09:49]  ↳ @sarah.k: who she? Tariq's boss?
+
+[09:50] @alex.m: makes sense. demo feedback was strong last week
+
+[09:51] @daniel.a: next sprint we push security docs
+
+[09:52] @sarah.k: lmk if need more on competitors
+
+[09:53] @mike.r: 👍
+
+[09:54] @alex.m: Tariq's 6 years there means he knows pain points
+
+[09:55]  ↳ @daniel.a: leverage that
+
+[09:56] @sarah.k: company size 11-50, perfect for us
+
+[09:57] @mike.r: yeah Sarah said 32 earlier
+
+[09:58] @daniel.a: they want POC? or straight to legal?
+
+[09:59]  ↳ @alex.m: straight, he confirmed
+
+[10:00] @sarah.k: unclear on that tbh - who confirmed?
+
+[10:01] @alex.m: got it, I'll ping Tariq
+
+[10:02] @daniel.a: solid plan
+
+[👍 from @mike.r]
+
+[10:03] @mike.r: Heroku migration help could seal it
+
+[10:04] @sarah.k: their EdTech focus aligns w our case studies
+
+[10:05] @alex.m: exactly. negotiation heat is on now

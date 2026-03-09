@@ -1,0 +1,97 @@
+{
+  "sample_id": "transcript_040",
+  "content_type": "meeting_transcript",
+  "company": "ClassGrid",
+  "industry": "EdTech",
+  "duration_minutes": 30,
+  "target_word_count": 2164,
+  "actual_word_count": 1457,
+  "expected_facts": [
+    {
+      "text": "Annual revenue is around $162M",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 4 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $600,000",
+      "type": "explicit"
+    },
+    {
+      "text": "ClassGrid is a EdTech company with about 280 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Jennifer Novak has been at ClassGrid for 1 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with vendor lock-in with current cloud provider",
+      "type": "explicit"
+    },
+    {
+      "text": "Jennifer reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q3",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with poor visibility into pipeline health",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 37% this fiscal year",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes C#, .NET, Azure, SQL Server, RabbitMQ",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Drift, existing CRM workflows",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Data",
+    "company_name": "ClassGrid",
+    "company_size": "201-1000",
+    "technology_stack": "C#, .NET, Azure, SQL Server, RabbitMQ",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "vendor lock-in with current cloud provider",
+      "poor visibility into pipeline health"
+    ],
+    "deal_value": 600000,
+    "competitors_mentioned": [
+      "Drift",
+      "existing CRM workflows"
+    ],
+    "decision_maker": false,
+    "next_steps": "Jennifer will share the RFP by end of week"
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 4,
+    "duplicate_facts": 2
+  },
+  "has_third_participant": true,
+  "property_coverage": 0.71,
+  "entity_id": "jennifer-classgrid",
+  "entity_email": "jennifer@classgrid.io",
+  "entity_website": "https://classgrid.io",
+  "contact_name": "Jennifer",
+  "record_id": "crm-jennifer-classgrid"
+}

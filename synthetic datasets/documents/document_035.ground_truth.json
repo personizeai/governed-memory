@@ -1,0 +1,101 @@
+{
+  "sample_id": "document_035",
+  "content_type": "wiki_document",
+  "company": "PharmaPipe",
+  "industry": "Healthcare Tech",
+  "target_word_count": 1803,
+  "actual_word_count": 1379,
+  "expected_facts": [
+    {
+      "text": "Currently using Salesforce with custom Apex triggers",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with fragmented tooling across departments",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Seattle",
+      "type": "explicit"
+    },
+    {
+      "text": "Keiko Singh has been at PharmaPipe for 6 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Java, Spring Boot, Azure, Oracle, Kafka",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $850,000",
+      "type": "explicit"
+    },
+    {
+      "text": "PharmaPipe is a Healthcare Tech company with about 36 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Chorus.ai, Intercom, Drift",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with customer churn from slow support response times",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Infrastructure",
+    "company_name": "PharmaPipe",
+    "company_size": "11-50",
+    "technology_stack": "Java, Spring Boot, Azure, Oracle, Kafka",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "fragmented tooling across departments",
+      "customer churn from slow support response times",
+      "manual processes for customer onboarding"
+    ],
+    "deal_value": 850000,
+    "decision_timeline": "2026-08-07",
+    "competitors_mentioned": [
+      "Chorus.ai",
+      "Intercom",
+      "Drift"
+    ],
+    "decision_maker": true,
+    "next_steps": "Schedule a technical deep-dive with Keiko's engineering team",
+    "current_solution": "Salesforce with custom Apex triggers",
+    "urgency_level": "High"
+  },
+  "planted_issues": {
+    "pronoun_issues": 1,
+    "temporal_issues": 1,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Elena Dubois",
+      "title": "VP of Customer Success",
+      "role": "Champion"
+    },
+    {
+      "name": "Marcus O'Brien",
+      "title": "VP of Customer Success",
+      "role": "Champion"
+    },
+    {
+      "name": "Derek Ito",
+      "title": "Head of Data",
+      "role": "End User"
+    },
+    {
+      "name": "Derek Petrov",
+      "title": "Director of Analytics",
+      "role": "Technical Evaluator"
+    }
+  ],
+  "property_coverage": 0.93
+}

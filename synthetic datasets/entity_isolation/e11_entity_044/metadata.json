@@ -1,0 +1,19 @@
+{
+  "entity_index": 44,
+  "name": "Daniel Novak",
+  "company": "Solstice AI",
+  "industry": "E-commerce",
+  "email": "daniel.novak@solsticeai.com",
+  "title": "Chief Revenue Officer",
+  "facts": [
+    "Daniel Novak is Chief Revenue Officer at Solstice AI",
+    "Solstice AI is a E-commerce company with 1768 employees",
+    "Tech stack: Rust, Actix, AWS, PostgreSQL, NATS",
+    "Deal value: $1,000,000",
+    "Pain points: poor visibility into pipeline health; slow deployment cycles taking 2-3 weeks per release",
+    "Competitors: Drift",
+    "Decision timeline: Q4 2026",
+    "Annual revenue: ~$159M"
+  ],
+  "actual_word_count": 299
+}

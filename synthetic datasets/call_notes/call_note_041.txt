@@ -1,0 +1,36 @@
+Call with: Brian Kaur, CTO at TechFlow Inc
+Date: February 06, 2026
+Duration: 15 min
+
+Key Points:
+- stack: Java/Micronaut/GCP/Spanner/PubSub
+- legacy Java app — solo maint by 1 dev
+- pains: poor DX slowing feat velocity
+- fragmented tooling x depts
+- eval'ing Intercom/Apollo.io/Drift
+- budg alloc ~1.2MM
+- 1000+ emp co
+- stage: negotiation
+- DM: Y
+- urgency: high
+- procure req 3 comp bids b4 decision
+- he's pushing Q2 close
+- knows stack inside out
+- hates maint burden
+- Drift too chatty, Apollo seq weak
+- Intercom pricey no ROI
+- our DX fits perf
+- he owns budget
+- team frustrated w/ tooling silos
+- feat ships 2x slower than comps
+
+Action Items:
+- [ ] send revised prop + ROI calc by EOW (me)
+- [ ] sched f/u demo next wk w/ eng leads (me)
+- [ ] share procure contacts for bid process (Brian)
+- [ ] loop in TAM on 3-bid req (me)
+
+Notes:
+Brian solid DM, been @ TechFlow 2yrs — gets pains def, esp legacy maint killing velocity w/ just 1 guy on it. Stack heavy Java/Micronaut on GCP, but fragmented tools across depts mean devs hate life, feat velocity tanked. High urgency, he's pushing hard for Q2 kickoff by EOQ to beat comps. Mentioned Intercom no-go on price, Apollo.io seq off, Drift fragmented like theirs. Our prop aligns perf w/ Spanner/PubSub integ. Procure strict — needs 3 bids, but budg 1.2MM locked, negotiation stage now. He's excited, wants me to f/u next wk on demo.
+
+Quick vibe: skeptical but sold on DX fix. He'll intro procure if prop tweaks land. 1000+ co scale means big win if we nail bids. No red flags, just hustle.

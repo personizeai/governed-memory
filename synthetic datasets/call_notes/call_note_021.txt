@@ -1,0 +1,41 @@
+Call with: Kevin Okonkwo, VP of Operations at BuildTech Corp
+Date: February 28, 2026
+Duration: 30 min
+
+Key Points:
+- BuildTech 1000+ emp, heavy on Go/K8s/AWS/DynamoDB/gRPC stack
+- Curr using MS Dynamics + Power Automate — clunky, no real integ
+- Pain1: poor vis into pipeline health, can't spot leaks early
+- Pain2: diff meas ROI on AI inits, esp w/ their stack
+- Eval'ing Chorus.ai, but likes our AI depth better re: pipeline AI
+- Kevin 5yrs @ BuildTech, knows ops inside out
+- Deal stage: Negotiation
+- Buying proc: fast-track <150K w/ direct VP appr — he's got it
+- Timeline: target 9/20/26 decision
+- He's pushing Q2 close hard
+- They want POC env up quick for team eval
+- Mentioned Dynamics flows breaking on gRPC calls
+- Pipeline health blind spots killing forecast acc
+- Chorus demo ok but no AWS native, ours fits perf
+- ROI calc demo landed well, wants custom for their AI pilots
+- Team size ops ~50, all in on K8s mig
+- No budget red flags, FY26 alloc'd
+- Competitor angle: Chorus pushy on pricing
+- Our edge: stack compat + vis dashboards
+- He grilled on integ time — said 2wks max
+- Pipeline prob: 20% leak last qtr unknown til late
+- AI ROI: spent 200k, no metrics tied to rev
+- Fast track if POC shines
+- Next week sync on POC scope
+
+Action Items:
+- [ ] Set up POC env for Kevin's team — me by next week
+- [ ] Send ROI calc sheet w/ Dynamics mig path — me EOD today
+- [ ] F/u call w/ Kevin by EOQ — schedule today
+- [ ] Loop eng on gRPC/DDB integ reqs — eng team Fri
+- [ ] Track Chorus intel — research by EOQ
+
+Notes:
+Called Kevin re: nego stage push. He's been at BuildTech 5yrs, def knows pains — poor pipeline vis killing them bc Dynamics/Power Automate no AI layer, stack (Go/K8s/AWS/DDB/gRPC) ignored. Evaluating Chorus.ai but frustrated w/ their vis gaps, no real ROI tie-in for AI spends. Pushed our POC next week, fast-track buy <150K his sign-off. He's pushing hard for Q2, team needs env asap to test pipeline health fixes. Demo'd ROI mod — lit up, but wants custom by EOQ.
+
+They got 1000+ headcount, ops scaling fast on AWS, but pipeline leaks 20% last qtr unseen til rev hit. He said "we're blind" — perfect our hook. No stalls, timeline 9/20/26 firm if POC kills. Chorus mentioned as alt but weak on stack fit, pricing aggro. I'll rush POC setup next week, he's greenlighting team access. Def momentum, watch competitors.

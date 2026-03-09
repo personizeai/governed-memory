@@ -1,0 +1,75 @@
+{
+  "sample_id": "chat_018",
+  "content_type": "chat_log",
+  "company": "FinStack Labs",
+  "industry": "Fintech",
+  "message_count_target": 40,
+  "actual_word_count": 508,
+  "expected_facts": [
+    {
+      "text": "FinStack Labs is a Fintech company with about 1936 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $850,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Marcus Johansson has been at FinStack Labs for 2 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Clari, HubSpot AI",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with fragmented tooling across departments",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with customer churn from slow support response times",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes TypeScript, React, Node.js, GCP, MongoDB",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using spreadsheets and manual data entry",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Data",
+    "company_name": "FinStack Labs",
+    "company_size": "1000+",
+    "technology_stack": "TypeScript, React, Node.js, GCP, MongoDB",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "fragmented tooling across departments",
+      "customer churn from slow support response times",
+      "technical debt from rapid early growth"
+    ],
+    "deal_value": 850000,
+    "decision_timeline": "2026-12-06",
+    "competitors_mentioned": [
+      "Clari",
+      "HubSpot AI"
+    ],
+    "decision_maker": false,
+    "current_solution": "spreadsheets and manual data entry",
+    "urgency_level": "High"
+  },
+  "planted_issues": {
+    "pronoun_issues": 5,
+    "temporal_issues": 3,
+    "duplicate_facts": 2
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@raj.h"
+  ],
+  "property_coverage": 0.86
+}

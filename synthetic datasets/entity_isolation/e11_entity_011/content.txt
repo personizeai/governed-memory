@@ -1,0 +1,29 @@
+### Account Overview
+Stratos AI is a prominent InsurTech company with 1119 employees and annual revenue of ~$219M. Led by James Dubois, Head of Product (james.dubois@stratosai.com), the firm specializes in AI-driven insurance solutions. Their tech stack includes Ruby on Rails, Heroku, PostgreSQL, and Sidekiq, supporting scalable operations in a competitive landscape. Key challenges include data silos between engineering and sales teams, manual processes for customer onboarding, difficulty measuring ROI on AI initiatives, and high infrastructure costs eating into margins. Competitors such as Microsoft Copilot and Gong are actively vying for similar solutions.
+
+### Key Details
+- **Primary Contact**: James Dubois, Head of Product at Stratos AI.
+- **Industry**: InsurTech.
+- **Company Size**: 1119 employees.
+- **Revenue**: ~$219M annually.
+- **Tech Stack**: Ruby on Rails (core framework), Heroku (hosting), PostgreSQL (database), Sidekiq (background jobs).
+- **Pain Points**:
+  - Data silos hindering collaboration between engineering and sales.
+  - Manual customer onboarding slowing time-to-value.
+  - Challenges in quantifying ROI for AI projects.
+  - Elevated infrastructure costs impacting profitability.
+- **Competitors**: Microsoft Copilot, Gong.
+
+James has expressed frustration with current tools not integrating seamlessly with their Rails/Heroku environment, leading to inefficiencies in AI deployment and analytics.
+
+### Deal Status
+Prospecting stage with high potential. Projected deal value: $1,000,000. Decision timeline: Q2 2026. James is evaluating solutions to address pain points, with initial demos scheduled. Competitive pressure from Microsoft Copilot and Gong positions us favorably due to our InsurTech-specific integrations and cost optimizations.
+
+### Next Steps
+- Schedule follow-up call with James Dubois by end of next week to demo ROI measurement features tailored to PostgreSQL/Sidekiq workflows.
+- Prepare customized proposal addressing data silos and onboarding automation, benchmarking against Gong.
+- Engage engineering lead for tech stack compatibility review.
+- Track infrastructure cost analysis to highlight margin improvements.
+- Set reminder for Q1 2026 check-in aligned with decision timeline.
+
+(Word count: 347)

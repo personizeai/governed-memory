@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_024",
+  "category": "urgency",
+  "company": "Cirrus Cloud",
+  "contact": "James Thompson",
+  "industry": "B2B SaaS",
+  "stale_date": "2025-11-07",
+  "fresh_date": "2026-01-21",
+  "stale_claim": "Cirrus Cloud described the initiative as low priority",
+  "fresh_claim": "Cirrus Cloud escalated the project to critical priority after a board review",
+  "expected_query": "How urgent is Cirrus Cloud's project?",
+  "expected_answer": "escalated the project to critical priority after a board review",
+  "stale_word_count": 185,
+  "fresh_word_count": 195
+}

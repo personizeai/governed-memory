@@ -1,0 +1,134 @@
+#deals-channelbridge
+
+[09:32] @alex.m: @here quick update from today's call with ChannelBridge. Yusuf Williams, VP Customer Success, super engaged. Deal stage qualification, value ~120k. [shared link: ChannelBridge pricing page]
+
+[👍 from @sarah.k]
+[👏 from @mike.r]
+
+[09:33] @sarah.k: Nice! What's their current setup? Legacy stuff?
+
+[09:34] @alex.m: Yeah, legacy Java app maintained by one person. Total bottleneck tbh.
+
+[09:34]  ↳ @mike.r: One person? That's risky af. Our stack fits perfect - RoR, Heroku, PG, Sidekiq.
+
+[09:35] @anita.e: Got it. Company size? 1000+?
+
+[09:36] @alex.m: E-commerce co, ~2671 employees. Matches our sweet spot.
+
+[09:37] @sarah.k: Budget allocated ~120k? Matches deal value.
+
+[09:37]  ↳ @alex.m: Spot on.
+
+[👍 from @anita.e]
+
+[09:38] @mike.r: Budget is approx $120,000 confirmed? Fwiw, that's solid for qual stage.
+
+[09:39] @alex.m: Yup, he said so. They've been eyeing ZoomInfo and existing CRM workflows too.
+
+[09:40] @sarah.k: Competitors make sense. But our integration with their tech stack wins imo.
+
+[09:41] @anita.e: Yusuf been at ChannelBridge 1 year? New blood?
+
+[09:42] @alex.m: Exactly 1 year. Decision maker for sure.
+
+[09:43] @mike.r: Makes sense. Next steps?
+
+[09:44] @alex.m: Yusuf will share RFP by end of week. Ngl, excited.
+
+[👍 from @sarah.k]
+
+[09:45] @sarah.k: Legacy Java by one guy - repeat that pain point in follow-up. They hate it.
+
+[09:46] @anita.e: She mentioned the maintainer is swamped? Who tf is she?
+
+[09:47] @alex.m: Idk, probably their ops lead. Anyway, they're replacing it soon.
+
+[09:48] @mike.r: Tech stack: Ruby on Rails, Heroku, PostgreSQL, Sidekiq. We align great.
+
+[09:49]  ↳ @sarah.k:  ↳ Ruby on Rails etc - perfect match. Pinged eng last Friday for compat check.
+
+[09:50] @anita.e: Last Friday's notes say ZoomInfo pricing too high. Thoughts?
+
+[09:51] @alex.m: Yeah, he said they're not interested anymore. Who is he? Yusuf obv.
+
+[09:52] @sarah.k: Lmk if we need to loop salesops. Current solution sucks.
+
+[09:53] @mike.r: 👍
+
+[09:54] @alex.m: Company size 1000+, e-comm giant basically.
+
+[09:55] @anita.e: Got it. Deal value 120000 locked?
+
+[09:56] @sarah.k: He wants demo tomorrow? Or next week?
+
+[09:57] @alex.m: Tomorrow too soon, aim for next sprint. He's sharing RFP EOW.
+
+[09:58] @mike.r: Existing CRM workflows are clunky per him.
+
+[09:59]  ↳ @anita.e:  ↳ Who is him? Need clarity lol.
+
+[10:00] @sarah.k: Tbh their stack screams for us: Heroku, Sidekiq etc.
+
+[10:01] @alex.m: Yusuf confirmed decision maker. No layers.
+
+[10:02] @anita.e: Budget ~120k repeated in call notes. Solid.
+
+[10:03] @mike.r: Legacy Java maintained by one person - huge red flag. Push that.
+
+[10:04] @sarah.k: Makes sense. Qual stage update in CRM?
+
+[10:05] @alex.m: On it now.
+
+[👍 from @mike.r]
+
+[10:06] @anita.e: They've evaluated ZoomInfo hard. Us vs them.
+
+[10:07] @sarah.k: Our pricing page shared - check it [shared link: ChannelBridge pricing page] wait nvm Alex did.
+
+[10:08] @mike.r: Next sprint demo aligns with RFP.
+
+[10:09] @alex.m: @channel anyone talk to ChannelBridge before? Echoes?
+
+[10:10] @anita.e: Nope, greenfield. Yusuf 1 year in, fresh eyes.
+
+[10:11] @sarah.k: She said tech stack is RoR heavy. Who she again?
+
+[10:12] @mike.r: Probably Yusuf's report. Anyway, PostgreSQL migration easy.
+
+[10:13] @alex.m: Budget 120k, competitors out. Winning.
+
+[10:14] @sarah.k: Got it. EOW RFP = hot deal.
+
+[10:15] @anita.e: Company: ChannelBridge, VP: Yusuf Williams. Notes synced.
+
+[👍 from @alex.m]
+
+[10:16] @mike.r: Current solution: legacy Java, one maintainer. Repeat in pitch.
+
+[10:17] @alex.m: Will do. Deal stage qual, moving fast.
+
+[10:18] @sarah.k: Tomorrow follow-up email?
+
+[10:19] @anita.e: Last Friday he emailed interest. Momentum.
+
+[10:20] @mike.r: ZoomInfo too enterprise, we're agile for 2671 emp size.
+
+[10:21] @alex.m: Exactly. Tech stack match seals it.
+
+[10:22] @sarah.k: 👍
+
+[10:23] @anita.e: Next steps clear: RFP end of week.
+
+[10:24] @mike.r: Fwiw, Heroku + Sidekiq = dream client.
+
+[10:25] @alex.m: Agreed. He's the DM, no bs.
+
+[10:26] @sarah.k: Legacy app dying, they know it.
+
+[10:27] @anita.e: Makes sense.
+
+[10:28] @alex.m: ChannelBridge deal looking prime. ~120k budget again for emphasis.
+
+[10:29] @mike.r: 💰
+
+[10:30] @sarah.k: Qualifying strong. Onward.

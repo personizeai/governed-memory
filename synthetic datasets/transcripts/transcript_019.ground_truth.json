@@ -1,0 +1,71 @@
+{
+  "sample_id": "transcript_019",
+  "content_type": "meeting_transcript",
+  "company": "BioSignal AI",
+  "industry": "Healthcare Tech",
+  "duration_minutes": 45,
+  "target_word_count": 2593,
+  "actual_word_count": 1428,
+  "expected_facts": [
+    {
+      "text": "Engineering team is growing \u2014 hired 16 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "Jennifer reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Rust, Actix, AWS, PostgreSQL, NATS",
+      "type": "explicit"
+    },
+    {
+      "text": "BioSignal AI is a Healthcare Tech company with about 32 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $14M",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating custom internal tool",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $120,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Jennifer Okonkwo has been at BioSignal AI for 1 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q2",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "CTO",
+    "company_name": "BioSignal AI",
+    "technology_stack": "Rust, Actix, AWS, PostgreSQL, NATS",
+    "deal_stage": "Proposal",
+    "deal_value": 120000,
+    "competitors_mentioned": [
+      "custom internal tool"
+    ],
+    "decision_maker": true,
+    "buying_process": "IT committee evaluates quarterly, next window is Q3 2026"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 3,
+    "duplicate_facts": 1
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.57,
+  "entity_id": "jennifer-biosignal-ai",
+  "entity_email": "jennifer@biosignalai.com",
+  "entity_website": "https://biosignalai.com",
+  "contact_name": "Jennifer",
+  "record_id": "crm-jennifer-biosignal-ai"
+}

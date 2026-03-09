@@ -1,0 +1,23 @@
+**Call Note: Follow-Up Sales Meeting**  
+**Date:** January 02, 2026  
+**Contact:** Rachel Novak, VP of Engineering, Solstice AI (E-commerce)  
+**Duration:** 30 minutes  
+**Attendees:** Rachel Novak, [Your Name]  
+
+Follow-up on prior discussions re: AI scalability solutions for e-commerce platform. Rachel provided key updates on their tech stack.  
+
+**Major Update:** Solstice AI has fully migrated their entire infrastructure to Google Cloud Platform (GCP), completed in late Q4 2025. This supersedes all previous information referencing AWS—migration driven by cost optimization (30% savings) and better integration with GCP's AI/ML services. They are now prioritizing vendors with native GCP compatibility for recommendation engines and personalization tools.  
+
+Other details:  
+- Current challenges: Handling 5x traffic spikes during Black Friday/Cyber Monday; legacy systems causing 2-3s latency in real-time recs.  
+- Budget: $750K approved for 2026 AI initiatives, with $300K earmarked for Q1 POC.  
+- Decision timeline: Vendor shortlist finalized by Jan 31; RFP expected mid-February. Rachel evaluating our solution vs. two competitors (Databricks, Vertex AI natives).  
+
+Expressed strong interest in our GCP-optimized demo. Action items:  
+- Send tailored GCP migration case study and POC proposal by Jan 10.  
+- Schedule technical deep-dive with their eng team for Jan 15.  
+- Internal: Loop in solutions architect for customization.  
+
+Opportunity heating up—Rachel rated us 8/10 fit post-migration alignment. Next call confirmed.  
+
+(Word count: 218)

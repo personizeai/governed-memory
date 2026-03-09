@@ -1,0 +1,52 @@
+{
+  "sample_id": "call_note_029",
+  "content_type": "call_notes",
+  "company": "MetalGrid",
+  "industry": "Manufacturing",
+  "duration_minutes": 20,
+  "target_word_count": 653,
+  "actual_word_count": 364,
+  "expected_facts": [
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "MetalGrid is a Manufacturing company with about 4614 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Tariq Lee has been at MetalGrid for 4 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes TypeScript, React, Node.js, GCP, MongoDB",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 10 people this quarter",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "CTO",
+    "company_name": "MetalGrid",
+    "company_size": "1000+",
+    "technology_stack": "TypeScript, React, Node.js, GCP, MongoDB",
+    "deal_stage": "Proposal",
+    "deal_value": 200000,
+    "decision_timeline": "2026-06-25",
+    "decision_maker": true,
+    "next_steps": "Send pricing proposal to Tariq by Friday",
+    "urgency_level": "Low"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 1
+  },
+  "property_coverage": 0.71
+}

@@ -1,0 +1,45 @@
+Call with: Victor Alvarez, Chief Revenue Officer at StreamOps
+Date: February 25, 2026
+Duration: 15 min
+
+Key Points:
+- Digital media co ~35 emp (11-50 size)
+- V 8yrs @ StreamOps
+- stack: Python FastAPI AWS Lambda DynamoDB SQS
+- poor dev exp slowing feature velocity bad
+- hard measuring ROI on AI inits
+- compliance audit fails on data handling
+- poor vis into pipeline health
+- evals: HubSpot AI MS Copilot custom internal tool
+- they're liking Copilot but ROI opaque
+- pains def hitting revenue goals
+- deal stage Discovery
+- 75k value
+- dec timeline 2026-07-12
+- urgency high — Q2 push
+- buying: CFO approval >100k (we're under prob ok)
+- he grilled on our ROI tracking vs comps
+- I walked thru our dev exp wins
+- they're bottlenecked on Lambda deploys
+- SQS queues backing up devs
+- wants metrics dashboard for AI ROI fast
+- pipeline blind spots killing forecast
+- audits failed last Q data policy breaches
+- custom tool flopped maint costs high
+- HubSpot AI too sales-only not eng
+- Copilot gen but no pipeline tie-in
+- he's pushing internal buy-in
+- high urgency bc EOQ pipeline short
+- demo our stack integ next
+- 75k fits budget sweet spot
+
+Action Items:
+- [ ] send ROI case studies + metrics deck (me) by EOD
+- [ ] sched demo w/ eng leads (me) next week
+- [ ] f/u on CFO loop if needed (Victor)
+- [ ] log pains in CRM update stage (me)
+
+Notes:
+Quick discovery call w/ Victor CRO. Probed pains — devs slow af on features bc poor exp, ROI on AI impossible to track, audits bombing data compliance, pipeline vis zero. He's 8yr vet pushing hard for Q2 wins, urgency high they're short EOQ. Stack py/fastapi/lambda/dd/sqs all over our sweet spot, evals hubspot ai/copilot/custom all meh no ROI punch.
+
+He said they're failing audits left/right, wants our tool for visibility + compliance bake-in. Under 100k no CFO yet prob, but he'll loop if scales. Def momentum, next week demo seals it. High intent, pipeline health pain acute. (312 words)

@@ -1,0 +1,40 @@
+# VaultEdge — Account Overview
+
+## Company Background
+VaultEdge is a fintech startup specializing in secure digital vault solutions for small to mid-sized financial institutions and lending platforms. With approximately 28 employees, the company focuses on providing encrypted storage and real-time analytics for sensitive financial data, enabling clients to streamline compliance and risk management processes. Founded in 2018 by two former bankers, ex-employees of a major Wall Street firm who grew frustrated with outdated legacy systems in the industry, VaultEdge quickly gained traction through its innovative approach to data security. The company's rapid early growth led to significant technical debt, as they scaled from a bootstrapped operation to serving over 50 clients within three years. Today, they operate in a competitive fintech landscape, battling data silos between their engineering and sales teams that hinder pipeline visibility and collaborative forecasting. This internal friction, compounded by challenges in hiring specialized engineers, has prompted them to seek modern tools for integration and observability.
+
+## Key Contacts
+| Name | Title | Role in Deal | Notes |
+|---|---|---|---|
+| Aisha Okonkwo | VP of Engineering | Primary Contact | With VaultEdge for 5 years; key decision maker driving technical evaluation |
+| Raj Garcia | Head of Infrastructure | Budget Owner | Oversees $50,000 allocated budget; focuses on migration feasibility |
+| Maria Wright | VP of Operations | Budget Owner | Champions cross-team visibility; reports directly to CEO |
+
+## Meeting History
+### Meeting 1: Discovery Call (February 19, 2026)
+In this initial 45-minute discovery call, the VaultEdge team outlined their core challenges, emphasizing data silos that separate engineering insights from sales pipeline data, resulting in poor visibility into overall health. Aisha Okonkwo led the discussion, sharing how their rapid growth over the past few years has accumulated technical debt, making it difficult to maintain momentum. They highlighted their current tech stack—Ruby on Rails for the core application, Heroku for hosting, PostgreSQL as the primary database, and Sidekiq for background jobs—and expressed urgency around planning a migration off these legacy systems by the end of the year. Raj Garcia chimed in on budget constraints, confirming an allocation of roughly $50,000 for solutions addressing these pain points. The call ended with alignment on scheduling a deeper technical review, and they mentioned casually evaluating alternatives like Chorus.ai for conversation intelligence.
+
+### Meeting 2: Technical Deep Dive (March 12, 2026)
+This two-hour session dove into specifics, with Aisha demonstrating live their Ruby on Rails backend struggling with data integration between teams. We explored how VaultEdge's Heroku deployment and PostgreSQL setup exacerbate silos, as sales lacks real-time access to engineering metrics on pipeline health. Maria Wright stressed the difficulty in hiring specialized engineers amid this technical debt from early rapid expansion, which has left their Sidekiq queues overburdened. The team appreciated our demo of seamless integration potential, noting it could accelerate their end-of-year migration from legacy components. Budget details resurfaced, with Raj reiterating the $50,000 cap, and they probed competitors—specifically Chorus.ai—for benchmarking call analytics against our observability features. Action items included sending a tailored proposal by mid-April, now just a few weeks away from today's date.
+
+## Technical Requirements
+- **Data Silo Resolution**: Need bidirectional integration to unify engineering telemetry (e.g., from Sidekiq job queues) with sales CRM data, eliminating silos that currently obscure pipeline health visibility.
+- **Tech Stack Compatibility**: Full support for Ruby on Rails applications hosted on Heroku, with native connectors to PostgreSQL databases and Sidekiq for real-time monitoring without refactoring.
+- **Migration Assistance**: Tools to facilitate a smooth transition off legacy systems by year-end, including automated schema mapping and zero-downtime deployment strategies tailored to their 28-employee fintech environment.
+- **Pipeline Visibility Enhancements**: Dashboards providing engineering-sales cross-team insights, addressing poor visibility into deal progression and forecasting accuracy.
+- **Hiring Friction Mitigation**: Features enabling non-specialist engineers to onboard quickly, countering difficulties in recruiting amid technical debt accumulated from rapid early growth.
+- **Scalability for Growth**: Handle current load of ~10k daily transactions while scaling to support fintech compliance reporting, with alerts on debt hotspots in RoR/Heroku stacks.
+- **Budget-Aligned Implementation**: Phased rollout within $50,000 envelope, prioritizing high-impact silo fixes first.
+
+## Deal Status
+The deal is currently in the Proposal stage, following the technical deep dive last month. We've submitted a customized proposal valued at $50,000, aligning precisely with their allocated budget for addressing data silos and technical debt. Decision timeline targets May 26, 2026—about six weeks from now—pending internal reviews by Aisha Okonkwo and the budget owners. No major blockers yet, though final sign-off from Maria Wright could introduce minor delays if sales team buy-in requires additional demos. Momentum is strong post-deep dive, where they reiterated enthusiasm for our stack fit over Chorus.ai, positioning us favorably for close by Q2 end.
+
+## Competitive Landscape
+VaultEdge is primarily evaluating Chorus.ai, drawn to its conversation intelligence for sales calls, but they've expressed reservations about its limited engineering integrations compared to our Rails/Heroku-native support. Internally, they've trialed a few other observability tools, but Chorus.ai remains the main threat due to its fintech case studies. No formal bake-offs mentioned, though Aisha noted last week they're "still kicking tires" on it versus our proposal. Our edge lies in holistic silo resolution, which Chorus.ai doesn't fully address for their PostgreSQL/Sidekiq setup.
+
+## Risk Factors
+- **Budget Reallocation**: With $50,000 precisely allocated, any fintech market shifts could redirect funds, especially as they plan legacy migration by December; this was echoed differently in meetings as "tight fiscal guardrails."
+- **Competitor Momentum**: Chorus.ai's strong sales intel focus might sway if they demo better for Maria's team, derailing our technical lead— they've been assessing it since the discovery call.
+- **Internal Hiring Delays**: Ongoing difficulty hiring specialized engineers amid technical debt could slow adoption, as "they" noted it hampers implementation bandwidth (pronoun ambiguity on whether it refers to VaultEdge or us). 
+
+*(Word count: 1987)*

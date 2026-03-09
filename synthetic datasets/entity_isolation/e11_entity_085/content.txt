@@ -1,0 +1,16 @@
+### Account Overview
+Felix Dubois serves as Director of IT at Lotus AI, a Manufacturing company with 2349 employees and approximately $75M in annual revenue. Lotus AI specializes in advanced production technologies, leveraging a modern tech stack including Python, FastAPI, AWS Lambda, DynamoDB, and SQS to drive operational efficiency. As a key prospect in the manufacturing sector, Lotus AI represents a high-value opportunity with significant potential for CRM integration to address their operational challenges. Felix is the primary point of contact (felix.dubois@lotusai.com) and has expressed interest in solutions that can unify their data infrastructure.
+
+### Key Details
+Lotus AI faces critical pain points, including data silos between engineering and sales teams, which hinder cross-functional collaboration, and customer churn driven by slow support response times. These issues are exacerbated by their current reliance on competitors like Clari and Salesforce Einstein, which have not fully resolved visibility gaps in their pipeline and customer engagement processes. Their AWS-centric stack positions them well for seamless integration with serverless architectures, but they need a robust CRM to bridge these silos and accelerate support workflows. Felix has highlighted the urgency of improving real-time data access to reduce churn and boost sales-engineering alignment.
+
+### Deal Status
+The prospective deal with Lotus AI carries an estimated value of $250,000, aligning with their scale and revenue profile. Discussions have progressed to the evaluation stage, with Felix confirming a decision timeline in Q2 2026. Initial demos have resonated, particularly around breaking down data silos and enhancing support responsiveness. Competitive displacement from Clari and Salesforce Einstein is feasible given our superior integration with their Python/FastAPI ecosystem and AWS services like Lambda, DynamoDB, and SQS. No major roadblocks identified; momentum is building.
+
+### Next Steps
+- Schedule follow-up demo with Felix Dubois by end of next week to showcase silo-breaking features tailored to engineering-sales workflows.
+- Prepare customized ROI analysis highlighting churn reduction potential (target: 20-30% improvement in support response times).
+- Engage Felix on pilot program proposal, aiming for Q4 2025 kickoff to align with Q2 2026 decision.
+- Monitor competitor activity and share battle cards vs. Clari/Salesforce Einstein.
+
+(Word count: 378)

@@ -1,0 +1,95 @@
+{
+  "sample_id": "document_015",
+  "content_type": "wiki_document",
+  "company": "AdStack",
+  "industry": "Digital Media",
+  "target_word_count": 2240,
+  "actual_word_count": 1477,
+  "expected_facts": [
+    {
+      "text": "They're dealing with customer churn from slow support response times",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Clari, Intercom, existing CRM workflows",
+      "type": "explicit"
+    },
+    {
+      "text": "David Santos has been at AdStack for 3 years",
+      "type": "explicit"
+    },
+    {
+      "text": "AdStack is a Digital Media company with about 493 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using spreadsheets and manual data entry",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with compliance audit failures on data handling",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Sales Engineering",
+    "company_name": "AdStack",
+    "company_size": "201-1000",
+    "technology_stack": "Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "compliance audit failures on data handling",
+      "customer churn from slow support response times",
+      "data silos between engineering and sales teams",
+      "high infrastructure costs eating into margins"
+    ],
+    "deal_value": 200000,
+    "decision_timeline": "2026-06-30",
+    "competitors_mentioned": [
+      "Clari",
+      "Intercom",
+      "existing CRM workflows"
+    ],
+    "decision_maker": true,
+    "next_steps": "David to present internally and circle back next week",
+    "buying_process": "Standard procurement: demo, security review, legal review, sign-off from VP Finance",
+    "current_solution": "spreadsheets and manual data entry",
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 1,
+    "temporal_issues": 2,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "David Anderson",
+      "title": "Director of Analytics",
+      "role": "Champion"
+    },
+    {
+      "name": "Fatima Park",
+      "title": "Director of Engineering",
+      "role": "End User"
+    },
+    {
+      "name": "Heather Kim",
+      "title": "Director of Analytics",
+      "role": "Budget Owner"
+    },
+    {
+      "name": "Tom Novak",
+      "title": "Chief Revenue Officer",
+      "role": "End User"
+    }
+  ],
+  "property_coverage": 1.0
+}

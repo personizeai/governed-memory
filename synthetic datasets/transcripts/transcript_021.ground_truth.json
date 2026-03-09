@@ -1,0 +1,77 @@
+{
+  "sample_id": "transcript_021",
+  "content_type": "meeting_transcript",
+  "company": "BuildTech Corp",
+  "industry": "Manufacturing",
+  "duration_minutes": 20,
+  "target_word_count": 1558,
+  "actual_word_count": 1408,
+  "expected_facts": [
+    {
+      "text": "BuildTech Corp is a Manufacturing company with about 99 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Tom Kim has been at BuildTech Corp for 6 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes TypeScript, React, Node.js, GCP, MongoDB",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 34% this fiscal year",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Drift, Outreach, ZoomInfo",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $50,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with security concerns with current architecture",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with vendor lock-in with current cloud provider",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Marketing",
+    "company_name": "BuildTech Corp",
+    "company_size": "51-200",
+    "technology_stack": "TypeScript, React, Node.js, GCP, MongoDB",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "security concerns with current architecture",
+      "vendor lock-in with current cloud provider",
+      "manual processes for customer onboarding",
+      "lack of real-time analytics for decision making"
+    ],
+    "deal_value": 50000,
+    "decision_timeline": "2026-05-07",
+    "competitors_mentioned": [
+      "Drift",
+      "Outreach",
+      "ZoomInfo"
+    ],
+    "next_steps": "Tom to present internally and circle back next week",
+    "buying_process": "Can sign off directly up to $200K, board approval above that"
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 3,
+    "duplicate_facts": 2
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.79,
+  "entity_id": "tom-buildtech-corp",
+  "entity_email": "tom@buildtech.com",
+  "entity_website": "https://buildtech.com",
+  "contact_name": "Tom",
+  "record_id": "crm-tom-buildtech-corp"
+}

@@ -1,0 +1,51 @@
+# StreamOps — Account Overview
+
+## Company Background
+StreamOps is a prominent digital media company headquartered in its main office in Chicago, employing about 2811 people across its operations. Specializing in content streaming, live event broadcasting, and digital advertising platforms, the company delivers scalable media solutions to broadcasters, entertainment networks, and online publishers worldwide. Founded in 2015 by a group of former executives from a major cable network who identified gaps in real-time data processing for live streams, StreamOps quickly scaled from a startup garage operation to a mid-sized enterprise by leveraging innovative cloud-native architectures. Today, with a workforce exceeding 1000 employees—specifically around 2811—their engineering team is in a growth phase, having hired 12 new developers just this quarter to support expansion. Their technology stack heavily features Java and Spring Boot for backend services, Azure for cloud infrastructure, Oracle databases for enterprise data management, and Kafka for high-throughput event streaming, which aligns well with our platform's capabilities. As they plan a full migration off legacy on-premises systems by the end of 2026, StreamOps is positioning itself to handle increasing demands from 5G-enabled live events and personalized content delivery.
+
+## Key Contacts
+| Name | Title | Role in Deal |
+|---|---|---|
+| Nadia Lee | CTO | Primary Contact & Decision Maker (Reports directly to CEO; 1 year tenure at StreamOps) |
+| Yusuf Anderson | VP of Operations | End User (Oversees daily ops and will champion internal adoption) |
+| Maya Hassan | CISO | Technical Evaluator (Leads security and compliance reviews; note: not CTO as initially listed) |
+
+Nadia Lee stands out as the key decision maker, given her direct reporting line to the CEO and her relatively fresh perspective after just one year at the company, bringing external expertise from prior roles in media tech.
+
+## Meeting History
+### Meeting 1: Discovery Call (February 19, 2026)
+The initial discovery call with Nadia Lee and Yusuf Anderson lasted 45 minutes and focused on uncovering StreamOps' pain points with their current legacy systems, particularly around real-time data ingestion and scalability during peak live events. Nadia outlined their upcoming migration plans off outdated on-premises infrastructure by year's end, emphasizing the need for seamless integration with their existing Java/Spring Boot applications and Kafka pipelines. Yusuf highlighted operational bottlenecks in their Chicago headquarters, where the ops team struggles with delayed analytics from Oracle databases hosted on Azure. They expressed interest in our platform's event-driven architecture, and we positioned it as a drop-in replacement that could accelerate their workflows. Nadia confirmed a $200,000 budget allocation for this initiative and shared that she's evaluating options rigorously, including us as one of two primary vendors. Action items included scheduling a technical deep dive and sharing initial architecture diagrams; they followed up promptly last week with their current tech stack details.
+
+### Meeting 2: Technical Deep Dive (March 4, 2026)
+This 90-minute session involved Nadia, Maya Hassan (as the technical evaluator), and two engineers from StreamOps' growing team—which recently added 12 hires this quarter. We conducted a live demo tailored to their stack: Java/Spring Boot microservices consuming Kafka streams on Azure, querying Oracle for customer data during simulated live broadcasts. Maya grilled us on security postures, compliance with SOC 2 and GDPR for media content, and failover scenarios, while Nadia probed integration timelines for their end-of-year legacy migration. They were impressed by our low-latency processing but raised concerns about custom tooling they currently use. Yusuf jumped in midway, stressing end-user simplicity for ops teams handling Chicago-based live ops. We addressed all queries, committed to a proof-of-concept (PoC) environment by mid-March, and aligned on next steps: security review kickoff. Nadia reiterated her direct line to the CEO for fast-tracking approvals, and they appreciated the session's depth—it built strong momentum, though she noted their evaluation of Intercom as a competitor.
+
+## Technical Requirements
+StreamOps has outlined clear needs tied to their digital media workflows, migration goals, and tech stack. Key requirements include:
+- **Real-time Event Streaming**: Must ingest and process high-volume Kafka streams from live events with sub-100ms latency, integrating natively with Java/Spring Boot services deployed on Azure.
+- **Database Compatibility**: Seamless querying and syncing with Oracle databases for user analytics and content metadata, supporting hybrid cloud/on-prem setups during their end-of-year legacy migration.
+- **Scalability for Growth**: Horizontal scaling to handle traffic spikes (e.g., 10x during major broadcasts), accommodating their engineering team's recent expansion of 12 hires this quarter.
+- **Security and Compliance**: SOC 2 Type II, GDPR compliance, role-based access controls (RBAC), and audit logs for media IP protection; must pass Maya's rigorous technical evaluation.
+- **UI/UX for Ops Teams**: Intuitive dashboards for non-technical end users like Yusuf's operations group in Chicago, with alerting on stream anomalies and one-click troubleshooting.
+- **Migration Support**: Tools for zero-downtime cutover from legacy systems, including data replay from Kafka topics and schema evolution for Oracle schemas.
+- **API-First Integration**: RESTful and gRPC endpoints compatible with their microservices architecture, plus webhooks for CRM workflows.
+- **Monitoring and Observability**: Built-in metrics export to Azure Monitor, with SLO tracking for 99.99% uptime on streaming pipelines.
+- **Cost Predictability**: Usage-based pricing capped at their ~$200,000 annual budget, with reserved capacity options for predictable media seasons.
+- **Custom Extensibility**: Plugins or SDKs allowing extensions to their internal custom tools without vendor lock-in.
+
+These align closely with our core strengths, positioning us favorably against alternatives.
+
+## Deal Status
+StreamOps account is currently in the **Qualification** deal stage, with an estimated value of $200,000 annually. We've progressed through discovery and technical deep dive, with Nadia Lee (confirmed decision maker reporting directly to the CEO) driving momentum toward a PoC. The buying process follows standard procurement: post-demo security review led by Maya Hassan, followed by legal review, and final sign-off from the VP of Finance. Decision timeline targets April 23, 2026, aligning with their aggressive end-of-year legacy migration. Budget is firmly allocated at approximately $200,000, earmarked from engineering expansion funds after hiring 12 team members this quarter. No major blockers yet, but we must deliver the PoC flawlessly to advance; internal CRM notes indicate high champion status with Nadia, who has only been at StreamOps for one year but wields significant influence. Next milestone: security review initiation by March 15. Overall, positive trajectory with 70% close probability if we nail integration demos.
+
+## Competitive Landscape
+StreamOps is evaluating a mix of established vendors and in-house solutions, but they've narrowed to two primary vendors including us:
+- **Intercom**: Strong in customer messaging and basic analytics, but lacks depth in Kafka-scale event streaming or Oracle integration; Nadia views it as a "quick win" for UI but insufficient for their media-scale ops.
+- **Existing CRM Workflows**: They're patching together Salesforce/Zendesk with custom scripts on Azure, which works for basic ticketing but chokes on real-time streams—driving their migration urgency.
+- **Custom Internal Tool**: Homegrown Java/Spring Boot app handling some Kafka processing, but it's unmaintainable post-12 recent hires and won't scale for Chicago HQ's live events; seen as a stopgap.
+
+Our edge lies in full-stack alignment with their tech (Java, Spring Boot, Azure, Oracle, Kafka) and migration tooling, which competitors can't match without heavy customization. They've deprioritized the custom tool internally.
+
+## Risk Factors
+- **Procurement Delays**: Standard process (demo, security, legal, VP Finance sign-off) could stretch past the April 23, 2026 timeline if Maya's technical evaluation uncovers integration gaps with their Oracle/Kafka setup—mitigate via early PoC.
+- **Competitor Incursion**: While down to two vendors (us + Intercom), their existing CRM workflows provide inertia; Nadia mentioned last week they're still tweaking the custom tool, which could buy time for rivals if our PoC slips.
+- **Internal Bandwidth**: Engineering growth (12 hires this quarter) is positive but creates short-term distractions during migration planning; unclear pronoun references in their follow-ups (e.g., "they need it faster") suggest competing priorities that could derail focus—address via executive sponsor engagement with CEO via Nadia.

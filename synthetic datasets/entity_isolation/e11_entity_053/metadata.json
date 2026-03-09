@@ -1,0 +1,19 @@
+{
+  "entity_index": 53,
+  "name": "Marcus Moreau",
+  "company": "Velvet Cloud",
+  "industry": "PropTech",
+  "email": "marcus.moreau@velvetcloud.com",
+  "title": "Director of IT",
+  "facts": [
+    "Marcus Moreau is Director of IT at Velvet Cloud",
+    "Velvet Cloud is a PropTech company with 325 employees",
+    "Tech stack: Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "Deal value: $250,000",
+    "Pain points: data silos between engineering and sales teams; difficulty hiring specialized engineers; fragmented tooling across departments; lack of real-time analytics for decision making",
+    "Competitors: Chorus.ai, Microsoft Copilot",
+    "Decision timeline: Q3 2026",
+    "Annual revenue: ~$183M"
+  ],
+  "actual_word_count": 309
+}

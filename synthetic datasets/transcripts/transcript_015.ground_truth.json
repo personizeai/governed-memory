@@ -1,0 +1,80 @@
+{
+  "sample_id": "transcript_015",
+  "content_type": "meeting_transcript",
+  "company": "AdStack",
+  "industry": "Digital Media",
+  "duration_minutes": 60,
+  "target_word_count": 4352,
+  "actual_word_count": 2732,
+  "expected_facts": [
+    {
+      "text": "Budget allocated is approximately $850,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with fragmented tooling across departments",
+      "type": "explicit"
+    },
+    {
+      "text": "David Novak has been at AdStack for 8 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Boston",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $156M",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with manual processes for customer onboarding",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Java, Micronaut, GCP, Spanner, Pub/Sub",
+      "type": "explicit"
+    },
+    {
+      "text": "AdStack is a Digital Media company with about 27 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "David reports to the CEO directly",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "CTO",
+    "company_name": "AdStack",
+    "company_size": "11-50",
+    "technology_stack": "Java, Micronaut, GCP, Spanner, Pub/Sub",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "fragmented tooling across departments",
+      "manual processes for customer onboarding",
+      "poor developer experience slowing feature velocity",
+      "difficulty hiring specialized engineers"
+    ],
+    "deal_value": 850000,
+    "decision_maker": false,
+    "next_steps": "Send pricing proposal to David by Friday",
+    "urgency_level": "Critical"
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 3,
+    "duplicate_facts": 1
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.71,
+  "entity_id": "david-adstack",
+  "entity_email": "david@adstack.io",
+  "entity_website": "https://adstack.io",
+  "contact_name": "David",
+  "record_id": "crm-david-adstack"
+}

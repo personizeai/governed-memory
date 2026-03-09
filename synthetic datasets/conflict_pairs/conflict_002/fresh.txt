@@ -1,0 +1,21 @@
+**Follow-up Call Note**  
+**Date:** January 20, 2026  
+**Contact:** Brian Moreau, VP Engineering, Forge Platform (Fintech)  
+**Call Duration:** 45 mins  
+**Rep:** [Your Name]  
+
+Met with Brian to review progress on our proposed integration solution. Key **UPDATE**: Forge Platform has fully migrated infrastructure to Google Cloud, superseding prior AWS setup. This change accelerates their scalability needs but introduces new optimization challenges around cost management and multi-region latency.  
+
+Brian shared:  
+- Q1 growth targeting 3x transaction volume; prioritizing tools for real-time analytics and compliance (SOC2/PCI).  
+- Budget approved at $750K for H1 infra enhancements; decision timeline end of Feb.  
+- Pain point: Current monitoring fragmented post-migration; open to PoC our AI-driven observability suite.  
+
+Demo interest high—Brian confirmed fit for GCP-native features. Action items:  
+- Send tailored GCP migration case study by EOD Fri.  
+- Schedule technical deep-dive with their DevOps lead next week (proposed Feb 3).  
+- Follow up on RFP status.  
+
+Strong signals; prospect warming. Next call locked.  
+
+(198 words)

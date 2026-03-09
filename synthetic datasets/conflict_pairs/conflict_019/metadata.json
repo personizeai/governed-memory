@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_019",
+  "category": "deal_stage",
+  "company": "Aether IO",
+  "contact": "Keiko Volkov",
+  "industry": "Manufacturing",
+  "stale_date": "2025-06-20",
+  "fresh_date": "2026-02-16",
+  "stale_claim": "Aether IO is in the Discovery phase of the sales process",
+  "fresh_claim": "Aether IO has moved to the Proposal stage",
+  "expected_query": "What deal stage is Aether IO at?",
+  "expected_answer": "has moved to the Proposal stage",
+  "stale_word_count": 176,
+  "fresh_word_count": 185
+}

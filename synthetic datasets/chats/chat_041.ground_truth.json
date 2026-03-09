@@ -1,0 +1,61 @@
+{
+  "sample_id": "chat_041",
+  "content_type": "chat_log",
+  "company": "TechFlow Inc",
+  "industry": "B2B SaaS",
+  "message_count_target": 55,
+  "actual_word_count": 748,
+  "expected_facts": [
+    {
+      "text": "Currently using legacy Java application maintained by one person",
+      "type": "explicit"
+    },
+    {
+      "text": "Elena Chen has been at TechFlow Inc for 1 years",
+      "type": "explicit"
+    },
+    {
+      "text": "TechFlow Inc is a B2B SaaS company with about 2684 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with difficulty hiring specialized engineers",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $1,200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Rust, Actix, AWS, PostgreSQL, NATS",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Data",
+    "company_name": "TechFlow Inc",
+    "company_size": "1000+",
+    "technology_stack": "Rust, Actix, AWS, PostgreSQL, NATS",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "slow deployment cycles taking 2-3 weeks per release",
+      "difficulty hiring specialized engineers"
+    ],
+    "deal_value": 1200000,
+    "decision_timeline": "2026-04-18",
+    "decision_maker": true,
+    "current_solution": "legacy Java application maintained by one person"
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 2,
+    "duplicate_facts": 1
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@jennifer.g"
+  ],
+  "property_coverage": 0.71
+}

@@ -1,0 +1,19 @@
+**Call Note: Sales Meeting w/ Chen Costa**  
+**Date:** July 12, 2025  
+**Contact:** Chen Costa, VP Engineering, Summit Computing (EdTech)  
+**Duration:** 45 mins (Zoom)  
+
+Intro call focused on our AI-driven analytics platform for EdTech scalability. Chen provided strong intro: Summit Computing raised $20M Series A in June 2025 from LeadEdge Capital and EdTech Ventures, earmarking $8M for engineering hires and infra upgrades.  
+
+Key discussion points:  
+- Current pain: Legacy systems struggling with 500K+ user spikes during peak learning seasons; need real-time data processing for personalized lesson adaptation.  
+- Fit for us: High interest in our low-latency API for integrating student performance metrics into their core platform. Reviewed demo; Chen noted it outperforms their eval of BrightBytes by 30% in query speed.  
+- Timeline: POC kickoff targeted for late Aug; decision by Q4, aligned with Series A runway. Budget: $250K initial commitment possible.  
+- Team: Chen to loop in CTO Priya Singh and Product Lead Alex Rivera for deeper tech review.  
+
+Next steps:  
+- Send customized POC proposal + pricing tiers by 7/18.  
+- Schedule follow-up demo w/ full team on 8/5.  
+- Nurture via case study on similar EdTech win (LearnerLabs).  
+
+Opportunity heating up post-funding; high intent signals. Update stage to "Qualified." (198 words)

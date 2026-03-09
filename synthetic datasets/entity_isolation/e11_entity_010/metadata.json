@@ -1,0 +1,19 @@
+{
+  "entity_index": 10,
+  "name": "Anita Anderson",
+  "company": "Quantum Bridge",
+  "industry": "CleanTech",
+  "email": "anita.anderson@quantumbridge.com",
+  "title": "Director of Sales Engineering",
+  "facts": [
+    "Anita Anderson is Director of Sales Engineering at Quantum Bridge",
+    "Quantum Bridge is a CleanTech company with 2127 employees",
+    "Tech stack: Java, Spring Boot, Azure, Oracle, Kafka",
+    "Deal value: $1,000,000",
+    "Pain points: inconsistent messaging across sales team; security concerns with current architecture; customer churn from slow support response times; lack of real-time analytics for decision making",
+    "Competitors: Intercom, HubSpot AI",
+    "Decision timeline: Q4 2026",
+    "Annual revenue: ~$50M"
+  ],
+  "actual_word_count": 319
+}

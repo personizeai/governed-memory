@@ -1,0 +1,21 @@
+**Call Note: Follow-up Sales Meeting**  
+**Date:** February 09, 2026  
+**Contact:** Anita Volkov, VP of Engineering, Drift Analytics (Digital Media)  
+**Duration:** 45 min | **Called by:** [Your Name], AE  
+
+Follow-up on Q1 sales automation RFP. Anita provided key updates on their tech stack.  
+
+**CRITICAL UPDATE:** Drift Analytics has fully replaced their custom-built CRM with Pipedrive (implemented Jan 2026). This supersedes all previous intel on custom CRM reliance—migration complete, no rollback planned. Pipedrive now handles core pipelines, but lacks advanced media-specific forecasting they need.  
+
+Discussed pain points: Current setup struggles with multi-channel attribution for ad campaigns (e.g., CTV + social). They're at 80% coverage but losing 15% revenue to manual reconciliation. Budget approved: $150K for Q2 add-ons.  
+
+Expressed strong interest in our Forecasting Pro module—demo requested for integration with Pipedrive API. Competitor check: Dismissed HubSpot (too bloated for their 50-person eng team).  
+
+**Next Steps:**  
+- Send tailored demo link + ROI calc (by Feb 12).  
+- Schedule exec intro with their CRO (tentative Feb 16).  
+- Flag as hot lead—migration timing aligns perfectly.  
+
+Opportunity value est. $120K ARR. High intent. Follow up EOD tomorrow.  
+
+(Word count: 198)

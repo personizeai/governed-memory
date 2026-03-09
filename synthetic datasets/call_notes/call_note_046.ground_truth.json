@@ -1,0 +1,58 @@
+{
+  "sample_id": "call_note_046",
+  "content_type": "call_notes",
+  "company": "RouteWise",
+  "industry": "Logistics",
+  "duration_minutes": 45,
+  "target_word_count": 417,
+  "actual_word_count": 322,
+  "expected_facts": [
+    {
+      "text": "They're dealing with difficulty hiring specialized engineers",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using legacy Java application maintained by one person",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with compliance audit failures on data handling",
+      "type": "explicit"
+    },
+    {
+      "text": "Elena Ito has been at RouteWise for 8 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Java, Micronaut, GCP, Spanner, Pub/Sub",
+      "type": "explicit"
+    },
+    {
+      "text": "RouteWise is a Logistics company with about 48 employees",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Marketing",
+    "company_name": "RouteWise",
+    "company_size": "11-50",
+    "technology_stack": "Java, Micronaut, GCP, Spanner, Pub/Sub",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "compliance audit failures on data handling",
+      "difficulty hiring specialized engineers",
+      "poor visibility into pipeline health"
+    ],
+    "deal_value": 75000,
+    "decision_timeline": "2026-09-04",
+    "decision_maker": false,
+    "next_steps": "Elena to present internally and circle back next week",
+    "buying_process": "Standard procurement: demo, security review, legal review, sign-off from VP Finance",
+    "current_solution": "legacy Java application maintained by one person"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1
+  },
+  "property_coverage": 0.86
+}

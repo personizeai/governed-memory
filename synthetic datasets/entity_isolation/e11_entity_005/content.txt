@@ -1,0 +1,27 @@
+### Account Overview
+Zenith Analytics is a Manufacturing company with 47 employees and approximately $278M in annual revenue. As a key prospect in the manufacturing sector, they are grappling with scaling challenges post-rapid early growth. Primary contact is Derek Oduya, Head of Data (derek.oduya@zenithanalytics.com), who oversees data strategy and operations. Zenith's tech stack includes Go, Kubernetes, AWS, DynamoDB, and gRPC, reflecting a modern but strained infrastructure. Their pain points center on technical debt from rapid early growth, slow deployment cycles taking 2-3 weeks per release, data silos between engineering and sales teams, and high infrastructure costs eating into margins. They are evaluating solutions against competitors like Gong and Microsoft Copilot to streamline operations and boost efficiency.
+
+### Key Details
+- **Contact**: Derek Oduya, Head of Data
+- **Company**: Zenith Analytics (Manufacturing, 47 employees, ~$278M ARR)
+- **Tech Stack**: Go, Kubernetes, AWS, DynamoDB, gRPC
+- **Pain Points**:
+  - Technical debt from rapid early growth
+  - Deployment cycles: 2-3 weeks per release
+  - Data silos between engineering and sales
+  - High infrastructure costs impacting margins
+- **Competitors Considered**: Gong, Microsoft Copilot
+- **Email**: derek.oduya@zenithanalytics.com
+
+Derek has expressed frustration with current bottlenecks hindering data-driven decision-making across teams, particularly in bridging silos that slow sales forecasting and engineering insights.
+
+### Deal Status
+This high-value opportunity has a potential deal value of $1,000,000. Zenith is in early discovery, with decision timeline targeted for Q2 2026. Initial conversations highlight alignment with our platform's ability to accelerate deployments, reduce costs via optimized AWS/DynamoDB usage, and integrate siloed data sources. No formal proposal yet; competitive landscape includes Gong for conversation intelligence and Microsoft Copilot for AI augmentation, but our gRPC-native integration and Kubernetes orchestration provide a strong differentiator.
+
+### Next Steps
+- Schedule follow-up call with Derek Oduya by end of next week to demo tailored solution addressing 2-3 week deployment cycles.
+- Prepare customized ROI analysis showing infrastructure cost savings and silo resolution, leveraging their Go/Kubernetes stack.
+- Research recent Zenith Analytics earnings calls for deeper pain validation.
+- Engage sales engineering for tech stack compatibility audit (AWS, DynamoDB, gRPC focus).
+
+(Word count: 378)

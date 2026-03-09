@@ -1,0 +1,95 @@
+{
+  "sample_id": "transcript_029",
+  "content_type": "meeting_transcript",
+  "company": "MetalGrid",
+  "industry": "Manufacturing",
+  "duration_minutes": 45,
+  "target_word_count": 2526,
+  "actual_word_count": 2143,
+  "expected_facts": [
+    {
+      "text": "IT budget was increased by 37% this fiscal year",
+      "type": "explicit"
+    },
+    {
+      "text": "MetalGrid is a Manufacturing company with about 26 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $120,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q3",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating existing CRM workflows, Salesforce Einstein, HubSpot AI",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 10 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Rust, Actix, AWS, PostgreSQL, NATS",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $98M",
+      "type": "explicit"
+    },
+    {
+      "text": "Lisa Kim has been at MetalGrid for 3 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Boston",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 4 vendors including us",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Infrastructure",
+    "company_name": "MetalGrid",
+    "company_size": "11-50",
+    "technology_stack": "Rust, Actix, AWS, PostgreSQL, NATS",
+    "deal_stage": "Qualification",
+    "deal_value": 120000,
+    "decision_timeline": "2026-08-02",
+    "competitors_mentioned": [
+      "existing CRM workflows",
+      "Salesforce Einstein",
+      "HubSpot AI"
+    ],
+    "decision_maker": true,
+    "buying_process": "Need approval from their CFO (CFO) for anything over $100K"
+  },
+  "planted_issues": {
+    "pronoun_issues": 5,
+    "temporal_issues": 3,
+    "duplicate_facts": 1
+  },
+  "has_third_participant": true,
+  "property_coverage": 0.71,
+  "entity_id": "lisa-metalgrid",
+  "entity_email": "lisa@metalgrid.io",
+  "entity_website": "https://metalgrid.io",
+  "contact_name": "Lisa",
+  "record_id": "crm-lisa-metalgrid"
+}

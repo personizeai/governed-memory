@@ -1,0 +1,40 @@
+Call with: Michael Reyes, CTO at CloudNova  
+Date: February 03, 2026  
+Duration: 15 min  
+
+Key Points:  
+- Michael Reyes, CTO @ CloudNova (B2B SaaS, ~664 emp, 201-1000 sz)  
+- Been there 2 yrs  
+- Pain: poor dev exp slowing feature velocity — devs frustrated w/ Java/Spring Boot deploys on Azure  
+- Stack: Java, Spring Boot, Azure, Oracle, Kafka  
+- Also poor visibility into pipeline health — no real-time metrics, blocking quick fixes  
+- Eval'ing custom internal tool as competitor  
+- He's decision maker (DM: true)  
+- Deal stage: Proposal  
+- Budget alloc'd ~$1.2M (deal val 1,200,000)  
+- Timeline: decision by 2026-06-21  
+- Likes our POC idea — pushing for it  
+- Mentioned Oracle bottlenecks w/ Kafka streams  
+- He's pushing for Q2 close but needs team buy-in  
+- They need better pipeline dashboards stat  
+- Frustrated w/ current tool — custom one falling short  
+- Asked re: integration w/ their Azure setup  
+- Def interested, but wants demo next week  
+- Pain on velocity hitting hard — quarterly goals slipping  
+- He noted devs spending 30% time debugging pipelines  
+- Competitor (custom tool) too manual, no Kafka support  
+- Deal val confirmed at 1.2M if POC flies  
+- He's got eng leads aligned somewhat  
+- Wants POC env up quick for his team eval  
+- Timeline tight — by EOQ?  
+
+Action Items:  
+- [ ] Set up POC env for Michael's team (me, by Fri)  
+- [ ] Send proposal update w/ stack compat (Java/Spring/Azure/Oracle/Kafka) (me)  
+- [ ] F/u call w/ his eng lead next week [ ]  
+- [ ] Log deal stage Proposal, val 1.2M, timeline 6/21/26 (CRM update, me)  
+
+Notes:  
+Quick call w/ Michael — solid interest but pains real. Poor dev exp + pipeline visibility killing velocity on their Java/Spring Boot/Azure/Oracle/Kafka stack. Custom internal tool not cutting it, budget $1.2M ready. He's DM, been 2 yrs @ CloudNova (664 emp SaaS). Pushing POC, set it up fast — he'll loop team. Unclear if eng lead fully on board yet, but he's optimistic for Q2.  
+
+Deal stage Proposal now. Next steps POC eval. He wants it live next week to hit decision 6/21. Noted Oracle/Kafka issues specifically — our fit perfect. Watch competitor, but momentum good. Fast notes post-call, mtg overruns.

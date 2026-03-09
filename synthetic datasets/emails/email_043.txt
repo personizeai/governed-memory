@@ -1,0 +1,240 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Nadia Rivera <nadia.rivera@carestack.com>  
+Subject: Tailored AI Conversation Intelligence for CareStack's Expansion  
+Date: Fri, Feb 15, 2026, 10:32 AM PST  
+
+Hi Nadia,  
+
+I hope this email finds you well. I'm Alex Morgan, an Account Executive at Technova, where we specialize in AI-powered conversation intelligence platforms that help healthcare tech leaders like CareStack supercharge their sales and customer success teams.  
+
+With CareStack's impressive growth to 2244 employees and your focus on scaling in the healthcare space, I noticed you've been evaluating options like Chorus.ai, Drift, and ZoomInfo to modernize your sales workflows. Our platform stands out by integrating seamlessly with stacks like Rust, Actix, AWS, PostgreSQL, and NATS—giving you real-time insights without the heavy lift.  
+
+Unlike legacy solutions, Technova delivers 40% faster deal cycles through automated call analysis and coaching. I'd love to share a quick 15-minute demo tailored to your priorities post your recent board meeting. Are you available next week?  
+
+Best regards,  
+Alex Morgan  
+Account Executive  
+Technova.io  
+(415) 555-0123  
+alex.morgan@technova.io  
+
+---
+
+From: Nadia Rivera <nadia.rivera@carestack.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Tailored AI Conversation Intelligence for CareStack's Expansion  
+Date: Sat, Feb 16, 2026, 9:15 AM PST  
+
+Hi Alex,  
+
+Thanks for reaching out. I've been at CareStack for 5 years as Director of IT, and yes, we're actively looking at conversation intelligence tools. We've got a budget allocated around $600,000 for this initiative, especially after our board meeting last month shifted priorities toward sales enablement.  
+
+How does Technova handle integration with our current tech stack—Rust, Actix on AWS with PostgreSQL and NATS? We're moving away from a legacy Java application that's maintained by just one person, and it's becoming a bottleneck.  
+
+Best,  
+Nadia Rivera  
+Director of IT  
+CareStack  
+nadia.rivera@carestack.com  
+(305) 555-0198  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Nadia Rivera <nadia.rivera@carestack.com>  
+Subject: Re: Tailored AI Conversation Intelligence for CareStack's Expansion  
+Date: Sun, Feb 17, 2026, 2:45 PM PST  
+
+> Hi Alex,  
+>  
+> Thanks for reaching out. I've been at CareStack for 5 years as Director of IT, and yes, we're actively looking at conversation intelligence tools. We've got a budget allocated around $600,000 for this initiative, especially after our board meeting last month shifted priorities toward sales enablement.  
+>  
+> How does Technova handle integration with our current tech stack—Rust, Actix on AWS with PostgreSQL and NATS? We're moving away from a legacy Java application that's maintained by just one person, and it's becoming a bottleneck.  
+>  
+> Best,  
+> Nadia Rivera  
+> Director of IT  
+> CareStack  
+> nadia.rivera@carestack.com  
+> (305) 555-0198  
+
+Hi Nadia,  
+
+Great to hear about the $600k budget and the priority shift—perfect timing for Technova. We integrate natively via APIs with Rust and Actix services on AWS, syncing directly to PostgreSQL for data persistence and using NATS for real-time event streaming. This means no more relying on that single-person-maintained legacy Java app; our setup deploys in days with full observability.  
+
+As a light proposal, we could pilot a 3-month POC for 10 users at $45k, scaling to your full team. This positions us ahead of Chorus.ai and Drift in healthcare-specific compliance features. How does end of quarter work for kicking this off?  
+
+Looking forward to your thoughts!  
+
+Best,  
+Alex Morgan  
+Account Executive  
+Technova.io  
+(415) 555-0123  
+alex.morgan@technova.io  
+
+---
+
+From: Nadia Rivera <nadia.rivera@carestack.com>  
+To: Chen Kim <chen.kim@carestack.com>  
+CC: Alex Morgan <alex.morgan@technova.io>  
+Subject: Fwd: Tailored AI Conversation Intelligence for CareStack's Expansion  
+Date: Mon, Feb 18, 2026, 11:20 AM PST  
+
+Chen,  
+
+Fyi—checking this out for our sales intel upgrade. Thoughts on their integration claims? I report directly to the CEO, so this needs to align with our timeline by 2026-07-03.  
+
+Thanks,  
+Nadia  
+
+---------- Forwarded message ----------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Sun, Feb 17, 2026, 2:45 PM PST  
+Subject: Re: Tailored AI Conversation Intelligence for CareStack's Expansion  
+To: Nadia Rivera <nadia.rivera@carestack.com>  
+
+> Hi Alex,  
+> ... [previous quoted text omitted for brevity]  
+
+Hi Nadia,  
+
+Great to hear about the $600k budget and the priority shift—perfect timing for Technova. We integrate natively via APIs with Rust and Actix services on AWS, syncing directly to PostgreSQL for data persistence and using NATS for real-time event streaming. This means no more relying on that single-person-maintained legacy Java app; our setup deploys in days with full observability.  
+
+As a light proposal, we could pilot a 3-month POC for 10 users at $45k, scaling to your full team. This positions us ahead of Chorus.ai and Drift in healthcare-specific compliance features. How does end of quarter work for kicking this off?  
+
+Looking forward to your thoughts!  
+
+Best,  
+Alex Morgan  
+Account Executive  
+Technova.io  
+(415) 555-0123  
+alex.morgan@technova.io  
+
+Nadia Rivera  
+Director of IT  
+CareStack  
+nadia.rivera@carestack.com  
+(305) 555-0198  
+
+---
+
+From: Chen Kim <chen.kim@carestack.com>  
+To: Nadia Rivera <nadia.rivera@carestack.com>, Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Tailored AI Conversation Intelligence for CareStack's Expansion  
+Date: Tue, Feb 19, 2026, 8:50 AM PST  
+
+> Chen,  
+>  
+> Fyi—checking this out for our sales intel upgrade. Thoughts on their integration claims? I report directly to the CEO, so this needs to align with our timeline by 2026-07-03.  
+>  
+> Thanks,  
+> Nadia  
+>  
+> ---------- Forwarded message ----------  
+> ... [previous quoted text omitted for brevity]  
+
+Hi Nadia and Alex,  
+
+As Engineering Manager here at CareStack, I'm intrigued but need more on the technical side. Specifically, how does Technova's NATS integration handle high-throughput message queuing for our Actix web services? We've seen latency issues in ZoomInfo trials, and with our Rust backend pushing 10k+ events/sec on AWS, it has to be rock-solid. Also, does it support HIPAA-compliant data flows out of the box for PostgreSQL writes?  
+
+Chen  
+
+Chen Kim  
+Engineering Manager  
+CareStack  
+chen.kim@carestack.com  
+(305) 555-0276  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Chen Kim <chen.kim@carestack.com>, Nadia Rivera <nadia.rivera@carestack.com>  
+Subject: Re: Tailored AI Conversation Intelligence for CareStack's Expansion  
+Date: Wed, Feb 20, 2026, 1:15 PM PST  
+
+> Hi Nadia and Alex,  
+>  
+> As Engineering Manager here at CareStack, I'm intrigued but need more on the technical side. Specifically, how does Technova's NATS integration handle high-throughput message queuing for our Actix web services? We've seen latency issues in ZoomInfo trials, and with our Rust backend pushing 10k+ events/sec on AWS, it has to be rock-solid. Also, does it support HIPAA-compliant data flows out of the box for PostgreSQL writes?  
+>  
+> Chen  
+>  
+> Chen Kim  
+> Engineering Manager  
+> CareStack  
+> chen.kim@carestack.com  
+> (305) 555-0276  
+
+Hi Chen and Nadia,  
+
+Thanks for the detailed question, Chen—spot on for your scale. Technova's NATS integration uses JetStream for persistent, high-throughput queuing (up to 50k msg/sec tested), with Actix actors subscribing via async Rust clients. We buffer spikes on AWS EKS, ensuring <50ms latency even at 10k+ events/sec, far better than what you've seen with ZoomInfo.  
+
+HIPAA compliance is baked in: all PostgreSQL writes encrypt PII at rest/transit (AES-256), with audit logs and SOC2 Type II. No custom config needed, unlike Drift's add-ons. This replaces your legacy Java app entirely, freeing that maintainer for higher-value work.  
+
+We're now in negotiation stage for the $600k deal, decision maker confirmed. Can we hop on a 30-min call next week to demo this live against your stack?  
+
+Best,  
+Alex Morgan  
+Account Executive  
+Technova.io  
+(415) 555-0123  
+alex.morgan@technova.io  
+
+---
+
+From: Nadia Rivera <nadia.rivera@carestack.com>  
+To: Alex Morgan <alex.morgan@technova.io>, Chen Kim <chen.kim@carestack.com>  
+Subject: Re: Tailored AI Conversation Intelligence for CareStack's Expansion  
+Date: Fri, Feb 22, 2026, 4:30 PM PST  
+
+> Hi Chen and Nadia,  
+>  
+> Thanks for the detailed question, Chen—spot on for your scale. Technova's NATS integration uses JetStream for persistent, high-throughput queuing (up to 50k msg/sec tested), with Actix actors subscribing via async Rust clients. We buffer spikes on AWS EKS, ensuring <50ms latency even at 10k+ events/sec, far better than what you've seen with ZoomInfo.  
+>  
+> HIPAA compliance is baked in: all PostgreSQL writes encrypt PII at rest/transit (AES-256), with audit logs and SOC2 Type II. No custom config needed, unlike Drift's add-ons. This replaces your legacy Java app entirely, freeing that maintainer for higher-value work.  
+>  
+> We're now in negotiation stage for the $600k deal, decision maker confirmed. Can we hop on a 30-min call next week to demo this live against your stack?  
+>  
+> Best,  
+> Alex Morgan  
+> Account Executive  
+> Technova.io  
+> (415) 555-0123  
+> alex.morgan@technova.io  
+
+Hi Alex,  
+
+Chen and I reviewed—looks promising. He's out next week, but let's schedule for Thursday, Feb 27 at 2pm PST? That gets us ahead of end-of-quarter push and our July 3 decision timeline. CC'ing Chen for confirmation.  
+
+It seems solid technically, but we'll confirm once he weighs in.  
+
+Nadia Rivera  
+Director of IT  
+CareStack  
+nadia.rivera@carestack.com  
+(305) 555-0198  
+
+---
+
+From: Chen Kim <chen.kim@carestack.com>  
+To: Nadia Rivera <nadia.rivera@carestack.com>, Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Tailored AI Conversation Intelligence for CareStack's Expansion  
+Date: Sat, Feb 23, 2026, 10:05 AM PST  
+
+> Hi Alex,  
+>  
+> Chen and I reviewed—looks promising. He's out next week, but let's schedule for Thursday, Feb 27 at 2pm PST? That gets us ahead of end-of-quarter push and our July 3 decision timeline. CC'ing Chen for confirmation.  
+>  
+> It seems solid technically, but we'll confirm once he weighs in.  
+>  
+> Nadia Rivera  
+> ...  
+
+Works for me—confirmed for Feb 27, 2pm PST. Alex, send the Zoom link. Excited to test the NATS flow live; Nadia's buy-in as decision maker pushes this forward. They mentioned it handles our stack well, so let's see.  
+
+Chen Kim  
+Engineering Manager  
+CareStack  
+chen.kim@carestack.com  
+(305) 555-0276

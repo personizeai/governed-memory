@@ -1,0 +1,66 @@
+{
+  "sample_id": "chat_002",
+  "content_type": "chat_log",
+  "company": "LedgerPoint",
+  "industry": "Fintech",
+  "message_count_target": 48,
+  "actual_word_count": 553,
+  "expected_facts": [
+    {
+      "text": "They're dealing with security concerns with current architecture",
+      "type": "explicit"
+    },
+    {
+      "text": "Daniel Fernandez has been at LedgerPoint for 6 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using Salesforce with custom Apex triggers",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Outreach, Microsoft Copilot",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with lack of real-time analytics for decision making",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Go, Kubernetes, AWS, DynamoDB, gRPC",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Analytics",
+    "company_name": "LedgerPoint",
+    "company_size": "51-200",
+    "technology_stack": "Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "security concerns with current architecture",
+      "lack of real-time analytics for decision making"
+    ],
+    "decision_timeline": "2026-10-05",
+    "competitors_mentioned": [
+      "Outreach",
+      "Microsoft Copilot"
+    ],
+    "decision_maker": false,
+    "next_steps": "Send pricing proposal to Daniel by Friday",
+    "buying_process": "Two-phase: technical POC first, then business case to leadership",
+    "current_solution": "Salesforce with custom Apex triggers"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 3,
+    "duplicate_facts": 2
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@priya.b"
+  ],
+  "property_coverage": 0.86
+}

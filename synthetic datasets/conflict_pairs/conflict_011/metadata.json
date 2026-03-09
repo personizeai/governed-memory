@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_011",
+  "category": "headcount",
+  "company": "Nimbus Networks",
+  "contact": "Jennifer Tanaka",
+  "industry": "E-commerce",
+  "stale_date": "2025-10-20",
+  "fresh_date": "2026-02-07",
+  "stale_claim": "Nimbus Networks has approximately 150 total employees",
+  "fresh_claim": "Nimbus Networks grew to over 300 employees after a recent acquisition",
+  "expected_query": "How many employees does Nimbus Networks have?",
+  "expected_answer": "grew to over 300 employees after a recent acquisition",
+  "stale_word_count": 216,
+  "fresh_word_count": 192
+}

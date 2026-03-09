@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_012",
+  "category": "pain_point",
+  "company": "Meridian Labs",
+  "contact": "Sarah Ibrahim",
+  "industry": "Manufacturing",
+  "stale_date": "2025-12-12",
+  "fresh_date": "2026-01-24",
+  "stale_claim": "Meridian Labs identified slow deployment cycles as their primary pain point",
+  "fresh_claim": "Meridian Labs said their main concern shifted to data silos between teams",
+  "expected_query": "What is Meridian Labs's primary pain point?",
+  "expected_answer": "said their main concern shifted to data silos between teams",
+  "stale_word_count": 158,
+  "fresh_word_count": 185
+}

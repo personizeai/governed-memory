@@ -1,0 +1,19 @@
+{
+  "entity_index": 74,
+  "name": "Raj Tanaka",
+  "company": "Oak Systems",
+  "industry": "AgriTech",
+  "email": "raj.tanaka@oaksystems.com",
+  "title": "VP of Marketing",
+  "facts": [
+    "Raj Tanaka is VP of Marketing at Oak Systems",
+    "Oak Systems is a AgriTech company with 2277 employees",
+    "Tech stack: Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+    "Deal value: $120,000",
+    "Pain points: compliance audit failures on data handling; vendor lock-in with current cloud provider",
+    "Competitors: HubSpot AI, Apollo.io, Gong",
+    "Decision timeline: Q3 2026",
+    "Annual revenue: ~$51M"
+  ],
+  "actual_word_count": 309
+}

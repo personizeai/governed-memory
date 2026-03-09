@@ -1,0 +1,19 @@
+{
+  "entity_index": 47,
+  "name": "Brian Rivera",
+  "company": "Marble Tech",
+  "industry": "Digital Media",
+  "email": "brian.rivera@marbletech.com",
+  "title": "Director of IT",
+  "facts": [
+    "Brian Rivera is Director of IT at Marble Tech",
+    "Marble Tech is a Digital Media company with 2156 employees",
+    "Tech stack: Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+    "Deal value: $400,000",
+    "Pain points: fragmented tooling across departments; difficulty measuring ROI on AI initiatives; scaling issues during peak traffic periods; inconsistent messaging across sales team",
+    "Competitors: Clari, existing CRM workflows, ZoomInfo",
+    "Decision timeline: Q4 2026",
+    "Annual revenue: ~$264M"
+  ],
+  "actual_word_count": 328
+}

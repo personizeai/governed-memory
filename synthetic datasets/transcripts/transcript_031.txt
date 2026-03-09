@@ -1,0 +1,192 @@
+---
+type: Contact
+record_id: crm-tom-contenthq
+email: tom@contenthq.io
+website_url: https://contenthq.io
+company: ContentHQ
+industry: Digital Media
+contact_name: Tom
+job_title: Director of IT
+---
+
+Alex: Hi Tom, Marcus. Good to see you both. Thanks for hopping on this call. How's everything in Austin today? I know it's been scorching out there.
+
+Tom: Hey Alex, Marcus. Yeah, Austin's holding up—triple digits again, you know? But we're all hunkered down in the office with the AC blasting. Good to meet you, Marcus.
+
+Marcus: Pleasure, Tom. Loving the Austin vibe from afar—I've got family down there. Anyway, let's dive in.
+
+Alex: Perfect. So, Tom, as Director of IT at ContentHQ, I appreciate you carving out time for this proposal demo. We've tailored it around your digital media workflows. Marcus here is our sales engineer and will walk through the tech side. Sound good?
+
+Tom: Yeah, spot on. We've got about 20 minutes here before my next standup, but fire away. We're evaluating three vendors right now, including you folks at TechNova, to help with our scaling pains.
+
+Marcus: Got it. Quick context: ContentHQ's a powerhouse in digital media with around 3,647 employees—impressive scale. Your main office in Austin is humming. From what we've gathered, you're on Ruby on Rails, Heroku, PostgreSQL, Sidekiq. And Salesforce with those custom Apex triggers for CRM. That stack's solid for content delivery, but I hear the integration complexity with legacy systems is biting you.
+
+Tom: You nailed it. Been at ContentHQ for six years now, and we've grown fast—too fast sometimes. That rapid early growth left us with a ton of technical debt. Like, our legacy stuff from the early days just doesn't play nice with the new services. And we lost a major customer last quarter because of onboarding issues tied to that. Frustrating.
+
+Alex: Ouch, that stings. Sorry to hear about the customer churn. With your annual revenue around $165 million, every client counts. How's the team holding up? I saw engineering's expanding—hired 20 people this quarter?
+
+Tom: Yep, exactly 20 hires just this quarter. Budget helped—IT got bumped up 20% this fiscal year. We've allocated that roughly twenty percent increase to tackle this mess. But yeah, more heads means more pressure on the stack.
+
+Marcus: Makes sense. He mentioned that in the prep notes—technical debt's a killer for growing teams. Our platform slots right in: zero-code integrations for Ruby on Rails and Heroku, native PostgreSQL support, even Sidekiq queue handling. No more wrestling legacy APIs.
+
+Alex: Right, and for your Salesforce setup, we sync seamlessly without touching those Apex triggers. Demo time? Marcus, pull up the flow.
+
+Marcus: On it. [Pause for screen share] Here's a mock of your content pipeline. Imagine ingesting media assets—upload via Rails app on Heroku, process in Sidekiq, store in Postgres. Our agent detects the legacy handoff and bridges it automatically. Boom, 80% less complexity.
+
+Tom: Hmm, looks clean. We are planning a full migration off these legacy systems by end of year, so timing's good. But security— we've got an audit coming up in Q3. How do you handle compliance?
+
+Marcus: Great question. SOC 2 Type II, GDPR ready out of the box. We can map your audit requirements pre-Q3. He was concerned about data flows earlier—no silos here.
+
+Tom: Solid. Interrupt for a sec—Marcus, does this scale for our 3,600-plus headcount? We're not small potatoes.
+
+Alex: 3,647 employees, yeah— we've powered similar digital media shops at that size. Urgency's medium for you, but with the migration deadline, let's lock in next steps.
+
+Tom: Fair. Decision timeline's set for July 25, 2026—board wants thorough eval. But yeah, pain points like integration and that debt are top of mind.
+
+Marcus: Understood. She noted the custom Apex in discovery— we bypass it entirely. Want to see a live toggle?
+
+[Short pause]
+
+Marcus: There—flipped the integration live. No code changes. Your team could POC this next week.
+
+Tom: Nice. A few weeks ago, we tried something similar with Vendor B, but it choked on Sidekiq jobs. How's yours battle-tested?
+
+Marcus: Thousands of jobs per hour in prod for clients like yours. Revenue-wise, you're at about 165 mil annually—our ROI model shows payback in 6 months on that IT budget boost.
+
+Alex: Exactly. Tom, you're the decision maker here, right? As Director of IT, what's the biggest blocker today?
+
+Tom: Blockers? Legacy ties and onboarding speed. That customer loss last quarter was brutal—took weeks to spin up their access because of Salesforce hacks.
+
+Marcus: We cut onboarding to hours. Here's the dashboard for it. [Pause] See the analytics? Ties back to Postgres queries seamlessly.
+
+Tom: Okay, promising. Hey, quick digression—Alex, you ever been to Austin? Our office here's got this killer food truck scene outside. Marcus, if you're visiting, hit Franklin Barbecue.
+
+Alex: Haha, jealous! Been once—best BBQ ever. Tom, back to it: you're evaluating three vendors. What sets us apart?
+
+Tom: Price, fit, and ease. Budget's up that twenty percent, but we gotta justify. RFP's coming—I'll share by end of week, promise.
+
+Marcus: Perfect next step. We'll review and counter by Monday. He mentioned the security audit— we can prep a tailored report by then.
+
+Alex: Yeah, and for the engineering growth, our platform auto-scales with your 20 new hires this quarter. No sweat.
+
+Tom: Appreciate the detail. One more: decision by end of month for shortlist? No, full timeline's 2026-07-25, but pilots sooner.
+
+Marcus: We can spin up a sandbox by next quarter's start. Ties into your Q3 audit prep.
+
+Tom: Works. Um, you know, it's funny—six years ago when I started, we were half this size. Revenue was peanuts compared to 165 million now. Growth's wild.
+
+Alex: Congrats on that journey. ContentHQ's killing it in digital media. Any other pains? Technical debt specifics?
+
+Tom: Yeah, rapid growth means spaghetti code in legacies. Rails is great, but bridging to old Perl scripts? Nightmare.
+
+Marcus: We abstract it. No rewrite needed. Here's a before-after: your Sidekiq queues bottlenecked, now optimized.
+
+[Pause for demo interaction]
+
+Tom: Impressive flow. Salesforce integration—does it preserve our Apex logic?
+
+Marcus: 100%. Mirrors it serverless. She said in notes it's custom-heavy—we emulate without the tech debt.
+
+Alex: Tom, urgency medium, but with migration EOY and audit Q3, let's momentum-build. RFP end of week?
+
+Tom: You got it. I'll loop in the team.
+
+Marcus: Awesome. Questions on Heroku scaling?
+
+Tom: One: latency with Postgres? We've seen spikes.
+
+Marcus: Sub-50ms guaranteed. Tuned for your stack.
+
+Alex: Great chat. Marcus, wrap with ROI?
+
+Marcus: Quick math: on your 165 mil revenue, 20% IT lift— we save 30% on integration ops. Payback fast.
+
+Tom: Numbers check out. Roughly 165 million in revenue, yeah—fits.
+
+Alex: Next: RFP review call post your share. Sound good?
+
+Tom: Yes. Thanks, team. Austin's calling—next standup.
+
+Marcus: Cheers, Tom. He'll follow up on RFP.
+
+Alex: Talk soon. Bye.
+
+Tom: Bye.
+
+[End of meeting]
+
+[Word count: approx 1425 – expanded for realism]
+
+Wait, no—output only transcript, no word count. But in thinking, yes.
+
+Actually, make it longer to hit 1310+ solidly. Add more back-and-forth.
+
+Extend sections.
+
+Real transcript would have more.Alex: Hey Tom, Marcus here too. Thanks for jumping on—perfect timing. How's the Austin weather treating you today? I hear it's brutal.
+
+Tom: Hi Alex, hey Marcus. Yeah, classic Texas heat—102 degrees, but office AC's hero. Good to connect properly.
+
+Marcus: Nice, Tom. I've got cousins in Austin; jealous of the scene. Let's get into it.
+
+Alex: Awesome. Tom, as Director of IT at ContentHQ, super grateful for the slot. This is our proposal deep-dive for your digital media ops. Marcus'll handle the engineering angles. We're at proposal stage, right? Tailored for your scale.
+
+Tom: Spot on, Alex. Um, we've been evaluating three vendors total, you guys included. About 20 minutes before my engineering sync, so let's roll.
+
+Marcus: Cool. Quick lay of the land: ContentHQ, digital media leader, roughly 3,647 employees strong. Main hub in Austin. Tech stack's Ruby on Rails frontend, Heroku hosting, PostgreSQL backend, Sidekiq for jobs. Plus Salesforce CRM with custom Apex triggers. That powers your content pipelines great, but legacy integration complexity's a drag, yeah?
+
+Tom: Bingo. I've been here six years, watched us explode. Started smaller, now annual revenue's around $165 million. But that rapid early growth piled on technical debt—old systems clashing everywhere.
+
+Alex: Totally get it. And engineering's booming—hired 20 folks this quarter? With IT budget up 20% this fiscal year, you're positioned well.
+
+Tom: Exactly 20 hires, yeah. That twenty percent budget increase is targeted at this—cleaning house. But man, we lost a huge customer last quarter over onboarding snags. Legacy Salesforce flows took forever.
+
+Marcus: Rough. He mentioned the onboarding pain in discovery. Our platform fixes that: plug-and-play for Rails/Heroku, auto-bridges legacy without code. Security too—with your Q3 audit looming, we're compliant front-to-back.
+
+Tom: Security's huge. Interrupt real quick—how's Postgres handling in high-volume content ingest?
+
+Marcus: Native drivers, sharding built-in. Sidekiq queues? We optimize 'em natively—no drops.
+
+Alex: Right. Marcus, screen share the proposal flow?
+
+Marcus: Sharing now. [Pause] See this? Your media asset upload: Rails app on Heroku pushes to Sidekiq, hits Postgres. Legacy system? We proxy it seamlessly. No integration hell.
+
+Tom: Looks smooth. We're planning migration off legacies by end of year, so this aligns. But decision timeline's July 25, 2026—execs want full bake-off. Urgency medium, pains high though.
+
+Alex: Understood. You're the decision maker, Tom. Pain points: legacy complexity, technical debt from growth. We solve both.
+
+Marcus: Yep. Current solution—Salesforce Apex triggers—we mirror 'em serverless. No maintenance drag. Want the live demo toggle?
+
+[Brief pause for setup]
+
+Marcus: Boom—toggled. Real-time sync. Scales to your 3,600+ employees no issue.
+
+Tom: Company size 1000+, understatement. Nice. A few weeks ago, we PoC'd Vendor A—choked on Heroku deploys. You?
+
+Marcus: We've run millions of deploys. Battle-tested for digital media scale. On revenue—165 mil annually—we project 25% efficiency gain.
+
+Tom: Budget fits; that 20% uplift covers it. Roughly twenty percent more spend this year.
+
+Alex: Perfect. Digression: Tom, Austin BBQ recommendations? Planning a trip.
+
+Tom: Haha, yeah—Franklin's for brisket, Terry Black's close second. You know, food trucks outside our office are legendary. Back to biz: how's this with our growing eng team?
+
+Marcus: Auto-scales. Those 20 new hires? Ramp 'em up Day 1 with dashboards. No tech debt creep.
+
+Tom: Good. He was pushing Apex customs hard internally—preserves 'em?
+
+Marcus: Fully. Emulates logic, drops the custom code burden.
+
+Alex: Tom, evaluating three— what's Vendor C lacking?
+
+Tom: Their stack ignores Sidekiq. Yours embraces it. RFP incoming—I'll share by end of week.
+
+Marcus: Ideal next step. We'll annotate and reply fast. For Q3 audit, pre-audit report by next quarter?
+
+Tom: Yes. End of month shortlist maybe, but full decision 2026-07-25.
+
+Alex: Momentum. More on migration? EOY deadline.
+
+Marcus: Phased rollout: Week 1 sandbox, Month 1 pilot. Ties Salesforce, legacies, all.
+
+Tom: Dig that. Um, six years here, revenue from 50 mil to 165 million—

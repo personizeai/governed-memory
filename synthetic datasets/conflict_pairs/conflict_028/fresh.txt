@@ -1,0 +1,22 @@
+**Follow-up Sales Call Note**  
+**Date:** January 11, 2026  
+**Contact:** Alex Ito, VP Engineering, Drift Analytics (Manufacturing)  
+**Duration:** 45 min | **Called by:** [Your Name]  
+
+**Call Summary:** Follow-up on demo from Dec 2025. Alex confirmed team evaluating our API observability suite for production scaling. Strong interest in anomaly detection for manufacturing line data pipelines—highlighted recent downtime incidents costing $50K/week.  
+
+**Key Update:** **CHANGE**—Drift Analytics has fully switched backend services to FastAPI (supersedes prior Node.js stack). This replaces previous info; migration complete last month, now prioritizing perf monitoring post-switch. Alex noted 30% latency gains but spiking error rates in high-volume sensor data ingestion.  
+
+**Other Details:**  
+- Budget: $250K approved for Q1 tools; RFP drafting next week.  
+- Pain Points: Legacy monitoring (Datadog) insufficient for FastAPI async ops; seeking our auto-instrumentation.  
+- Competitors: Evaluated New Relic—our pricing edge noted.  
+
+**Next Steps:**  
+- Send tailored FastAPI POC by Jan 15.  
+- Schedule tech deep-dive w/ their Sr. Devs: Jan 20 (Alex to confirm).  
+- Internal: Escalate to AE for discount approval.  
+
+**Rating:** Hot lead—momentum building. Follow up EOD tomorrow if no reply.  
+
+(Word count: 178)

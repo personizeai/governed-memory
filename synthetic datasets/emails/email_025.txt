@@ -1,0 +1,230 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Alex Ito <alex.ito@apigrid.com>  
+Subject: Tailored revenue ops solution for ApiGrid's sales scaling challenges  
+Date: Fri, Feb 13, 2026 10:32 AM PST  
+
+Hi Alex,  
+
+I hope this email finds you well. I'm reaching out because I've been following ApiGrid's impressive growth as a B2B SaaS leader with over 2,410 employees, and I noticed your team's use of Pipedrive with Slack notifications amid some rapid early expansion.  
+
+At Technova, we specialize in revenue operations platforms that address inconsistent messaging across sales teams and technical debt from such growth spurts—especially for stacks like yours with PHP, Laravel, DigitalOcean, MySQL, and Redis. Companies like yours have seen 40% faster deal cycles after switching from tools like Clari or legacy CRM workflows.  
+
+Would you be open to a 15-minute chat next week to explore how we could align with your post-board-meeting priorities?  
+
+Best regards,  
+Alex Morgan  
+Sales Director  
+Technova  
+(415) 555-0123  
+alex.morgan@technova.io  
+
+---
+
+From: Alex Ito <alex.ito@apigrid.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Tailored revenue ops solution for ApiGrid's sales scaling challenges  
+Date: Sat, Feb 14, 2026 9:15 AM PST  
+
+Hi Alex,  
+
+Thanks for the note—I've been at ApiGrid for 5 years now as Director of IT, and you're spot on about our technical debt from that early growth phase. We've been evaluating Clari alongside our existing CRM workflows, but Pipedrive + Slack just isn't cutting it for consistent sales messaging.  
+
+Quick question: How does Technova integrate specifically with Laravel and Redis in a DigitalOcean environment? Any case studies from similar B2B SaaS firms?  
+
+Looking forward to your thoughts.  
+
+Best,  
+Alex Ito  
+Director of IT  
+ApiGrid  
+(650) 555-0198  
+alex.ito@apigrid.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Alex Ito <alex.ito@apigrid.com>  
+Subject: Re: Tailored revenue ops solution for ApiGrid's sales scaling challenges  
+Date: Mon, Feb 16, 2026 2:47 PM PST  
+
+Hi Alex,  
+
+Great to hear from you—thanks for the quick reply and context on your 5-year tenure steering IT through ApiGrid's growth.  
+
+On integration: Technova deploys via a lightweight API gateway that hooks seamlessly into Laravel apps on DigitalOcean droplets, caching session data in Redis for sub-50ms latency. We've got a case study from a 1,500-employee B2B SaaS (similar to your 2,410 headcount) that ditched Pipedrive/Slack for us, reducing sales messaging inconsistencies by 35% and clearing technical debt without MySQL schema overhauls.  
+
+Light proposal attached: A starter package at ~$200K annually, tailored for your stack, with ROI projections based on your board's recent priority shifts. Deal stage would move to proposal post-call, aiming for a decision by April 24, 2026. Medium urgency fits, but we can accelerate.  
+
+Open to that 15-min next week?  
+
+Cheers,  
+Alex Morgan  
+Sales Director  
+Technova  
+(415) 555-0123  
+alex.morgan@technova.io  
+
+> Hi Alex,  
+>  
+> Thanks for the note—I've been at ApiGrid for 5 years now as Director of IT, and you're spot on about our technical debt from that early growth phase. We've been evaluating Clari alongside our existing CRM workflows, but Pipedrive + Slack just isn't cutting it for consistent sales messaging.  
+>  
+> Quick question: How does Technova integrate specifically with Laravel and Redis in a DigitalOcean environment? Any case studies from similar B2B SaaS firms?  
+>  
+> Looking forward to your thoughts.  
+>  
+> Best,  
+> Alex Ito  
+> Director of IT  
+> ApiGrid  
+> (650) 555-0198  
+> alex.ito@apigrid.com  
+
+---
+
+From: Alex Ito <alex.ito@apigrid.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+CC: Anita Kim <anita.kim@apigrid.com>  
+Subject: Re: Tailored revenue ops solution for ApiGrid's sales scaling challenges  
+Date: Wed, Feb 18, 2026 11:22 AM PST  
+
+Hi Alex,  
+
+The proposal looks promising—$200K budget aligns perfectly, and we're decision makers here with a timeline target of April 24. Board meeting last month did shift us toward better sales consistency over Clari evaluations.  
+
+Forwarding to my colleague Anita Kim, our Director of IT, for her take on the technical fit. She'll share the RFP by end of week as next steps.  
+
+Thanks,  
+Alex Ito  
+Director of IT  
+ApiGrid  
+(650) 555-0198  
+alex.ito@apigrid.com  
+
+---------- Forwarded message ----------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Mon, Feb 16, 2026 2:47 PM PST  
+Subject: Re: Tailored revenue ops solution for ApiGrid's sales scaling challenges  
+To: Alex Ito <alex.ito@apigrid.com>  
+
+> Hi Alex,  
+>  
+> Great to hear from you—thanks for the quick reply and context on your 5-year tenure steering IT through ApiGrid's growth.  
+>  
+> On integration: Technova deploys via a lightweight API gateway that hooks seamlessly into Laravel apps on DigitalOcean droplets, caching session data in Redis for sub-50ms latency. We've got a case study from a 1,500-employee B2B SaaS (similar to your 2,410 headcount) that ditched Pipedrive/Slack for us, reducing sales messaging inconsistencies by 35% and clearing technical debt without MySQL schema overhauls.  
+>  
+> Light proposal attached: A starter package at ~$200K annually, tailored for your stack, with ROI projections based on your board's recent priority shifts. Deal stage would move to proposal post-call, aiming for a decision by April 24, 2026. Medium urgency fits, but we can accelerate.  
+>  
+> Open to that 15-min next week?  
+>  
+> Cheers,  
+> Alex Morgan  
+> Sales Director  
+> Technova  
+> (415) 555-0123  
+> alex.morgan@technova.io  
+
+>> Hi Alex,  
+>>  
+>> Thanks for the note—I've been at ApiGrid for 5 years now as Director of IT, and you're spot on about our technical debt from that early growth phase. We've been evaluating Clari alongside our existing CRM workflows, but Pipedrive + Slack just isn't cutting it for consistent sales messaging.  
+>>  
+>> Quick question: How does Technova integrate specifically with Laravel and Redis in a DigitalOcean environment? Any case studies from similar B2B SaaS firms?  
+>>  
+>> Looking forward to your thoughts.  
+>>  
+>> Best,  
+>> Alex Ito  
+>> Director of IT  
+>> ApiGrid  
+>> (650) 555-0198  
+>> alex.ito@apigrid.com  
+
+---
+
+From: Anita Kim <anita.kim@apigrid.com>  
+To: Alex Morgan <alex.morgan@technova.io>, Alex Ito <alex.ito@apigrid.com>  
+Subject: Re: Tailored revenue ops solution for ApiGrid's sales scaling challenges  
+Date: Thu, Feb 19, 2026 4:08 PM PST  
+
+Hello Alex (Morgan),  
+
+Alex Ito looped me in—I'm Anita Kim, Director of IT here at ApiGrid (1000+ employees strong). Appreciate the forward; the $200K proposal and April 24 timeline work for us as we tackle technical debt from rapid growth and sales messaging issues beyond Pipedrive/Slack.  
+
+Technical question: With our PHP/Laravel stack on DigitalOcean, how does Technova handle Redis cluster failover during high-traffic sales peaks? Does it require custom MySQL migrations, or is it zero-downtime? We've seen Clari struggle here post our board shifts.  
+
+Alex, thoughts on RFP next week?  
+
+Regards,  
+Anita Kim  
+Director of IT  
+ApiGrid  
+(650) 555-0201  
+anita.kim@apigrid.com  
+
+> Hi Alex,  
+>  
+> The proposal looks promising—$200K budget aligns perfectly, and we're decision makers here with a timeline target of April 24. Board meeting last month did shift us toward better sales consistency over Clari evaluations.  
+>  
+> Forwarding to my colleague Anita Kim, our Director of IT, for her take on the technical fit. She'll share the RFP by end of week as next steps.  
+>  
+> Thanks,  
+> Alex Ito  
+> Director of IT  
+> ApiGrid  
+> (650) 555-0198  
+> alex.ito@apigrid.com  
+
+---------- Forwarded message ----------  
+[Previous content from Alex Morgan's email omitted for brevity in this view]  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Anita Kim <anita.kim@apigrid.com>, Alex Ito <alex.ito@apigrid.com>  
+Subject: Re: Tailored revenue ops solution for ApiGrid's sales scaling challenges  
+Date: Fri, Feb 20, 2026 9:55 AM PST  
+
+Hi Anita and Alex,  
+
+Thanks for the intro, Alex—excited Anita's on board as fellow Director of IT. Great question on Redis failover; it's a common pain in growing B2B SaaS like ApiGrid's 2,410-employee scale.  
+
+Technova uses Redis Sentinel for automatic failover in clustered setups, detecting node failures in <1s and promoting replicas without interrupting Laravel API calls on DigitalOcean. Zero-downtime deployment via blue-green strategy—no MySQL migrations needed; we layer on your existing schemas with read replicas for sales data sync. In a similar PHP/Laravel client (post their board-mandated rev ops pivot), we handled 10x traffic spikes from inconsistent Pipedrive messaging handoffs, outperforming Clari by 25% in uptime. Full tech deck attached, including end-of-quarter benchmarks.  
+
+This positions us perfectly for your $200K deal value at proposal stage, medium urgency toward April 24 close. RFP from you next week sounds ideal as next step—I'll prep a customized response. Available for 30-min deep dive Monday?  
+
+Best,  
+Alex Morgan  
+Sales Director  
+Technova  
+(415) 555-0123  
+alex.morgan@technova.io  
+
+> Hello Alex (Morgan),  
+>  
+> Alex Ito looped me in—I'm Anita Kim, Director of IT here at ApiGrid (1000+ employees strong). Appreciate the forward; the $200K proposal and April 24 timeline work for us as we tackle technical debt from rapid growth and sales messaging issues beyond Pipedrive/Slack.  
+>  
+> Technical question: With our PHP/Laravel stack on DigitalOcean, how does Technova handle Redis cluster failover during high-traffic sales peaks? Does it require custom MySQL migrations, or is it zero-downtime? We've seen Clari struggle here post our board shifts.  
+>  
+> Alex, thoughts on RFP next week?  
+>  
+> Regards,  
+> Anita Kim  
+> Director of IT  
+> ApiGrid  
+> (650) 555-0201  
+> anita.kim@apigrid.com  
+
+>> Hi Alex,  
+>>  
+>> The proposal looks promising—$200K budget aligns perfectly, and we're decision makers here with a timeline target of April 24. Board meeting last month did shift us toward better sales consistency over Clari evaluations.  
+>>  
+>> Forwarding to my colleague Anita Kim, our Director of IT, for her take on the technical fit. She'll share the RFP by end of week as next steps.  
+>>  
+>> Thanks,  
+>> Alex Ito  
+>> Director of IT  
+>> ApiGrid  
+>> (650) 555-0198  
+>> alex.ito@apigrid.com  
+
+---------- Forwarded message ----------  
+[Earlier forwarded content from Alex Morgan's previous email]

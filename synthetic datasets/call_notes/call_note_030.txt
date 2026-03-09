@@ -1,0 +1,32 @@
+Call with: Chloe Nakamura, Head of Product at DockSmart
+Date: February 10, 2026
+Duration: 25 min
+
+Key Points:
+- Logistics, 1.4k emps, 1000+ scale
+- Stack: Java, Spring Boot, Azure, Oracle, Kafka
+- Pains: customer churn slow support resp times, no RT analytics dec mking, deploys 2-3wks/release
+- Churn
+- Analytics gap
+- Eval'ing in-house build, HubSpot AI, SF Einstein
+- Budget ~350k alloc'd
+- She's 8yrs @ DockSmart
+- Proposal stage
+- Not DM
+- He wants Q2 push? (team lead?)
+- Targeting 7/15 timeline
+- She's buying time internally
+- They? Pushing eval till EOQ
+- Def int, but he's hesitating on switch cost
+- RT needs urgent bc churn spiking
+- Quoted 350k fit
+
+Action Items:
+- [ ] Send pricing proposal to Chloe by Fri (me)
+- [ ] Schedule f/u mtg next week w/ her + stakeholder (me)
+- [ ] Ping eng on Kafka integ demo (me)
+
+Notes:
+Chloe solid contact, been there 8yrs knows pains inside out. Heavy on churn from slow support—customers bailing fast, no RT viz killing decs. She's not final DM but influencing hard, mentioned "he" (prob CTO?) eyeing in-house still vs our speed. Budget locked 350k, proposal stage now, but timeline slips to July if they drag evals. Def traction, she's pro our vs HubSpot/SF bloat.
+
+Fast talker, dug into stack quick—Java heavy, Azure deploys pain city w/ Oracle/Kafka lag. She's pushing team but "they" need proof on 2-3wk cycle slash. F/U critical by Fri pricing or loses to Einstein hype. Int strong, just unlock the hesitancy. EOQ pressure from her side?

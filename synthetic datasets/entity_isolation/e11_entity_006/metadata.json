@@ -1,0 +1,19 @@
+{
+  "entity_index": 6,
+  "name": "Aisha Singh",
+  "company": "Cortex Systems",
+  "industry": "Logistics",
+  "email": "aisha.singh@cortexsystems.com",
+  "title": "Director of Analytics",
+  "facts": [
+    "Aisha Singh is Director of Analytics at Cortex Systems",
+    "Cortex Systems is a Logistics company with 1978 employees",
+    "Tech stack: Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "Deal value: $650,000",
+    "Pain points: lack of real-time analytics for decision making; inconsistent messaging across sales team",
+    "Competitors: Salesforce Einstein, HubSpot AI",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$240M"
+  ],
+  "actual_word_count": 374
+}

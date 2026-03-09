@@ -1,0 +1,16 @@
+### Account Overview
+Spruce Cloud is a prominent CleanTech company specializing in sustainable energy solutions, boasting approximately 2008 employees and ~$185M in annual revenue. As a key prospect in the CleanTech industry, they are grappling with operational challenges that align perfectly with our platform's strengths. Primary contact is Chloe Fernandez, CTO (chloe.fernandez@sprucecloud.com), who oversees their engineering and product teams. Chloe has been instrumental in evaluating solutions to modernize their infrastructure amid rapid growth.
+
+### Key Details
+Spruce Cloud's current tech stack includes Ruby on Rails for their core application, Heroku for deployment, PostgreSQL as the primary database, and Sidekiq for background job processing. These choices have served them well but are now exposing critical pain points: significant integration complexity with legacy systems, which hampers seamless data flows; scaling issues during peak traffic periods that lead to downtime and lost opportunities; and a poor developer experience that's slowing feature velocity and frustrating their engineering team. Competitors like Chorus.ai are in play, but Chloe has expressed dissatisfaction with their limited scalability for CleanTech-specific workloads.
+
+### Deal Status
+This opportunity carries a strong potential deal value of $650,000, positioning it as a high-priority enterprise win. Chloe Fernandez and her team at Spruce Cloud are actively in evaluation mode, with a decision timeline targeted for Q4 2026. We've completed initial discovery calls where pain points were validated, and they've shared architecture diagrams highlighting legacy integration bottlenecks. Competitive positioning against Chorus.ai remains favorable, as our solution offers superior handling of high-traffic scaling without refactoring their Ruby on Rails codebase.
+
+### Next Steps
+- Schedule follow-up demo with Chloe (proposed: week of Oct 15) to showcase PostgreSQL/Sidekiq integrations and live scaling simulations.
+- Send customized ROI analysis addressing developer velocity improvements (draft by EOD tomorrow).
+- Engage Spruce Cloud's VP of Engineering for technical deep-dive; Chloe to intro post-demo.
+- Monitor Q4 budget cycle; flag any Chorus.ai developments via mutual connections.
+
+(Word count: 347)

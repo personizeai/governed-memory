@@ -1,0 +1,67 @@
+{
+  "sample_id": "email_037",
+  "content_type": "email_thread",
+  "company": "ForgeNet Industries",
+  "industry": "Manufacturing",
+  "email_count": 5,
+  "actual_word_count": 1269,
+  "expected_facts": [
+    {
+      "text": "They've also been evaluating building in-house, ZoomInfo",
+      "type": "explicit"
+    },
+    {
+      "text": "ForgeNet Industries is a Manufacturing company with about 35 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using Pipedrive with Slack notifications",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Python, Django, AWS, PostgreSQL, Redis",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 4 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 27% this fiscal year",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $1,200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Amanda Chen has been at ForgeNet Industries for 8 years",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Engineering",
+    "company_name": "ForgeNet Industries",
+    "company_size": "11-50",
+    "technology_stack": "Python, Django, AWS, PostgreSQL, Redis",
+    "deal_stage": "Negotiation",
+    "deal_value": 1200000,
+    "decision_timeline": "2026-04-26",
+    "competitors_mentioned": [
+      "building in-house",
+      "ZoomInfo"
+    ],
+    "decision_maker": true,
+    "next_steps": "Amanda will share the RFP by end of week",
+    "buying_process": "Fast-track available for deals under $150K with direct VP approval",
+    "current_solution": "Pipedrive with Slack notifications",
+    "urgency_level": "Low"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 2
+  },
+  "introduces_new_person": true,
+  "colleague": "Daniel Alvarez, Director of IT",
+  "property_coverage": 0.93
+}

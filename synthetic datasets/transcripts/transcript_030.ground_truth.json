@@ -1,0 +1,95 @@
+{
+  "sample_id": "transcript_030",
+  "content_type": "meeting_transcript",
+  "company": "DockSmart",
+  "industry": "Logistics",
+  "duration_minutes": 60,
+  "target_word_count": 3531,
+  "actual_word_count": 2164,
+  "expected_facts": [
+    {
+      "text": "Budget allocated is approximately $350,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 5 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with poor developer experience slowing feature velocity",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $167M",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with high infrastructure costs eating into margins",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q3",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Seattle",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using internal Python scripts pulling from multiple APIs",
+      "type": "explicit"
+    },
+    {
+      "text": "Emily Alvarez has been at DockSmart for 2 years",
+      "type": "explicit"
+    },
+    {
+      "text": "DockSmart is a Logistics company with about 465 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 6 people this quarter",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Customer Success",
+    "company_name": "DockSmart",
+    "company_size": "201-1000",
+    "technology_stack": "Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "high infrastructure costs eating into margins",
+      "poor developer experience slowing feature velocity",
+      "compliance audit failures on data handling"
+    ],
+    "deal_value": 350000,
+    "decision_maker": false,
+    "next_steps": "Schedule a technical deep-dive with Emily's engineering team",
+    "current_solution": "internal Python scripts pulling from multiple APIs"
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 4,
+    "duplicate_facts": 1
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.71,
+  "entity_id": "emily-docksmart",
+  "entity_email": "emily@docksmart.com",
+  "entity_website": "https://docksmart.com",
+  "contact_name": "Emily",
+  "record_id": "crm-emily-docksmart"
+}

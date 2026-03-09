@@ -1,0 +1,83 @@
+{
+  "sample_id": "transcript_028",
+  "content_type": "meeting_transcript",
+  "company": "RetailNova",
+  "industry": "E-commerce",
+  "duration_minutes": 45,
+  "target_word_count": 2535,
+  "actual_word_count": 1349,
+  "expected_facts": [
+    {
+      "text": "Engineering team is growing \u2014 hired 11 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "RetailNova is a E-commerce company with about 67 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $1,200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "Lisa reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Microsoft Copilot, building in-house",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in London",
+      "type": "explicit"
+    },
+    {
+      "text": "Lisa Fernandez has been at RetailNova for 8 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 2 vendors including us",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Chief Product Officer",
+    "company_name": "RetailNova",
+    "company_size": "51-200",
+    "technology_stack": "Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+    "deal_value": 1200000,
+    "decision_timeline": "2026-05-14",
+    "competitors_mentioned": [
+      "Microsoft Copilot",
+      "building in-house"
+    ]
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2,
+    "duplicate_facts": 2
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.5,
+  "entity_id": "lisa-retailnova",
+  "entity_email": "lisa@retailnova.com",
+  "entity_website": "https://retailnova.com",
+  "contact_name": "Lisa",
+  "record_id": "crm-lisa-retailnova"
+}

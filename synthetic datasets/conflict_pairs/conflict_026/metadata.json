@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_026",
+  "category": "headcount",
+  "company": "Catalyst IO",
+  "contact": "Alex Williams",
+  "industry": "Fintech",
+  "stale_date": "2025-07-11",
+  "fresh_date": "2026-01-20",
+  "stale_claim": "Catalyst IO has approximately 150 total employees",
+  "fresh_claim": "Catalyst IO grew to over 300 employees after a recent acquisition",
+  "expected_query": "How many employees does Catalyst IO have?",
+  "expected_answer": "grew to over 300 employees after a recent acquisition",
+  "stale_word_count": 184,
+  "fresh_word_count": 164
+}

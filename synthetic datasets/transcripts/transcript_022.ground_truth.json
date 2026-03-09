@@ -1,0 +1,92 @@
+{
+  "sample_id": "transcript_022",
+  "content_type": "meeting_transcript",
+  "company": "ShipGrid",
+  "industry": "Logistics",
+  "duration_minutes": 30,
+  "target_word_count": 2240,
+  "actual_word_count": 1430,
+  "expected_facts": [
+    {
+      "text": "They're dealing with data silos between engineering and sales teams",
+      "type": "explicit"
+    },
+    {
+      "text": "ShipGrid is a Logistics company with about 2318 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 10% this fiscal year",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 17 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Salesforce Einstein, Apollo.io",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Go, Kubernetes, AWS, DynamoDB, gRPC",
+      "type": "explicit"
+    },
+    {
+      "text": "Priya reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "Priya Wright has been at ShipGrid for 7 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 5 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $39M",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Chicago",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with security concerns with current architecture",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "CTO",
+    "company_name": "ShipGrid",
+    "company_size": "1000+",
+    "technology_stack": "Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "security concerns with current architecture",
+      "data silos between engineering and sales teams"
+    ],
+    "competitors_mentioned": [
+      "Salesforce Einstein",
+      "Apollo.io"
+    ],
+    "decision_maker": true,
+    "next_steps": "Send pricing proposal to Priya by Friday"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 4,
+    "duplicate_facts": 3
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.64,
+  "entity_id": "priya-shipgrid",
+  "entity_email": "priya@shipgrid.io",
+  "entity_website": "https://shipgrid.io",
+  "contact_name": "Priya",
+  "record_id": "crm-priya-shipgrid"
+}

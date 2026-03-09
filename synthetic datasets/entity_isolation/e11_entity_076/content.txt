@@ -1,0 +1,16 @@
+### Account Overview
+Sage Computing is a prominent MarTech company specializing in advanced analytics and marketing automation solutions. With approximately 547 employees and ~$187M in annual revenue, the company has experienced rapid growth, positioning it as a key player in the industry. Our primary point of contact is Alex Rivera, Director of Analytics at Sage Computing (alex.rivera@sagecomputing.com). Alex oversees data-driven initiatives and is actively evaluating solutions to address critical operational challenges.
+
+### Key Details
+Sage Computing's tech stack includes Java, Spring Boot, Azure, Oracle, and Kafka, reflecting a robust, cloud-native infrastructure suited for high-volume data processing. However, the company faces significant pain points: customer churn driven by slow support response times and substantial technical debt accumulated from rapid early growth. These issues are hampering scalability and customer retention. Currently, Sage is considering competitors like Outreach while also building solutions in-house to mitigate these challenges.
+
+### Deal Status
+This represents a high-value opportunity with a potential deal value of $1,000,000. Alex Rivera has expressed strong interest in our platform as a means to alleviate churn and modernize their stack without full in-house redevelopment. The decision timeline is targeted for Q3 2026, aligning with their fiscal planning cycle. Initial discussions have highlighted alignment between our capabilities and their Java/Spring Boot/Azure environment, positioning us favorably against Outreach and internal builds. No major roadblocks identified yet, but technical debt evaluation remains a key focus.
+
+### Next Steps
+- Schedule a technical deep-dive demo with Alex Rivera by end of next week to showcase integration with their Kafka and Oracle setup.
+- Follow up via email (alex.rivera@sagecomputing.com) with a customized ROI analysis addressing churn reduction and technical debt relief.
+- Coordinate internal review of competitive positioning vs. Outreach and in-house efforts.
+- Set calendar invite for bi-weekly check-ins to maintain momentum toward Q3 2026 timeline.
+
+(Word count: 348)

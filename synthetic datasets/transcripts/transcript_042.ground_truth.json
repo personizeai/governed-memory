@@ -1,0 +1,83 @@
+{
+  "sample_id": "transcript_042",
+  "content_type": "meeting_transcript",
+  "company": "LedgerPoint",
+  "industry": "Fintech",
+  "duration_minutes": 45,
+  "target_word_count": 3108,
+  "actual_word_count": 2821,
+  "expected_facts": [
+    {
+      "text": "Budget allocated is approximately $450,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Denver",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Scala, Spark, Databricks, Snowflake, Airflow",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating HubSpot AI, building in-house",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "James reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 26% this fiscal year",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 3 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "James Lee has been at LedgerPoint for 3 years",
+      "type": "explicit"
+    },
+    {
+      "text": "LedgerPoint is a Fintech company with about 3426 employees",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Sales Engineering",
+    "company_name": "LedgerPoint",
+    "company_size": "1000+",
+    "technology_stack": "Scala, Spark, Databricks, Snowflake, Airflow",
+    "deal_stage": "Qualification",
+    "deal_value": 450000,
+    "decision_timeline": "2026-04-20",
+    "competitors_mentioned": [
+      "HubSpot AI",
+      "building in-house"
+    ],
+    "decision_maker": false,
+    "next_steps": "James will share the RFP by end of week",
+    "buying_process": "Standard procurement: demo, security review, legal review, sign-off from VP Finance"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 4,
+    "duplicate_facts": 2
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.79,
+  "entity_id": "james-ledgerpoint",
+  "entity_email": "james@ledgerpoint.com",
+  "entity_website": "https://ledgerpoint.com",
+  "contact_name": "James",
+  "record_id": "crm-james-ledgerpoint"
+}

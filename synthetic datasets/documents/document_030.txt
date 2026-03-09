@@ -1,0 +1,63 @@
+# DockSmart — Account Overview
+
+## Company Background
+
+DockSmart is a mid-sized logistics and supply chain management company specializing in intelligent dock scheduling and warehouse optimization solutions for e-commerce and retail sectors. With approximately 786 employees spread across offices in Seattle, Chicago, and Atlanta, the company has established itself as a key player in streamlining last-mile delivery operations amid the booming demand for efficient fulfillment centers. Founded in 2012 by former Amazon logistics executives frustrated with fragmented dock management tools during the early e-commerce surge, DockSmart started as a bootstrapped startup offering basic scheduling software that quickly gained traction with regional distributors. Over the years, it expanded into AI-driven predictive analytics for dock utilization, helping clients reduce wait times by up to 40%. The company's growth has been steady, fueled by strategic acquisitions of two smaller SaaS tools in 2018 and 2021, but it faced a setback last quarter when it lost a major customer—a large grocery chain—due to persistent onboarding issues that highlighted gaps in their legacy systems. Currently, DockSmart is aggressively scaling its engineering team, having hired 19 new developers this quarter alone to support upcoming migrations and product enhancements. This positions them well in a competitive logistics landscape where real-time visibility and automation are paramount.
+
+## Key Contacts
+
+| Name | Title | Role in Deal |
+|---|---|---|
+| Maria Chen | Director of Analytics | Primary Contact |
+| James Hassan | Head of Product | Champion |
+| Alex Bhandari | Director of IT | Technical Evaluator |
+| Amanda Petrov | VP of Customer Success | Budget Owner |
+| Anita Nakamura | Director of IT | Champion |
+
+Maria Chen, who has been with DockSmart for seven years and reports directly to the CEO, serves as the primary contact and decision maker in this evaluation. Her deep institutional knowledge makes her invaluable for navigating internal priorities. James Hassan, as Head of Product, has been a vocal champion, frequently highlighting alignment with our platform's features during discussions. Alex Bhandari and Anita Nakamura from IT provide critical technical evaluation, ensuring compatibility with their existing infrastructure. Amanda Petrov, overseeing customer success, holds the budget reins and will need to secure CFO approval for any commitment exceeding $100K.
+
+## Meeting History
+
+### Meeting 1: Discovery Call (January 5, 2026)
+
+The initial discovery call on January 5, 2026, set the stage for our engagement with DockSmart, where Maria Chen led the discussion alongside James Hassan and Alex Bhandari. They outlined their core pain points in dock management, emphasizing inefficiencies caused by manual scheduling that lead to truck idling and delayed shipments. Maria shared that DockSmart, a logistics firm with around 800 employees, is planning a full migration off their aging legacy systems by the end of the year to modernize operations. The team expressed enthusiasm for our AI-powered scheduling capabilities, particularly how it integrates with their tech stack including Ruby on Rails and PostgreSQL. They revealed evaluating four vendors total, including Apollo.io, and stressed the need for seamless data migration tools to avoid repeating the onboarding failures that cost them a key client last quarter. James positioned himself as a champion early on, noting how our solution could accelerate their engineering team's recent expansion—they'd just onboarded 19 hires this quarter. The call ended with Maria committing to circulate internal requirements, and we scheduled the technical deep dive. This 90-minute session built strong rapport, with them appreciating our tailored demo that addressed real-time analytics needs.
+
+### Meeting 2: Technical Deep Dive (February 6, 2026)
+
+Building on the discovery call, the February 6, 2026, technical deep dive involved a broader group including Amanda Petrov and Anita Nakamura, diving into integration specifics and proof-of-concept scenarios. Maria reiterated her direct line to the CEO, underscoring the strategic importance of this initiative amid their growth spurt in engineering talent—19 new engineers this quarter to tackle the legacy system migration slated for year-end. They detailed their stack: Ruby on Rails for the core app, Heroku for hosting, PostgreSQL as the database backbone, and Sidekiq for background jobs, expressing concerns about compatibility during a pending Q3 security audit. Alex led the eval, probing our APIs for dock optimization endpoints, while Anita championed scalability features to handle their 786-employee operation's volume. Discussions highlighted risks from the recent customer loss due to onboarding snags, making them prioritize plug-and-play solutions. We demoed custom integrations, which impressed James, and they confirmed Apollo.io as a top competitor among the four under review. Maria promised to share the RFP by end of week, targeting a decision by May 30, 2026. The two-hour session uncovered nuances like custom Sidekiq queue management, solidifying our technical fit while exposing needs for enhanced security protocols.
+
+## Technical Requirements
+
+- **Dock Scheduling Optimization**: Real-time AI-driven scheduling to minimize truck wait times, integrating with existing Ruby on Rails frontend for dynamic UI updates; must handle peak volumes from their 786-employee logistics ops without latency.
+- **Legacy System Migration Support**: Tools for seamless data export/import from proprietary legacy platforms, timed for their end-of-year overhaul, including automated mapping for historical dock logs stored in PostgreSQL.
+- **Integration with Current Stack**: Native compatibility with Heroku deployment pipelines, PostgreSQL schemas for analytics data, and Sidekiq workers for async processing of scheduling jobs—critical as their engineering team, bolstered by 19 recent hires, builds custom extensions.
+- **Analytics and Reporting Dashboard**: Advanced dashboards for Maria Chen's analytics team, featuring predictive modeling for dock utilization; must support direct CEO reporting with exportable visualizations.
+- **Security and Compliance Features**: Audit-ready logging and encryption to prepare for Q3 security review, including role-based access aligned with IT directors Alex Bhandari and Anita Nakamura's standards.
+- **Scalability for Growth**: Horizontal scaling to accommodate engineering expansion and increased shipment volumes post-major customer loss recovery efforts.
+- **Onboarding Automation**: Self-service portals to prevent past onboarding issues that led to client churn last quarter, with guided workflows for customer success teams under Amanda Petrov.
+- **API-First Architecture**: Robust RESTful APIs for product-led integrations championed by James Hassan, ensuring extensibility with third-party tools.
+- **Custom Workflows**: Support for Sidekiq-based background tasks specific to logistics, like delay notifications and rescheduling queues.
+- **Mobile Accessibility**: Responsive apps for warehouse floor use, syncing with Heroku-hosted services in real-time.
+
+## Deal Status
+
+DockSmart's deal is currently in the technical evaluation stage following two productive meetings, with a potential annual contract value (ACV) of $450K based on their projected usage across 15 fulfillment centers. The timeline aims for a decision by May 30, 2026, aligning with their fiscal planning cycle, though procurement delays could push this. Next steps include Maria Chen sharing the RFP by end of this week, after which we'll submit a tailored proposal incorporating POC results. Progress has been strong, with James Hassan and Anita Nakamura actively championing internally, but approval from their CFO is required for deals over $100K, as Amanda Petrov confirmed. Blockers remain minimal, primarily around finalizing integration specs with their Ruby on Rails/Heroku/PostgreSQL/Sidekiq stack ahead of the Q3 security audit. Their engineering growth—19 hires this quarter—signals urgency for migration tools to replace legacy systems by year-end, positioning us favorably. Momentum is building, especially after addressing onboarding pitfalls from their recent customer loss, but we must monitor competitor traction closely to close by Q2 end.
+
+## Competitive Landscape
+
+DockSmart is rigorously evaluating four vendors in total for their dock management platform, including our solution:
+
+- **Apollo.io**: Strong contender due to robust sales intelligence features repurposed for logistics tracking; Maria noted their competitive pricing and quick Heroku integrations during the deep dive, making them a direct threat in analytics.
+- **Vendor 2 (Unnamed Logistics SaaS)**: Focuses on warehouse automation with PostgreSQL-native tools; appealing to IT for migration ease but lacks AI depth.
+- **Vendor 3 (Enterprise Player)**: Heavyweight with broad supply chain suite; budget concerns and complex onboarding mirror DockSmart's past issues.
+- **Vendor 4 (Niche Startup)**: Agile Sidekiq-compatible scheduler; favored by engineering for customizability but scalability doubts persist.
+
+Our edge lies in tailored AI and security alignment for their Q3 audit, though Apollo.io's momentum requires aggressive differentiation.
+
+## Risk Factors
+
+- **Procurement Delays from CFO Gate**: Any ACV over $100K triggers CFO review, potentially stalling the May 30, 2026, timeline; Amanda Petrov indicated this process took two months last cycle, exacerbated by year-end migration priorities.
+- **Competitive Displacement by Apollo.io**: As one of four vendors, Apollo's strong analytics pitch resonates with Maria's team; their recent demo impressed engineering, risking shift if we delay RFP response—they expect it end of week.
+- **Security Audit Complications**: Upcoming Q3 audit could uncover stack vulnerabilities (Ruby on Rails/Heroku exposures), derailing if our POC doesn't prove compliance; ties into legacy migration urgency after last quarter's client loss due to onboarding gaps, where they cited similar lapses.
+
+*(Word count: 2312)*

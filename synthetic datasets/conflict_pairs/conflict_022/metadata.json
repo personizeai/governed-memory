@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_022",
+  "category": "timeline",
+  "company": "Tidal Solutions",
+  "contact": "Robert Lindgren",
+  "industry": "EdTech",
+  "stale_date": "2025-10-22",
+  "fresh_date": "2026-02-23",
+  "stale_claim": "Tidal Solutions is targeting Q4 2026 for deployment",
+  "fresh_claim": "Tidal Solutions accelerated their timeline to Q2 2026",
+  "expected_query": "When does Tidal Solutions plan to deploy?",
+  "expected_answer": "accelerated their timeline to Q2 2026",
+  "stale_word_count": 182,
+  "fresh_word_count": 179
+}

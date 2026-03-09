@@ -1,0 +1,24 @@
+**Call Note: Follow-up Sales Meeting**  
+**Date:** February 16, 2026  
+**Contact:** Keiko Volkov, VP Engineering, Aether IO (Manufacturing)  
+**Duration:** 45 min (Zoom)  
+**Attendees:** KV, [Your Name] (AE)  
+
+**Summary:**  
+Follow-up on initial demo from Jan 2025. KV confirmed strong alignment of our ERP integration with Aether IO's smart factory upgrades, addressing downtime issues in their automated assembly lines (target: 20% efficiency gain). Reviewed ROI projections; KV validated assumptions based on their Q4 2025 pilot data.  
+
+**Key Update:** Account status **CHANGED** to **Proposal stage** (supersedes prior Discovery status). KV greenlit progression after internal review with CTO and ops leads.  
+
+**Other Details:**  
+- Budget range confirmed: $750K-$1.2M for Phase 1 rollout (12 months).  
+- Competitive note: Rejected Siemens quote due to higher TCO; our modular sensors preferred for retrofit compatibility.  
+- Risks: Integration with legacy PLCs needs custom PoC (low confidence).  
+
+**Next Steps:**  
+- Send tailored proposal by Feb 23 (incl. phased pricing, timeline, SLAs).  
+- Schedule review call wk of Feb 24 w/ KV + stakeholders.  
+- Action: [Your Name] to draft/send proposal.  
+
+**Owner:** [Your Name] | **Stage:** Proposal | **Close Date:** May 15, 2026  
+
+(Word count: 198)

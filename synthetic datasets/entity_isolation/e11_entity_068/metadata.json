@@ -1,0 +1,19 @@
+{
+  "entity_index": 68,
+  "name": "Nina Kim",
+  "company": "Willow Computing",
+  "industry": "EdTech",
+  "email": "nina.kim@willowcomputing.com",
+  "title": "VP of Operations",
+  "facts": [
+    "Nina Kim is VP of Operations at Willow Computing",
+    "Willow Computing is a EdTech company with 1031 employees",
+    "Tech stack: Rust, Actix, AWS, PostgreSQL, NATS",
+    "Deal value: $400,000",
+    "Pain points: poor developer experience slowing feature velocity; lack of real-time analytics for decision making",
+    "Competitors: Drift, Apollo.io, Chorus.ai",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$155M"
+  ],
+  "actual_word_count": 313
+}

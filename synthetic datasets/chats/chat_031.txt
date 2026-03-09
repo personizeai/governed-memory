@@ -1,0 +1,121 @@
+#deals-contenthq
+
+[09:15] @alex.m: @here quick update on ContentHQ deal. Amanda Wright, their Director of Sales Engineering, has been there 3 years. Stage is negotiation now. 
+
+[👍 from @sarah.k]
+
+[09:16] @sarah.k: nice! what's the vibe? budget confirmed?
+
+[09:17] @alex.m: Budget ~$120k. They're a digital media co with 4801 employees, HQ in Chicago.
+
+[09:18] @mike.r: 4801? that's mid-large. tech stack?
+
+[09:19] @alex.m: TypeScript, React, Node.js, GCP, MongoDB. fwiw matches ours perfectly.
+
+[09:20]  ↳ @sarah.k: got it, solid fit. pains?
+
+[09:21] @alex.m: Data silos between eng and sales, plus technical debt from rapid growth.
+
+[09:22] @anita.c: makes sense for their size. competitors?
+
+[09:23] @alex.m: Evaluating custom internal tool and Clari.
+
+[09:24]  ↳ @mike.r: Clari? tough comp. she mention why?
+
+[09:25] @alex.m: ngl, custom tool is lagging, Clari too pricey imo.
+
+[09:26] @sarah.k: timeline? decision by when?
+
+[09:27] @alex.m: 2026-09-12, end of their FY probably.
+
+[09:28] @mike.r: far out. next steps?
+
+[09:29] @alex.m: Schedule technical deep-dive with Amanda's eng team. lmk if anyone free next week.
+
+[09:30] @anita.c: I'm in. what did she say exactly?
+
+[09:31]  ↳ @alex.m: She wants it tomorrow if possible.
+
+[09:32] @sarah.k: tomorrow? aggressive. [shared link: ContentHQ pricing page] check this for ref.
+
+[09:33] @mike.r: thx sarah. pricing looks good vs Clari.
+
+[09:34]  ↳ @anita.c: yeah but they have data silos bad.
+
+[09:35] @alex.m: tbh their silos are killing eng-sales collab.
+
+[09:36] @sarah.k: repeated that pain last call too.
+
+[09:37] @mike.r: who? amanda?
+
+[09:38] @anita.c: got it. company size 1000+ right? wait 4801 per alex.
+
+[09:39] @alex.m: yep 4801 employees confirmed.
+
+[09:40] @sarah.k: tech debt from early growth, she mentioned twice.
+
+[09:41]  ↳ @mike.r: makes sense, Node.js mess probably.
+
+[09:42] @anita.c: @channel anyone talk to their Chicago team yet?
+
+[09:43] @alex.m: not yet, but deep dive will cover.
+
+[09:44] @mike.r: imo we win on GCP integration.
+
+[09:45] @sarah.k: fwiw Clari doesn't play nice with MongoDB.
+
+[09:46]  ↳ @alex.m: exactly, that's our edge.
+
+[09:47] @anita.c: last Friday they said custom tool is buggy.
+
+[09:48] @mike.r: buggy how? unclear.
+
+[09:49] @alex.m: she said they're not interested in Clari anymore.
+
+[09:50] @sarah.k: who she? amanda?
+
+[09:51]  ↳ @alex.m: yeah. deal value locked at 120000.
+
+[09:52] @anita.c: 👍 sweet.
+
+[09:53] @mike.r: next sprint we push demo?
+
+[09:54] @sarah.k: lmk schedule. pains nailed: silos and debt.
+
+[09:55] @alex.m: repeated tech stack to her: React, etc. excited.
+
+[09:56]  ↳ @anita.c: good repeat.
+
+[09:57] @mike.r: Chicago HQ visit? 
+
+[09:58] @alex.m: maybe post-deep dive.
+
+[09:59] @sarah.k: got it. stage negotiation confirmed.
+
+[10:00] @anita.c: timeline 2026-09-12 noted.
+
+[10:01]  ↳ @mike.r: far but steady.
+
+[10:02] @alex.m: custom tool eval failing hard.
+
+[10:03] @sarah.k: they been at it 3 years? amanda tenure.
+
+[10:04] @mike.r: yeah 3 years per alex.
+
+[10:05] @anita.c: digital media pains unique.
+
+[10:06] @alex.m: he wants eng deep dive asap. wait who he?
+
+[10:07] @sarah.k: unclear lol. amanda's team?
+
+[10:08]  ↳ @mike.r: probably.
+
+[10:09] @anita.c: budget 120k solid imo.
+
+[10:10] @alex.m: thx all. let's book that call.
+
+[👍 from @sarah.k] [👍 from @mike.r]
+
+[10:11] @sarah.k: on it.
+
+[10:12] @mike.r: makes sense.

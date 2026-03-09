@@ -1,0 +1,155 @@
+[09:15] @alex.m: Quick update on MediaForge @channel. Spoke with Raj Williams, their CPO. He's been there 5 years, def a decision maker.
+
+[👍 from @sarah.k]
+
+[09:16] @sarah.k: Nice! What's the vibe?
+
+[09:17] @alex.m: They're a digital media co with ~2100 employees. In qualification stage rn.
+
+[09:18]  ↳ @mike.r: 2100? That's 1000+ for sure lol.
+
+[09:19] @tom.b: Budget deets?
+
+[09:20] @alex.m: They got ~$1.2M allocated. Deal value lines up at 1,200,000.
+
+[09:21] @sarah.k: Whoa solid. Pains?
+
+[09:22] @alex.m: Technical debt from rapid early growth, fragmented tooling across depts. Ngl sounds painful.
+
+[09:23]  ↳ @mike.r: Yeah they mentioned that last Friday too.
+
+[09:24] @tom.b: Current setup?
+
+[09:25] @alex.m: Pipedrive w/ Slack notifs. Not cutting it imo.
+
+[09:26] @sarah.k: Makes sense. Competitors?
+
+[09:27] @alex.m: Looking at Chorus.ai, Apollo.io, Gong.
+
+[09:28] @mike.r: Gong's tough. We beat em on integration tho.
+
+[👍 from @alex.m]
+
+[09:29] @tom.b: Tech stack? [shared link: MediaForge pricing page]
+
+[09:30] @alex.m: Elixir, Phoenix, Fly.io, PostgreSQL, LiveView. Fancy!
+
+[09:31]  ↳ @sarah.k: LiveView? That's hot rn.
+
+[09:32] @mike.r: Raj say anything else?
+
+[09:33] @alex.m: He said they're dealing w/ fragmented tooling bad. Needs fix asap.
+
+[09:34] @sarah.k: Got it. Next steps?
+
+[09:35] @alex.m: Schedule tech deep-dive w/ his eng team tomorrow.
+
+[09:36] @tom.b: Tomorrow works? Lmk times.
+
+[09:37]  ↳ @alex.m: 2pm? He's free.
+
+[09:38] @mike.r: Budget confirmed by him?
+
+[09:39] @alex.m: Yup ~1.2M. She mentioned it too btw. [who "she"?]
+
+[09:40] @sarah.k: Who?
+
+[09:41] @alex.m: One of his reports. Anyway proceeding.
+
+[09:42] @tom.b: Tech debt from growth—heard that twice now.
+
+[09:43] @mike.r: Yeah Raj repeated it. They're hurting.
+
+[09:44] @sarah.k: @here anyone free for prep?
+
+[09:45] @alex.m: I'll loop in eng.
+
+[09:46]  ↳ @mike.r: 👍
+
+[09:47] @tom.b: Pipedrive sucks for big teams imo.
+
+[09:48] @sarah.k: Fwiw Gong integrates w/ Slack too but ours is better.
+
+[09:49] @alex.m: True. He wants deep-dive next sprint if not tomorrow.
+
+[09:50] @mike.r: Last Friday they said Chorus is out.
+
+[09:51] @tom.b: Good. Apollo?
+
+[09:52] @alex.m: Still eval'ing. She thinks we're ahead. [who "she"?]
+
+[09:53] @sarah.k: Progress! Deal stage qual still?
+
+[09:54] @alex.m: Yep. Pain points nailed: debt + tooling.
+
+[09:55]  ↳ @tom.b: + Pipedrive Slack mess.
+
+[09:56] @mike.r: They got 2101 employees exactly? Big.
+
+[09:57] @alex.m: ~2100 yeah. Digital media beast.
+
+[09:58] @sarah.k: Got it. Tech stack matches our strengths.
+
+[09:59] @tom.b: Elixir/Phoenix? We got hooks.
+
+[10:00] @mike.r: Raj been there 5 yrs—knows the debt inside out.
+
+[10:01] @alex.m: Exactly. He's pushing for change.
+
+[10:02]  ↳ @sarah.k: Decision maker vibes.
+
+[10:03] @sarah.k: Anyone talk pricing page? [shared link: MediaForge pricing page]
+
+[10:04] @tom.b: Skimmed it. Matches our pitch.
+
+[👍 from @mike.r]
+
+[10:05] @alex.m: Cool. Prep notes?
+
+[10:06] @mike.r: Highlight fragmented tooling fix.
+
+[10:07] @sarah.k: And beat Gong on LiveView support.
+
+[10:08] @tom.b: Tomorrow's call—me + you Alex?
+
+[10:09] @alex.m: + eng rep. Lmk if swap.
+
+[10:10] @mike.r: Ngl excited. $1.2M potential.
+
+[10:11]  ↳ @sarah.k: Same.
+
+[10:12] @sarah.k: He said no to Apollo? [who "he"?]
+
+[10:13] @alex.m: Raj yeah. Too sales-focused.
+
+[10:14] @tom.b: Smart. We own product side.
+
+[10:15] @mike.r: Technical debt killing their velocity tbh.
+
+[10:16] @alex.m: Yup from early growth boom.
+
+[10:17] @sarah.k: Makes sense. Pipedrive not scaling.
+
+[10:18]  ↳ @tom.b: Slack notifs only go so far.
+
+[10:19] @tom.b: Next sprint push if delayed.
+
+[10:20] @alex.m: Agreed. All good?
+
+[👍 from @sarah.k] [👍 from @mike.r]
+
+[10:21] @mike.r: They eval'd Chorus last month—dropped it.
+
+[10:22] @sarah.k: Good intel.
+
+[10:23] @alex.m: Raj's team ready for deep-dive.
+
+[10:24] @tom.b: Budget locked at 1,200,000?
+
+[10:25] @mike.r: He confirmed twice.
+
+[10:26] @sarah.k: Perfect. We're golden.
+
+[10:27] @alex.m: Thx team. Closing thread for now.
+
+[👏 from @tom.b]

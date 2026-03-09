@@ -1,0 +1,57 @@
+{
+  "sample_id": "call_note_015",
+  "content_type": "call_notes",
+  "company": "AdStack",
+  "industry": "Digital Media",
+  "duration_minutes": 25,
+  "target_word_count": 666,
+  "actual_word_count": 561,
+  "expected_facts": [
+    {
+      "text": "AdStack is a Digital Media company with about 158 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using a mix of Google Sheets and custom dashboards",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with data silos between engineering and sales teams",
+      "type": "explicit"
+    },
+    {
+      "text": "Victor Lindgren has been at AdStack for 2 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes PHP, Laravel, DigitalOcean, MySQL, Redis",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Product",
+    "company_name": "AdStack",
+    "company_size": "51-200",
+    "technology_stack": "PHP, Laravel, DigitalOcean, MySQL, Redis",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "high infrastructure costs eating into margins",
+      "data silos between engineering and sales teams",
+      "difficulty measuring ROI on AI initiatives"
+    ],
+    "decision_timeline": "2026-05-29",
+    "competitors_mentioned": [
+      "Gong",
+      "custom internal tool",
+      "Salesforce Einstein"
+    ],
+    "decision_maker": false,
+    "buying_process": "Fast-track available for deals under $150K with direct VP approval",
+    "current_solution": "a mix of Google Sheets and custom dashboards"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2
+  },
+  "property_coverage": 0.79
+}

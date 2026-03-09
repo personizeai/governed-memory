@@ -1,0 +1,86 @@
+{
+  "sample_id": "document_043",
+  "content_type": "wiki_document",
+  "company": "CareStack",
+  "industry": "Healthcare Tech",
+  "target_word_count": 1843,
+  "actual_word_count": 1376,
+  "expected_facts": [
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 17 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $58M",
+      "type": "explicit"
+    },
+    {
+      "text": "Maria Kaur has been at CareStack for 5 years",
+      "type": "explicit"
+    },
+    {
+      "text": "CareStack is a Healthcare Tech company with about 3033 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "Maria reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $120,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using a mix of Google Sheets and custom dashboards",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Customer Success",
+    "company_name": "CareStack",
+    "company_size": "1000+",
+    "deal_stage": "Proposal",
+    "deal_value": 120000,
+    "decision_timeline": "2026-05-13",
+    "decision_maker": false,
+    "next_steps": "Maria will share the RFP by end of week",
+    "buying_process": "Procurement requires three competitive bids before decision",
+    "current_solution": "a mix of Google Sheets and custom dashboards",
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Omar O'Brien",
+      "title": "Chief Revenue Officer",
+      "role": "Budget Owner"
+    },
+    {
+      "name": "Keiko Bhandari",
+      "title": "Director of Engineering",
+      "role": "End User"
+    },
+    {
+      "name": "Sarah Lee",
+      "title": "VP of Marketing",
+      "role": "Champion"
+    }
+  ],
+  "property_coverage": 0.79
+}

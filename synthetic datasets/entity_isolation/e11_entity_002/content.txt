@@ -1,0 +1,25 @@
+### Account Overview
+Axiom Digital is a prominent Fintech company with 2638 employees and annual revenue of ~$213M. Chloe Park serves as VP of Operations, overseeing key operational efficiencies in a competitive landscape. The company specializes in financial technology solutions, leveraging a modern tech stack including Python, Django, AWS, PostgreSQL, and Redis. As a high-value B2B prospect, Axiom Digital faces significant challenges that align well with our CRM capabilities, positioning us as a strategic partner against competitors like Apollo.io and Microsoft Copilot.
+
+### Key Details
+- **Primary Contact**: Chloe Park, VP of Operations  
+  Email: chloe.park@axiomdigital.com  
+- **Company Profile**: Fintech sector leader with 2638 employees; ~$213M annual revenue.  
+- **Tech Stack**: Python, Django, AWS, PostgreSQL, Redis.  
+- **Pain Points**:  
+  - Compliance audit failures on data handling, risking regulatory penalties and operational disruptions.  
+  - Vendor lock-in with current cloud provider (AWS), limiting flexibility and increasing costs.  
+  - Integration complexity with legacy systems, slowing down deployment and scalability.  
+
+These issues are critical for Axiom Digital's growth, as they hinder agile operations in a fast-evolving Fintech environment.
+
+### Deal Status
+This opportunity represents a $650,000 deal with a decision timeline in Q2 2026. Initial discussions with Chloe Park have uncovered strong alignment between our solutions and their pain points, particularly around compliance, cloud migration, and seamless integrations. Competitors Apollo.io and Microsoft Copilot are active in their evaluation, but our specialized Fintech CRM features provide a clear differentiator. The deal is in early discovery stage, with positive internal buy-in from operations leadership.
+
+### Next Steps
+1. Schedule a 30-minute demo call with Chloe Park by end of next week to deep-dive into compliance audit remediation and AWS vendor lock-in escape strategies.  
+2. Prepare customized proposal addressing integration complexity with legacy systems, highlighting Python/Django compatibility and PostgreSQL/Redis optimizations.  
+3. Engage technical stakeholders for a proof-of-concept on data handling compliance.  
+4. Follow up on Q2 2026 timeline by confirming key decision-makers and competitive positioning against Apollo.io and Microsoft Copilot.  
+
+Total word count: 378

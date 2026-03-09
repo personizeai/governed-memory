@@ -1,0 +1,18 @@
+**Call Note: Follow-up Sales Meeting**  
+**Date:** February 16, 2026  
+**Contact:** Alex Singh, VP of Engineering, Nimbus Networks (Fintech)  
+**Duration:** 45 minutes  
+
+Held virtual follow-up with Alex Singh to review our API platform demo and address procurement hurdles. Key **UPDATE**: Nimbus clarified VP of Engineering (Alex) now owns the final decision—superseding prior info that Purchasing led evaluation. This shifts ownership directly to engineering for faster alignment.  
+
+Alex confirmed strong fit for our real-time fraud detection module, especially integration with their core payment gateway (processes 2M txns/day). Expressed concerns over latency benchmarks vs. Competitor X; committed to sharing their internal perf data next week. Budget remains $250K-$350K annual for 50 dev seats, targeting Q2 rollout.  
+
+**Pain Points:** Need customizable dashboards for compliance reporting (SOC2/PCI).  
+**Next Steps:**  
+- Send revised POC timeline by EOD Fri (2/20).  
+- Schedule engineering deep-dive w/ their lead dev (TBD wk of 2/23).  
+- Alex to loop in CRO by 2/28 for buy-in.  
+
+Prospect heat: High. Alex enthusiastic, positioned for close in 45 days if benchmarks align. Follow up 2/20.  
+
+(Word count: 178)

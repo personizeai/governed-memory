@@ -1,0 +1,26 @@
+Call with: Anita Bhandari, Head of Data at VaultEdge  
+Date: February 07, 2026  
+Duration: 25 min  
+
+Key Points:  
+- Fintech VaultEdge, 11-50 emp, rapid growth -> tech debt piling up  
+- Stack: TS, React, Node, GCP, MongoDB  
+- Security probs w/ curr arch, esp post-growth  
+- Eval'ing Gong too, he's pushing for it internally  
+- Pain: tech debt + sec concerns killing scalability  
+- Deal stage: Proposal, $120k value  
+- She's DM, timeline Dec 10 close  
+- Next wk RFP from her  
+- Def interested, but needs to align eng team  
+- Prob budget ok, just timing  
+
+Action Items:  
+- [ ] F/u w/ Anita on RFP by EOW (me)  
+- [ ] Send proposal deck + case study on GCP/Mongo sec (me)  
+- [ ] Ping eng lead re: tech debt demo (Anita)  
+- [ ] Schedule next mtg post-RFP, aim EOQ  
+
+Notes:  
+Spoke w/ Anita, Head of Data @ VaultEdge. She's def the DM, pushing hard on fixing tech debt from their crazy early growth—went from startup to 47 heads fast, now regretting arch choices. Stack's all TS/React/Node on GCP/Mongo, but sec holes everywhere bc of shortcuts. Mentioned Gong eval, said the CTO's all in on it but she's skeptical re: our side-by-side. Deal at Proposal stage, $120k ARR potential, targeting Dec 10 decision. She's sharing RFP next week, then we loop in their eng for POC.  
+
+Vibe good, she gets the pains—prob close if we nail the sec angle. He's hesitating on timeline but she'll advocate. F/u critical by EOQ to keep momentum, esp w/ Gong lurking. Noted their size 11-50, fits our sweet spot for Fintech wins. Quick win if RFP lands clean.

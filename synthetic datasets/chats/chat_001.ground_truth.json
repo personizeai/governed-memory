@@ -1,0 +1,67 @@
+{
+  "sample_id": "chat_001",
+  "content_type": "chat_log",
+  "company": "TechFlow Inc",
+  "industry": "B2B SaaS",
+  "message_count_target": 45,
+  "actual_word_count": 684,
+  "expected_facts": [
+    {
+      "text": "TechFlow Inc is a B2B SaaS company with about 278 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $120,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Rust, Actix, AWS, PostgreSQL, NATS",
+      "type": "explicit"
+    },
+    {
+      "text": "Yusuf Kaur has been at TechFlow Inc for 6 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with vendor lock-in with current cloud provider",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Drift, Intercom",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with manual processes for customer onboarding",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Customer Success",
+    "company_size": "201-1000",
+    "technology_stack": "Rust, Actix, AWS, PostgreSQL, NATS",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "vendor lock-in with current cloud provider",
+      "manual processes for customer onboarding"
+    ],
+    "deal_value": 120000,
+    "decision_timeline": "2026-10-30",
+    "competitors_mentioned": [
+      "Drift",
+      "Intercom"
+    ],
+    "decision_maker": true
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 2,
+    "duplicate_facts": 1
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@brian.a"
+  ],
+  "property_coverage": 0.64
+}

@@ -1,0 +1,71 @@
+{
+  "sample_id": "email_023",
+  "content_type": "email_thread",
+  "company": "MediaForge",
+  "industry": "Digital Media",
+  "email_count": 6,
+  "actual_word_count": 1247,
+  "expected_facts": [
+    {
+      "text": "Their tech stack includes TypeScript, React, Node.js, GCP, MongoDB",
+      "type": "explicit"
+    },
+    {
+      "text": "Victor Baker has been at MediaForge for 2 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $163M",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using Salesforce with custom Apex triggers",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating custom internal tool, Drift",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with poor developer experience slowing feature velocity",
+      "type": "explicit"
+    },
+    {
+      "text": "MediaForge is a Digital Media company with about 3086 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with high infrastructure costs eating into margins",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Sales",
+    "company_name": "MediaForge",
+    "company_size": "1000+",
+    "technology_stack": "TypeScript, React, Node.js, GCP, MongoDB",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "high infrastructure costs eating into margins",
+      "poor developer experience slowing feature velocity",
+      "slow deployment cycles taking 2-3 weeks per release",
+      "vendor lock-in with current cloud provider"
+    ],
+    "competitors_mentioned": [
+      "custom internal tool",
+      "Drift"
+    ],
+    "decision_maker": false,
+    "next_steps": "Schedule a technical deep-dive with Victor's engineering team",
+    "buying_process": "Two-phase: technical POC first, then business case to leadership",
+    "current_solution": "Salesforce with custom Apex triggers",
+    "urgency_level": "Low"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2
+  },
+  "introduces_new_person": true,
+  "colleague": "Nadia Nakamura, Engineering Manager",
+  "property_coverage": 0.86
+}

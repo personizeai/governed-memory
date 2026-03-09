@@ -1,0 +1,60 @@
+{
+  "sample_id": "call_note_027",
+  "content_type": "call_notes",
+  "company": "HealthSync",
+  "industry": "Healthcare Tech",
+  "duration_minutes": 45,
+  "target_word_count": 424,
+  "actual_word_count": 243,
+  "expected_facts": [
+    {
+      "text": "Budget allocated is approximately $1,200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with data silos between engineering and sales teams",
+      "type": "explicit"
+    },
+    {
+      "text": "HealthSync is a Healthcare Tech company with about 115 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Priya Lindgren has been at HealthSync for 3 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with technical debt from rapid early growth",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q3",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Product",
+    "company_name": "HealthSync",
+    "company_size": "51-200",
+    "technology_stack": "Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "data silos between engineering and sales teams",
+      "technical debt from rapid early growth"
+    ],
+    "deal_value": 1200000,
+    "decision_timeline": "2026-11-20",
+    "decision_maker": false,
+    "next_steps": "Set up POC environment for Priya's team to evaluate",
+    "buying_process": "Need approval from their CFO (CFO) for anything over $100K"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1
+  },
+  "property_coverage": 0.79
+}

@@ -1,0 +1,17 @@
+### Account Overview
+Elm Solutions is a prominent InsurTech company with 2179 employees and approximately $67M in annual revenue. They specialize in innovative insurance technology solutions, leveraging a modern tech stack including Go, Kubernetes, AWS, DynamoDB, and gRPC. Our primary contact is Brian Singh, VP of Sales at Elm Solutions (brian.singh@elmsolutions.com). Brian oversees the sales organization and is actively seeking tools to streamline operations amid rapid growth in the InsurTech sector.
+
+### Key Details
+Elm Solutions faces several challenges that align closely with our platform's strengths. Key pain points include difficulty hiring specialized engineers, inconsistent messaging across the sales team, and customer churn driven by slow support response times. They currently evaluate competitors such as Intercom, HubSpot AI, and Clari for sales enablement and customer success solutions. Their tech-forward infrastructure (Go, Kubernetes, AWS, DynamoDB, gRPC) positions them well for seamless integration with our offerings. Brian has expressed frustration with fragmented tools exacerbating sales inconsistencies and support delays, leading to higher churn rates.
+
+### Deal Status
+This is a high-potential opportunity with an estimated deal value of $120,000. Brian Singh has confirmed strong interest following initial demos, highlighting how our solution addresses their hiring hurdles through automated workflows and sales messaging alignment. The decision timeline is targeted for Q4 2026, aligned with their fiscal planning cycle. Internal buy-in from sales leadership is progressing, with no major blockers identified yet. Competitive landscape includes Intercom for support ticketing and HubSpot AI/Clari for revenue intelligence, but our unified platform differentiates on engineering efficiency and churn reduction.
+
+### Next Steps
+- Schedule follow-up call with Brian Singh next week to demo customized integrations for their Go/Kubernetes/AWS stack.
+- Share case studies addressing InsurTech churn and sales messaging consistency.
+- Request intro to engineering lead to validate DynamoDB/gRPC compatibility.
+- Prepare ROI analysis showing $120K value against ~$67M revenue baseline.
+- Monitor for Q4 2026 timeline shifts and nurture with competitor gap analysis.
+
+(Word count: 347)

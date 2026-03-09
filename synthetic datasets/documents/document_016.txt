@@ -1,0 +1,49 @@
+# LearnStack — Account Overview
+
+## Company Background
+LearnStack is a dynamic EdTech company specializing in scalable online learning platforms that empower educational institutions and corporate training programs worldwide. With approximately 111 employees, the organization operates in the competitive landscape of digital education tools, focusing on delivering interactive courseware, gamified learning experiences, and analytics-driven insights for user engagement. Founded in 2015 by a team of former educators and software engineers who identified gaps in traditional learning management systems (LMS), LearnStack bootstrapped its way from a small startup in Seattle to a mid-sized player serving over 500 enterprise clients. Their tech stack is modern and cloud-native, built primarily on TypeScript for frontend robustness, React for dynamic user interfaces, Node.js for backend efficiency, Google Cloud Platform (GCP) for scalable infrastructure, and MongoDB for flexible data storage. This setup supports their core product, a comprehensive LMS that handles everything from content authoring to learner progress tracking. Despite their growth, LearnStack grapples with operational challenges, including a reliance on a legacy Java application maintained by just one individual, which has become a bottleneck for innovation and scalability.
+
+## Key Contacts
+| Name | Title | Role in Deal |
+|---|---|---|
+| James Wright | VP of Engineering | Primary Contact & Decision Maker |
+| Ivan Hassan | Director of Analytics | Budget Owner |
+| Emily Mitchell | Head of Infrastructure | Budget Owner |
+
+James Wright, who has been with LearnStack for seven years and rose through the ranks from senior developer to VP of Engineering, serves as our primary point of contact. His deep institutional knowledge makes him instrumental in technical evaluations. Ivan Hassan oversees analytics initiatives and holds significant sway over budget approvals, while Emily Mitchell manages infrastructure spend, which is a critical pain point for the company. These contacts were identified early in our engagement and have been responsive, with James leading most technical discussions.
+
+## Meeting History
+### Meeting 1: Discovery Call (February 9, 2026)
+In our initial discovery call on February 9, 2026, the LearnStack team outlined their operational challenges, emphasizing high infrastructure costs on GCP that are eroding profit margins despite their mid-sized scale of around 110 employees. James Wright highlighted how their current legacy Java application, maintained single-handedly by one engineer, limits agility and scalability. We discussed their tech stack—TypeScript, React, Node.js, GCP, and MongoDB—and uncovered a key pain point: the absence of real-time analytics, which hampers data-driven decision-making in learner engagement and content optimization. The conversation also touched on a recent board meeting last month that realigned priorities toward cost optimization and modern tooling. They expressed interest in our solution as a potential replacement, noting evaluations of alternatives like a custom internal tool and Outreach. The call ended with alignment on scheduling a deeper technical review, and they confirmed a budget envelope of roughly $200,000 for the fiscal year.
+
+### Meeting 2: Technical Deep Dive (February 12, 2026)
+The technical deep dive on February 12, 2026, delved into LearnStack's architecture and pain points with greater specificity. Emily Mitchell detailed how GCP bills are ballooning due to inefficient resource provisioning in their Node.js and MongoDB services, consuming a disproportionate share of margins. James demonstrated their React-based frontend integrated with the aging Java backend, underscoring maintenance risks since it's handled by a sole developer. We explored integration paths for our platform, mapping it against their TypeScript ecosystem and real-time analytics gaps, which prevent timely insights into user drop-off rates. Ivan Hassan raised concerns from the board's recent shift in priorities—about four weeks ago—pushing for quicker ROI on new investments. They shared POC requirements, and we committed to next steps like setting up a demo environment. Competitors came up briefly; Outreach's sales outreach features appeal but lack depth in analytics, while their custom tool is stalled internally. This session solidified their evaluation stage at Proposal, with a decision timeline targeting July 31, 2026.
+
+## Technical Requirements
+- **Real-Time Analytics Integration**: Need seamless, low-latency dashboards for learner metrics, replacing the current lack of real-time decision-making tools that delay optimizations in their React/Node.js frontend.
+- **Infrastructure Cost Optimization**: Solutions to reduce GCP expenses, which are currently high and margin-eroding, through auto-scaling, efficient MongoDB querying, and better resource allocation without disrupting TypeScript-based services.
+- **Legacy Migration Path**: Phased replacement or augmentation of their legacy Java application, maintained by one person, to modern stack components ensuring minimal downtime for their 111-employee operation.
+- **Scalable Backend Services**: Enhanced Node.js APIs with horizontal scaling on GCP, supporting peak loads during course launches without the vulnerabilities of single-person maintenance.
+- **Custom Integration Hooks**: TypeScript SDKs for embedding into existing React UIs, plus MongoDB schema compatibility for historical data migration.
+- **Security and Compliance**: EdTech-specific features like SOC 2 compliance, data encryption at rest/transit, and role-based access aligned with their board-mandated priority shifts.
+- **POC Environment Setup**: Dedicated sandbox for James Wright's engineering team to test integrations, with sample datasets mirroring their learner analytics workload.
+- **Budget-Aligned Deployment**: Support for ~$200K annual spend, including managed hosting to offset current infra overruns.
+
+These requirements were refined across meetings, prioritizing low-urgency rollout given their stable but strained current solution.
+
+## Deal Status
+The deal with LearnStack is currently in the Proposal stage, with a projected value of $200,000 over the first year, covering licensing, implementation, and initial support for up to 111 users across their EdTech platform. Next steps involve setting up a POC environment tailored for James Wright's team to evaluate real-world performance against their TypeScript, React, Node.js, GCP, and MongoDB stack. The decision timeline is set for July 31, 2026, reflecting low urgency amid their operational stability, though recent board directives from last month have introduced some internal momentum. Budget is allocated and confirmed by Ivan Hassan and Emily Mitchell as approximately $200K, earmarked from infrastructure savings. No major blockers exist yet, but alignment on POC feedback is critical; they've been forthcoming, with James as the key decision maker. High infrastructure costs and analytics deficiencies position us well, but the single-maintainer legacy Java app adds complexity to migration planning. Overall, momentum is positive post-deep dive, with a clear path to close if POC succeeds in the coming months.
+
+## Competitive Landscape
+LearnStack is actively evaluating a few alternatives to address their pain points:
+- **Custom Internal Tool**: An in-house development effort using their existing stack (Node.js, React, GCP), but progress has slowed due to resource constraints from the legacy Java maintenance burden.
+- **Outreach**: Primarily a sales engagement platform, they're assessing it for outreach to learners and partners, though it falls short on EdTech-specific real-time analytics and infrastructure efficiencies.
+
+No other major vendors like Salesforce or custom LMS rebuilds were mentioned, giving us an edge in tailored integrations. Their board's priority shift last month has made them cautious about vendor lock-in.
+
+## Risk Factors
+- **Board Priority Shifts**: The recent board meeting approximately one month ago altered focuses toward immediate cost cuts, potentially deprioritizing longer-term tech overhauls if quarterly margins tighten further; this could delay the July 31 timeline.
+- **Legacy Dependency**: Reliance on a legacy Java application sustained by a single engineer creates a single point of failure—James noted it's "their Achilles' heel"—and any departure could force rushed decisions, but it also risks internal resistance to migration.
+- **Low Urgency and Competitor Inertia**: With low urgency, they might extend evaluations of Outreach or the stalled custom tool, especially if POC setup drags; their 111-employee size limits internal bandwidth for rapid testing, which they've hinted at in discussions. 
+
+This account represents a strong fit given aligned tech needs, but proactive POC delivery is key to mitigating these. (Word count: 1823)

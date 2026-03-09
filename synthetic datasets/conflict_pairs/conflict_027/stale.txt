@@ -1,0 +1,13 @@
+**Call Note: Sales Meeting w/ Keiko O'Brien, VP Engineering, Aether IO (EdTech)**  
+**Date:** August 14, 2025 | **Duration:** 45 min | **Attendees:** Me, Keiko O'Brien  
+
+Discussed Aether IO's platform scaling needs for K-12 adaptive learning tools. Aether IO identified slow deployment cycles as their primary pain point, with current AWS EKS + Jenkins pipelines taking 48+ hours per release, delaying updates to 10K+ teacher users.  
+
+Keiko shared they're migrating from monolith to microservices but bottlenecked by manual approvals and testing. Expressed frustration over lost dev velocity vs. competitors like Duolingo. Budget approved: $750K for CI/CD overhaul in Q4 2025. High interest in our GitOps solution—claims it could cut cycles to <1hr based on POC benchmarks.  
+
+Action items:  
+- Send tailored ROI calc + EdTech case study (Google Classroom integration) by EOD tomorrow.  
+- Schedule technical demo w/ their DevOps lead for Aug 28.  
+- Follow up on procurement contact.  
+
+**Opportunity Stage:** Discovery | **Next Call:** Aug 21 | **Notes:** Strong fit; Keiko champions internally.

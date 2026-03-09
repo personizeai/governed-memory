@@ -1,0 +1,99 @@
+{
+  "sample_id": "transcript_038",
+  "content_type": "meeting_transcript",
+  "company": "CargoNova",
+  "industry": "Logistics",
+  "duration_minutes": 30,
+  "target_word_count": 2188,
+  "actual_word_count": 1586,
+  "expected_facts": [
+    {
+      "text": "They've also been evaluating Gong, Salesforce Einstein, Outreach",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 10% this fiscal year",
+      "type": "explicit"
+    },
+    {
+      "text": "CargoNova is a Logistics company with about 2409 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 5 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using Pipedrive with Slack notifications",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with manual processes for customer onboarding",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 20 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q3",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with scaling issues during peak traffic periods",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+      "type": "explicit"
+    },
+    {
+      "text": "Lisa reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "Lisa Okonkwo has been at CargoNova for 1 years",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Chief Revenue Officer",
+    "company_name": "CargoNova",
+    "company_size": "1000+",
+    "technology_stack": "Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "scaling issues during peak traffic periods",
+      "manual processes for customer onboarding"
+    ],
+    "deal_value": 200000,
+    "decision_timeline": "2026-05-01",
+    "competitors_mentioned": [
+      "Gong",
+      "Salesforce Einstein",
+      "Outreach"
+    ],
+    "decision_maker": false,
+    "current_solution": "Pipedrive with Slack notifications"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1,
+    "duplicate_facts": 1
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.79,
+  "entity_id": "lisa-okonkwo-cargonova",
+  "entity_email": "lisa.okonkwo@cargonova.io",
+  "entity_website": "https://cargonova.io",
+  "contact_name": "Lisa Okonkwo",
+  "record_id": "crm-lisa-okonkwo-cargonova"
+}

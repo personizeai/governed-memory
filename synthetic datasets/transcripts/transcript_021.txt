@@ -1,0 +1,154 @@
+---
+type: Contact
+record_id: crm-tom-buildtech-corp
+email: tom@buildtech.com
+website_url: https://buildtech.com
+company: BuildTech Corp
+industry: Manufacturing
+contact_name: Tom
+job_title: VP of Marketing
+---
+
+Alex: Hi Tom, thanks for taking the time today. How's your day going so far?
+
+Tom: Hey Alex, good to meet you virtually. Yeah, it's been alright—busy morning with back-to-back calls, but nothing too crazy. You?
+
+Alex: Same here, just wrapped up a demo with another team. Anyway, I appreciate you hopping on. So, TechNova helps manufacturing companies like yours streamline operations with our cloud-native platform. Before we dive in, mind if I spend a couple minutes confirming a few things about BuildTech Corp to make sure we're aligned?
+
+Tom: Sure, go ahead. Fire away.
+
+Alex: Great. From what I understand, you're a manufacturing firm with around 99 employees, right? Focused on construction materials or something along those lines?
+
+Tom: Yeah, that's spot on. We've got about 99 folks here at BuildTech Corp, mostly in production and sales. Been in the manufacturing space for over a decade now, specializing in modular building components.
+
+Alex: Perfect. And you've been there, what, six years as VP of Marketing?
+
+Tom: Yep, coming up on six years next month. Started when we were pushing into new markets, and it's been a ride ever since.
+
+Alex: Awesome. Now, on the tech side, I see you're running TypeScript, React, Node.js on GCP with MongoDB. That sound about right?
+
+Tom: Absolutely. Our frontend's all React with TypeScript, backend Node.js services, hosted on GCP, and MongoDB for the database. It's served us well, but we're hitting some walls.
+
+Alex: Got it. Let's talk about those. What are the biggest pain points right now? From our prep, it seems like security concerns with the current architecture are top of mind, plus maybe some vendor lock-in issues with GCP?
+
+Tom: He nailed it there. Security's a huge one— we've had a couple close calls with vulnerabilities in our setup, you know, misconfigurations that exposed some endpoints. And yeah, the vendor lock-in with GCP is killing us. Migrating data or even testing alternatives feels like a nightmare because everything's so intertwined.
+
+Alex: Totally understand. He mentioned that in our initial email thread too. How long has that been bubbling up?
+
+Tom: Oh, a few weeks ago we had an audit that really highlighted it. Our team's scrambling to patch things manually, which ties into another issue: these manual processes for customer onboarding. It's all spreadsheets and emails—takes days when it should be hours.
+
+Alex: Right, and lack of real-time analytics for decision-making? Like, not having dashboards that update live for marketing campaigns or production forecasts?
+
+Tom: Exactly. We make calls based on yesterday's data half the time. It's frustrating, especially in manufacturing where supply chain shifts happen fast. He said we'd lose competitive edge without fixing it soon.
+
+Alex: Makes sense. So, you're evaluating solutions right now—I've heard Drift, Outreach, and ZoomInfo are in the mix?
+
+Tom: We are. Checked out Drift for chat, Outreach for sequencing, ZoomInfo for leads. But none quite hit the operational side for us in manufacturing. What sets TechNova apart?
+
+Alex: Fair question. Our platform integrates seamlessly with stacks like yours—plugs right into Node.js APIs, works with MongoDB queries, and we handle the security layer with zero-trust architecture out of the box. No more GCP lock-in worries; we're multi-cloud native. And for onboarding, it's automated workflows that cut time by 70%. Real-time analytics? Dashboards that pull from your React apps live.
+
+Tom: Hmm, sounds promising. We've got a budget allocated—roughly fifty thousand dollars for this initiative. IT budget jumped 34% this fiscal year, so we're good there.
+
+Alex: Noted, around $50,000 sounds like a solid starting point for qualification. Matches what we do for teams your size, 51 to 200 employees. Does that cover the full scope you're thinking, or is there wiggle room?
+
+Tom: Yeah, we've allocated approximately $50,000 specifically for a platform like this. Up to 200K I can sign off on directly—no board needed unless it goes higher. Budget's around fifty grand to start, but flexible.
+
+Alex: Perfect. Timeline-wise, what's your decision target? By end of month next quarter or something?
+
+Tom: Aiming for May 7th, 2026, to roll out. We've got Q2 planning coming up, so next quarter is key. But yeah, by end of this month we'd love to narrow options.
+
+Alex: Got it. He mentioned a few weeks ago in LinkedIn that you're accelerating digital transformation. With the budget increase—34% this year, right?—you're positioned well.
+
+Tom: Spot on. That boost has us moving faster. So, walk me through how you'd address the security stuff specifically.
+
+Alex: Sure. We start with a full audit of your current architecture. Our tool scans for those GCP-specific vulns and suggests migrations without downtime. For example, one client in manufacturing—similar size, about 100 employees—had vendor lock-in fears. They ported over in weeks, now they're on our platform with end-to-end encryption and compliance certs.
+
+Tom: Interesting. He had a similar story with a partner last year. What about integration? Does it play nice with React components we already built?
+
+Alex: 100%. SDK drops into your TypeScript codebase. Node.js handlers for webhooks, MongoDB connectors for data sync. No rip-and-replace. Oh, quick side note—how's the weather there? Looks sunny on your end.
+
+Tom: Haha, yeah, finally breaking out of this rain streak. Yours?
+
+Alex: Overcast here in Seattle, as usual. Anyway, back to it. For real-time analytics, imagine marketing dashboards showing onboarding funnel live, tied to production metrics. No more manual exports.
+
+Tom: That'd be huge. Our onboarding's a bottleneck—sales reps chase docs for days. And security audits take forever too.
+
+Alex: We automate that. Workflow engine handles KYC, contracts, all compliant. One customer cut onboarding from 5 days to 45 minutes. Vendor lock-in? We abstract GCP dependencies, so you can hybrid with AWS or Azure later.
+
+Tom: She shared a case study on that. How do pricing shakes out for 99 employees?
+
+Alex: Base is tiered—your $50k allocation fits our enterprise starter at about 48k annually, plus onboarding fee. Scales with usage, but unlimited for your size.
+
+Tom: Solid. We've been eyeing Drift for conversational stuff, but it doesn't touch ops. Outreach is sales-only, ZoomInfo leads. You cover marketing ops end-to-end?
+
+Alex: Yep. Full stack for manufacturing—supply chain vis, customer 360, predictive analytics. He brought up manual processes earlier; we eliminate them with no-code builders.
+
+Tom: Right. A few weeks ago, our CIO flagged the security gaps again. Need something by next quarter.
+
+Alex: Understood. Let's mock up a quick POC. I can share screen—here's a dashboard sim tied to MongoDB sample data.
+
+Tom: Yeah, show me.
+
+Alex: Okay, pulling it up. See this? Live query from Node.js endpoint, React viz updating real-time. Toggle security view—flags your potential GCP exposures.
+
+Tom: Nice. He demoed something like that before. Handles our scale? 99 users logging in peak hours.
+
+Alex: Easily. Horizontal scaling baked in. Now, pain point: vendor lock-in. This migration wizard—we've open-sourced parts for exactly that.
+
+Tom: Good to hear. Budget-wise, roughly fifty thousand gets us live when?
+
+Alex: POC next week, full deploy by end of month. Aligns with your May 7th, 2026 rollout.
+
+Tom: Timeline works. We've got 51-200 employees officially listed, but yeah, hovering at 99. IT budget up 34% lets us push.
+
+Alex: Confirmed. Buying process—you sign up to 200K?
+
+Tom: Yes, direct authority there. Board only over.
+
+Alex: Great for speed. Any other stakeholders?
+
+Tom: CTO and CEO peek in, but I'm lead. Been here six years, so I know the pulse.
+
+Alex: Excellent. Digression—ever been to the manufacturing expo last year? Met some folks there.
+
+Tom: Yeah, that was chaos but useful. Networked with a GCP rep ironically.
+
+Alex: Haha, small world. Anyway, thoughts on next steps?
+
+Tom: I'll present this internally—share with team. Circle back next week?
+
+Alex: Perfect. I'll send recap, POC access, and competitor comparison vs. Drift, Outreach, ZoomInfo.
+
+Tom: Sounds good. Security demo sold me somewhat.
+
+Alex: Awesome. One more on analytics—lack of real-time killing campaigns?
+
+Tom: Big time. Forecasts off by days.
+
+Alex: Our ML pulls GCP logs live into MongoDB aggregates. React hooks update UIs instantly.
+
+Tom: We'll test that. He emphasized vendor flexibility too.
+
+Alex: Locked in. Budget at approx $50k covers it.
+
+Tom: Yep, allocated fifty thousand. Decision by 2026-05-07.
+
+Alex: Aligned. Thanks Tom—excited to move forward.
+
+Tom: Likewise, Alex. Talk soon.
+
+Alex: Bye for now. 
+
+[End of transcript]
+
+Tom: Oh, one last thing—can you cc my assistant on the recap?
+
+Alex: Absolutely, what's the email?
+
+Tom: tkim@buildtechcorp.com—no, assistant is jdoe@buildtechcorp.com.
+
+Alex: Got it. Sent post-call.
+
+Tom: Thanks. 
+
+*(Word count: 1623)*

@@ -1,0 +1,38 @@
+Call with: Michael Moreau, Director of IT at BioSignal AI  
+Date: February 06, 2026  
+Duration: 45 min  
+
+Key Points:  
+- 51-200 emp co, growing fast  
+- stack Rust/Actix/AWS/PG/NATS — def our wheelhouse  
+- curr sol internal py scripts pull mult APIs, hacky af  
+- eval Gong/custom tool/MS Copilot — Gong too salesy, Copilot meh integ  
+- big pain vendor lock-in curr cloud prov, want out  
+- integ complex w/ legacy sys, py scripts breaking const  
+- MM 3yrs @ BSAI, knows pain pts inside out  
+- he's DM, but proc heavy — req 3 comp bids b4 decide  
+- deal stage qual, urgency low, no fire  
+- likes no-lockin pitch, stack align  
+- budget? FY25 end, prob Q2 push  
+- team size IT 8ppl, overload maint scripts  
+- asked re: NATS support — yes seamless  
+- pain scripts mult API pulls slow/fragile  
+- he pushing eval but procurement drag  
+- comps not cutting it, Gong miss IT angle  
+- low urgency bc stable-ish now  
+- legacy integ nightmare, AWS deep but locked  
+- 3yr vet, credible internally  
+- bids req formal RFP-ish  
+- qual done, next tech deep dive  
+
+Action Items:  
+- [ ] send tech one-pager w/ Rust/Actix/NATS ex (me) next week  
+- [ ] f/u call sched w/ MM re: demo (me) by EOQ  
+- [ ] req formal quote template from him (MM)  
+- [ ] loop in SE for stack audit prep (me)  
+- [ ] track 3-bid proc timeline (me)  
+
+Notes:  
+Qual call w/ MM, Dir IT @ BioSignal AI (51-200). Solid convo, he's 3yrs in, total DM but procurement mandates 3 comp bids — slows evals. Pain city: vendor lock-in AWS hard, legacy integ messy w/ py scripts pulling APIs left/right, breaking often. Stack perf match (Rust/Actix/PG/NATS), he lit up on no-lockin escape hatch. Eval'd Gong (sales focus no IT fit), custom tool (brittle), Copilot (shallow). Urgency low, he's pushing internally but team risk-averse bc budget EOQ crunch. Def qual'd, pain/need/budget/timeline sorta there — low heat tho.  
+
+He's def buyer but needs bids formal. Asked stack deets, walked Rust align, NATS streaming win. Py scripts curr sol nightmare, mult API fragile/slow. Comp intel gold: Gong out integ, Copilot gen AI fluff. Next week one-pager, then demo? He mentioned Q2 pilot if bids clear. Low urgency signal but pain real — legacy killing them. F/U aggressive but respect proc. Stage qual locked.

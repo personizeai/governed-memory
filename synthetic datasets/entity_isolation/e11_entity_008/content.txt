@@ -1,0 +1,16 @@
+### Account Overview
+Vertex Cloud is an EdTech company with 322 employees and approximately $109M in annual revenue. They specialize in cloud-based learning platforms, leveraging a modern tech stack including Scala, Spark, Databricks, Snowflake, and Airflow to power scalable data pipelines and analytics for educational institutions. Key contact is Brian Fernandez, Director of Engineering (brian.fernandez@vertexcloud.com), who oversees engineering teams focused on platform reliability and feature development amid rapid scaling.
+
+### Key Details
+Brian Fernandez, as Director of Engineering at Vertex Cloud, has highlighted several critical pain points: inconsistent messaging across the sales team leading to fragmented customer experiences; customer churn driven by slow support response times; and significant technical debt accumulated from rapid early growth. Their current setup relies on existing CRM workflows, Outreach, and Gong for sales enablement and call analytics, but these tools fall short in unifying data flows and automating responses effectively. Vertex Cloud's engineering-heavy culture means solutions must integrate seamlessly with their tech stack—Scala for backend services, Spark and Databricks for big data processing, Snowflake for data warehousing, and Airflow for orchestration.
+
+### Deal Status
+This is a high-potential B2B prospect with a projected deal value of $50,000. Discussions with Brian have advanced to the evaluation stage, where we've demoed integrations with their Snowflake and Airflow pipelines to address technical debt and support bottlenecks. Competitors like Outreach and Gong are entrenched but criticized for lacking depth in engineering workflows. Decision timeline is targeted for Q4 2026, aligned with their fiscal planning cycle. Brian has expressed strong interest in piloting our CRM enhancements to standardize sales messaging and accelerate support SLAs, potentially reducing churn by 20-30%.
+
+### Next Steps
+- Schedule follow-up call with Brian Fernandez next week to review pilot proposal tailored to Vertex Cloud's Scala/Spark environment.
+- Share case study on EdTech client with similar Databricks/Snowflake stack achieving 15% churn reduction.
+- Engage sales lead for internal alignment on $50K pricing and Q4 2026 close strategy.
+- Monitor Outreach/Gong usage via discovery call to quantify gaps in inconsistent messaging.
+
+(Word count: 347)

@@ -1,0 +1,92 @@
+{
+  "sample_id": "document_014",
+  "content_type": "wiki_document",
+  "company": "FreightPulse",
+  "industry": "Logistics",
+  "target_word_count": 2117,
+  "actual_word_count": 1539,
+  "expected_facts": [
+    {
+      "text": "Their tech stack includes Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with difficulty measuring ROI on AI initiatives",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "Daniel Nakamura has been at FreightPulse for 6 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 6 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using Microsoft Dynamics with Power Automate",
+      "type": "explicit"
+    },
+    {
+      "text": "FreightPulse is a Logistics company with about 60 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with technical debt from rapid early growth",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 2 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Drift, existing CRM workflows, building in-house",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Customer Success",
+    "company_name": "FreightPulse",
+    "company_size": "51-200",
+    "technology_stack": "Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "technical debt from rapid early growth",
+      "difficulty measuring ROI on AI initiatives"
+    ],
+    "decision_timeline": "2026-05-02",
+    "competitors_mentioned": [
+      "Drift",
+      "existing CRM workflows",
+      "building in-house"
+    ],
+    "next_steps": "Send pricing proposal to Daniel by Friday",
+    "current_solution": "Microsoft Dynamics with Power Automate"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Robert Okonkwo",
+      "title": "VP of Marketing",
+      "role": "Technical Evaluator"
+    },
+    {
+      "name": "Kevin Nakamura",
+      "title": "Chief Product Officer",
+      "role": "Technical Evaluator"
+    },
+    {
+      "name": "Lisa Moreau",
+      "title": "Head of Data",
+      "role": "Budget Owner"
+    }
+  ],
+  "property_coverage": 0.71
+}

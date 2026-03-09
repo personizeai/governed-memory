@@ -1,0 +1,19 @@
+{
+  "entity_index": 99,
+  "name": "Emily Okonkwo",
+  "company": "Slate Solutions",
+  "industry": "SpaceTech",
+  "email": "emily.okonkwo@slatesolutions.com",
+  "title": "Chief Revenue Officer",
+  "facts": [
+    "Emily Okonkwo is Chief Revenue Officer at Slate Solutions",
+    "Slate Solutions is a SpaceTech company with 2371 employees",
+    "Tech stack: Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+    "Deal value: $250,000",
+    "Pain points: scaling issues during peak traffic periods; integration complexity with legacy systems",
+    "Competitors: ZoomInfo",
+    "Decision timeline: Q3 2026",
+    "Annual revenue: ~$84M"
+  ],
+  "actual_word_count": 340
+}

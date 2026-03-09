@@ -1,0 +1,94 @@
+#deals-docksmart
+[09:15] alex.m: Quick update from yesterday's call with Alex Volkov. He's CRO at DockSmart, been there 2 years now. Logistics co with ~96 folks. 👍
+[👍 from @sarah.k]
+[09:16] sarah.k: Nice, what's the vibe? Deal stage?
+[09:17] alex.m: Negotiation. Pain points: scaling issues during peak traffic, hiring specialized engineers tough, and measuring ROI on AI initiatives.
+[09:18]  ↳ mike.r: Scaling during peaks? Like what, Black Friday surges? lmk more.
+[09:19] alex.m: Yeah, their stack is Java, Micronaut on GCP with Spanner and Pub/Sub. Peaks kill 'em tbh.
+[09:20] sarah.k: Budget? Deal value around 50k right?
+[09:21] mike.r: Got it. They mentioned Gong too?
+[09:22] alex.m: Yep, evaluating Gong as competitor. But he said our scaling story resonates more.
+[09:23]  ↳ simone.a: He who? Alex or someone else?
+[09:24] alex.m: Alex Volkov. Procurement needs 3 competitive bids tho. Classic.
+[09:25] sarah.k: Ugh, bids slow everything down. Timeline?
+[09:26] alex.m: Decision by 2026-05-04. Not bad.
+[09:27] mike.r: Next steps?
+[09:28] alex.m: Set up POC env for his team to eval. @here let's prioritize this.
+[09:29] simone.a: Makes sense. Company size 51-200 fits our sweet spot.
+[09:30]  ↳ sarah.k: Yeah 96 employees exactly.
+[09:31] mike.r: Tech stack sounds solid, but hiring engineers is their big pain ngl.
+[09:32] alex.m: Totally, they can't find specialists for GCP/Spanner stuff.
+[09:33] sarah.k: [shared link: DockSmart pricing page] Check this, their public stuff matches what he said.
+[09:34]  ↳ mike.r: Looking now. Peaks are mentioned in their blog too.
+[09:35] simone.a: Fwiw, Gong's pricey for their size imo.
+[09:36] alex.m: Budget allocated ~50k. Confirmed on call.
+[09:37] mike.r: Budget 50k? Sweet.
+[09:38] sarah.k: She mentioned ROI challenges last time?
+[09:39]  ↳ alex.m: Yeah, measuring AI ROI is key pain. Who is she again?
+[09:40] simone.a: POC tomorrow? His team ready?
+[09:41] mike.r: Last Friday he said scaling during peaks is worst.
+[09:42] alex.m: Yep, repeated it today. Got it.
+[09:43] sarah.k: @channel anyone free to help POC setup next sprint?
+[09:44]  ↳ simone.a: I can jump in.
+[09:45] mike.r: 👍
+[09:46] alex.m: They also struggle with ROI on AI, ties into scaling.
+[09:47] sarah.k: True, Gong doesn't help there.
+[09:48] simone.a: Procurement bids: we, Gong, who else?
+[09:49]  ↳ mike.r: Dunno, but we win on tech stack.
+[09:50] alex.m: He's pushing internally for us fwiw.
+[09:51] sarah.k: He meaning Alex? Good.
+[09:52] mike.r: Difficulty hiring engineers kills their velocity.
+[09:53] simone.a: Agreed, our POC shows how we fix that indirectly.
+[09:54] alex.m: Timeline firm for May 4th 2026.
+[09:55]  ↳ sarah.k: Gotcha.
+[09:56] mike.r: Budget repeat: 50k allocated, solid.
+[09:57] sarah.k: Yeah, Alex confirmed it twice.
+[09:58] simone.a: Scaling peaks still top pain imo.
+[09:59] alex.m: 100%. Last Friday's demo highlighted it.
+[10:00] mike.r: POC env ready by EOD today?
+[10:01]  ↳ alex.m: Almost, testing Spanner integration.
+[10:02] sarah.k: Perfect. Share access with him tomorrow.
+[10:03] simone.a: She on his team needs GCP access too?
+[10:04] alex.m: Who? His eng lead probably.
+[10:05] mike.r: Lmk when live.
+[10:06] sarah.k: 👍
+[10:07] alex.m: Deal value locked at 50k.
+[10:08] simone.a: Company 96 employees, perfect fit.
+[10:09] mike.r: Gong eval wrapping up next week they said?
+[10:10]  ↳ sarah.k: Tomorrow I think.
+[10:11] alex.m: Peaks traffic scaling is brutal for them.
+[10:12] sarah.k: Repeated pain, yeah.
+[10:13] simone.a: Procurements bids: let's prep our edge.
+[10:14] mike.r: Our stack matches theirs perfectly: Java/Micronaut/GCP.
+[10:15] alex.m: He's been at DockSmart 2 years, knows pains well.
+[10:16]  ↳ simone.a: He?
+[10:17] sarah.k: Alex Volkov obv.
+[10:18] mike.r: ROI on AI: how do we demo that in POC?
+[10:19] alex.m: Metrics dashboard, shows scaling wins.
+[10:20] simone.a: Makes sense.
+[10:21] sarah.k: @here confirm POC for his team?
+[10:22] mike.r: Yes.
+[10:23] alex.m: Budget ~50k, no issues.
+[10:24] sarah.k: Timeline 2026-05-04, plenty time.
+[10:25] simone.a: Hiring engineers tough in logistics space.
+[10:26]  ↳ mike.r: Yeah, specialized GCP folks rare.
+[10:27] alex.m: Gong competitor main one.
+[10:28] sarah.k: We differentiate on scaling.
+[10:29] mike.r: 👍
+[10:30] simone.a: Got it, all aligned.
+[10:31] alex.m: Next sprint POC feedback loop.
+[10:32] sarah.k: Perfect.
+[👍 from @mike.r]
+[10:33] mike.r: Deal stage negotiation, push bids.
+[10:34] simone.a: Yeah.
+[10:35] alex.m: Alex Volkov key decider.
+[10:36] sarah.k: His team eval starts tomorrow.
+[10:37] mike.r: Scaling issues during peak traffic periods still #1.
+[10:38]  ↳ alex.m: Yep, he said so again.
+[10:39] simone.a: Who said?
+[10:40] sarah.k: Alex prob.
+[10:41] mike.r: ROI measuring hard too.
+[10:42] alex.m: POC will prove it.
+[10:43] simone.a: Budget 50k confirmed.
+[10:44] sarah.k: Solid.
+[10:45] mike.r: Done for now? 👍

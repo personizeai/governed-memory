@@ -1,0 +1,19 @@
+{
+  "entity_index": 80,
+  "name": "Derek Cho",
+  "company": "Fern Analytics",
+  "industry": "FoodTech",
+  "email": "derek.cho@fernanalytics.com",
+  "title": "Director of IT",
+  "facts": [
+    "Derek Cho is Director of IT at Fern Analytics",
+    "Fern Analytics is a FoodTech company with 465 employees",
+    "Tech stack: Java, Micronaut, GCP, Spanner, Pub/Sub",
+    "Deal value: $650,000",
+    "Pain points: inconsistent messaging across sales team; high infrastructure costs eating into margins",
+    "Competitors: Gong",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$159M"
+  ],
+  "actual_word_count": 347
+}

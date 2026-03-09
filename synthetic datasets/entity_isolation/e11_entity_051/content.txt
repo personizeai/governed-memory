@@ -1,0 +1,17 @@
+### Account Overview
+Apex Platforms is a dynamic InsurTech company with 393 employees and annual revenue of approximately $83M. Led in infrastructure by Robert Johansson, Head of Infrastructure (robert.johansson@apexplatforms.com), the company specializes in innovative insurance technology solutions. Their rapid early growth has positioned them as a key player, but it has also introduced challenges like technical debt and integration hurdles. As a high-potential B2B prospect, Apex represents a $650,000 deal opportunity, with decision timeline targeted for Q2 2026.
+
+### Key Details
+Robert Johansson oversees critical infrastructure at Apex Platforms, managing a modern tech stack that includes Rust, Actix, AWS, PostgreSQL, and NATS. This setup supports their scalable InsurTech operations but is strained by several pain points: integration complexity with legacy systems, technical debt accumulated from rapid early growth, difficulty hiring specialized engineers, and a lack of real-time analytics for timely decision-making. Competitors like ZoomInfo are actively in play, making it essential to differentiate our solution's seamless integration and analytics capabilities to address these gaps effectively.
+
+### Deal Status
+The prospective deal with Apex Platforms is valued at $650,000, reflecting significant enterprise-scale potential in the InsurTech sector. Current status is early-stage prospecting, with Robert Johansson identified as the primary technical decision-maker. Pain points align closely with our platform's strengths in real-time data processing and legacy system compatibility. Decision timeline is set for Q2 2026, providing ample runway for nurturing. No formal proposal submitted yet; competitor ZoomInfo poses the main threat, but our tech stack compatibility (e.g., AWS, PostgreSQL) gives us an edge.
+
+### Next Steps
+- Schedule introductory call with Robert Johansson via email (robert.johansson@apexplatforms.com) to discuss infrastructure pain points and demo real-time analytics.
+- Research deeper into their Rust/Actix usage for tailored pitch on integration ease.
+- Prepare competitive analysis vs. ZoomInfo, highlighting hiring and technical debt relief.
+- Set follow-up cadence: weekly check-ins leading to Q1 2026 POC proposal.
+- Escalate to sales leadership if Q4 2025 engagement confirmed.
+
+(Word count: 347)

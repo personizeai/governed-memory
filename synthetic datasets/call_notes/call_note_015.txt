@@ -1,0 +1,48 @@
+Call with: Victor Lindgren, Head of Product at AdStack  
+Date: February 14, 2026  
+Duration: 25 min  
+
+Key Points:  
+- Victor HoP AdStack digital media co ~158emp (51-200 size)  
+- Been there 2yrs  
+- Curr sol: gsheets + custom dash mix  
+- Big pains: data silos eng/sales teams, high infra costs eating margins, tough measuring ROI on AI inits  
+- Tech stack: PHP/Laravel/DigitalOcean/MySQL/Redis  
+- Deal stage: negotiation  
+- Timeline: target 2026-05-29  
+- Comps mentioned: Gong, custom internal tool, Salesforce Einstein  
+- Not decision maker  
+- Buying proc: fast-track avail <150K w/ direct VP approval  
+- Likes our ai insights vs Gong pricing  
+- He's pushing for Q2 pilot but needs VP buy-in first  
+- Data silos killing collab — eng hoards metrics, sales blind  
+- Infra costs up 30% YoY on DO scaling  
+- Wants roi calcs on their laravel app data  
+- She mentioned einstein but too bloated for their stack  
+- Prob switch if we demo redis integration  
+- High interest in our sheets importer  
+- He's skeptical on ai hype but open  
+- Fast track if under budget — VP signs quick  
+- Next week f/u on proposal  
+- By EOQ need POC results or they stall  
+- Victor cc'd eng lead on email trail  
+- Margins squeezed 15% from infra — def pain pt  
+- Silos = no unified dash across teams  
+- Gong too sales-only, they need prod/eng too  
+- Custom tool hacky, breaking monthly  
+- Our edge: laravel compat + mysql sync  
+- He wants 2wk trial post-negotiate  
+- Decision timeline firm 5/29 or Q3 slip  
+- Not DM but influences VP heavy  
+- Fast-track docs shared — under 150K greenlight  
+
+Action Items:  
+- [ ] Send revised proposal w/ roi model for their stack (me, by 2/17)  
+- [ ] Schedule demo next week w/ eng lead (Victor to intro, me own)  
+- [ ] F/u VP intro if <150K path (me, post-proposal)  
+- [ ] Pull comp intel on Gong/einstein for AdStack (me, EOD today)  
+
+Notes:  
+Victor solid contact but not DM — influences but VP holds purse. Mtg started strong on pains, data silos top issue bc eng/sales cant align on roi, esp ai pilots flopping w/o metrics. High infra eating margins bad, their DO bills spiking w/ laravel scaling mysql/redis loads. He's been 2yrs, knows stack inside out, hates gsheets fragility vs custom dash hacks. Pushing hard for fast-track <150K direct VP nod, mentioned by EOQ if no traction they pivot gong or einstein but ours fits php/laravel better. Unclear if "he" means Victor or VP on Q2 push but vibe positive. Next week demo key to unblock silos demo. Deal negot stage, timeline 5/29 locked unless budget creep. She's eyeing our importer for sheets migration, prob close if roi numbers land. Comps weak — gong sales-only, custom dying, einstein overkill. Victor cc'd team, good signal. He's open but wants proof on redis sync fast. Fast notes post-call, mtg ran long on stack details.  
+
+AdStack 158emp digital media scale-up, pains align perfect. Victor not calling shots but gatekeeps well, said "he's" (vp?) fast on <150K. By EOQ POC or they shop more, next week critical. Sent intro email mid-call, he replied thumbs up. Margins talk hit home, infra 30% drag def switch motivator. Deal heat up if demo wows eng. No red flags, just pace it. ~25min total, ended on high note.

@@ -1,0 +1,65 @@
+{
+  "sample_id": "email_034",
+  "content_type": "email_thread",
+  "company": "CoinTrail",
+  "industry": "Fintech",
+  "email_count": 4,
+  "actual_word_count": 1219,
+  "expected_facts": [
+    {
+      "text": "CoinTrail is a Fintech company with about 808 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $75,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Microsoft Copilot, ZoomInfo, building in-house",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Seattle",
+      "type": "explicit"
+    },
+    {
+      "text": "Anita Mitchell has been at CoinTrail for 3 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using Pipedrive with Slack notifications",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 15% this fiscal year",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Engineering",
+    "company_name": "CoinTrail",
+    "company_size": "201-1000",
+    "technology_stack": "Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+    "deal_value": 75000,
+    "decision_timeline": "2026-11-25",
+    "competitors_mentioned": [
+      "Microsoft Copilot",
+      "ZoomInfo",
+      "building in-house"
+    ],
+    "buying_process": "Fast-track available for deals under $150K with direct VP approval",
+    "current_solution": "Pipedrive with Slack notifications",
+    "urgency_level": "Critical"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 2
+  },
+  "introduces_new_person": true,
+  "colleague": "Sarah Reyes, Director of IT",
+  "property_coverage": 0.71
+}

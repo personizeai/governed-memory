@@ -1,0 +1,19 @@
+{
+  "entity_index": 88,
+  "name": "Maya Novak",
+  "company": "Violet Analytics",
+  "industry": "EdTech",
+  "email": "maya.novak@violetanalytics.com",
+  "title": "VP of Operations",
+  "facts": [
+    "Maya Novak is VP of Operations at Violet Analytics",
+    "Violet Analytics is a EdTech company with 752 employees",
+    "Tech stack: Java, Micronaut, GCP, Spanner, Pub/Sub",
+    "Deal value: $250,000",
+    "Pain points: security concerns with current architecture; high infrastructure costs eating into margins",
+    "Competitors: existing CRM workflows, ZoomInfo",
+    "Decision timeline: Q4 2026",
+    "Annual revenue: ~$163M"
+  ],
+  "actual_word_count": 332
+}

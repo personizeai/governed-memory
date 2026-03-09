@@ -1,0 +1,85 @@
+{
+  "sample_id": "document_005",
+  "content_type": "wiki_document",
+  "company": "CastPoint",
+  "industry": "Manufacturing",
+  "target_word_count": 1918,
+  "actual_word_count": 1342,
+  "expected_facts": [
+    {
+      "text": "Michael Garcia has been at CastPoint for 1 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $41M",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Scala, Spark, Databricks, Snowflake, Airflow",
+      "type": "explicit"
+    },
+    {
+      "text": "Michael reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $120,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with security concerns with current architecture",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with slow deployment cycles taking 2-3 weeks per release",
+      "type": "explicit"
+    },
+    {
+      "text": "CastPoint is a Manufacturing company with about 151 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "company_name": "CastPoint",
+    "company_size": "51-200",
+    "technology_stack": "Scala, Spark, Databricks, Snowflake, Airflow",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "slow deployment cycles taking 2-3 weeks per release",
+      "security concerns with current architecture",
+      "technical debt from rapid early growth",
+      "customer churn from slow support response times"
+    ],
+    "deal_value": 120000,
+    "next_steps": "Michael will share the RFP by end of week",
+    "buying_process": "Two-phase: technical POC first, then business case to leadership",
+    "urgency_level": "Low"
+  },
+  "planted_issues": {
+    "pronoun_issues": 1,
+    "temporal_issues": 2,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Derek Ito",
+      "title": "VP of Marketing",
+      "role": "Technical Evaluator"
+    },
+    {
+      "name": "Chloe Alvarez",
+      "title": "CTO",
+      "role": "Budget Owner"
+    },
+    {
+      "name": "Chen Singh",
+      "title": "Head of Infrastructure",
+      "role": "Budget Owner"
+    }
+  ],
+  "property_coverage": 0.64
+}

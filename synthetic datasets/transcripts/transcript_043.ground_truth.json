@@ -1,0 +1,91 @@
+{
+  "sample_id": "transcript_043",
+  "content_type": "meeting_transcript",
+  "company": "CareStack",
+  "industry": "Healthcare Tech",
+  "duration_minutes": 30,
+  "target_word_count": 2214,
+  "actual_word_count": 1903,
+  "expected_facts": [
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "CareStack is a Healthcare Tech company with about 144 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating ZoomInfo, Intercom, HubSpot AI",
+      "type": "explicit"
+    },
+    {
+      "text": "Brian Alvarez has been at CareStack for 5 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with technical debt from rapid early growth",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $600,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with fragmented tooling across departments",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Java, Spring Boot, Azure, Oracle, Kafka",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Denver",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using legacy Java application maintained by one person",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 7 people this quarter",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Data",
+    "company_name": "CareStack",
+    "company_size": "51-200",
+    "technology_stack": "Java, Spring Boot, Azure, Oracle, Kafka",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "fragmented tooling across departments",
+      "technical debt from rapid early growth",
+      "inconsistent messaging across sales team",
+      "customer churn from slow support response times"
+    ],
+    "deal_value": 600000,
+    "competitors_mentioned": [
+      "ZoomInfo",
+      "Intercom",
+      "HubSpot AI"
+    ],
+    "decision_maker": false,
+    "next_steps": "Send pricing proposal to Brian by Friday",
+    "buying_process": "Fast-track available for deals under $150K with direct VP approval",
+    "current_solution": "legacy Java application maintained by one person",
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 3,
+    "duplicate_facts": 1
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.93,
+  "entity_id": "brian-carestack",
+  "entity_email": "brian@carestack.io",
+  "entity_website": "https://carestack.io",
+  "contact_name": "Brian",
+  "record_id": "crm-brian-carestack"
+}

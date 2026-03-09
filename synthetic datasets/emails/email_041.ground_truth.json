@@ -1,0 +1,80 @@
+{
+  "sample_id": "email_041",
+  "content_type": "email_thread",
+  "company": "TechFlow Inc",
+  "industry": "B2B SaaS",
+  "email_count": 4,
+  "actual_word_count": 1324,
+  "expected_facts": [
+    {
+      "text": "Their tech stack includes Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+      "type": "explicit"
+    },
+    {
+      "text": "Lisa Okonkwo has been at TechFlow Inc for 8 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using spreadsheets and manual data entry",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Salesforce Einstein, Clari, Apollo.io",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with difficulty measuring ROI on AI initiatives",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $69M",
+      "type": "explicit"
+    },
+    {
+      "text": "TechFlow Inc is a B2B SaaS company with about 148 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Lisa reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with compliance audit failures on data handling",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $850,000",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Engineering",
+    "company_name": "TechFlow Inc",
+    "company_size": "51-200",
+    "technology_stack": "Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "compliance audit failures on data handling",
+      "difficulty measuring ROI on AI initiatives",
+      "inconsistent messaging across sales team",
+      "slow deployment cycles taking 2-3 weeks per release"
+    ],
+    "deal_value": 850000,
+    "decision_timeline": "2026-06-29",
+    "competitors_mentioned": [
+      "Salesforce Einstein",
+      "Clari",
+      "Apollo.io"
+    ],
+    "decision_maker": true,
+    "buying_process": "Fast-track available for deals under $150K with direct VP approval",
+    "current_solution": "spreadsheets and manual data entry"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1
+  },
+  "introduces_new_person": true,
+  "colleague": "Robert Dubois, Director of IT",
+  "property_coverage": 0.86
+}

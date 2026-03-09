@@ -1,0 +1,19 @@
+{
+  "entity_index": 11,
+  "name": "James Dubois",
+  "company": "Stratos AI",
+  "industry": "InsurTech",
+  "email": "james.dubois@stratosai.com",
+  "title": "Head of Product",
+  "facts": [
+    "James Dubois is Head of Product at Stratos AI",
+    "Stratos AI is a InsurTech company with 1119 employees",
+    "Tech stack: Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+    "Deal value: $1,000,000",
+    "Pain points: data silos between engineering and sales teams; manual processes for customer onboarding; difficulty measuring ROI on AI initiatives; high infrastructure costs eating into margins",
+    "Competitors: Microsoft Copilot, Gong",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$219M"
+  ],
+  "actual_word_count": 307
+}

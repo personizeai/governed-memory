@@ -1,0 +1,28 @@
+### Account Overview
+Ivory Analytics is a BioTech company specializing in advanced data analytics for pharmaceutical research and development. With 1483 employees and an annual revenue of ~$60M, the company is scaling rapidly but faces significant operational challenges. Key contact is Alex Oduya, CTO, who oversees technology strategy and infrastructure. Reached out via email at alex.oduya@ivoryanalytics.com. Ivory Analytics currently relies on a modern tech stack including Rust, Actix, AWS, PostgreSQL, and NATS, but is experiencing pain points such as vendor lock-in with their current cloud provider, integration complexity with legacy systems, and compliance audit failures on data handling. They view Salesforce Einstein as a primary competitor in their evaluation process.
+
+### Key Details
+- **Primary Contact**: Alex Oduya, CTO  
+- **Company**: Ivory Analytics  
+- **Industry**: BioTech  
+- **Employee Count**: 1483  
+- **Annual Revenue**: ~$60M  
+- **Tech Stack**: Rust, Actix, AWS, PostgreSQL, NATS  
+- **Pain Points**:  
+  - Vendor lock-in with current cloud provider, limiting flexibility and increasing costs.  
+  - Integration complexity with legacy systems, slowing down deployment of new analytics tools.  
+  - Compliance audit failures on data handling, risking regulatory penalties in the BioTech sector.  
+- **Competitors Considered**: Salesforce Einstein  
+
+Alex Oduya has expressed frustration with these issues during initial discussions, emphasizing the need for a scalable, compliant solution that avoids lock-in and simplifies integrations.
+
+### Deal Status
+Prospect stage: Qualified Opportunity. Potential deal value: $400,000. Decision timeline: Q3 2026, aligned with their fiscal planning cycle. Strong fit due to our strengths in multi-cloud interoperability, seamless legacy integrations, and built-in compliance features (e.g., GDPR/HIPAA-ready data pipelines). Alex has validated our Rust/Actix compatibility and shown interest in NATS-based messaging for real-time analytics.
+
+### Next Steps
+- Schedule demo with Alex Oduya to showcase integration with PostgreSQL/NATS and compliance audit simulations (target: week of [insert date]).  
+- Share customized ROI analysis addressing vendor lock-in and legacy pain points.  
+- Follow up on Q3 2026 timeline via email to alex.oduya@ivoryanalytics.com; propose executive briefing with their VP of Engineering.  
+- Monitor Salesforce Einstein activity for competitive intel.  
+
+Total opportunity remains high; proactive engagement critical to secure position ahead of timeline. (Word count: 378)

@@ -1,0 +1,26 @@
+Call with: Yusuf Santos, Director of IT at SyncWave  
+Date: February 03, 2026  
+Duration: 30 min  
+
+Key Points:  
+- Yusuf Dir IT, SyncWave B2B SaaS 11-50 emp, 4yrs there  
+- Tech stk: RoR/Heroku/PG/Sidekiq  
+- Curr: internal Py scripts pull mult APIs - hacky, no RT analytics  
+- Pains: inc msg across sales tm; lack RT analytics dec mgmt; poor dev exp slow feat vel; manual cust onboard  
+- Eval Gong too - he likes their UI but $$ high  
+- Deal stage: Discovery  
+- Timeline: decision by 9/10, he's pushing Q2 pilot  
+- They need RT vis for sales calls, devs complaining onboarding delays  
+- Open to demo w/ their stk next week  
+- She's on board w/ eval but IT leads  
+
+Action Items:  
+- [ ] Send RoR/Heroku compat deck + Gong comp matrix (me, by EOD)  
+- [ ] Sch f/u mtg w/ Yusuf + sales lead (me)  
+- [ ] F/u on dev pain pts post-demo (Yusuf, next week)  
+- [ ] Ping by EOQ on budget  
+
+Notes:  
+Yusuf solid contact, knows stack inside out bc 4yrs deep. They're small but growing fast, RT analytics gap killing decs - sales missing calls, devs bogged in manuals. Gong in mix but he said our intg easier w/ Sidekiq.  
+
+He's def interested, wants POC by Q2 but timeline stretches to Sept if budget lags. She mentioned onboarding hell slowing ramps. Quick win: send stack-specific demo, lock next wk mtg. Prob close if we nail pains.

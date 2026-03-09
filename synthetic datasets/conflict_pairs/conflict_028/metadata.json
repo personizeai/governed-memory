@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_028",
+  "category": "framework",
+  "company": "Drift Analytics",
+  "contact": "Alex Ito",
+  "industry": "Manufacturing",
+  "stale_date": "2025-11-24",
+  "fresh_date": "2026-01-11",
+  "stale_claim": "Drift Analytics uses Django as their primary web framework",
+  "fresh_claim": "Drift Analytics switched to FastAPI for their backend services",
+  "expected_query": "What web framework does Drift Analytics use?",
+  "expected_answer": "switched to FastAPI for their backend services",
+  "stale_word_count": 171,
+  "fresh_word_count": 180
+}

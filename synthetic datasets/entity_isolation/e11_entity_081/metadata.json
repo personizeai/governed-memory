@@ -1,0 +1,19 @@
+{
+  "entity_index": 81,
+  "name": "Daniel Hassan",
+  "company": "Reed Systems",
+  "industry": "B2B SaaS",
+  "email": "daniel.hassan@reedsystems.com",
+  "title": "Director of Analytics",
+  "facts": [
+    "Daniel Hassan is Director of Analytics at Reed Systems",
+    "Reed Systems is a B2B SaaS company with 2230 employees",
+    "Tech stack: Python, Django, AWS, PostgreSQL, Redis",
+    "Deal value: $1,000,000",
+    "Pain points: manual processes for customer onboarding; difficulty hiring specialized engineers; technical debt from rapid early growth; vendor lock-in with current cloud provider",
+    "Competitors: custom internal tool, building in-house",
+    "Decision timeline: Q3 2026",
+    "Annual revenue: ~$35M"
+  ],
+  "actual_word_count": 311
+}

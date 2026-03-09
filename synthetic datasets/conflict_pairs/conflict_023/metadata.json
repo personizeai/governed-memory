@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_023",
+  "category": "competitor",
+  "company": "Ridge Computing",
+  "contact": "Priya Anderson",
+  "industry": "Manufacturing",
+  "stale_date": "2025-11-27",
+  "fresh_date": "2026-01-23",
+  "stale_claim": "Ridge Computing is evaluating Salesforce Einstein as an alternative",
+  "fresh_claim": "Ridge Computing dropped Salesforce and is now evaluating HubSpot AI",
+  "expected_query": "What competitors is Ridge Computing considering?",
+  "expected_answer": "dropped Salesforce and is now evaluating HubSpot AI",
+  "stale_word_count": 212,
+  "fresh_word_count": 202
+}

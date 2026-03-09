@@ -1,0 +1,56 @@
+---
+type: Contact
+record_id: crm-sarah-chen-techflow-inc
+email: sarah.chen@techflow.io
+website_url: https://techflow.io
+company: TechFlow Inc
+industry: B2B SaaS
+contact_name: Sarah Chen
+job_title: VP of Engineering
+---
+
+Account: TechFlow Inc  
+Contact: Sarah Chen, VP of Engineering  
+Last Updated: February 12, 2026  
+
+- Call w/ Sarah 2/10: disc POC scope for their B2B SaaS platf; ~280 emp, her team ~85 engrs  
+- Sarah champion conf HIGH—driving this internally vs eng pushback  
+- Confirmed on AWS now, planning PostgreSQL migr Q2; our soln aligns perf  
+- Deal val ~$450K ARR, tgt close Q2 2026  
+- Sarah shared eng stack: heavy AWS servs, need scalable DB tools post-migr  
+- Mtg notes: demo'd integ w/ PostgreSQL; she excited re: query optz  
+- F/U email sent 2/11 w/ POC reqs doc; she revw'd, thumbs up  
+- Internal buy-in strong—Sarah looping in eng leads for POC kickoff  
+- Competitor alert: also talking MS Copilot team; they're eval'ing AI copilots  
+- Sarah prefs our edge on AWS-native + custom migr support vs MS genric  
+- Disc budget: eng budget flex, but CFO flag—more below  
+- Prior mtg 1/28: intro call, qual'd pain pts re: DB scalab for 85-engr team  
+- She shared roadmap: PostgreSQL migr by Apr to handle growth  
+- Our value prop lands: cut migr time 40%, boost perf 25%  
+- Sarah action: sched next call Feb 20 re: POC reqs finaliz  
+- Eng team size conf: ~85, split frontend/backend/DBA  
+- Deal stage: POC design; high velocity post-champ align  
+- Sent tech one-pager on AWS-Postgres integ; Sarah fwd'd to team  
+- No red flags on fit—B2B SaaS scale matches our sweet spot  
+- Sarah mtg feedback: "This is priority; I'll push past CFO noise"  
+- Tracked competitor intel: MS Copilot POC lagged on custom DB  
+- Our diff: tailored AWS migr playbooks they lack  
+- Budget conv: ~$450K fits eng alloc, but corp spend freeze poss  
+- Sarah committed: own internal sell to eng + execs  
+
+**Next Steps**  
+- Next call Feb 20 w/ Sarah + 2 eng leads: review/final POC reqs  
+- Prep POC env on AWS sim their stack pre-Feb 20  
+- F/U Sarah by 2/15 re: any POC tweaks post her team revw  
+- Circ competitor battle card to SE team re: MS Copilot gaps  
+- Schedule exec intro if POC greenlit post-Feb 20  
+- Track Q2 timeline: POC run Mar, close Apr  
+
+**Risk Factors**  
+- CFO push: delay all new spend til Q3 pend board revw—Sarah mitigating  
+- Competitor heat: MS Copilot in convos; monitor diff on Postgres/AWS  
+- Migr delay: if PostgreSQL push slips, POC timeline stretch  
+- Eng bandwidth: ~85 hd cnt, but Q1 crunch poss  
+- Budget appro: ~$450K needs CFO nod post-board; Sarah conf HIGH but watch  
+
+(Word count: 498)

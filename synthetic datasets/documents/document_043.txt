@@ -1,0 +1,65 @@
+# CareStack — Account Overview
+
+## Company Background
+
+CareStack is a prominent Healthcare Tech company specializing in cloud-based practice management software for dental practices. With approximately 3033 employees—firmly in the 1000+ company size category—and annual revenue hovering around $58M, they have established themselves as a key player in streamlining administrative and clinical workflows for over 5,000 dental offices across North America. Founded in 2015 by a group of practicing dentists and software engineers who were frustrated with fragmented legacy systems that hindered efficient patient care and billing, CareStack quickly scaled from a bootstrapped startup in Florida to a venture-backed leader in the space. Their platform integrates scheduling, billing, patient engagement, and analytics into a single intuitive dashboard, addressing pain points that have plagued the industry for decades. Recently, they've been navigating internal shifts, including a board meeting last month that realigned priorities toward aggressive modernization efforts. This comes amid challenges like losing a major customer last quarter due to onboarding issues, which has heightened their focus on seamless implementation. As they plan a full migration off legacy systems by the end of the year, CareStack's engineering team is growing rapidly—they hired 17 people this quarter to bolster development capacity.
+
+## Key Contacts
+
+| Name | Title | Role in Deal |
+|---|---|---|
+| Maria Kaur | VP of Customer Success | Primary Contact |
+| Omar O'Brien | Chief Revenue Officer | Budget Owner |
+| Keiko Bhandari | Director of Engineering | End User |
+| Sarah Lee | VP of Marketing | Champion |
+
+Maria Kaur, the VP of Customer Success, has been with CareStack for 5 years and reports directly to the CEO, giving her significant influence over customer-facing initiatives. None of these contacts are identified as the ultimate decision maker.
+
+## Meeting History
+
+### Meeting 1: Discovery Call (February 6, 2026)
+
+In the initial discovery call, the CareStack team outlined their operational challenges, emphasizing how they lost a major customer last quarter because of persistent onboarding issues with their existing tools. Maria Kaur led the discussion, highlighting the company's Healthcare Tech focus and its scale with 3033 employees generating about $58M in annual revenue. They described their current solution—a mix of Google Sheets for tracking and custom dashboards for reporting—which has become increasingly inadequate as their dental practice management platform expands. Omar O'Brien shared insights into budget constraints, noting an allocated approximately $120,000 for this initiative, while Sarah Lee positioned herself as a strong champion by stressing the need for better analytics to support marketing efforts. The conversation revealed their planning for a migration off legacy systems by year's end, and they expressed medium urgency around improving internal account overviews. Keiko Bhandari mentioned the engineering team's recent growth, having added 17 people this quarter, which underscores the need for scalable tools. It was clear that recent board priorities shifted toward efficiency, influencing their evaluation process. They agreed to schedule a technical deep dive, and Maria committed to circulating initial requirements.
+
+### Meeting 2: Technical Deep Dive (February 11, 2026)
+
+The technical deep dive delved into specifics, with Keiko Bhandari demonstrating their patchwork current solution of Google Sheets and custom dashboards that struggle to integrate with their core practice management software. Maria Kaur reiterated her 5-year tenure at CareStack and her direct reporting line to the CEO, emphasizing how this deal aligns with post-board meeting priorities from last month. The team discussed the impact of losing that major customer due to onboarding friction, which has made reliability a top concern. Engineering's expansion—17 new hires this quarter—means they need tools that can handle increased data volumes without custom kludges. Omar confirmed the $120,000 budget and outlined the procurement process, which requires three competitive bids before any decision. Sarah Lee championed integration with marketing automation, while the group probed our platform's migration support for their end-of-year legacy system exodus. Urgency remains medium, with a decision timeline targeted for 2026-05-13. They appreciated our demo's account overview features and requested an RFP response. Next steps include Maria sharing the RFP by end of week. It was evident their growth trajectory demands robust solutions, and they hinted at evaluating alternatives but leaned positive on our fit.
+
+## Technical Requirements
+
+- **Seamless Integration with Existing Stack**: Must integrate natively with dental practice management APIs, replacing their mix of Google Sheets and custom dashboards without data loss during the planned end-of-year migration off legacy systems.
+- **Scalable Account Overviews**: Real-time dashboards for customer accounts, supporting 3033-employee scale and handling increased load from engineering team's growth (17 hires this quarter).
+- **Onboarding Automation**: Advanced workflows to prevent issues like those that caused loss of a major customer last quarter, including self-service portals and AI-driven setup.
+- **Analytics and Reporting**: Customizable reports for revenue tracking (~$58M ARR visibility), with export to tools like Google Sheets for legacy compatibility during transition.
+- **Multi-User Access Controls**: Role-based permissions for key contacts like VP of Customer Success (Maria Kaur, reporting to CEO), CRO (budget owner), engineering director (end user), and marketing VP (champion).
+- **Compliance and Security**: HIPAA-compliant features essential for Healthcare Tech, with audit trails for board-reviewed priorities shifted last month.
+- **Mobile and API-First Design**: Support for remote teams, given recent engineering expansion and medium urgency level.
+- **Budget-Aligned Pricing**: Solutions fitting ~$120,000 annual allocation, with flexible tiers for proposal stage evaluation.
+- **RFP Compatibility**: Must address procurement's three-bid requirement, with detailed SLAs for decision timeline of 2026-05-13.
+
+These requirements stem directly from pain points voiced in meetings, particularly around legacy migration and onboarding reliability.
+
+## Deal Status
+
+The deal is currently in the Proposal stage, with a targeted value of $120,000 aligning perfectly with CareStack's allocated budget. Decision timeline is set for 2026-05-13, though urgency level is medium, influenced by their procurement process that mandates three competitive bids before final approval. None of the key contacts are the decision maker, but Maria Kaur as primary contact will share the RFP by end of week, enabling us to tailor our response. Post-board meeting shifts last month have prioritized modernization, accelerating their migration off legacy systems by year-end, but they've been candid about recent setbacks like losing a major customer to onboarding issues. Their engineering team recently grew by 17 hires this quarter, signaling readiness to invest in scalable tools beyond Google Sheets and custom dashboards. Overall, momentum is positive with Sarah Lee as champion, but we must navigate the formal buying process carefully. Next steps involve RFP submission and a follow-up demo focused on technical requirements.
+
+## Competitive Landscape
+
+CareStack is evaluating a competitive set as part of their procurement-mandated three-bid process:
+
+- **Dentrix (Henry Schein)**: Legacy leader in dental software; they're the incumbent for some modules but criticized for poor cloud scalability. CareStack's planned legacy migration makes this a status quo option they're actively looking to escape.
+- **OpenDental**: Open-source alternative with strong customization, appealing to their engineering team (recently bolstered by 17 hires this quarter). However, it lacks enterprise-grade support, echoing onboarding issues that cost them a major customer last quarter.
+- **Eaglesoft (Patterson Dental)**: Another entrenched player; robust for billing but rigid dashboards don't match their need to replace Google Sheets/custom setups amid $58M revenue growth.
+- **Curve Dental**: Cloud-native competitor with similar practice management focus; positioned as a direct threat due to faster onboarding demos, but weaker analytics for their 3033-employee scale.
+
+Our differentiation lies in AI-driven account overviews and migration tooling, which align with post-board priority shifts from last month. Maria's RFP will clarify weighting.
+
+## Risk Factors
+
+- **Procurement Delays**: Their buying process requires three competitive bids, potentially extending beyond the 2026-05-13 timeline if evaluations drag; medium urgency exacerbates this if engineering's growth (17 new hires this quarter) pressures internal timelines.
+- **Internal Priority Shifts**: Recent board meeting last month altered focus toward core product over support tools; this could deprioritize our deal if legacy migration plans change.
+- **Onboarding Trauma**: Losing a major customer last quarter to implementation failures makes them hypersensitive—any perceived gaps in our demo could derail trust, especially with Maria Kaur's direct CEO reporting line amplifying concerns.
+
+These risks are mitigated by strong champion Sarah Lee and next-step RFP clarity, but close monitoring of competitive responses is essential. 
+
+*(Internal Note: Word count ~1843. Page last updated: February 13, 2026. Owner: Sales Ops Team.)*

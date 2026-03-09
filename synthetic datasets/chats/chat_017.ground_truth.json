@@ -1,0 +1,65 @@
+{
+  "sample_id": "chat_017",
+  "content_type": "chat_log",
+  "company": "CloudNova",
+  "industry": "B2B SaaS",
+  "message_count_target": 37,
+  "actual_word_count": 531,
+  "expected_facts": [
+    {
+      "text": "CloudNova is a B2B SaaS company with about 126 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes PHP, Laravel, DigitalOcean, MySQL, Redis",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with difficulty hiring specialized engineers",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $1,200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 15% this fiscal year",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with slow deployment cycles taking 2-3 weeks per release",
+      "type": "explicit"
+    },
+    {
+      "text": "Sarah Volkov has been at CloudNova for 5 years",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "company_name": "CloudNova",
+    "company_size": "51-200",
+    "technology_stack": "PHP, Laravel, DigitalOcean, MySQL, Redis",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "slow deployment cycles taking 2-3 weeks per release",
+      "difficulty hiring specialized engineers",
+      "customer churn from slow support response times"
+    ],
+    "deal_value": 1200000,
+    "decision_maker": false,
+    "next_steps": "Sarah will share the RFP by end of week",
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 5,
+    "temporal_issues": 3,
+    "duplicate_facts": 1
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@aisha.c"
+  ],
+  "property_coverage": 0.64
+}

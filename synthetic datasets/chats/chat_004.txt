@@ -1,0 +1,50 @@
+[10:15] @alex.m: @channel quick update on ChannelBridge - we're in negotiation stage, deal value sitting at 1.8M. Low urgency tho, decision timeline is 2026-08-07.  
+[👍 from @sarah.k]  
+[10:17] @sarah.k: nice! who's the DM? Maya Johnson right? VP of Engineering there for 5 years.  
+[10:18] @mike.r: yeah she's the decision maker. they mentioned scaling issues during peak traffic periods last call.  
+[10:19] @brandon.b: got it. e-commerce co with ~64 employees, fits 51-200 size.  
+[10:20] @alex.m: exactly. currently on Notion + Airtable combo, but evaluating existing CRM workflows too. tbh they're hurting.  
+[10:21] @sarah.k: pain points? she said slow deployment cycles taking 2-3 weeks per release. kills them imo.  
+  ↳ [10:22] @mike.r: yeah and poor visibility into pipeline health. they need better tools.  
+  ↳ [10:23] @alex.m:  ↳ plus security concerns with current architecture. ngl it's a mess.  
+[10:24] @brandon.b: tech stack? Java, Spring Boot, Azure, Oracle, Kafka - we integrate well fwiw.  
+[👍 from @mike.r]  
+[10:25] @sarah.k: makes sense. shared their pricing page for ref [shared link: ChannelBridge pricing page]  
+[10:26] @alex.m: thx. next steps: send pricing proposal to Maya by Friday. lmk if anyone objects.  
+[10:27] @mike.r: got it. urgency low but let's push.  
+[10:28] @brandon.b: she said they're not interested in rushing? who tho?  
+[10:29] @sarah.k: Maya I think. they also got slow deploys as main issue.  
+[10:30] @alex.m: yeah repeated that. 2-3 weeks per release, brutal for e-comm.  
+[10:31] @mike.r: fwiw their stack is Java heavy, Spring Boot everywhere.  
+[10:32] @sarah.k: noted. poor pipeline visibility was her big gripe too.  
+[10:33] @brandon.b: he mentioned security concerns - wait who? anyway 👍  
+[10:34] @alex.m: probably Mike from their side. anyway, Notion/Airtable not cutting it.  
+[10:35] @mike.r: tomorrow I'll mock up a demo for Azure/Kafka integration.  
+[10:36] @sarah.k: perfect. they've been evaluating CRM stuff alongside.  
+[10:37] @brandon.b: competitors? just internal workflows?  
+  ↳ [10:38] @alex.m:  ↳ yeah existing CRM workflows mainly. no big names yet.  
+[10:39] @mike.r: ChannelBridge ~64 emp, scaling pains at peaks.  
+[10:40] @sarah.k: repeated fact but yeah Java/Spring Boot core. Oracle backend too.  
+[10:41] @alex.m: lmk updates. low urgency but 1.8M on table.  
+[👍 from @brandon.b]  
+[10:42] @brandon.b: she wants proposal by Friday? confirms next step.  
+[10:43] @mike.r: yep Maya. decision maker for sure.  
+[10:44] @sarah.k: gotcha. last Friday they said deploys take 2-3 weeks.  
+[10:45] @alex.m: painful. tbh we solve that fast.  
+[14:12] @here anyone talk to Maya today? need her signoff.  
+[14:13] @brandon.b: not yet. she been there 5 years, knows the pains.  
+[14:14] @mike.r: security concerns top of mind for them. unclear who flagged it first tho.  
+[14:15] @sarah.k: probably her. poor visibility killing pipeline health.  
+[14:16] @alex.m: yeah. e-comm peaks crush their current setup.  
+[14:17] @brandon.b: makes sense. Notion/Airtable combo is makeshift.  
+[👍 from @alex.m]  
+[14:18] @mike.r: stack again: Azure, Kafka streaming data. we got it.  
+[14:19] @sarah.k: demo tomorrow? next sprint maybe tie in.  
+[14:20] @alex.m: negotiation stage solid. 2026-08-07 deadline far but lock it.  
+[14:21] @brandon.b: he said low urgency - Mike? anyway push pricing.  
+[16:05] @sarah.k: just pinged Maya, proposal out by EOD Friday.  
+[16:06] @alex.m: thx! she respond?  
+[16:07] @mike.r: scaling issues during peaks - they hate it.  
+[16:08] @brandon.b: got it. all good.  
+[16:09] @sarah.k: yeah quick yes. CRM eval ongoing too.  
+[👍 from @mike.r][👏 from @alex.m]

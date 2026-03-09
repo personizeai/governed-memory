@@ -1,0 +1,83 @@
+{
+  "sample_id": "document_036",
+  "content_type": "wiki_document",
+  "company": "ShopFront Digital",
+  "industry": "E-commerce",
+  "target_word_count": 1532,
+  "actual_word_count": 1071,
+  "expected_facts": [
+    {
+      "text": "Their tech stack includes C#, .NET, Azure, SQL Server, RabbitMQ",
+      "type": "explicit"
+    },
+    {
+      "text": "ShopFront Digital is a E-commerce company with about 887 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using legacy Java application maintained by one person",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with high infrastructure costs eating into margins",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with poor visibility into pipeline health",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $120,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating custom internal tool",
+      "type": "explicit"
+    },
+    {
+      "text": "Sarah Nakamura has been at ShopFront Digital for 4 years",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Analytics",
+    "company_name": "ShopFront Digital",
+    "company_size": "201-1000",
+    "technology_stack": "C#, .NET, Azure, SQL Server, RabbitMQ",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "poor visibility into pipeline health",
+      "high infrastructure costs eating into margins",
+      "slow deployment cycles taking 2-3 weeks per release",
+      "difficulty measuring ROI on AI initiatives"
+    ],
+    "deal_value": 120000,
+    "decision_timeline": "2026-09-30",
+    "competitors_mentioned": [
+      "custom internal tool"
+    ],
+    "decision_maker": true,
+    "next_steps": "Send pricing proposal to Sarah by Friday",
+    "buying_process": "Two-phase: technical POC first, then business case to leadership",
+    "current_solution": "legacy Java application maintained by one person",
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Emily Lee",
+      "title": "CTO",
+      "role": "Technical Evaluator"
+    },
+    {
+      "name": "Robert Kim",
+      "title": "Head of Infrastructure",
+      "role": "End User"
+    }
+  ],
+  "property_coverage": 1.0
+}

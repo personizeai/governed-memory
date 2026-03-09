@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_015",
+  "category": "location",
+  "company": "Helix Software",
+  "contact": "Derek Xu",
+  "industry": "Logistics",
+  "stale_date": "2025-12-16",
+  "fresh_date": "2026-01-02",
+  "stale_claim": "Helix Software is headquartered in San Francisco",
+  "fresh_claim": "Helix Software relocated their headquarters to Austin",
+  "expected_query": "Where is Helix Software headquartered?",
+  "expected_answer": "relocated their headquarters to Austin",
+  "stale_word_count": 163,
+  "fresh_word_count": 187
+}

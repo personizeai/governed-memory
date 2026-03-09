@@ -1,0 +1,31 @@
+Call with: David Petrov, Head of Data at SkillPulse
+Date: February 08, 2026
+Duration: 45 min
+
+Key Points:
+- EdTech co, ~553 emp (201-1000 range)
+- He's been there 7 yrs, knows stack inside out: PHP/Laravel/DO/MySQL/Redis
+- High infra costs eating margins bad, DO bills spiking w/ scale
+- Poor dev exp slowing feature velocity, fragmented tooling across depts
+- Evaluating Drift/Chorus.ai, but our soln fits better re: data layer
+- Deal stage: Negotiation, $350k ACV potl
+- Not the DM, pushing internally but needs buy-in from eng leads
+- Pain on margins def priority, he's frustrated w/ current setup
+- Timeline: target 2026-07-22 close, by EOQ push
+- He mentioned Drift weak on Laravel integ, Chorus.ai too sales-focused
+- Wants POC on Redis caching to prove velocity gains
+- Budget approved? Prob, but CFO signoff pend
+- Competitor intel: Chorus.ai demo next week, beat it
+- He's advocating hard, but team fragmented
+- High costs = 20% margin hit last qtr
+
+Action Items:
+- [ ] Send POC proposal w/ DO cost model (me, by EOD)
+- [ ] Schedule eng mtg w/ his leads (me, next week)
+- [ ] F/U on Chorus.ai diff sheet (David, by Fri)
+- [ ] Update deal stage/props in SF (me)
+
+Notes:
+David solid contact, 7yr vet, knows pains cold—infra eating margins top gripe, esp DO scaling w/ PHP/Laravel stack. Not DM but influential, says he's looping eng head (who?) for buy-in. Deal hot in Neg stage, $350k upside if we nail POC on dev velocity vs Drift/Chorus. He's pushing Q2 but timeline 7/22 firm.
+
+Talked fragmented tooling killing cross-dept flow, poor dev exp = slow features. Shared our Redis/MySQL wins, he perked up. F/U next week post-Chorus demo—beat them on cost/margin relief. He'll intro CFO if POC shines. Quick win potl.

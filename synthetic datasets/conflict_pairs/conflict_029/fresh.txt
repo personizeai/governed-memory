@@ -1,0 +1,21 @@
+**Follow-up Sales Call Note**  
+**Date:** January 06, 2026  
+**Contact:** Chen Costa, VP Engineering, Summit Computing (EdTech)  
+**Duration:** 45 min | **Called by:** [Your Name]  
+
+Follow-up on Dec pipeline discussion. Chen provided key updates on Summit's trajectory.  
+
+**CRITICAL UPDATE:** Summit closed $60M Series B round led by Andreessen Horowitz – this supersedes prior intel on stalled Series A (confirmed docs shared). Funds earmarked for engineering expansion (hiring 20+ devs) and AI-driven personalization tools for K-12 platforms.  
+
+Discussed pain points: Current LMS struggles with adaptive learning scalability amid 3x user growth post-funding. Expressed strong interest in our AI module for real-time content adaptation – aligns with their roadmap to launch enterprise EdTech suite Q2 2026.  
+
+Competitor note: Evaluated Canvas but found integration gaps; our API compatibility is a differentiator.  
+
+**Next Steps:**  
+- Send customized demo POC by 1/10 targeting their AWS stack.  
+- Schedule technical deep-dive w/ their CTO week of 1/13.  
+- Chen to loop in procurement on budget (post-Series B unlocked $15M ops spend).  
+
+High momentum – prospect heat: Hot. Follow up EOD 1/10 if no reply.  
+
+(198 words)

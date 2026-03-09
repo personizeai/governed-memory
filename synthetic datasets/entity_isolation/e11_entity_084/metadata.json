@@ -1,0 +1,19 @@
+{
+  "entity_index": 84,
+  "name": "Maria Alvarez",
+  "company": "Dahlia Computing",
+  "industry": "E-commerce",
+  "email": "maria.alvarez@dahliacomputing.com",
+  "title": "Director of Sales Engineering",
+  "facts": [
+    "Maria Alvarez is Director of Sales Engineering at Dahlia Computing",
+    "Dahlia Computing is a E-commerce company with 2930 employees",
+    "Tech stack: TypeScript, React, Node.js, GCP, MongoDB",
+    "Deal value: $120,000",
+    "Pain points: fragmented tooling across departments; compliance audit failures on data handling",
+    "Competitors: Microsoft Copilot, Outreach",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$81M"
+  ],
+  "actual_word_count": 322
+}

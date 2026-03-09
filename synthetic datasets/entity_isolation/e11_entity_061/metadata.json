@@ -1,0 +1,19 @@
+{
+  "entity_index": 61,
+  "name": "Nina Johnson",
+  "company": "Pike Engineering",
+  "industry": "B2B SaaS",
+  "email": "nina.johnson@pikeengineering.com",
+  "title": "VP of Sales",
+  "facts": [
+    "Nina Johnson is VP of Sales at Pike Engineering",
+    "Pike Engineering is a B2B SaaS company with 2605 employees",
+    "Tech stack: Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "Deal value: $250,000",
+    "Pain points: manual processes for customer onboarding; compliance audit failures on data handling; difficulty measuring ROI on AI initiatives; scaling issues during peak traffic periods",
+    "Competitors: existing CRM workflows, Microsoft Copilot",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$275M"
+  ],
+  "actual_word_count": 323
+}

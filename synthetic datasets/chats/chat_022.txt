@@ -1,0 +1,185 @@
+[09:15] alex.m: Quick update from my call with Nadia at ShipGrid. She's VP Ops, been there 8 years. They're in discovery stage rn.
+
+[👍 from @sarah.k]
+
+[09:16] sarah.k: Nice, what's their pain? Logistics co right?
+
+[09:17] alex.m: Yeah, 21 employees, Seattle based. Customer churn from slow support times is killing them.
+
+[09:18]  ↳ mike.r: Churn how bad?
+
+[09:19]  ↳ alex.m: Lost a major customer last quarter due to onboarding issues. Manual processes everywhere.
+
+[09:20] victor.c: @here let's prioritize this. Urgency medium but timeline is 2026-11-27 lol.
+
+[09:21] sarah.k: 2026? That's forever. Who sets budget there?
+
+[09:22] alex.m: Nadia isn't decision maker tbh. She said they're evaluating Gong, Chorus.ai, even building in-house.
+
+[09:23] mike.r: In-house? With what stack?
+
+[09:24] alex.m: Python, FastAPI, AWS Lambda, DynamoDB, SQS. Matches ours perfectly.
+
+[09:25]  ↳ victor.c: Got it. Poor dev exp slowing them down too?
+
+[09:26]  ↳ alex.m: Yeah she mentioned that. Integration complexity with legacy systems is a nightmare.
+
+[09:27] sarah.k: Fwiw they have manual onboarding which ties into churn.
+
+[09:28] mike.r: Makes sense. We can demo how we fix support response times.
+
+[09:29] alex.m: Ngl their size 11-50 makes it scrappy. Seattle office main hub.
+
+[09:30] victor.c: Repeat: tech stack Python FastAPI etc? Confirm for proposal.
+
+[09:31] sarah.k: Yep, he said Lambda and DynamoDB specifically.
+
+[09:32] alex.m: She wants to chat tomorrow about competitors.
+
+[09:33]  ↳ mike.r: Which she? Nadia?
+
+[09:34]  ↳ alex.m: Yeah. They're eyeing Gong hard.
+
+[09:35] victor.c: Lmk if we need to loop in SE for stack deep dive.
+
+[09:36] mike.r: I'm on it. Poor dev exp is key pain, slows feature velocity.
+
+[09:37] sarah.k: They repeated onboarding manual stuff twice in call.
+
+[09:38] alex.m: True, lost that big customer last quarter over it.
+
+[09:39] victor.c: 👍
+
+[09:40] sarah.k: [shared link: ShipGrid pricing page] Found their public pricing, cheap but basic.
+
+[09:41] mike.r: Looks legacy. Our integration would crush that.
+
+[09:42] alex.m: She said they're not interested in Chorus.ai anymore.
+
+[09:43]  ↳ sarah.k: She who?
+
+[09:44]  ↳ alex.m: Nadia. Thinks it's too sales focused.
+
+[09:45] victor.c: Got it. Deal stage still discovery?
+
+[09:46] alex.m: Yep. Medium urgency fwiw.
+
+[09:47] mike.r: They dealing with support slowness? We automate that.
+
+[09:48] sarah.k: Churn from slow responses, yes. Seattle team overwhelmed.
+
+[09:49] alex.m: Nadia been there 8 years, knows pains inside out.
+
+[09:50] victor.c: Next sprint, prep a custom demo for their stack.
+
+[09:51]  ↳ mike.r: Lambda/SQS focus?
+
+[09:52]  ↳ victor.c: Exactly. And onboarding automation.
+
+[09:53] sarah.k: Makes sense.
+
+[09:54] alex.m: Cool, I'll follow up post tomorrow's call.
+
+[09:55] mike.r: He mentioned in-house build failing?
+
+[09:56]  ↳ sarah.k: Who he?
+
+[09:57]  ↳ mike.r: One of their devs Nadia referenced.
+
+[09:58] victor.c: Lol unclear but ok. Push on our dev exp wins.
+
+[09:59] alex.m: Will do. Pain points nailed: churn, manual onboarding, dev slowness, integrations.
+
+[10:00] sarah.k: 👍
+
+[10:01] mike.r: Their office in Seattle, any travel?
+
+[10:02] alex.m: Nah remote fine for now.
+
+[10:03] victor.c: Keep me posted on Gong objections.
+
+[10:04] sarah.k: They building in-house still? Waste imo.
+
+[10:05] alex.m: Partially, but struggling with velocity.
+
+[10:06] mike.r: DynamoDB scaling issues probably.
+
+[10:07] sarah.k: Timeline 2026-11-27? Budget freeze or what?
+
+[10:08] victor.c: Yeah she said annual cycle.
+
+[10:09] alex.m: Not decision maker but influential.
+
+[10:10] mike.r: Got it.
+
+[10:11] sarah.k: Logistics co, 21 heads, scrappy.
+
+[10:12] victor.c: Repeat size 11-50 for CRM update.
+
+[10:13] alex.m: Done.
+
+[10:14] mike.r: Last Friday they had outage from manual processes?
+
+[10:15]  ↳ sarah.k: They did?
+
+[10:16]  ↳ mike.r: Nadia slipped it in.
+
+[10:17] alex.m: Ties to churn perfectly.
+
+[10:18] victor.c: Strong lead. @channel eyes on ShipGrid.
+
+[10:19] sarah.k: On it!
+
+[10:20] mike.r: Demo script ready next week?
+
+[10:21] alex.m: Yeah, FastAPI hooks.
+
+[10:22] sarah.k: Poor dev exp repeated by her.
+
+[10:23] victor.c: Noted.
+
+[10:24] alex.m: She wants metrics on our support response vs theirs.
+
+[10:25]  ↳ mike.r: Which she again?
+
+[10:26]  ↳ alex.m: Nadia obv.
+
+[10:27] sarah.k: Lmk if need research on Chorus.ai.
+
+[10:28] mike.r: Thx.
+
+[10:29] victor.c: Closing thread. Action items: Alex follow up, Mike demo, Sarah intel.
+
+[10:30] alex.m: Gotcha.
+
+[14:15] alex.m: Back from lunch. Quick note: they confirmed tech stack again, Python heavy.
+
+[14:16] mike.r: Cool, aligns.
+
+[14:17] sarah.k: Manual onboarding killing velocity too.
+
+[14:18] victor.c: Yep.
+
+[14:19] alex.m: Urgency medium but pushing for earlier POC.
+
+[14:20] mike.r: Legacy integrations are the hook.
+
+[14:21] sarah.k: Seattle weather slowing them? Jk.
+
+[14:22] alex.m: Lol. Lost customer pain fresh.
+
+[14:23] victor.c: Good.
+
+[14:24] mike.r: In-house failing hard.
+
+[14:25] sarah.k: Gong eval ongoing.
+
+[14:26] alex.m: She dismissed Chorus.ai quick.
+
+[14:27] victor.c: Progress.
+
+[14:28] mike.r: 👍
+
+[14:29] alex.m: Deal alive.
+
+[14:30] sarah.k: Sweet.

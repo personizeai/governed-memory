@@ -1,0 +1,20 @@
+**Follow-up Sales Meeting Note**  
+**Date:** January 23, 2026  
+**Contact:** Priya Anderson, VP of Engineering, Ridge Computing (Manufacturing)  
+**Duration:** 45 min | **Attendees:** PA, [My Name]  
+
+**Key Update/Change:** Ridge Computing has dropped Salesforce (superseding prior intel) due to integration failures with their ERP system and poor scalability for shop floor data. Now actively evaluating HubSpot AI as primary alternative for CRM overhaul. PA confirmed pilot RFP targeted for Feb end.  
+
+**Discussion Highlights:**  
+- Pain points: Legacy Salesforce couldn't handle real-time inventory forecasting amid supply chain volatility; need AI-driven predictive analytics for 500+ SKUs.  
+- Our pitch resonated: Demo of HubSpot AI's manufacturing workflows (e.g., automated order-to-cash) addressed their 20% error rate in production scheduling. PA excited about native API integrations with Siemens PLCs.  
+- Budget: Allocated $250K for Q2 2026 rollout; decision-makers include CTO and CFO.  
+
+**Next Steps:**  
+- Send customized HubSpot AI POC proposal by Jan 27, incl. manufacturing case studies (e.g., similar firm reduced downtime 15%).  
+- Schedule exec intro call w/ CTO Feb 3.  
+- Flag as hot lead; high intent post-Salesforce exit.  
+
+**Competitive Notes:** HubSpot positioned ahead of Dynamics 365; no Pipedrive in mix. Follow up internally on Ridge's Q4 manufacturing expansion (new plant in TX).  
+
+(Word count: 198)

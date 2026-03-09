@@ -1,0 +1,20 @@
+### Account Overview
+Cobalt Engineering is a prominent GovTech company specializing in government technology solutions, boasting 997 employees and approximately $60M in annual revenue. The primary point of contact is Michael Costa, VP of Engineering at Cobalt Engineering, who oversees their technical strategy and development teams. As a mid-sized player in the GovTech space, Cobalt has experienced rapid early growth, which has positioned them as a key prospect for our B2B CRM solutions. Michael Costa is actively evaluating tools to streamline their engineering workflows amid scaling challenges.
+
+### Key Details
+Cobalt Engineering's current tech stack includes PHP, Laravel for backend development, DigitalOcean for cloud hosting, MySQL for database management, and Redis for caching and session storage. These technologies support their core GovTech applications but are straining under increased demand.
+
+Key pain points include difficulty hiring specialized engineers in a competitive GovTech talent market and significant technical debt accumulated from rapid early growth. This has led to inefficiencies in development cycles and deployment reliability. Michael Costa has expressed frustration with legacy systems hindering innovation.
+
+They are currently benchmarking against competitors such as Apollo.io, HubSpot AI, and Clari, seeking a CRM platform that integrates seamlessly with their stack while addressing talent and debt issues.
+
+### Deal Status
+This opportunity represents a high-value prospect with an estimated deal value of $1,000,000. Discussions with Michael Costa have advanced to the evaluation stage, where demos tailored to their PHP/Laravel environment have shown strong alignment. The decision timeline is targeted for Q3 2026, allowing time for pilot testing and stakeholder buy-in from engineering and leadership teams. Current pipeline stage: Discovery/Qualification, with positive signals on budget approval tied to their ~$60M revenue base.
+
+### Next Steps
+- Schedule a technical deep-dive call with Michael Costa in the next 2 weeks to demo integrations with DigitalOcean, MySQL, and Redis.
+- Prepare customized ROI analysis highlighting relief for hiring difficulties and technical debt mitigation.
+- Follow up on competitor comparison (Apollo.io, HubSpot AI, Clari) with case studies from similar GovTech clients.
+- Set internal review for Q1 2026 proposal submission ahead of their Q3 2026 timeline.
+
+(Word count: 378)

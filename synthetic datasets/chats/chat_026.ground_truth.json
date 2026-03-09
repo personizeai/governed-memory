@@ -1,0 +1,74 @@
+{
+  "sample_id": "chat_026",
+  "content_type": "chat_log",
+  "company": "PayGrid Financial",
+  "industry": "Fintech",
+  "message_count_target": 32,
+  "actual_word_count": 511,
+  "expected_facts": [
+    {
+      "text": "PayGrid Financial is a Fintech company with about 183 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Clari, Chorus.ai",
+      "type": "explicit"
+    },
+    {
+      "text": "James Kim has been at PayGrid Financial for 8 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Python, Django, AWS, PostgreSQL, Redis",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $1,800,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $112M",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with security concerns with current architecture",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with manual processes for customer onboarding",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Analytics",
+    "company_name": "PayGrid Financial",
+    "company_size": "51-200",
+    "technology_stack": "Python, Django, AWS, PostgreSQL, Redis",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "manual processes for customer onboarding",
+      "security concerns with current architecture",
+      "customer churn from slow support response times",
+      "fragmented tooling across departments"
+    ],
+    "deal_value": 1800000,
+    "decision_timeline": "2026-08-20",
+    "competitors_mentioned": [
+      "Clari",
+      "Chorus.ai"
+    ],
+    "decision_maker": true
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 3,
+    "duplicate_facts": 1
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@sarah.d"
+  ],
+  "property_coverage": 0.71
+}

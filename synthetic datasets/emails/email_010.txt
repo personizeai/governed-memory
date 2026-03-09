@@ -1,0 +1,197 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Sarah Oduya <sarah.oduya@vaultedge.com>  
+Subject: Reducing GCP costs and avoiding vendor lock-in for VaultEdge  
+Date: Tue, 10 Feb 2026 10:15:23 +0000 (GMT)  
+
+Dear Sarah,  
+
+I hope this email finds you well. My name is Alex Morgan, and I'm a Sales Representative at Technova.io, where we specialize in multi-cloud optimization and migration services tailored for fintech companies like VaultEdge.  
+
+I've been following VaultEdge's impressive growth—congratulations on hitting around $112M in annual revenue with your 714 employees headquartered in London. Your tech stack of TypeScript, React, Node.js, GCP, and MongoDB is robust, but I understand from public filings and industry reports that high infrastructure costs on GCP are eating into your margins, compounded by vendor lock-in that's making scalability tricky.  
+
+At Technova, we've helped similar fintechs cut GCP bills by 30-40% while maintaining performance and security, all without ripping and replacing your stack. Would you be open to a 15-minute call next week to discuss how we could apply this to VaultEdge?  
+
+Looking forward to your thoughts.  
+
+Best regards,  
+Alex Morgan  
+Sales Representative  
+Technova.io  
++1 (555) 123-4567  
+alex.morgan@technova.io  
+
+---
+
+From: Sarah Oduya <sarah.oduya@vaultedge.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Reducing GCP costs and avoiding vendor lock-in for VaultEdge  
+Date: Wed, 11 Feb 2026 09:32:47 +0000 (GMT)  
+
+Hi Alex,  
+
+Thanks for reaching out—it's always nice to hear from someone who's done their homework on VaultEdge. I've been here for 7 years now, reporting directly to the CEO, and yes, our GCP costs are indeed a pain point, especially with vendor lock-in limiting our flexibility as we scale. High infrastructure expenses are squeezing our margins more than we'd like, particularly with a security audit looming in Q2.  
+
+We've actually allocated about $450,000 in budget this year for cloud optimization initiatives. What kind of savings have you seen for companies with our exact stack—TypeScript, React, Node.js, GCP, and MongoDB? Any case studies from the fintech space?  
+
+Best,  
+Sarah Oduya  
+Chief Revenue Officer  
+VaultEdge  
++44 20 7946 0123  
+sarah.oduya@vaultedge.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Sarah Oduya <sarah.oduya@vaultedge.com>  
+Subject: Re: Reducing GCP costs and avoiding vendor lock-in for VaultEdge  
+Date: Wed, 11 Feb 2026 14:07:12 +0000 (GMT)  
+
+Hi Sarah,  
+
+Great to hear from you—thanks for the quick reply and for sharing those details. To answer your question directly: for fintechs with TypeScript/React/Node.js/GCP/MongoDB stacks similar to VaultEdge's, we've consistently delivered 35% average savings on infra costs within the first year, primarily by optimizing resource allocation, rightsizing instances, and enabling seamless multi-cloud portability to break GCP lock-in.  
+
+A quick case study: We worked with a London-based payments firm (comparable scale to your 714 employees and $112M revenue) that was facing the same margin erosion. They migrated non-critical workloads to our platform, reducing bills from $1.2M to $780K annually without downtime. Security remained top-notch, which is crucial ahead of audits like yours in Q2.  
+
+As a light next step in the proposal stage, I'd suggest a free infrastructure audit (takes ~2 hours of your time) to quantify exact savings for VaultEdge—potentially unlocking that $450K budget efficiently. Open next week?  
+
+Best,  
+Alex Morgan  
+Sales Representative  
+Technova.io  
++1 (555) 123-4567  
+alex.morgan@technova.io  
+
+> On Wed, 11 Feb 2026 09:32:47 +0000 (GMT), Sarah Oduya wrote:  
+> > Hi Alex,  
+> >   
+> > Thanks for reaching out—it's always nice to hear from someone who's done their homework on VaultEdge. I've been here for 7 years now, reporting directly to the CEO, and yes, our GCP costs are indeed a pain point, especially with vendor lock-in limiting our flexibility as we scale. High infrastructure expenses are squeezing our margins more than we'd like, particularly with a security audit looming in Q2.  
+> >   
+> > We've actually allocated about $450,000 in budget this year for cloud optimization initiatives. What kind of savings have you seen for companies with our exact stack—TypeScript, React, Node.js, GCP, and MongoDB? Any case studies from the fintech space?  
+> >   
+> > Best,  
+> > Sarah Oduya  
+> > Chief Revenue Officer  
+> > VaultEdge  
+> > +44 20 7946 0123  
+> > sarah.oduya@vaultedge.com  
+
+---
+
+From: Sarah Oduya <sarah.oduya@vaultedge.com>  
+To: Ivan Rivera <ivan.rivera@vaultedge.com>  
+CC: Alex Morgan <alex.morgan@technova.io>  
+Subject: Fw: Reducing GCP costs and avoiding vendor lock-in for VaultEdge  
+Date: Thu, 12 Feb 2026 11:22:09 +0000 (GMT)  
+
+Hi Ivan,  
+
+This looks promising for tackling our GCP vendor lock-in and those high costs eating into margins. They've got experience with our stack and a budget fit at ~$450K. Thoughts before end of quarter with the audit coming up?  
+
+Sarah  
+
+---------- Forwarded message ---------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Wed, 11 Feb 2026 14:07:12 +0000 (GMT)  
+Subject: Re: Reducing GCP costs and avoiding vendor lock-in for VaultEdge  
+To: Sarah Oduya <sarah.oduya@vaultedge.com>  
+
+Hi Sarah,  
+
+Great to hear from you—thanks for the quick reply and for sharing those details. To answer your question directly: for fintechs with TypeScript/React/Node.js/GCP/MongoDB stacks similar to VaultEdge's, we've consistently delivered 35% average savings on infra costs within the first year, primarily by optimizing resource allocation, rightsizing instances, and enabling seamless multi-cloud portability to break GCP lock-in.  
+
+A quick case study: We worked with a London-based payments firm (comparable scale to your 714 employees and $112M revenue) that was facing the same margin erosion. They migrated non-critical workloads to our platform, reducing bills from $1.2M to $780K annually without downtime. Security remained top-notch, which is crucial ahead of audits like yours in Q2.  
+
+As a light next step in the proposal stage, I'd suggest a free infrastructure audit (takes ~2 hours of your time) to quantify exact savings for VaultEdge—potentially unlocking that $450K budget efficiently. Open next week?  
+
+Best,  
+Alex Morgan  
+Sales Representative  
+Technova.io  
++1 (555) 123-4567  
+alex.morgan@technova.io  
+
+[Previous message quoted above]  
+
+Best,  
+Sarah Oduya  
+Chief Revenue Officer  
+VaultEdge  
++44 20 7946 0123  
+sarah.oduya@vaultedge.com  
+
+---
+
+From: Ivan Rivera <ivan.rivera@vaultedge.com>  
+To: Sarah Oduya <sarah.oduya@vaultedge.com>, Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Reducing GCP costs and avoiding vendor lock-in for VaultEdge  
+Date: Thu, 12 Feb 2026 15:45:33 +0000 (GMT)  
+
+Hi Sarah and Alex,  
+
+Ivan Rivera here, Director of IT at VaultEdge. Thanks for looping me in—Sarah mentioned this aligns with our high urgency to address GCP lock-in before the Q2 security audit.  
+
+A few technical questions on the integration: How does your platform handle MongoDB sharding migrations from GCP without data loss? We're running a heavy Node.js backend with React frontends, all TypeScript-typed—any gotchas there? Also, specifics on compliance for fintech (SOC 2, etc.)?  
+
+Appreciate the details.  
+
+Regards,  
+Ivan Rivera  
+Director of IT  
+VaultEdge  
++44 20 7946 0124  
+ivan.rivera@vaultedge.com  
+
+> On Thu, 12 Feb 2026 11:22:09 +0000 (GMT), Sarah Oduya wrote:  
+> > Hi Ivan,  
+> >   
+> > This looks promising for tackling our GCP vendor lock-in and those high costs eating into margins. They've got experience with our stack and a budget fit at ~$450K. Thoughts before end of quarter with the audit coming up?  
+> >   
+> > Sarah  
+> >   
+> > ---------- Forwarded message ---------  
+> > [Full previous thread quoted]  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Ivan Rivera <ivan.rivera@vaultedge.com>, Sarah Oduya <sarah.oduya@vaultedge.com>  
+CC:  
+Subject: Re: Reducing GCP costs and avoiding vendor lock-in for VaultEdge  
+Date: Fri, 13 Feb 2026 09:18:56 +0000 (GMT)  
+
+Hi Ivan and Sarah,  
+
+Thanks for the intro, Ivan—excited to dive into the technical side. To your MongoDB sharding question: Our migration toolkit uses live replication with zero-downtime failover, supporting sharded clusters directly from GCP. We've done 50+ such migrations for Node.js-heavy fintechs, preserving all indexes and oplog continuity—no data loss reported, with RPO under 5 seconds.  
+
+For the TypeScript/React/Node.js stack, integration is seamless via our agentless sidecar proxy that hooks into your existing GCP endpoints. No code changes needed; it auto-optimizes API calls and caching layers. Gotchas? Minimal—mainly tuning MongoDB connection pools post-migration, which our engineers handle in the free audit.  
+
+On compliance: Fully SOC 2 Type II certified, plus PCI-DSS and ISO 27001. We can share the latest A&A report and align with your Q2 audit timeline. This fits perfectly into the proposal stage, targeting your $450K budget for high-impact savings on those margin-eating infra costs.  
+
+Shall we hop on a quick call next week to demo this for VaultEdge's setup? Happy to share full case studies tailored to London fintechs like yours.  
+
+Best regards,  
+Alex Morgan  
+Sales Representative  
+Technova.io  
++1 (555) 123-4567  
+alex.morgan@technova.io  
+
+> On Thu, 12 Feb 2026 15:45:33 +0000 (GMT), Ivan Rivera wrote:  
+> > Hi Sarah and Alex,  
+> >   
+> > Ivan Rivera here, Director of IT at VaultEdge. Thanks for looping me in—Sarah mentioned this aligns with our high urgency to address GCP lock-in before the Q2 security audit.  
+> >   
+> > A few technical questions on the integration: How does your platform handle MongoDB sharding migrations from GCP without data loss? We're running a heavy Node.js backend with React frontends, all TypeScript-typed—any gotchas there? Also, specifics on compliance for fintech (SOC 2, etc.)?  
+> >   
+> > Appreciate the details.  
+> >   
+> > Regards,  
+> > Ivan Rivera  
+> > Director of IT  
+> > VaultEdge  
+> > +44 20 7946 0124  
+> > ivan.rivera@vaultedge.com  
+>   
+> > On Thu, 12 Feb 2026 11:22:09 +0000 (GMT), Sarah Oduya wrote:  
+> > > [Quoted previous messages]

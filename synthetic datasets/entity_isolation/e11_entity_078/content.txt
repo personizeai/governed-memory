@@ -1,0 +1,16 @@
+### Account Overview
+Laurel Software is a prominent GovTech company specializing in software solutions for government operations, with approximately 2976 employees and ~$10M in annual revenue. The primary contact is Omar Hassan, VP of Customer Success at Laurel Software (omar.hassan@laurelsoftware.com). Omar oversees customer onboarding, retention, and success metrics, making him a key decision-maker for CRM and workflow enhancements. The company has experienced rapid early growth, leading to significant technical debt, which impacts their ability to scale efficiently.
+
+### Key Details
+Laurel Software's tech stack includes Java, Spring Boot, Azure, Oracle, and Kafka, supporting their mission-critical applications. However, they face pain points such as technical debt from rapid early growth, integration complexity with legacy systems, and scaling issues during peak traffic periods. These challenges are exacerbated by their current tools: existing CRM workflows, Drift, and Apollo.io, which lack seamless integration and scalability for GovTech demands. Omar has expressed frustration with these competitors' limitations in handling high-volume government data flows and compliance needs.
+
+### Deal Status
+We are pursuing a $120,000 deal with Laurel Software, positioned as a strong fit to address their CRM and customer success pain points. The opportunity is in early discovery, with Omar confirming interest in modernizing their stack to reduce technical debt and improve integrations. Decision timeline is targeted for Q4 2026, aligned with their fiscal planning cycle. Competitive landscape includes their entrenched existing CRM workflows, Drift, and Apollo.io, but our solution's Azure-native compatibility and Kafka streaming capabilities provide a clear edge for scaling during peak periods.
+
+### Next Steps
+- Schedule a 30-minute demo call with Omar Hassan by end of next week to deep-dive into pain points around legacy integrations and peak traffic scaling.
+- Prepare customized tech stack alignment doc highlighting Java/Spring Boot/Azure/Oracle/Kafka synergies.
+- Follow up on Q4 2026 timeline by requesting intro to procurement team post-demo.
+- Monitor for any shifts in their ~$10M revenue trajectory that could accelerate urgency.
+
+(Word count: 348)

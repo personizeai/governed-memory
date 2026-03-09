@@ -1,0 +1,19 @@
+{
+  "entity_index": 41,
+  "name": "Simone Johnson",
+  "company": "Obsidian Data",
+  "industry": "B2B SaaS",
+  "email": "simone.johnson@obsidiandata.com",
+  "title": "Director of Engineering",
+  "facts": [
+    "Simone Johnson is Director of Engineering at Obsidian Data",
+    "Obsidian Data is a B2B SaaS company with 1373 employees",
+    "Tech stack: Java, Spring Boot, Azure, Oracle, Kafka",
+    "Deal value: $1,000,000",
+    "Pain points: integration complexity with legacy systems; poor visibility into pipeline health; high infrastructure costs eating into margins",
+    "Competitors: Outreach, Clari, existing CRM workflows",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$280M"
+  ],
+  "actual_word_count": 311
+}

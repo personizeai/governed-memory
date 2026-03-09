@@ -1,0 +1,111 @@
+#deals-forgenet-industries
+
+[09:15] @alex.m: @here quick update on ForgeNet - just got off call with Yusuf. They're a manufacturing co with ~2794 employees, budget around $600k allocated. Deal stage is proposal now.
+
+[👍 from @sarah.k]
+
+[09:17] @sarah.k: Nice! Yusuf is their Chief Product Officer, been there 3 years right? What's the timeline?
+
+[09:18]  ↳ @alex.m: Yeah, decision by 2026-06-14. They mentioned IT budget up 37% this FY fwiw.
+
+[09:19] @mike.r: Got it. Pain points? Heard they're dealing with slow deploys.
+
+[09:20]  ↳ @alex.m: Yep, 2-3 weeks per release, killing them. Plus integration complexity with legacy systems.
+
+[09:21] @chen.d: Ngl that's rough for a 1000+ employee shop. Customer churn from slow support too?
+
+[09:22] @sarah.k: She said they're evaluating Salesforce Einstein and building in-house. We need to differentiate.
+
+[09:23] @alex.m: Exactly. He was impressed with our demo tho.
+
+[09:24] @mike.r: Who? Yusuf?
+
+[09:25]  ↳ @alex.m: Yeah. Shared our pricing page with him [shared link: ForgeNet Industries pricing page]
+
+[👍 from @mike.r] [👀 from @chen.d]
+
+[09:27] @chen.d: Makes sense. Deal value at 600k matches their budget?
+
+[09:28] @sarah.k: Yep, approx $600,000 allocated. Perfect fit imo.
+
+[09:29] @mike.r: Budget is $600k? Solid.
+
+[09:30] @alex.m: Tbh they're frustrated with those legacy integrations. Takes forever.
+
+[09:31] @chen.d: Last Friday they mentioned churn rates spiking due to slow responses.
+
+[09:32] @sarah.k: True, she highlighted that in the last email.
+
+[09:33] @mike.r: Who's she? The one from IT?
+
+[09:34]  ↳ @chen.d: Idk, but yeah pain point for sure.
+
+[09:35] @alex.m: Anyway, need to address competitors head on. In-house build sounds risky for them.
+
+[09:36] @sarah.k: Agreed. Salesforce Einstein is pricey too.
+
+[09:37] @mike.r: Proposal doc ready? Lmk if I can tweak.
+
+[09:38]  ↳ @alex.m: Almost, will share tomorrow.
+
+[09:39] @chen.d: Cool. Deployment speed is our edge - we do it in days not weeks.
+
+[09:40] @sarah.k: 💯 He's pushing for faster cycles internally.
+
+[09:41] @mike.r: Who is?
+
+[09:42]  ↳ @sarah.k: Yusuf obv.
+
+[09:43] @alex.m: Fwiw their company size 1000+ makes scale perfect for us.
+
+[09:44] @chen.d: Yeah ForgeNet Industries is manufacturing giant basically.
+
+[09:45] @sarah.k: @channel anyone talk to their team on legacy stuff?
+
+[09:46] @mike.r: I did briefly. They said it's a nightmare.
+
+[09:47]  ↳ @alex.m: Got it. Need more deets?
+
+[09:48] @chen.d: She mentioned 37% IT budget increase - that's our window.
+
+[09:49] @sarah.k: Who's she again?
+
+[09:50] @mike.r: Probably Yusuf's assistant or something. Anyway, leverage it.
+
+[09:51] @alex.m: Will do. Slow support causing churn - we fix that.
+
+[09:52] @chen.d: Next sprint let's mock up a legacy integration demo.
+
+[09:53] @sarah.k: 👍 Makes sense.
+
+[09:54] @mike.r: Deal value locked at 600000?
+
+[09:55]  ↳ @alex.m: Yep.
+
+[09:56] @chen.d: Timeline is 2026-06-14? That's ages away.
+
+[09:57] @sarah.k: Yeah but they're moving slow due to deploys.
+
+[09:58] @mike.r: They repeated budget is approx 600k in the call notes.
+
+[09:59] @alex.m: True, Mike already noted it.
+
+[10:00] @chen.d: In-house build? No way with their legacy mess.
+
+[10:01] @sarah.k: Einstein too tbh.
+
+[10:02] @mike.r: He agreed our pricing looks good [shared link: ForgeNet Industries pricing page]
+
+[10:03] @alex.m: Gotcha. Pain points nailed: deploys, integrations, churn.
+
+[10:04] @chen.d: Yusuf been there 3 years - knows the pains well.
+
+[10:05] @sarah.k: She wants a follow-up next week.
+
+[10:06] @mike.r: Her who?
+
+[10:07]  ↳ @chen.d: ForgeNet contact prob.
+
+[10:08] @alex.m: Alright team, let's push this to close. Proposal out tomorrow.
+
+[👍 from @sarah.k] [👍 from @mike.r] [🚀 from @chen.d]

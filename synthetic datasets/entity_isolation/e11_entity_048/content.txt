@@ -1,0 +1,25 @@
+### Account Overview
+Crest Digital is an innovative EdTech company with 1740 employees and approximately $19M in annual revenue. Specializing in digital learning platforms, they've experienced rapid early growth but now face significant challenges in scaling their data infrastructure. Amanda Mueller, Head of Data (amanda.mueller@crestdigital.com), is the primary point of contact and key decision-maker for data-related initiatives. Her team is grappling with technical debt accumulated from aggressive expansion, leading to inefficiencies across operations.
+
+### Key Details
+**Tech Stack:** Crest Digital relies heavily on C#, .NET, Azure, SQL Server, and RabbitMQ for their backend and data processing needs. This modern stack positions them well for cloud-native solutions but highlights integration gaps.
+
+**Pain Points:**
+- Technical debt from rapid early growth, slowing development velocity.
+- Data silos between engineering and sales teams, hindering cross-functional insights and forecasting.
+- Difficulty hiring specialized engineers in a competitive EdTech talent market.
+- Recent compliance audit failures on data handling, risking regulatory penalties and customer trust.
+
+**Competitors Considered:** Chorus.ai, ZoomInfo, HubSpot AI – Crest Digital is actively evaluating alternatives to address their data unification and analytics shortcomings.
+
+### Deal Status
+Prospect stage: Qualified Opportunity. Projected deal value: $400,000. Amanda Mueller has expressed strong interest in solutions that can integrate seamlessly with their Azure/.NET ecosystem to resolve data silos and compliance issues. Decision timeline: Q4 2026, aligned with their fiscal planning cycle. No formal RFP yet, but initial demos have been well-received, positioning us favorably against competitors.
+
+### Next Steps
+- Schedule follow-up demo with Amanda Mueller by end of next week to showcase Azure integration and compliance features.
+- Share customized ROI analysis addressing technical debt and hiring challenges (target: 2-3 days).
+- Coordinate intro to engineering lead for technical deep-dive.
+- Monitor competitor activity via ZoomInfo alerts; prepare objection-handling playbook for Chorus.ai/HubSpot comparisons.
+- Update forecast weighting to 65% based on recent engagement.
+
+(Word count: 378)

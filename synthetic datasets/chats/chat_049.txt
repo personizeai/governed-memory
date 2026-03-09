@@ -1,0 +1,73 @@
+[09:15] @alex.m: Quick update @channel - just off call with Brian Mitchell from SyncWave. He's Director of IT, been there 3 years.  
+[👍 from @sarah.k]  
+[09:16] @sarah.k: Nice, what'd he say?  
+[09:17] @alex.m: They're in discovery stage rn, budget around $200k allocated. Pain point is inconsistent messaging across sales team.  
+[09:18]  ↳ @mike.r: Sales team? Thought they were IT focused?  
+[09:19] @chen.f: Yeah SyncWave is B2B SaaS, ~710 employees, size 201-1000. Makes sense they're dealing with that.  
+[09:20] @alex.m: Also compliance audit failures on data handling. Ngl, that's a big one imo.  
+[09:21]  ↳ @sarah.k: Got it, how bad?  
+[09:22] @alex.m: Failing audits left and right tbh. Plus slow deployment cycles, 2-3 weeks per release.  
+[09:23] @mike.r: Current solution?  
+[09:24] @alex.m: Internal Python scripts pulling from multiple APIs. Messy af.  
+[09:25] @sarah.k: Fwiw their stack is Scala, Spark, Databricks, Snowflake, Airflow. We integrate well.  
+[👍 from @chen.f] [👍 from @mike.r]  
+[09:26] @chen.f: Urgency medium, decision timeline 2026-07-31. Plenty of time.  
+[09:27] @alex.m: He's not the decision maker btw. Knows the pains tho.  
+[09:28] @mike.r: Who is then?  
+[09:29]  ↳ @alex.m: Not sure yet, he mentioned she handles budgets upstairs.  
+[09:30] @sarah.k: Competitors?  
+[09:31] @alex.m: Drift and Outreach came up. They're eyeing those.  
+[09:32] @chen.f: Lmk if we need to demo against them. Deal value $200k? Solid.  
+[09:33]  ↳ @mike.r: Yeah budget's ~200k, confirms what Alex said.  
+[09:34] @alex.m: Makes sense. Next call tomorrow?  
+[09:35] @sarah.k: Works for me.  
+[09:36] @mike.r: She said they're not interested in quick wins rn. Who tho?  
+[09:37]  ↳ @chen.f: Probably Brian, he's cautious.  
+[09:38] @alex.m: [shared link: SyncWave pricing page] Check this, aligns with their stack.  
+[09:39] @chen.f: Looking good 👍  
+[09:40] @sarah.k: Pain points nailed: messaging, audits, deploys.  
+[09:41]  ↳ @mike.r: Deploys taking 2-3 weeks, brutal.  
+[09:42] @alex.m: @here thoughts on pushing tech stack angle?  
+[09:43] @mike.r: Yeah Spark and Airflow scream for us.  
+[09:44] @chen.f: He mentioned last Friday's audit failed again.  
+[09:45] @sarah.k: Oof. Python scripts can't scale imo.  
+[09:46]  ↳ @alex.m: Exactly, they're drowning.  
+[09:47] @mike.r: Ngl Drift's cheaper but we win on compliance.  
+[09:48] @chen.f: Timeline to 2026? We got time for next sprint tweaks.  
+[09:49] @alex.m: Cool, I'll loop back with him.  
+[09:50] @sarah.k: Got it.  
+[👍 from @mike.r]  
+[09:51] @mike.r: One more: inconsistent sales messaging killing their pipeline?  
+[09:52]  ↳ @chen.f: Yep, he said the team hates it.  
+[09:53] @alex.m: Brian's been there 3 years, knows it well.  
+[09:54] @sarah.k: Repeated pains, let's doc em.  
+[09:55] @chen.f: Urgency medium, no rush.  
+[09:56]  ↳ @mike.r: Makes sense.  
+[09:57] @alex.m: They pulled APIs from everywhere, nightmare.  
+[09:58] @sarah.k: Outreach mentioned? We beat em on integrations.  
+[09:59]  ↳ @chen.f: For sure.  
+[10:00] @mike.r: She wants demo next week? Unclear who.  
+[10:01] @alex.m: Probably sales lead. Lmk.  
+[10:02] @chen.f: Budget locked at 200k?  
+[10:03] @sarah.k: Yep, approx.  
+[10:04] @mike.r: Deployment cycles too slow, they admitted.  
+[10:05]  ↳ @alex.m: 2-3 weeks yeah.  
+[10:06] @chen.f: Snowflake plays nice with us.  
+[10:07] @sarah.k: 👍  
+[10:08] @alex.m: Not decision maker, but influential.  
+[10:09] @mike.r: Cool, keep him warm.  
+[10:10] @chen.f: Last Friday he vented about audits.  
+[10:11]  ↳ @sarah.k: Gotcha.  
+[10:12] @alex.m: Deal stage discovery, steady.  
+[10:13] @sarah.k: Timeline end of July 2026.  
+[10:14] @mike.r: Medium urgency fwiw.  
+[10:15] @chen.f: Python scripts = bandaid.  
+[10:16]  ↳ @alex.m: 100%.  
+[10:17] @sarah.k: Competitors Drift weak on compliance.  
+[10:18] @mike.r: True.  
+[10:19] @alex.m: SyncWave 710 heads, growing pains.  
+[10:20] @chen.f: Stack matches perfectly.  
+[👍 from @sarah.k] [👍 from @mike.r]  
+[10:21] @sarah.k: All good?  
+[10:22] @mike.r: Yep.  
+[10:23] @alex.m: Thx team.

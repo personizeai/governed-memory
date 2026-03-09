@@ -1,0 +1,80 @@
+{
+  "sample_id": "document_008",
+  "content_type": "wiki_document",
+  "company": "CourseForge",
+  "industry": "EdTech",
+  "target_word_count": 1587,
+  "actual_word_count": 1255,
+  "expected_facts": [
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with difficulty measuring ROI on AI initiatives",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Boston",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with manual processes for customer onboarding",
+      "type": "explicit"
+    },
+    {
+      "text": "CourseForge is a EdTech company with about 37 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $350,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes PHP, Laravel, DigitalOcean, MySQL, Redis",
+      "type": "explicit"
+    },
+    {
+      "text": "Lisa Nakamura has been at CourseForge for 8 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using HubSpot CRM with Zapier automations",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Sales Engineering",
+    "company_name": "CourseForge",
+    "company_size": "11-50",
+    "technology_stack": "PHP, Laravel, DigitalOcean, MySQL, Redis",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "manual processes for customer onboarding",
+      "difficulty measuring ROI on AI initiatives"
+    ],
+    "deal_value": 350000,
+    "decision_timeline": "2026-08-27",
+    "decision_maker": true,
+    "current_solution": "HubSpot CRM with Zapier automations",
+    "urgency_level": "High"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Aisha Reyes",
+      "title": "Chief Revenue Officer",
+      "role": "Budget Owner"
+    },
+    {
+      "name": "Ivan Lee",
+      "title": "VP of Customer Success",
+      "role": "Champion"
+    }
+  ],
+  "property_coverage": 0.79
+}

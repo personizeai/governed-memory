@@ -1,0 +1,73 @@
+{
+  "sample_id": "chat_040",
+  "content_type": "chat_log",
+  "company": "ClassGrid",
+  "industry": "EdTech",
+  "message_count_target": 35,
+  "actual_word_count": 518,
+  "expected_facts": [
+    {
+      "text": "ClassGrid is a EdTech company with about 50 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Microsoft Copilot",
+      "type": "explicit"
+    },
+    {
+      "text": "James Baker has been at ClassGrid for 2 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with poor developer experience slowing feature velocity",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $450,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with vendor lock-in with current cloud provider",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Go, Kubernetes, AWS, DynamoDB, gRPC",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $42M",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Marketing",
+    "company_name": "ClassGrid",
+    "company_size": "11-50",
+    "technology_stack": "Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "poor developer experience slowing feature velocity",
+      "vendor lock-in with current cloud provider",
+      "poor visibility into pipeline health"
+    ],
+    "deal_value": 450000,
+    "decision_timeline": "2026-09-27",
+    "competitors_mentioned": [
+      "Microsoft Copilot"
+    ],
+    "decision_maker": false,
+    "next_steps": "Schedule a technical deep-dive with James's engineering team"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 3,
+    "duplicate_facts": 2
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@felix.c"
+  ],
+  "property_coverage": 0.79
+}

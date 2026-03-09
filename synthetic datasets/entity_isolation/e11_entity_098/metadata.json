@@ -1,0 +1,19 @@
+{
+  "entity_index": 98,
+  "name": "Heather Fernandez",
+  "company": "Sable Digital",
+  "industry": "GovTech",
+  "email": "heather.fernandez@sabledigital.com",
+  "title": "VP of Sales",
+  "facts": [
+    "Heather Fernandez is VP of Sales at Sable Digital",
+    "Sable Digital is a GovTech company with 1003 employees",
+    "Tech stack: Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+    "Deal value: $1,000,000",
+    "Pain points: inconsistent messaging across sales team; vendor lock-in with current cloud provider",
+    "Competitors: Microsoft Copilot, Gong, building in-house",
+    "Decision timeline: Q4 2026",
+    "Annual revenue: ~$143M"
+  ],
+  "actual_word_count": 322
+}

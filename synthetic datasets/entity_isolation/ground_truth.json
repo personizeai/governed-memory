@@ -1,0 +1,1912 @@
+{
+  "total_entities": 100,
+  "entities": [
+    {
+      "entity_index": 1,
+      "name": "Anita Cho",
+      "company": "NovaCrest Solutions",
+      "industry": "B2B SaaS",
+      "email": "anita.cho@novacrestsolutions.com",
+      "title": "Director of IT",
+      "facts": [
+        "Anita Cho is Director of IT at NovaCrest Solutions",
+        "NovaCrest Solutions is a B2B SaaS company with 2985 employees",
+        "Tech stack: PHP, Laravel, DigitalOcean, MySQL, Redis",
+        "Deal value: $400,000",
+        "Pain points: inconsistent messaging across sales team; scaling issues during peak traffic periods",
+        "Competitors: Drift, Intercom",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$74M"
+      ],
+      "actual_word_count": 361
+    },
+    {
+      "entity_index": 2,
+      "name": "Chloe Park",
+      "company": "Axiom Digital",
+      "industry": "Fintech",
+      "email": "chloe.park@axiomdigital.com",
+      "title": "VP of Operations",
+      "facts": [
+        "Chloe Park is VP of Operations at Axiom Digital",
+        "Axiom Digital is a Fintech company with 2638 employees",
+        "Tech stack: Python, Django, AWS, PostgreSQL, Redis",
+        "Deal value: $650,000",
+        "Pain points: compliance audit failures on data handling; vendor lock-in with current cloud provider; integration complexity with legacy systems",
+        "Competitors: Apollo.io, Microsoft Copilot",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$213M"
+      ],
+      "actual_word_count": 326
+    },
+    {
+      "entity_index": 3,
+      "name": "Ivan Kaur",
+      "company": "Pinnacle Data",
+      "industry": "Healthcare Tech",
+      "email": "ivan.kaur@pinnacledata.com",
+      "title": "Head of Product",
+      "facts": [
+        "Ivan Kaur is Head of Product at Pinnacle Data",
+        "Pinnacle Data is a Healthcare Tech company with 1876 employees",
+        "Tech stack: Python, Django, AWS, PostgreSQL, Redis",
+        "Deal value: $250,000",
+        "Pain points: manual processes for customer onboarding; poor developer experience slowing feature velocity",
+        "Competitors: ZoomInfo, Salesforce Einstein",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$87M"
+      ],
+      "actual_word_count": 325
+    },
+    {
+      "entity_index": 4,
+      "name": "Kevin Bhandari",
+      "company": "Meridian Labs",
+      "industry": "E-commerce",
+      "email": "kevin.bhandari@meridianlabs.com",
+      "title": "VP of Sales",
+      "facts": [
+        "Kevin Bhandari is VP of Sales at Meridian Labs",
+        "Meridian Labs is a E-commerce company with 48 employees",
+        "Tech stack: TypeScript, React, Node.js, GCP, MongoDB",
+        "Deal value: $250,000",
+        "Pain points: customer churn from slow support response times; scaling issues during peak traffic periods",
+        "Competitors: Gong",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$126M"
+      ],
+      "actual_word_count": 280
+    },
+    {
+      "entity_index": 5,
+      "name": "Derek Oduya",
+      "company": "Zenith Analytics",
+      "industry": "Manufacturing",
+      "email": "derek.oduya@zenithanalytics.com",
+      "title": "Head of Data",
+      "facts": [
+        "Derek Oduya is Head of Data at Zenith Analytics",
+        "Zenith Analytics is a Manufacturing company with 47 employees",
+        "Tech stack: Go, Kubernetes, AWS, DynamoDB, gRPC",
+        "Deal value: $1,000,000",
+        "Pain points: technical debt from rapid early growth; slow deployment cycles taking 2-3 weeks per release; data silos between engineering and sales teams; high infrastructure costs eating into margins",
+        "Competitors: Gong, Microsoft Copilot",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$278M"
+      ],
+      "actual_word_count": 347
+    },
+    {
+      "entity_index": 6,
+      "name": "Aisha Singh",
+      "company": "Cortex Systems",
+      "industry": "Logistics",
+      "email": "aisha.singh@cortexsystems.com",
+      "title": "Director of Analytics",
+      "facts": [
+        "Aisha Singh is Director of Analytics at Cortex Systems",
+        "Cortex Systems is a Logistics company with 1978 employees",
+        "Tech stack: Go, Kubernetes, AWS, DynamoDB, gRPC",
+        "Deal value: $650,000",
+        "Pain points: lack of real-time analytics for decision making; inconsistent messaging across sales team",
+        "Competitors: Salesforce Einstein, HubSpot AI",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$240M"
+      ],
+      "actual_word_count": 374
+    },
+    {
+      "entity_index": 7,
+      "name": "Lisa Kim",
+      "company": "Prism Networks",
+      "industry": "Digital Media",
+      "email": "lisa.kim@prismnetworks.com",
+      "title": "VP of Marketing",
+      "facts": [
+        "Lisa Kim is VP of Marketing at Prism Networks",
+        "Prism Networks is a Digital Media company with 454 employees",
+        "Tech stack: Python, Django, AWS, PostgreSQL, Redis",
+        "Deal value: $50,000",
+        "Pain points: difficulty hiring specialized engineers; inconsistent messaging across sales team; customer churn from slow support response times",
+        "Competitors: Apollo.io",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$248M"
+      ],
+      "actual_word_count": 374
+    },
+    {
+      "entity_index": 8,
+      "name": "Brian Fernandez",
+      "company": "Vertex Cloud",
+      "industry": "EdTech",
+      "email": "brian.fernandez@vertexcloud.com",
+      "title": "Director of Engineering",
+      "facts": [
+        "Brian Fernandez is Director of Engineering at Vertex Cloud",
+        "Vertex Cloud is a EdTech company with 322 employees",
+        "Tech stack: Scala, Spark, Databricks, Snowflake, Airflow",
+        "Deal value: $50,000",
+        "Pain points: inconsistent messaging across sales team; customer churn from slow support response times; technical debt from rapid early growth",
+        "Competitors: existing CRM workflows, Outreach, Gong",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$109M"
+      ],
+      "actual_word_count": 337
+    },
+    {
+      "entity_index": 9,
+      "name": "Amanda Williams",
+      "company": "Helix Software",
+      "industry": "Cybersecurity",
+      "email": "amanda.williams@helixsoftware.com",
+      "title": "CTO",
+      "facts": [
+        "Amanda Williams is CTO at Helix Software",
+        "Helix Software is a Cybersecurity company with 217 employees",
+        "Tech stack: Scala, Spark, Databricks, Snowflake, Airflow",
+        "Deal value: $400,000",
+        "Pain points: difficulty measuring ROI on AI initiatives; integration complexity with legacy systems",
+        "Competitors: Gong",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$130M"
+      ],
+      "actual_word_count": 355
+    },
+    {
+      "entity_index": 10,
+      "name": "Anita Anderson",
+      "company": "Quantum Bridge",
+      "industry": "CleanTech",
+      "email": "anita.anderson@quantumbridge.com",
+      "title": "Director of Sales Engineering",
+      "facts": [
+        "Anita Anderson is Director of Sales Engineering at Quantum Bridge",
+        "Quantum Bridge is a CleanTech company with 2127 employees",
+        "Tech stack: Java, Spring Boot, Azure, Oracle, Kafka",
+        "Deal value: $1,000,000",
+        "Pain points: inconsistent messaging across sales team; security concerns with current architecture; customer churn from slow support response times; lack of real-time analytics for decision making",
+        "Competitors: Intercom, HubSpot AI",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$50M"
+      ],
+      "actual_word_count": 319
+    },
+    {
+      "entity_index": 11,
+      "name": "James Dubois",
+      "company": "Stratos AI",
+      "industry": "InsurTech",
+      "email": "james.dubois@stratosai.com",
+      "title": "Head of Product",
+      "facts": [
+        "James Dubois is Head of Product at Stratos AI",
+        "Stratos AI is a InsurTech company with 1119 employees",
+        "Tech stack: Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+        "Deal value: $1,000,000",
+        "Pain points: data silos between engineering and sales teams; manual processes for customer onboarding; difficulty measuring ROI on AI initiatives; high infrastructure costs eating into margins",
+        "Competitors: Microsoft Copilot, Gong",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$219M"
+      ],
+      "actual_word_count": 307
+    },
+    {
+      "entity_index": 12,
+      "name": "Raj Hassan",
+      "company": "Forge Platform",
+      "industry": "LegalTech",
+      "email": "raj.hassan@forgeplatform.com",
+      "title": "VP of Marketing",
+      "facts": [
+        "Raj Hassan is VP of Marketing at Forge Platform",
+        "Forge Platform is a LegalTech company with 1631 employees",
+        "Tech stack: Java, Spring Boot, Azure, Oracle, Kafka",
+        "Deal value: $1,000,000",
+        "Pain points: vendor lock-in with current cloud provider; customer churn from slow support response times; slow deployment cycles taking 2-3 weeks per release",
+        "Competitors: Microsoft Copilot, HubSpot AI",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$268M"
+      ],
+      "actual_word_count": 306
+    },
+    {
+      "entity_index": 13,
+      "name": "Brian Tanaka",
+      "company": "Clarity Insights",
+      "industry": "PropTech",
+      "email": "brian.tanaka@clarityinsights.com",
+      "title": "Chief Revenue Officer",
+      "facts": [
+        "Brian Tanaka is Chief Revenue Officer at Clarity Insights",
+        "Clarity Insights is a PropTech company with 174 employees",
+        "Tech stack: PHP, Laravel, DigitalOcean, MySQL, Redis",
+        "Deal value: $1,000,000",
+        "Pain points: vendor lock-in with current cloud provider; fragmented tooling across departments; security concerns with current architecture; difficulty hiring specialized engineers",
+        "Competitors: Apollo.io, Clari, Drift",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$250M"
+      ],
+      "actual_word_count": 366
+    },
+    {
+      "entity_index": 14,
+      "name": "Victor Santos",
+      "company": "Pulse Dynamics",
+      "industry": "AgriTech",
+      "email": "victor.santos@pulsedynamics.com",
+      "title": "Director of Engineering",
+      "facts": [
+        "Victor Santos is Director of Engineering at Pulse Dynamics",
+        "Pulse Dynamics is a AgriTech company with 1980 employees",
+        "Tech stack: Rust, Actix, AWS, PostgreSQL, NATS",
+        "Deal value: $50,000",
+        "Pain points: scaling issues during peak traffic periods; customer churn from slow support response times; lack of real-time analytics for decision making; security concerns with current architecture",
+        "Competitors: Microsoft Copilot",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$281M"
+      ],
+      "actual_word_count": 280
+    },
+    {
+      "entity_index": 15,
+      "name": "Yusuf Bhandari",
+      "company": "Atlas Engineering",
+      "industry": "BioTech",
+      "email": "yusuf.bhandari@atlasengineering.com",
+      "title": "VP of Marketing",
+      "facts": [
+        "Yusuf Bhandari is VP of Marketing at Atlas Engineering",
+        "Atlas Engineering is a BioTech company with 214 employees",
+        "Tech stack: TypeScript, React, Node.js, GCP, MongoDB",
+        "Deal value: $250,000",
+        "Pain points: difficulty hiring specialized engineers; data silos between engineering and sales teams; integration complexity with legacy systems",
+        "Competitors: HubSpot AI, Microsoft Copilot",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$170M"
+      ],
+      "actual_word_count": 266
+    },
+    {
+      "entity_index": 16,
+      "name": "Maria Cho",
+      "company": "Beacon Financial",
+      "industry": "MarTech",
+      "email": "maria.cho@beaconfinancial.com",
+      "title": "Chief Revenue Officer",
+      "facts": [
+        "Maria Cho is Chief Revenue Officer at Beacon Financial",
+        "Beacon Financial is a MarTech company with 1129 employees",
+        "Tech stack: Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+        "Deal value: $250,000",
+        "Pain points: slow deployment cycles taking 2-3 weeks per release; scaling issues during peak traffic periods; vendor lock-in with current cloud provider",
+        "Competitors: HubSpot AI, building in-house",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$261M"
+      ],
+      "actual_word_count": 335
+    },
+    {
+      "entity_index": 17,
+      "name": "Victor Anderson",
+      "company": "Harbor Tech",
+      "industry": "HRTech",
+      "email": "victor.anderson@harbortech.com",
+      "title": "VP of Customer Success",
+      "facts": [
+        "Victor Anderson is VP of Customer Success at Harbor Tech",
+        "Harbor Tech is a HRTech company with 2787 employees",
+        "Tech stack: Java, Micronaut, GCP, Spanner, Pub/Sub",
+        "Deal value: $650,000",
+        "Pain points: poor visibility into pipeline health; lack of real-time analytics for decision making; inconsistent messaging across sales team",
+        "Competitors: Outreach, custom internal tool, ZoomInfo",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$282M"
+      ],
+      "actual_word_count": 328
+    },
+    {
+      "entity_index": 18,
+      "name": "Omar Mueller",
+      "company": "Summit Computing",
+      "industry": "GovTech",
+      "email": "omar.mueller@summitcomputing.com",
+      "title": "CTO",
+      "facts": [
+        "Omar Mueller is CTO at Summit Computing",
+        "Summit Computing is a GovTech company with 1279 employees",
+        "Tech stack: Scala, Spark, Databricks, Snowflake, Airflow",
+        "Deal value: $650,000",
+        "Pain points: high infrastructure costs eating into margins; difficulty measuring ROI on AI initiatives",
+        "Competitors: Microsoft Copilot, HubSpot AI, Gong",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$288M"
+      ],
+      "actual_word_count": 329
+    },
+    {
+      "entity_index": 19,
+      "name": "Derek Anderson",
+      "company": "Nexus Prime",
+      "industry": "SpaceTech",
+      "email": "derek.anderson@nexusprime.com",
+      "title": "Director of Analytics",
+      "facts": [
+        "Derek Anderson is Director of Analytics at Nexus Prime",
+        "Nexus Prime is a SpaceTech company with 1194 employees",
+        "Tech stack: Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+        "Deal value: $1,000,000",
+        "Pain points: compliance audit failures on data handling; poor visibility into pipeline health; scaling issues during peak traffic periods; inconsistent messaging across sales team",
+        "Competitors: ZoomInfo, HubSpot AI, Apollo.io",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$77M"
+      ],
+      "actual_word_count": 403
+    },
+    {
+      "entity_index": 20,
+      "name": "Yusuf Hassan",
+      "company": "Orion Platforms",
+      "industry": "FoodTech",
+      "email": "yusuf.hassan@orionplatforms.com",
+      "title": "VP of Operations",
+      "facts": [
+        "Yusuf Hassan is VP of Operations at Orion Platforms",
+        "Orion Platforms is a FoodTech company with 1548 employees",
+        "Tech stack: PHP, Laravel, DigitalOcean, MySQL, Redis",
+        "Deal value: $650,000",
+        "Pain points: integration complexity with legacy systems; high infrastructure costs eating into margins; poor developer experience slowing feature velocity",
+        "Competitors: Chorus.ai, custom internal tool, Outreach",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$53M"
+      ],
+      "actual_word_count": 341
+    },
+    {
+      "entity_index": 21,
+      "name": "Daniel Reyes",
+      "company": "Catalyst IO",
+      "industry": "B2B SaaS",
+      "email": "daniel.reyes@catalystio.com",
+      "title": "Director of Analytics",
+      "facts": [
+        "Daniel Reyes is Director of Analytics at Catalyst IO",
+        "Catalyst IO is a B2B SaaS company with 2670 employees",
+        "Tech stack: Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+        "Deal value: $50,000",
+        "Pain points: manual processes for customer onboarding; integration complexity with legacy systems; lack of real-time analytics for decision making",
+        "Competitors: ZoomInfo, Gong",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$239M"
+      ],
+      "actual_word_count": 324
+    },
+    {
+      "entity_index": 22,
+      "name": "Anita Bhandari",
+      "company": "Ember Software",
+      "industry": "Fintech",
+      "email": "anita.bhandari@embersoftware.com",
+      "title": "Chief Revenue Officer",
+      "facts": [
+        "Anita Bhandari is Chief Revenue Officer at Ember Software",
+        "Ember Software is a Fintech company with 1120 employees",
+        "Tech stack: Python, Django, AWS, PostgreSQL, Redis",
+        "Deal value: $50,000",
+        "Pain points: poor visibility into pipeline health; lack of real-time analytics for decision making; vendor lock-in with current cloud provider; slow deployment cycles taking 2-3 weeks per release",
+        "Competitors: Outreach",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$271M"
+      ],
+      "actual_word_count": 325
+    },
+    {
+      "entity_index": 23,
+      "name": "Amanda O'Brien",
+      "company": "Drift Analytics",
+      "industry": "Healthcare Tech",
+      "email": "amanda.o'brien@driftanalytics.com",
+      "title": "Head of Product",
+      "facts": [
+        "Amanda O'Brien is Head of Product at Drift Analytics",
+        "Drift Analytics is a Healthcare Tech company with 2426 employees",
+        "Tech stack: Java, Micronaut, GCP, Spanner, Pub/Sub",
+        "Deal value: $1,000,000",
+        "Pain points: fragmented tooling across departments; technical debt from rapid early growth; scaling issues during peak traffic periods",
+        "Competitors: Gong",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$81M"
+      ],
+      "actual_word_count": 305
+    },
+    {
+      "entity_index": 24,
+      "name": "Alex Novak",
+      "company": "Canyon Systems",
+      "industry": "E-commerce",
+      "email": "alex.novak@canyonsystems.com",
+      "title": "Director of Analytics",
+      "facts": [
+        "Alex Novak is Director of Analytics at Canyon Systems",
+        "Canyon Systems is a E-commerce company with 1871 employees",
+        "Tech stack: Rust, Actix, AWS, PostgreSQL, NATS",
+        "Deal value: $250,000",
+        "Pain points: poor visibility into pipeline health; difficulty measuring ROI on AI initiatives",
+        "Competitors: Salesforce Einstein",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$49M"
+      ],
+      "actual_word_count": 298
+    },
+    {
+      "entity_index": 25,
+      "name": "Marcus Tanaka",
+      "company": "Vantage Point",
+      "industry": "Manufacturing",
+      "email": "marcus.tanaka@vantagepoint.com",
+      "title": "VP of Customer Success",
+      "facts": [
+        "Marcus Tanaka is VP of Customer Success at Vantage Point",
+        "Vantage Point is a Manufacturing company with 866 employees",
+        "Tech stack: Scala, Spark, Databricks, Snowflake, Airflow",
+        "Deal value: $50,000",
+        "Pain points: slow deployment cycles taking 2-3 weeks per release; security concerns with current architecture; integration complexity with legacy systems",
+        "Competitors: Clari, HubSpot AI",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$204M"
+      ],
+      "actual_word_count": 352
+    },
+    {
+      "entity_index": 26,
+      "name": "Heather Volkov",
+      "company": "Mosaic Data",
+      "industry": "Logistics",
+      "email": "heather.volkov@mosaicdata.com",
+      "title": "Head of Product",
+      "facts": [
+        "Heather Volkov is Head of Product at Mosaic Data",
+        "Mosaic Data is a Logistics company with 2482 employees",
+        "Tech stack: Python, Django, AWS, PostgreSQL, Redis",
+        "Deal value: $1,000,000",
+        "Pain points: vendor lock-in with current cloud provider; data silos between engineering and sales teams; security concerns with current architecture; poor developer experience slowing feature velocity",
+        "Competitors: Chorus.ai, Salesforce Einstein, Apollo.io",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$188M"
+      ],
+      "actual_word_count": 308
+    },
+    {
+      "entity_index": 27,
+      "name": "Heather Santos",
+      "company": "Sterling Logic",
+      "industry": "Digital Media",
+      "email": "heather.santos@sterlinglogic.com",
+      "title": "Head of Product",
+      "facts": [
+        "Heather Santos is Head of Product at Sterling Logic",
+        "Sterling Logic is a Digital Media company with 1346 employees",
+        "Tech stack: Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+        "Deal value: $1,000,000",
+        "Pain points: security concerns with current architecture; data silos between engineering and sales teams",
+        "Competitors: Chorus.ai, HubSpot AI",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$216M"
+      ],
+      "actual_word_count": 313
+    },
+    {
+      "entity_index": 28,
+      "name": "Nina Cho",
+      "company": "Lunar Computing",
+      "industry": "EdTech",
+      "email": "nina.cho@lunarcomputing.com",
+      "title": "VP of Marketing",
+      "facts": [
+        "Nina Cho is VP of Marketing at Lunar Computing",
+        "Lunar Computing is a EdTech company with 1735 employees",
+        "Tech stack: Scala, Spark, Databricks, Snowflake, Airflow",
+        "Deal value: $120,000",
+        "Pain points: customer churn from slow support response times; security concerns with current architecture",
+        "Competitors: Apollo.io, Intercom, Outreach",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$110M"
+      ],
+      "actual_word_count": 318
+    },
+    {
+      "entity_index": 29,
+      "name": "Sarah Dubois",
+      "company": "Tidal Solutions",
+      "industry": "Cybersecurity",
+      "email": "sarah.dubois@tidalsolutions.com",
+      "title": "Chief Revenue Officer",
+      "facts": [
+        "Sarah Dubois is Chief Revenue Officer at Tidal Solutions",
+        "Tidal Solutions is a Cybersecurity company with 2065 employees",
+        "Tech stack: Java, Micronaut, GCP, Spanner, Pub/Sub",
+        "Deal value: $650,000",
+        "Pain points: technical debt from rapid early growth; data silos between engineering and sales teams; manual processes for customer onboarding; customer churn from slow support response times",
+        "Competitors: Microsoft Copilot, existing CRM workflows, custom internal tool",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$88M"
+      ],
+      "actual_word_count": 300
+    },
+    {
+      "entity_index": 30,
+      "name": "Chloe Nakamura",
+      "company": "Ironclad AI",
+      "industry": "CleanTech",
+      "email": "chloe.nakamura@ironcladai.com",
+      "title": "VP of Engineering",
+      "facts": [
+        "Chloe Nakamura is VP of Engineering at Ironclad AI",
+        "Ironclad AI is a CleanTech company with 2280 employees",
+        "Tech stack: Java, Spring Boot, Azure, Oracle, Kafka",
+        "Deal value: $250,000",
+        "Pain points: difficulty measuring ROI on AI initiatives; customer churn from slow support response times",
+        "Competitors: Clari, existing CRM workflows",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$279M"
+      ],
+      "actual_word_count": 268
+    },
+    {
+      "entity_index": 31,
+      "name": "Sarah Reyes",
+      "company": "Sapphire Tech",
+      "industry": "InsurTech",
+      "email": "sarah.reyes@sapphiretech.com",
+      "title": "Head of Infrastructure",
+      "facts": [
+        "Sarah Reyes is Head of Infrastructure at Sapphire Tech",
+        "Sapphire Tech is a InsurTech company with 2643 employees",
+        "Tech stack: Go, Kubernetes, AWS, DynamoDB, gRPC",
+        "Deal value: $250,000",
+        "Pain points: difficulty measuring ROI on AI initiatives; compliance audit failures on data handling; inconsistent messaging across sales team",
+        "Competitors: Chorus.ai",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$72M"
+      ],
+      "actual_word_count": 277
+    },
+    {
+      "entity_index": 32,
+      "name": "Felix Novak",
+      "company": "Basalt Systems",
+      "industry": "LegalTech",
+      "email": "felix.novak@basaltsystems.com",
+      "title": "Head of Product",
+      "facts": [
+        "Felix Novak is Head of Product at Basalt Systems",
+        "Basalt Systems is a LegalTech company with 1603 employees",
+        "Tech stack: Go, Kubernetes, AWS, DynamoDB, gRPC",
+        "Deal value: $650,000",
+        "Pain points: manual processes for customer onboarding; poor developer experience slowing feature velocity",
+        "Competitors: Apollo.io, custom internal tool",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$57M"
+      ],
+      "actual_word_count": 291
+    },
+    {
+      "entity_index": 33,
+      "name": "Rachel Okonkwo",
+      "company": "Cirrus Cloud",
+      "industry": "PropTech",
+      "email": "rachel.okonkwo@cirruscloud.com",
+      "title": "Head of Infrastructure",
+      "facts": [
+        "Rachel Okonkwo is Head of Infrastructure at Cirrus Cloud",
+        "Cirrus Cloud is a PropTech company with 2226 employees",
+        "Tech stack: PHP, Laravel, DigitalOcean, MySQL, Redis",
+        "Deal value: $120,000",
+        "Pain points: compliance audit failures on data handling; poor visibility into pipeline health; customer churn from slow support response times; data silos between engineering and sales teams",
+        "Competitors: Outreach, custom internal tool",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$94M"
+      ],
+      "actual_word_count": 286
+    },
+    {
+      "entity_index": 34,
+      "name": "Jennifer Anderson",
+      "company": "Quarry Digital",
+      "industry": "AgriTech",
+      "email": "jennifer.anderson@quarrydigital.com",
+      "title": "Director of IT",
+      "facts": [
+        "Jennifer Anderson is Director of IT at Quarry Digital",
+        "Quarry Digital is a AgriTech company with 729 employees",
+        "Tech stack: Java, Micronaut, GCP, Spanner, Pub/Sub",
+        "Deal value: $50,000",
+        "Pain points: inconsistent messaging across sales team; manual processes for customer onboarding; fragmented tooling across departments",
+        "Competitors: building in-house, Outreach, Apollo.io",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$282M"
+      ],
+      "actual_word_count": 284
+    },
+    {
+      "entity_index": 35,
+      "name": "James Thompson",
+      "company": "Keystone Labs",
+      "industry": "BioTech",
+      "email": "james.thompson@keystonelabs.com",
+      "title": "VP of Engineering",
+      "facts": [
+        "James Thompson is VP of Engineering at Keystone Labs",
+        "Keystone Labs is a BioTech company with 1960 employees",
+        "Tech stack: Scala, Spark, Databricks, Snowflake, Airflow",
+        "Deal value: $1,000,000",
+        "Pain points: security concerns with current architecture; technical debt from rapid early growth; difficulty measuring ROI on AI initiatives; inconsistent messaging across sales team",
+        "Competitors: HubSpot AI, Apollo.io, Microsoft Copilot",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$178M"
+      ],
+      "actual_word_count": 248
+    },
+    {
+      "entity_index": 36,
+      "name": "Fatima Park",
+      "company": "Glacier Software",
+      "industry": "MarTech",
+      "email": "fatima.park@glaciersoftware.com",
+      "title": "VP of Sales",
+      "facts": [
+        "Fatima Park is VP of Sales at Glacier Software",
+        "Glacier Software is a MarTech company with 2110 employees",
+        "Tech stack: TypeScript, React, Node.js, GCP, MongoDB",
+        "Deal value: $400,000",
+        "Pain points: high infrastructure costs eating into margins; inconsistent messaging across sales team; manual processes for customer onboarding; integration complexity with legacy systems",
+        "Competitors: Apollo.io, HubSpot AI, Chorus.ai",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$214M"
+      ],
+      "actual_word_count": 351
+    },
+    {
+      "entity_index": 37,
+      "name": "Simone Reyes",
+      "company": "Redwood Analytics",
+      "industry": "HRTech",
+      "email": "simone.reyes@redwoodanalytics.com",
+      "title": "VP of Engineering",
+      "facts": [
+        "Simone Reyes is VP of Engineering at Redwood Analytics",
+        "Redwood Analytics is a HRTech company with 1592 employees",
+        "Tech stack: TypeScript, React, Node.js, GCP, MongoDB",
+        "Deal value: $50,000",
+        "Pain points: data silos between engineering and sales teams; technical debt from rapid early growth; scaling issues during peak traffic periods",
+        "Competitors: Clari, Salesforce Einstein, building in-house",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$271M"
+      ],
+      "actual_word_count": 339
+    },
+    {
+      "entity_index": 38,
+      "name": "Michael Costa",
+      "company": "Cobalt Engineering",
+      "industry": "GovTech",
+      "email": "michael.costa@cobaltengineering.com",
+      "title": "VP of Engineering",
+      "facts": [
+        "Michael Costa is VP of Engineering at Cobalt Engineering",
+        "Cobalt Engineering is a GovTech company with 997 employees",
+        "Tech stack: PHP, Laravel, DigitalOcean, MySQL, Redis",
+        "Deal value: $1,000,000",
+        "Pain points: difficulty hiring specialized engineers; technical debt from rapid early growth",
+        "Competitors: Apollo.io, HubSpot AI, Clari",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$60M"
+      ],
+      "actual_word_count": 350
+    },
+    {
+      "entity_index": 39,
+      "name": "Jennifer Baker",
+      "company": "Aether IO",
+      "industry": "SpaceTech",
+      "email": "jennifer.baker@aetherio.com",
+      "title": "Head of Data",
+      "facts": [
+        "Jennifer Baker is Head of Data at Aether IO",
+        "Aether IO is a SpaceTech company with 311 employees",
+        "Tech stack: TypeScript, React, Node.js, GCP, MongoDB",
+        "Deal value: $1,000,000",
+        "Pain points: fragmented tooling across departments; poor developer experience slowing feature velocity; inconsistent messaging across sales team",
+        "Competitors: custom internal tool, Intercom",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$192M"
+      ],
+      "actual_word_count": 295
+    },
+    {
+      "entity_index": 40,
+      "name": "Kevin O'Brien",
+      "company": "Nimbus Networks",
+      "industry": "FoodTech",
+      "email": "kevin.o'brien@nimbusnetworks.com",
+      "title": "VP of Operations",
+      "facts": [
+        "Kevin O'Brien is VP of Operations at Nimbus Networks",
+        "Nimbus Networks is a FoodTech company with 2589 employees",
+        "Tech stack: Python, Django, AWS, PostgreSQL, Redis",
+        "Deal value: $1,000,000",
+        "Pain points: data silos between engineering and sales teams; customer churn from slow support response times; poor visibility into pipeline health",
+        "Competitors: custom internal tool, Microsoft Copilot",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$249M"
+      ],
+      "actual_word_count": 348
+    },
+    {
+      "entity_index": 41,
+      "name": "Simone Johnson",
+      "company": "Obsidian Data",
+      "industry": "B2B SaaS",
+      "email": "simone.johnson@obsidiandata.com",
+      "title": "Director of Engineering",
+      "facts": [
+        "Simone Johnson is Director of Engineering at Obsidian Data",
+        "Obsidian Data is a B2B SaaS company with 1373 employees",
+        "Tech stack: Java, Spring Boot, Azure, Oracle, Kafka",
+        "Deal value: $1,000,000",
+        "Pain points: integration complexity with legacy systems; poor visibility into pipeline health; high infrastructure costs eating into margins",
+        "Competitors: Outreach, Clari, existing CRM workflows",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$280M"
+      ],
+      "actual_word_count": 311
+    },
+    {
+      "entity_index": 42,
+      "name": "Kevin Garcia",
+      "company": "Flint Security",
+      "industry": "Fintech",
+      "email": "kevin.garcia@flintsecurity.com",
+      "title": "VP of Customer Success",
+      "facts": [
+        "Kevin Garcia is VP of Customer Success at Flint Security",
+        "Flint Security is a Fintech company with 2927 employees",
+        "Tech stack: C#, .NET, Azure, SQL Server, RabbitMQ",
+        "Deal value: $650,000",
+        "Pain points: data silos between engineering and sales teams; lack of real-time analytics for decision making",
+        "Competitors: custom internal tool, Chorus.ai",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$107M"
+      ],
+      "actual_word_count": 357
+    },
+    {
+      "entity_index": 43,
+      "name": "Aisha Chen",
+      "company": "Ridge Computing",
+      "industry": "Healthcare Tech",
+      "email": "aisha.chen@ridgecomputing.com",
+      "title": "Chief Product Officer",
+      "facts": [
+        "Aisha Chen is Chief Product Officer at Ridge Computing",
+        "Ridge Computing is a Healthcare Tech company with 2872 employees",
+        "Tech stack: Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+        "Deal value: $50,000",
+        "Pain points: poor visibility into pipeline health; security concerns with current architecture",
+        "Competitors: Microsoft Copilot",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$272M"
+      ],
+      "actual_word_count": 315
+    },
+    {
+      "entity_index": 44,
+      "name": "Daniel Novak",
+      "company": "Solstice AI",
+      "industry": "E-commerce",
+      "email": "daniel.novak@solsticeai.com",
+      "title": "Chief Revenue Officer",
+      "facts": [
+        "Daniel Novak is Chief Revenue Officer at Solstice AI",
+        "Solstice AI is a E-commerce company with 1768 employees",
+        "Tech stack: Rust, Actix, AWS, PostgreSQL, NATS",
+        "Deal value: $1,000,000",
+        "Pain points: poor visibility into pipeline health; slow deployment cycles taking 2-3 weeks per release",
+        "Competitors: Drift",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$159M"
+      ],
+      "actual_word_count": 299
+    },
+    {
+      "entity_index": 45,
+      "name": "Heather Ibrahim",
+      "company": "Tempest Software",
+      "industry": "Manufacturing",
+      "email": "heather.ibrahim@tempestsoftware.com",
+      "title": "CTO",
+      "facts": [
+        "Heather Ibrahim is CTO at Tempest Software",
+        "Tempest Software is a Manufacturing company with 2735 employees",
+        "Tech stack: Scala, Spark, Databricks, Snowflake, Airflow",
+        "Deal value: $1,000,000",
+        "Pain points: lack of real-time analytics for decision making; security concerns with current architecture; vendor lock-in with current cloud provider",
+        "Competitors: HubSpot AI",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$34M"
+      ],
+      "actual_word_count": 396
+    },
+    {
+      "entity_index": 46,
+      "name": "Yusuf Chen",
+      "company": "Onyx Solutions",
+      "industry": "Logistics",
+      "email": "yusuf.chen@onyxsolutions.com",
+      "title": "Chief Product Officer",
+      "facts": [
+        "Yusuf Chen is Chief Product Officer at Onyx Solutions",
+        "Onyx Solutions is a Logistics company with 1375 employees",
+        "Tech stack: Java, Spring Boot, Azure, Oracle, Kafka",
+        "Deal value: $400,000",
+        "Pain points: lack of real-time analytics for decision making; high infrastructure costs eating into margins; customer churn from slow support response times",
+        "Competitors: Salesforce Einstein, HubSpot AI, Microsoft Copilot",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$19M"
+      ],
+      "actual_word_count": 344
+    },
+    {
+      "entity_index": 47,
+      "name": "Brian Rivera",
+      "company": "Marble Tech",
+      "industry": "Digital Media",
+      "email": "brian.rivera@marbletech.com",
+      "title": "Director of IT",
+      "facts": [
+        "Brian Rivera is Director of IT at Marble Tech",
+        "Marble Tech is a Digital Media company with 2156 employees",
+        "Tech stack: Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+        "Deal value: $400,000",
+        "Pain points: fragmented tooling across departments; difficulty measuring ROI on AI initiatives; scaling issues during peak traffic periods; inconsistent messaging across sales team",
+        "Competitors: Clari, existing CRM workflows, ZoomInfo",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$264M"
+      ],
+      "actual_word_count": 328
+    },
+    {
+      "entity_index": 48,
+      "name": "Amanda Mueller",
+      "company": "Crest Digital",
+      "industry": "EdTech",
+      "email": "amanda.mueller@crestdigital.com",
+      "title": "Head of Data",
+      "facts": [
+        "Amanda Mueller is Head of Data at Crest Digital",
+        "Crest Digital is a EdTech company with 1740 employees",
+        "Tech stack: C#, .NET, Azure, SQL Server, RabbitMQ",
+        "Deal value: $400,000",
+        "Pain points: technical debt from rapid early growth; data silos between engineering and sales teams; difficulty hiring specialized engineers; compliance audit failures on data handling",
+        "Competitors: Chorus.ai, ZoomInfo, HubSpot AI",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$19M"
+      ],
+      "actual_word_count": 311
+    },
+    {
+      "entity_index": 49,
+      "name": "Maria Bhandari",
+      "company": "Aurora Systems",
+      "industry": "Cybersecurity",
+      "email": "maria.bhandari@aurorasystems.com",
+      "title": "Chief Product Officer",
+      "facts": [
+        "Maria Bhandari is Chief Product Officer at Aurora Systems",
+        "Aurora Systems is a Cybersecurity company with 1550 employees",
+        "Tech stack: Python, Django, AWS, PostgreSQL, Redis",
+        "Deal value: $650,000",
+        "Pain points: manual processes for customer onboarding; poor visibility into pipeline health; poor developer experience slowing feature velocity; difficulty hiring specialized engineers",
+        "Competitors: Apollo.io, Intercom, ZoomInfo",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$21M"
+      ],
+      "actual_word_count": 309
+    },
+    {
+      "entity_index": 50,
+      "name": "Chloe Nakamura",
+      "company": "Zephyr Labs",
+      "industry": "CleanTech",
+      "email": "chloe.nakamura@zephyrlabs.com",
+      "title": "Chief Revenue Officer",
+      "facts": [
+        "Chloe Nakamura is Chief Revenue Officer at Zephyr Labs",
+        "Zephyr Labs is a CleanTech company with 1216 employees",
+        "Tech stack: Rust, Actix, AWS, PostgreSQL, NATS",
+        "Deal value: $120,000",
+        "Pain points: lack of real-time analytics for decision making; manual processes for customer onboarding",
+        "Competitors: Apollo.io",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$159M"
+      ],
+      "actual_word_count": 361
+    },
+    {
+      "entity_index": 51,
+      "name": "Robert Johansson",
+      "company": "Apex Platforms",
+      "industry": "InsurTech",
+      "email": "robert.johansson@apexplatforms.com",
+      "title": "Head of Infrastructure",
+      "facts": [
+        "Robert Johansson is Head of Infrastructure at Apex Platforms",
+        "Apex Platforms is a InsurTech company with 393 employees",
+        "Tech stack: Rust, Actix, AWS, PostgreSQL, NATS",
+        "Deal value: $650,000",
+        "Pain points: integration complexity with legacy systems; technical debt from rapid early growth; difficulty hiring specialized engineers; lack of real-time analytics for decision making",
+        "Competitors: ZoomInfo",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$83M"
+      ],
+      "actual_word_count": 323
+    },
+    {
+      "entity_index": 52,
+      "name": "Lisa Dubois",
+      "company": "Titanium Logic",
+      "industry": "LegalTech",
+      "email": "lisa.dubois@titaniumlogic.com",
+      "title": "Head of Infrastructure",
+      "facts": [
+        "Lisa Dubois is Head of Infrastructure at Titanium Logic",
+        "Titanium Logic is a LegalTech company with 1148 employees",
+        "Tech stack: C#, .NET, Azure, SQL Server, RabbitMQ",
+        "Deal value: $250,000",
+        "Pain points: compliance audit failures on data handling; poor developer experience slowing feature velocity",
+        "Competitors: custom internal tool",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$237M"
+      ],
+      "actual_word_count": 328
+    },
+    {
+      "entity_index": 53,
+      "name": "Marcus Moreau",
+      "company": "Velvet Cloud",
+      "industry": "PropTech",
+      "email": "marcus.moreau@velvetcloud.com",
+      "title": "Director of IT",
+      "facts": [
+        "Marcus Moreau is Director of IT at Velvet Cloud",
+        "Velvet Cloud is a PropTech company with 325 employees",
+        "Tech stack: Go, Kubernetes, AWS, DynamoDB, gRPC",
+        "Deal value: $250,000",
+        "Pain points: data silos between engineering and sales teams; difficulty hiring specialized engineers; fragmented tooling across departments; lack of real-time analytics for decision making",
+        "Competitors: Chorus.ai, Microsoft Copilot",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$183M"
+      ],
+      "actual_word_count": 309
+    },
+    {
+      "entity_index": 54,
+      "name": "Michael Anderson",
+      "company": "Granite Solutions",
+      "industry": "AgriTech",
+      "email": "michael.anderson@granitesolutions.com",
+      "title": "Director of IT",
+      "facts": [
+        "Michael Anderson is Director of IT at Granite Solutions",
+        "Granite Solutions is a AgriTech company with 2254 employees",
+        "Tech stack: Python, Django, AWS, PostgreSQL, Redis",
+        "Deal value: $50,000",
+        "Pain points: security concerns with current architecture; integration complexity with legacy systems",
+        "Competitors: Gong, Microsoft Copilot",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$242M"
+      ],
+      "actual_word_count": 338
+    },
+    {
+      "entity_index": 55,
+      "name": "Alex Oduya",
+      "company": "Ivory Analytics",
+      "industry": "BioTech",
+      "email": "alex.oduya@ivoryanalytics.com",
+      "title": "CTO",
+      "facts": [
+        "Alex Oduya is CTO at Ivory Analytics",
+        "Ivory Analytics is a BioTech company with 1483 employees",
+        "Tech stack: Rust, Actix, AWS, PostgreSQL, NATS",
+        "Deal value: $400,000",
+        "Pain points: vendor lock-in with current cloud provider; integration complexity with legacy systems; compliance audit failures on data handling",
+        "Competitors: Salesforce Einstein",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$60M"
+      ],
+      "actual_word_count": 348
+    },
+    {
+      "entity_index": 56,
+      "name": "Derek Nakamura",
+      "company": "Cascade Systems",
+      "industry": "MarTech",
+      "email": "derek.nakamura@cascadesystems.com",
+      "title": "Director of Sales Engineering",
+      "facts": [
+        "Derek Nakamura is Director of Sales Engineering at Cascade Systems",
+        "Cascade Systems is a MarTech company with 2923 employees",
+        "Tech stack: Go, Kubernetes, AWS, DynamoDB, gRPC",
+        "Deal value: $650,000",
+        "Pain points: inconsistent messaging across sales team; technical debt from rapid early growth; integration complexity with legacy systems; difficulty hiring specialized engineers",
+        "Competitors: Chorus.ai, Intercom, HubSpot AI",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$116M"
+      ],
+      "actual_word_count": 317
+    },
+    {
+      "entity_index": 57,
+      "name": "Fatima Wright",
+      "company": "Echo Software",
+      "industry": "HRTech",
+      "email": "fatima.wright@echosoftware.com",
+      "title": "CTO",
+      "facts": [
+        "Fatima Wright is CTO at Echo Software",
+        "Echo Software is a HRTech company with 818 employees",
+        "Tech stack: C#, .NET, Azure, SQL Server, RabbitMQ",
+        "Deal value: $650,000",
+        "Pain points: technical debt from rapid early growth; compliance audit failures on data handling; security concerns with current architecture; difficulty measuring ROI on AI initiatives",
+        "Competitors: Apollo.io, Gong",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$229M"
+      ],
+      "actual_word_count": 384
+    },
+    {
+      "entity_index": 58,
+      "name": "Victor Thompson",
+      "company": "Radiant AI",
+      "industry": "GovTech",
+      "email": "victor.thompson@radiantai.com",
+      "title": "CTO",
+      "facts": [
+        "Victor Thompson is CTO at Radiant AI",
+        "Radiant AI is a GovTech company with 631 employees",
+        "Tech stack: Java, Micronaut, GCP, Spanner, Pub/Sub",
+        "Deal value: $50,000",
+        "Pain points: data silos between engineering and sales teams; poor developer experience slowing feature velocity",
+        "Competitors: ZoomInfo, building in-house, Salesforce Einstein",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$175M"
+      ],
+      "actual_word_count": 327
+    },
+    {
+      "entity_index": 59,
+      "name": "Lisa Singh",
+      "company": "Spectrum Digital",
+      "industry": "SpaceTech",
+      "email": "lisa.singh@spectrumdigital.com",
+      "title": "Chief Product Officer",
+      "facts": [
+        "Lisa Singh is Chief Product Officer at Spectrum Digital",
+        "Spectrum Digital is a SpaceTech company with 35 employees",
+        "Tech stack: Go, Kubernetes, AWS, DynamoDB, gRPC",
+        "Deal value: $250,000",
+        "Pain points: integration complexity with legacy systems; manual processes for customer onboarding; vendor lock-in with current cloud provider; customer churn from slow support response times",
+        "Competitors: custom internal tool",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$95M"
+      ],
+      "actual_word_count": 326
+    },
+    {
+      "entity_index": 60,
+      "name": "Yusuf Novak",
+      "company": "Terrain Analytics",
+      "industry": "FoodTech",
+      "email": "yusuf.novak@terrainanalytics.com",
+      "title": "Head of Product",
+      "facts": [
+        "Yusuf Novak is Head of Product at Terrain Analytics",
+        "Terrain Analytics is a FoodTech company with 1028 employees",
+        "Tech stack: Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+        "Deal value: $50,000",
+        "Pain points: scaling issues during peak traffic periods; slow deployment cycles taking 2-3 weeks per release; compliance audit failures on data handling; poor developer experience slowing feature velocity",
+        "Competitors: Salesforce Einstein, building in-house",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$40M"
+      ],
+      "actual_word_count": 355
+    },
+    {
+      "entity_index": 61,
+      "name": "Nina Johnson",
+      "company": "Pike Engineering",
+      "industry": "B2B SaaS",
+      "email": "nina.johnson@pikeengineering.com",
+      "title": "VP of Sales",
+      "facts": [
+        "Nina Johnson is VP of Sales at Pike Engineering",
+        "Pike Engineering is a B2B SaaS company with 2605 employees",
+        "Tech stack: Go, Kubernetes, AWS, DynamoDB, gRPC",
+        "Deal value: $250,000",
+        "Pain points: manual processes for customer onboarding; compliance audit failures on data handling; difficulty measuring ROI on AI initiatives; scaling issues during peak traffic periods",
+        "Competitors: existing CRM workflows, Microsoft Copilot",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$275M"
+      ],
+      "actual_word_count": 323
+    },
+    {
+      "entity_index": 62,
+      "name": "Elena Cho",
+      "company": "Core Logic",
+      "industry": "Fintech",
+      "email": "elena.cho@corelogic.com",
+      "title": "VP of Marketing",
+      "facts": [
+        "Elena Cho is VP of Marketing at Core Logic",
+        "Core Logic is a Fintech company with 424 employees",
+        "Tech stack: TypeScript, React, Node.js, GCP, MongoDB",
+        "Deal value: $650,000",
+        "Pain points: lack of real-time analytics for decision making; compliance audit failures on data handling; vendor lock-in with current cloud provider",
+        "Competitors: Intercom, Clari",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$155M"
+      ],
+      "actual_word_count": 315
+    },
+    {
+      "entity_index": 63,
+      "name": "Omar Chen",
+      "company": "Nova Signal",
+      "industry": "Healthcare Tech",
+      "email": "omar.chen@novasignal.com",
+      "title": "VP of Customer Success",
+      "facts": [
+        "Omar Chen is VP of Customer Success at Nova Signal",
+        "Nova Signal is a Healthcare Tech company with 2713 employees",
+        "Tech stack: Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+        "Deal value: $400,000",
+        "Pain points: poor visibility into pipeline health; integration complexity with legacy systems; high infrastructure costs eating into margins",
+        "Competitors: ZoomInfo",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$84M"
+      ],
+      "actual_word_count": 335
+    },
+    {
+      "entity_index": 64,
+      "name": "Emily Novak",
+      "company": "Sequoia Data",
+      "industry": "E-commerce",
+      "email": "emily.novak@sequoiadata.com",
+      "title": "Director of Analytics",
+      "facts": [
+        "Emily Novak is Director of Analytics at Sequoia Data",
+        "Sequoia Data is a E-commerce company with 1259 employees",
+        "Tech stack: Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+        "Deal value: $650,000",
+        "Pain points: poor developer experience slowing feature velocity; inconsistent messaging across sales team; technical debt from rapid early growth",
+        "Competitors: Microsoft Copilot, Drift, Intercom",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$107M"
+      ],
+      "actual_word_count": 328
+    },
+    {
+      "entity_index": 65,
+      "name": "Fatima Reyes",
+      "company": "Cedar Systems",
+      "industry": "Manufacturing",
+      "email": "fatima.reyes@cedarsystems.com",
+      "title": "VP of Engineering",
+      "facts": [
+        "Fatima Reyes is VP of Engineering at Cedar Systems",
+        "Cedar Systems is a Manufacturing company with 644 employees",
+        "Tech stack: Rust, Actix, AWS, PostgreSQL, NATS",
+        "Deal value: $400,000",
+        "Pain points: slow deployment cycles taking 2-3 weeks per release; security concerns with current architecture; customer churn from slow support response times; high infrastructure costs eating into margins",
+        "Competitors: Gong",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$225M"
+      ],
+      "actual_word_count": 301
+    },
+    {
+      "entity_index": 66,
+      "name": "Chen Wright",
+      "company": "Birch Software",
+      "industry": "Logistics",
+      "email": "chen.wright@birchsoftware.com",
+      "title": "Chief Product Officer",
+      "facts": [
+        "Chen Wright is Chief Product Officer at Birch Software",
+        "Birch Software is a Logistics company with 871 employees",
+        "Tech stack: Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+        "Deal value: $120,000",
+        "Pain points: scaling issues during peak traffic periods; poor developer experience slowing feature velocity",
+        "Competitors: building in-house, HubSpot AI, Salesforce Einstein",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$199M"
+      ],
+      "actual_word_count": 338
+    },
+    {
+      "entity_index": 67,
+      "name": "Marcus Chen",
+      "company": "Maple Analytics",
+      "industry": "Digital Media",
+      "email": "marcus.chen@mapleanalytics.com",
+      "title": "VP of Engineering",
+      "facts": [
+        "Marcus Chen is VP of Engineering at Maple Analytics",
+        "Maple Analytics is a Digital Media company with 403 employees",
+        "Tech stack: Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+        "Deal value: $650,000",
+        "Pain points: security concerns with current architecture; technical debt from rapid early growth; slow deployment cycles taking 2-3 weeks per release; integration complexity with legacy systems",
+        "Competitors: Intercom, ZoomInfo",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$29M"
+      ],
+      "actual_word_count": 352
+    },
+    {
+      "entity_index": 68,
+      "name": "Nina Kim",
+      "company": "Willow Computing",
+      "industry": "EdTech",
+      "email": "nina.kim@willowcomputing.com",
+      "title": "VP of Operations",
+      "facts": [
+        "Nina Kim is VP of Operations at Willow Computing",
+        "Willow Computing is a EdTech company with 1031 employees",
+        "Tech stack: Rust, Actix, AWS, PostgreSQL, NATS",
+        "Deal value: $400,000",
+        "Pain points: poor developer experience slowing feature velocity; lack of real-time analytics for decision making",
+        "Competitors: Drift, Apollo.io, Chorus.ai",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$155M"
+      ],
+      "actual_word_count": 313
+    },
+    {
+      "entity_index": 69,
+      "name": "Nina Costa",
+      "company": "Juniper Networks",
+      "industry": "Cybersecurity",
+      "email": "nina.costa@junipernetworks.com",
+      "title": "VP of Operations",
+      "facts": [
+        "Nina Costa is VP of Operations at Juniper Networks",
+        "Juniper Networks is a Cybersecurity company with 371 employees",
+        "Tech stack: C#, .NET, Azure, SQL Server, RabbitMQ",
+        "Deal value: $650,000",
+        "Pain points: poor visibility into pipeline health; scaling issues during peak traffic periods; lack of real-time analytics for decision making; data silos between engineering and sales teams",
+        "Competitors: building in-house, Intercom, HubSpot AI",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$175M"
+      ],
+      "actual_word_count": 329
+    },
+    {
+      "entity_index": 70,
+      "name": "Chloe Fernandez",
+      "company": "Spruce Cloud",
+      "industry": "CleanTech",
+      "email": "chloe.fernandez@sprucecloud.com",
+      "title": "CTO",
+      "facts": [
+        "Chloe Fernandez is CTO at Spruce Cloud",
+        "Spruce Cloud is a CleanTech company with 2008 employees",
+        "Tech stack: Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+        "Deal value: $650,000",
+        "Pain points: integration complexity with legacy systems; scaling issues during peak traffic periods; poor developer experience slowing feature velocity",
+        "Competitors: Chorus.ai",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$185M"
+      ],
+      "actual_word_count": 318
+    },
+    {
+      "entity_index": 71,
+      "name": "Brian Singh",
+      "company": "Elm Solutions",
+      "industry": "InsurTech",
+      "email": "brian.singh@elmsolutions.com",
+      "title": "VP of Sales",
+      "facts": [
+        "Brian Singh is VP of Sales at Elm Solutions",
+        "Elm Solutions is a InsurTech company with 2179 employees",
+        "Tech stack: Go, Kubernetes, AWS, DynamoDB, gRPC",
+        "Deal value: $120,000",
+        "Pain points: difficulty hiring specialized engineers; inconsistent messaging across sales team; customer churn from slow support response times",
+        "Competitors: Intercom, HubSpot AI, Clari",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$67M"
+      ],
+      "actual_word_count": 320
+    },
+    {
+      "entity_index": 72,
+      "name": "Maria Bhandari",
+      "company": "Aspen Logic",
+      "industry": "LegalTech",
+      "email": "maria.bhandari@aspenlogic.com",
+      "title": "Chief Revenue Officer",
+      "facts": [
+        "Maria Bhandari is Chief Revenue Officer at Aspen Logic",
+        "Aspen Logic is a LegalTech company with 2873 employees",
+        "Tech stack: Java, Spring Boot, Azure, Oracle, Kafka",
+        "Deal value: $1,000,000",
+        "Pain points: poor visibility into pipeline health; technical debt from rapid early growth; high infrastructure costs eating into margins; vendor lock-in with current cloud provider",
+        "Competitors: Microsoft Copilot, Salesforce Einstein, Clari",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$9M"
+      ],
+      "actual_word_count": 365
+    },
+    {
+      "entity_index": 73,
+      "name": "Priya Mitchell",
+      "company": "Pine Digital",
+      "industry": "PropTech",
+      "email": "priya.mitchell@pinedigital.com",
+      "title": "Director of IT",
+      "facts": [
+        "Priya Mitchell is Director of IT at Pine Digital",
+        "Pine Digital is a PropTech company with 2691 employees",
+        "Tech stack: Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+        "Deal value: $400,000",
+        "Pain points: technical debt from rapid early growth; difficulty measuring ROI on AI initiatives",
+        "Competitors: building in-house, Intercom, Chorus.ai",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$199M"
+      ],
+      "actual_word_count": 305
+    },
+    {
+      "entity_index": 74,
+      "name": "Raj Tanaka",
+      "company": "Oak Systems",
+      "industry": "AgriTech",
+      "email": "raj.tanaka@oaksystems.com",
+      "title": "VP of Marketing",
+      "facts": [
+        "Raj Tanaka is VP of Marketing at Oak Systems",
+        "Oak Systems is a AgriTech company with 2277 employees",
+        "Tech stack: Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+        "Deal value: $120,000",
+        "Pain points: compliance audit failures on data handling; vendor lock-in with current cloud provider",
+        "Competitors: HubSpot AI, Apollo.io, Gong",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$51M"
+      ],
+      "actual_word_count": 309
+    },
+    {
+      "entity_index": 75,
+      "name": "Aisha Chen",
+      "company": "Ivy Analytics",
+      "industry": "BioTech",
+      "email": "aisha.chen@ivyanalytics.com",
+      "title": "VP of Sales",
+      "facts": [
+        "Aisha Chen is VP of Sales at Ivy Analytics",
+        "Ivy Analytics is a BioTech company with 161 employees",
+        "Tech stack: Python, Django, AWS, PostgreSQL, Redis",
+        "Deal value: $650,000",
+        "Pain points: difficulty hiring specialized engineers; manual processes for customer onboarding",
+        "Competitors: Salesforce Einstein, ZoomInfo",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$33M"
+      ],
+      "actual_word_count": 304
+    },
+    {
+      "entity_index": 76,
+      "name": "Alex Rivera",
+      "company": "Sage Computing",
+      "industry": "MarTech",
+      "email": "alex.rivera@sagecomputing.com",
+      "title": "Director of Analytics",
+      "facts": [
+        "Alex Rivera is Director of Analytics at Sage Computing",
+        "Sage Computing is a MarTech company with 547 employees",
+        "Tech stack: Java, Spring Boot, Azure, Oracle, Kafka",
+        "Deal value: $1,000,000",
+        "Pain points: customer churn from slow support response times; technical debt from rapid early growth",
+        "Competitors: Outreach, building in-house",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$187M"
+      ],
+      "actual_word_count": 303
+    },
+    {
+      "entity_index": 77,
+      "name": "Alex Okonkwo",
+      "company": "Thistle AI",
+      "industry": "HRTech",
+      "email": "alex.okonkwo@thistleai.com",
+      "title": "Director of Analytics",
+      "facts": [
+        "Alex Okonkwo is Director of Analytics at Thistle AI",
+        "Thistle AI is a HRTech company with 1658 employees",
+        "Tech stack: TypeScript, React, Node.js, GCP, MongoDB",
+        "Deal value: $250,000",
+        "Pain points: customer churn from slow support response times; inconsistent messaging across sales team",
+        "Competitors: Chorus.ai, custom internal tool, HubSpot AI",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$272M"
+      ],
+      "actual_word_count": 355
+    },
+    {
+      "entity_index": 78,
+      "name": "Omar Hassan",
+      "company": "Laurel Software",
+      "industry": "GovTech",
+      "email": "omar.hassan@laurelsoftware.com",
+      "title": "VP of Customer Success",
+      "facts": [
+        "Omar Hassan is VP of Customer Success at Laurel Software",
+        "Laurel Software is a GovTech company with 2976 employees",
+        "Tech stack: Java, Spring Boot, Azure, Oracle, Kafka",
+        "Deal value: $120,000",
+        "Pain points: technical debt from rapid early growth; integration complexity with legacy systems; scaling issues during peak traffic periods",
+        "Competitors: existing CRM workflows, Drift, Apollo.io",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$10M"
+      ],
+      "actual_word_count": 321
+    },
+    {
+      "entity_index": 79,
+      "name": "Ivan Patel",
+      "company": "Hazel Tech",
+      "industry": "SpaceTech",
+      "email": "ivan.patel@hazeltech.com",
+      "title": "VP of Sales",
+      "facts": [
+        "Ivan Patel is VP of Sales at Hazel Tech",
+        "Hazel Tech is a SpaceTech company with 1467 employees",
+        "Tech stack: TypeScript, React, Node.js, GCP, MongoDB",
+        "Deal value: $1,000,000",
+        "Pain points: fragmented tooling across departments; poor developer experience slowing feature velocity; integration complexity with legacy systems",
+        "Competitors: Clari, HubSpot AI",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$66M"
+      ],
+      "actual_word_count": 281
+    },
+    {
+      "entity_index": 80,
+      "name": "Derek Cho",
+      "company": "Fern Analytics",
+      "industry": "FoodTech",
+      "email": "derek.cho@fernanalytics.com",
+      "title": "Director of IT",
+      "facts": [
+        "Derek Cho is Director of IT at Fern Analytics",
+        "Fern Analytics is a FoodTech company with 465 employees",
+        "Tech stack: Java, Micronaut, GCP, Spanner, Pub/Sub",
+        "Deal value: $650,000",
+        "Pain points: inconsistent messaging across sales team; high infrastructure costs eating into margins",
+        "Competitors: Gong",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$159M"
+      ],
+      "actual_word_count": 347
+    },
+    {
+      "entity_index": 81,
+      "name": "Daniel Hassan",
+      "company": "Reed Systems",
+      "industry": "B2B SaaS",
+      "email": "daniel.hassan@reedsystems.com",
+      "title": "Director of Analytics",
+      "facts": [
+        "Daniel Hassan is Director of Analytics at Reed Systems",
+        "Reed Systems is a B2B SaaS company with 2230 employees",
+        "Tech stack: Python, Django, AWS, PostgreSQL, Redis",
+        "Deal value: $1,000,000",
+        "Pain points: manual processes for customer onboarding; difficulty hiring specialized engineers; technical debt from rapid early growth; vendor lock-in with current cloud provider",
+        "Competitors: custom internal tool, building in-house",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$35M"
+      ],
+      "actual_word_count": 311
+    },
+    {
+      "entity_index": 82,
+      "name": "Daniel Tanaka",
+      "company": "Moss Digital",
+      "industry": "Fintech",
+      "email": "daniel.tanaka@mossdigital.com",
+      "title": "CTO",
+      "facts": [
+        "Daniel Tanaka is CTO at Moss Digital",
+        "Moss Digital is a Fintech company with 1836 employees",
+        "Tech stack: Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+        "Deal value: $1,000,000",
+        "Pain points: manual processes for customer onboarding; poor developer experience slowing feature velocity; lack of real-time analytics for decision making; difficulty hiring specialized engineers",
+        "Competitors: building in-house, ZoomInfo",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$294M"
+      ],
+      "actual_word_count": 295
+    },
+    {
+      "entity_index": 83,
+      "name": "Keiko Alvarez",
+      "company": "Clover Solutions",
+      "industry": "Healthcare Tech",
+      "email": "keiko.alvarez@cloversolutions.com",
+      "title": "Director of Engineering",
+      "facts": [
+        "Keiko Alvarez is Director of Engineering at Clover Solutions",
+        "Clover Solutions is a Healthcare Tech company with 868 employees",
+        "Tech stack: C#, .NET, Azure, SQL Server, RabbitMQ",
+        "Deal value: $400,000",
+        "Pain points: difficulty measuring ROI on AI initiatives; poor visibility into pipeline health",
+        "Competitors: Intercom, Clari, Microsoft Copilot",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$131M"
+      ],
+      "actual_word_count": 333
+    },
+    {
+      "entity_index": 84,
+      "name": "Maria Alvarez",
+      "company": "Dahlia Computing",
+      "industry": "E-commerce",
+      "email": "maria.alvarez@dahliacomputing.com",
+      "title": "Director of Sales Engineering",
+      "facts": [
+        "Maria Alvarez is Director of Sales Engineering at Dahlia Computing",
+        "Dahlia Computing is a E-commerce company with 2930 employees",
+        "Tech stack: TypeScript, React, Node.js, GCP, MongoDB",
+        "Deal value: $120,000",
+        "Pain points: fragmented tooling across departments; compliance audit failures on data handling",
+        "Competitors: Microsoft Copilot, Outreach",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$81M"
+      ],
+      "actual_word_count": 322
+    },
+    {
+      "entity_index": 85,
+      "name": "Felix Dubois",
+      "company": "Lotus AI",
+      "industry": "Manufacturing",
+      "email": "felix.dubois@lotusai.com",
+      "title": "Director of IT",
+      "facts": [
+        "Felix Dubois is Director of IT at Lotus AI",
+        "Lotus AI is a Manufacturing company with 2349 employees",
+        "Tech stack: Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+        "Deal value: $250,000",
+        "Pain points: data silos between engineering and sales teams; customer churn from slow support response times",
+        "Competitors: Clari, Salesforce Einstein",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$75M"
+      ],
+      "actual_word_count": 351
+    },
+    {
+      "entity_index": 86,
+      "name": "Anita Johnson",
+      "company": "Orchid Software",
+      "industry": "Logistics",
+      "email": "anita.johnson@orchidsoftware.com",
+      "title": "VP of Marketing",
+      "facts": [
+        "Anita Johnson is VP of Marketing at Orchid Software",
+        "Orchid Software is a Logistics company with 1572 employees",
+        "Tech stack: Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+        "Deal value: $650,000",
+        "Pain points: slow deployment cycles taking 2-3 weeks per release; data silos between engineering and sales teams; fragmented tooling across departments",
+        "Competitors: Clari",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$239M"
+      ],
+      "actual_word_count": 330
+    },
+    {
+      "entity_index": 87,
+      "name": "Sarah Lee",
+      "company": "Jasmine Tech",
+      "industry": "Digital Media",
+      "email": "sarah.lee@jasminetech.com",
+      "title": "CTO",
+      "facts": [
+        "Sarah Lee is CTO at Jasmine Tech",
+        "Jasmine Tech is a Digital Media company with 2850 employees",
+        "Tech stack: Java, Spring Boot, Azure, Oracle, Kafka",
+        "Deal value: $250,000",
+        "Pain points: integration complexity with legacy systems; difficulty measuring ROI on AI initiatives; customer churn from slow support response times",
+        "Competitors: Chorus.ai",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$37M"
+      ],
+      "actual_word_count": 297
+    },
+    {
+      "entity_index": 88,
+      "name": "Maya Novak",
+      "company": "Violet Analytics",
+      "industry": "EdTech",
+      "email": "maya.novak@violetanalytics.com",
+      "title": "VP of Operations",
+      "facts": [
+        "Maya Novak is VP of Operations at Violet Analytics",
+        "Violet Analytics is a EdTech company with 752 employees",
+        "Tech stack: Java, Micronaut, GCP, Spanner, Pub/Sub",
+        "Deal value: $250,000",
+        "Pain points: security concerns with current architecture; high infrastructure costs eating into margins",
+        "Competitors: existing CRM workflows, ZoomInfo",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$163M"
+      ],
+      "actual_word_count": 332
+    },
+    {
+      "entity_index": 89,
+      "name": "Chen Thompson",
+      "company": "Indigo Systems",
+      "industry": "Cybersecurity",
+      "email": "chen.thompson@indigosystems.com",
+      "title": "Chief Product Officer",
+      "facts": [
+        "Chen Thompson is Chief Product Officer at Indigo Systems",
+        "Indigo Systems is a Cybersecurity company with 1922 employees",
+        "Tech stack: Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+        "Deal value: $650,000",
+        "Pain points: poor developer experience slowing feature velocity; lack of real-time analytics for decision making; integration complexity with legacy systems",
+        "Competitors: Chorus.ai, Drift",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$222M"
+      ],
+      "actual_word_count": 316
+    },
+    {
+      "entity_index": 90,
+      "name": "Victor Baker",
+      "company": "Crimson Logic",
+      "industry": "CleanTech",
+      "email": "victor.baker@crimsonlogic.com",
+      "title": "VP of Operations",
+      "facts": [
+        "Victor Baker is VP of Operations at Crimson Logic",
+        "Crimson Logic is a CleanTech company with 1306 employees",
+        "Tech stack: TypeScript, React, Node.js, GCP, MongoDB",
+        "Deal value: $250,000",
+        "Pain points: compliance audit failures on data handling; technical debt from rapid early growth",
+        "Competitors: custom internal tool",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$53M"
+      ],
+      "actual_word_count": 327
+    },
+    {
+      "entity_index": 91,
+      "name": "Tariq Hassan",
+      "company": "Azure Digital",
+      "industry": "InsurTech",
+      "email": "tariq.hassan@azuredigital.com",
+      "title": "Head of Data",
+      "facts": [
+        "Tariq Hassan is Head of Data at Azure Digital",
+        "Azure Digital is a InsurTech company with 927 employees",
+        "Tech stack: Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+        "Deal value: $1,000,000",
+        "Pain points: security concerns with current architecture; compliance audit failures on data handling; scaling issues during peak traffic periods; difficulty measuring ROI on AI initiatives",
+        "Competitors: Microsoft Copilot, custom internal tool, Intercom",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$38M"
+      ],
+      "actual_word_count": 298
+    },
+    {
+      "entity_index": 92,
+      "name": "Maya Bhandari",
+      "company": "Scarlet Solutions",
+      "industry": "LegalTech",
+      "email": "maya.bhandari@scarletsolutions.com",
+      "title": "VP of Operations",
+      "facts": [
+        "Maya Bhandari is VP of Operations at Scarlet Solutions",
+        "Scarlet Solutions is a LegalTech company with 1650 employees",
+        "Tech stack: Rust, Actix, AWS, PostgreSQL, NATS",
+        "Deal value: $400,000",
+        "Pain points: difficulty measuring ROI on AI initiatives; lack of real-time analytics for decision making",
+        "Competitors: Salesforce Einstein, Gong",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$190M"
+      ],
+      "actual_word_count": 338
+    },
+    {
+      "entity_index": 93,
+      "name": "Omar Santos",
+      "company": "Amber Computing",
+      "industry": "PropTech",
+      "email": "omar.santos@ambercomputing.com",
+      "title": "Director of Sales Engineering",
+      "facts": [
+        "Omar Santos is Director of Sales Engineering at Amber Computing",
+        "Amber Computing is a PropTech company with 1921 employees",
+        "Tech stack: Scala, Spark, Databricks, Snowflake, Airflow",
+        "Deal value: $120,000",
+        "Pain points: customer churn from slow support response times; lack of real-time analytics for decision making",
+        "Competitors: building in-house, Clari, ZoomInfo",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$42M"
+      ],
+      "actual_word_count": 322
+    },
+    {
+      "entity_index": 94,
+      "name": "Elena Mitchell",
+      "company": "Coral AI",
+      "industry": "AgriTech",
+      "email": "elena.mitchell@coralai.com",
+      "title": "CTO",
+      "facts": [
+        "Elena Mitchell is CTO at Coral AI",
+        "Coral AI is a AgriTech company with 2320 employees",
+        "Tech stack: Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+        "Deal value: $120,000",
+        "Pain points: vendor lock-in with current cloud provider; fragmented tooling across departments",
+        "Competitors: custom internal tool, Apollo.io",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$47M"
+      ],
+      "actual_word_count": 306
+    },
+    {
+      "entity_index": 95,
+      "name": "Keiko Cho",
+      "company": "Jade Software",
+      "industry": "BioTech",
+      "email": "keiko.cho@jadesoftware.com",
+      "title": "Head of Product",
+      "facts": [
+        "Keiko Cho is Head of Product at Jade Software",
+        "Jade Software is a BioTech company with 1714 employees",
+        "Tech stack: Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+        "Deal value: $1,000,000",
+        "Pain points: security concerns with current architecture; compliance audit failures on data handling",
+        "Competitors: Clari",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$192M"
+      ],
+      "actual_word_count": 331
+    },
+    {
+      "entity_index": 96,
+      "name": "Chloe Fernandez",
+      "company": "Pearl Analytics",
+      "industry": "MarTech",
+      "email": "chloe.fernandez@pearlanalytics.com",
+      "title": "Head of Product",
+      "facts": [
+        "Chloe Fernandez is Head of Product at Pearl Analytics",
+        "Pearl Analytics is a MarTech company with 1890 employees",
+        "Tech stack: TypeScript, React, Node.js, GCP, MongoDB",
+        "Deal value: $400,000",
+        "Pain points: integration complexity with legacy systems; technical debt from rapid early growth",
+        "Competitors: Clari",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$149M"
+      ],
+      "actual_word_count": 298
+    },
+    {
+      "entity_index": 97,
+      "name": "Aisha Petrov",
+      "company": "Ivory Systems",
+      "industry": "HRTech",
+      "email": "aisha.petrov@ivorysystems.com",
+      "title": "Director of Engineering",
+      "facts": [
+        "Aisha Petrov is Director of Engineering at Ivory Systems",
+        "Ivory Systems is a HRTech company with 1201 employees",
+        "Tech stack: Java, Micronaut, GCP, Spanner, Pub/Sub",
+        "Deal value: $400,000",
+        "Pain points: technical debt from rapid early growth; difficulty measuring ROI on AI initiatives",
+        "Competitors: Clari, Gong",
+        "Decision timeline: Q2 2026",
+        "Annual revenue: ~$207M"
+      ],
+      "actual_word_count": 381
+    },
+    {
+      "entity_index": 98,
+      "name": "Heather Fernandez",
+      "company": "Sable Digital",
+      "industry": "GovTech",
+      "email": "heather.fernandez@sabledigital.com",
+      "title": "VP of Sales",
+      "facts": [
+        "Heather Fernandez is VP of Sales at Sable Digital",
+        "Sable Digital is a GovTech company with 1003 employees",
+        "Tech stack: Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+        "Deal value: $1,000,000",
+        "Pain points: inconsistent messaging across sales team; vendor lock-in with current cloud provider",
+        "Competitors: Microsoft Copilot, Gong, building in-house",
+        "Decision timeline: Q4 2026",
+        "Annual revenue: ~$143M"
+      ],
+      "actual_word_count": 322
+    },
+    {
+      "entity_index": 99,
+      "name": "Emily Okonkwo",
+      "company": "Slate Solutions",
+      "industry": "SpaceTech",
+      "email": "emily.okonkwo@slatesolutions.com",
+      "title": "Chief Revenue Officer",
+      "facts": [
+        "Emily Okonkwo is Chief Revenue Officer at Slate Solutions",
+        "Slate Solutions is a SpaceTech company with 2371 employees",
+        "Tech stack: Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+        "Deal value: $250,000",
+        "Pain points: scaling issues during peak traffic periods; integration complexity with legacy systems",
+        "Competitors: ZoomInfo",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$84M"
+      ],
+      "actual_word_count": 340
+    },
+    {
+      "entity_index": 100,
+      "name": "David Alvarez",
+      "company": "Frost Computing",
+      "industry": "FoodTech",
+      "email": "david.alvarez@frostcomputing.com",
+      "title": "VP of Sales",
+      "facts": [
+        "David Alvarez is VP of Sales at Frost Computing",
+        "Frost Computing is a FoodTech company with 2213 employees",
+        "Tech stack: Go, Kubernetes, AWS, DynamoDB, gRPC",
+        "Deal value: $250,000",
+        "Pain points: inconsistent messaging across sales team; difficulty hiring specialized engineers; data silos between engineering and sales teams; customer churn from slow support response times",
+        "Competitors: HubSpot AI, Microsoft Copilot, existing CRM workflows",
+        "Decision timeline: Q3 2026",
+        "Annual revenue: ~$88M"
+      ],
+      "actual_word_count": 339
+    }
+  ],
+  "test_queries": [
+    "What is their technology stack?",
+    "What is the deal value?",
+    "Who is the main contact?",
+    "What are their pain points?",
+    "What competitors were mentioned?"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "entity_index": 43,
+  "name": "Aisha Chen",
+  "company": "Ridge Computing",
+  "industry": "Healthcare Tech",
+  "email": "aisha.chen@ridgecomputing.com",
+  "title": "Chief Product Officer",
+  "facts": [
+    "Aisha Chen is Chief Product Officer at Ridge Computing",
+    "Ridge Computing is a Healthcare Tech company with 2872 employees",
+    "Tech stack: Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+    "Deal value: $50,000",
+    "Pain points: poor visibility into pipeline health; security concerns with current architecture",
+    "Competitors: Microsoft Copilot",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$272M"
+  ],
+  "actual_word_count": 315
+}

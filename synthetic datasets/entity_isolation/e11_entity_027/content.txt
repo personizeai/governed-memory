@@ -1,0 +1,18 @@
+### Account Overview
+Sterling Logic is a prominent Digital Media company headquartered in the competitive landscape of content distribution and analytics platforms. With approximately 1346 employees and an annual revenue of ~$216M, they are scaling rapidly to meet demands for real-time media processing and user engagement tools. Our primary contact is Heather Santos, Head of Product at Sterling Logic. Heather oversees product strategy, roadmap development, and cross-functional alignment, making her a key decision-maker for enterprise software solutions that enhance operational efficiency.
+
+### Key Details
+Sterling Logic's current tech stack includes Elixir, Phoenix, Fly.io, PostgreSQL, and LiveView, powering their high-performance, distributed systems for media workflows. However, they face significant pain points: security concerns with their existing architecture, particularly around data encryption and access controls in distributed environments, and persistent data silos between engineering and sales teams, hindering collaborative insights and faster iteration cycles.
+
+Competitors in their evaluation include Chorus.ai for conversation intelligence and HubSpot AI for CRM enhancements, but Sterling Logic is seeking a more integrated solution to address their unique media-scale challenges without disrupting their Elixir-based ecosystem.
+
+### Deal Status
+This represents a high-value opportunity with a potential deal value of $1,000,000. Heather has expressed strong interest in our platform's ability to mitigate their security vulnerabilities and bridge data silos via seamless integrations. The decision timeline is targeted for Q3 2026, aligned with their fiscal planning and upcoming product launches. Initial discovery calls have validated fit, with Heather noting our tech aligns well with their stack—no major blockers identified yet.
+
+### Next Steps
+- Schedule follow-up demo with Heather and her engineering lead (Q4 2025) to showcase security features and LiveView compatibility.
+- Share customized POC addressing data silo integration, leveraging PostgreSQL connectors.
+- Engage sales and engineering stakeholders via intro email from Heather to build internal advocacy.
+- Track progress toward Q3 2026 close; set reminder for quarterly check-in.
+
+(Word count: 348)

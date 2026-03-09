@@ -1,0 +1,19 @@
+{
+  "entity_index": 94,
+  "name": "Elena Mitchell",
+  "company": "Coral AI",
+  "industry": "AgriTech",
+  "email": "elena.mitchell@coralai.com",
+  "title": "CTO",
+  "facts": [
+    "Elena Mitchell is CTO at Coral AI",
+    "Coral AI is a AgriTech company with 2320 employees",
+    "Tech stack: Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+    "Deal value: $120,000",
+    "Pain points: vendor lock-in with current cloud provider; fragmented tooling across departments",
+    "Competitors: custom internal tool, Apollo.io",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$47M"
+  ],
+  "actual_word_count": 306
+}

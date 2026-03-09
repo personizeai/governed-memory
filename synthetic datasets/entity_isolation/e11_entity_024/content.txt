@@ -1,0 +1,16 @@
+### Account Overview
+Canyon Systems is a dynamic E-commerce company with 1871 employees and annual revenue of ~$49M. They specialize in scalable online platforms, leveraging a modern tech stack including Rust, Actix, AWS, PostgreSQL, and NATS. Our primary contact is Alex Novak, Director of Analytics at Canyon Systems (alex.novak@canyonsystems.com). Alex oversees data-driven decision-making and is keen on enhancing analytics capabilities to drive business growth. Canyon Systems represents a high-potential B2B prospect in the competitive E-commerce space, where they're grappling with evolving data challenges.
+
+### Key Details
+Alex Novak has highlighted critical pain points: poor visibility into pipeline health and difficulty measuring ROI on AI initiatives. These issues hinder their ability to optimize operations and justify tech investments. Currently, they're evaluating alternatives to competitors like Salesforce Einstein, seeking a solution that integrates seamlessly with their Rust and Actix-based backend, AWS infrastructure, PostgreSQL databases, and NATS messaging system. With 1871 employees, scaling analytics across their E-commerce operations is paramount, especially as they push for better pipeline forecasting and AI performance metrics.
+
+### Deal Status
+This opportunity carries a strong deal value of $250,000. Canyon Systems is in the evaluation phase, with a decision timeline targeted for Q4 2026. Initial discussions with Alex have uncovered alignment between our platform and their tech stack, positioning us favorably against Salesforce Einstein. Pipeline health visibility and AI ROI measurement demos have resonated well, building momentum toward a formal proposal.
+
+### Next Steps
+- Schedule a follow-up demo with Alex Novak by end of Q3 2025 to showcase integrations with Rust, Actix, AWS, PostgreSQL, and NATS.
+- Prepare customized ROI analysis addressing poor pipeline visibility and AI initiative challenges.
+- Engage Alex on competitive differentiation vs. Salesforce Einstein.
+- Target POC deployment in early Q4 2025 to accelerate toward Q4 2026 decision.
+
+(Word count: 348)

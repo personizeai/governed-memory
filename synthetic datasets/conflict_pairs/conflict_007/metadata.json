@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_007",
+  "category": "timeline",
+  "company": "Redwood Analytics",
+  "contact": "Heather Nakamura",
+  "industry": "Digital Media",
+  "stale_date": "2025-12-14",
+  "fresh_date": "2026-01-10",
+  "stale_claim": "Redwood Analytics is targeting Q4 2026 for deployment",
+  "fresh_claim": "Redwood Analytics accelerated their timeline to Q2 2026",
+  "expected_query": "When does Redwood Analytics plan to deploy?",
+  "expected_answer": "accelerated their timeline to Q2 2026",
+  "stale_word_count": 176,
+  "fresh_word_count": 215
+}

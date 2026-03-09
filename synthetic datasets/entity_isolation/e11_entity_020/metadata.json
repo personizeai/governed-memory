@@ -1,0 +1,19 @@
+{
+  "entity_index": 20,
+  "name": "Yusuf Hassan",
+  "company": "Orion Platforms",
+  "industry": "FoodTech",
+  "email": "yusuf.hassan@orionplatforms.com",
+  "title": "VP of Operations",
+  "facts": [
+    "Yusuf Hassan is VP of Operations at Orion Platforms",
+    "Orion Platforms is a FoodTech company with 1548 employees",
+    "Tech stack: PHP, Laravel, DigitalOcean, MySQL, Redis",
+    "Deal value: $650,000",
+    "Pain points: integration complexity with legacy systems; high infrastructure costs eating into margins; poor developer experience slowing feature velocity",
+    "Competitors: Chorus.ai, custom internal tool, Outreach",
+    "Decision timeline: Q3 2026",
+    "Annual revenue: ~$53M"
+  ],
+  "actual_word_count": 341
+}

@@ -1,0 +1,85 @@
+{
+  "sample_id": "document_022",
+  "content_type": "wiki_document",
+  "company": "ShipGrid",
+  "industry": "Logistics",
+  "target_word_count": 1952,
+  "actual_word_count": 1041,
+  "expected_facts": [
+    {
+      "text": "They're dealing with scaling issues during peak traffic periods",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating ZoomInfo",
+      "type": "explicit"
+    },
+    {
+      "text": "ShipGrid is a Logistics company with about 93 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with data silos between engineering and sales teams",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Chicago",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes TypeScript, React, Node.js, GCP, MongoDB",
+      "type": "explicit"
+    },
+    {
+      "text": "Amanda Rivera has been at ShipGrid for 4 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $850,000",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Data",
+    "company_name": "ShipGrid",
+    "company_size": "51-200",
+    "technology_stack": "TypeScript, React, Node.js, GCP, MongoDB",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "scaling issues during peak traffic periods",
+      "data silos between engineering and sales teams",
+      "poor visibility into pipeline health"
+    ],
+    "deal_value": 850000,
+    "decision_timeline": "2026-08-16",
+    "competitors_mentioned": [
+      "ZoomInfo"
+    ],
+    "decision_maker": true,
+    "buying_process": "Procurement requires three competitive bids before decision",
+    "urgency_level": "High"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Rachel Fernandez",
+      "title": "VP of Marketing",
+      "role": "Budget Owner"
+    },
+    {
+      "name": "Maria Chen",
+      "title": "Director of Analytics",
+      "role": "Budget Owner"
+    },
+    {
+      "name": "Priya Singh",
+      "title": "Director of Engineering",
+      "role": "Technical Evaluator"
+    }
+  ],
+  "property_coverage": 0.86
+}

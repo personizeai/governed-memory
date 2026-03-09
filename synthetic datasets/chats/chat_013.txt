@@ -1,0 +1,94 @@
+[10:15] @alex.m: Quick update @channel - just hopped off call with Maya Mueller from SpecLine. She's Head of Data, been there 3 years. Solid convo tbh.  
+[👍 from @sarah.k]  
+[10:17] @sarah.k: Nice! What'd she say about their pains?  
+[10:18] @alex.m: They're stuck with spreadsheets and manual data entry right now. Super painful.  
+  ↳ [10:19] @mike.r: Spreadsheets? In 2024? Yikes.  
+[10:20] @tariq.h: Lol yeah, classic. Any urgency?  
+[10:21] @alex.m: Critical urgency level imo. Slow deployment cycles killing them - 2-3 weeks per release.  
+[👍 from @mike.r]  
+[10:22] @sarah.k: 2-3 weeks? That's brutal for a manufacturing co like theirs.  
+[10:23] @alex.m: Yeah, SpecLine's about 84 employees, 51-200 range. Fragmented tooling across depts too.  
+  ↳ [10:24] @tariq.h: Fragmented how? Eng vs sales?  
+[10:25] @alex.m: Data silos between engineering and sales teams, she mentioned. Security concerns with current architecture as well.  
+[10:26] @mike.r: Got it. Tech stack?  
+[10:27] @alex.m: Elixir, Phoenix, Fly.io, PostgreSQL, LiveView. Pretty modern.  
+  ↳ [10:28] @sarah.k: LiveView? Fancy. Matches our integration.  
+[10:29] @tariq.h: They're evaluating Outreach too fwiw.  
+[10:30] @alex.m: Yeah she said that. But ngl, our story landed well. Deal stage is Discovery rn.  
+[👍 from @tariq.h]  
+[10:31] @sarah.k: She's decision maker?  
+[10:32] @alex.m: Nah, false. But influential.  
+[10:33] @mike.r: Timeline?  
+[10:34] @alex.m: Decision by 2026-10-03. Kinda far out.  
+  ↳ [10:35] @sarah.k: Oct 2026? We gotta push urgency.  
+[10:36] @tariq.h: Makes sense. Next steps?  
+[10:37] @alex.m: Send pricing proposal to Maya by Friday. Lmk if I missed anything.  
+[👍 from @mike.r] [👍 from @sarah.k]  
+[10:38] @sarah.k: @here - anyone free to review the proposal draft tomorrow?  
+[10:39] @mike.r: I'm in.  
+[10:40] @tariq.h: Got it. She mention deploys again?  
+[10:41] @alex.m: Yeah, repeated it twice - 2-3 weeks per release is their nightmare.  
+  ↳ [10:42] @sarah.k: Slow deploys confirmed. We can fix that quick.  
+[11:05] @mike.r: Fwiw, their fragmented tooling sounds like data silos she talked about.  
+[11:06] @alex.m: Exactly. "They" meaning eng/sales probs.  
+[👍 from @tariq.h]  
+[11:07] @sarah.k: [shared link: SpecLine pricing page] Check this for ref - outdated but baseline.  
+[11:08] @tariq.h: Thx. Outreach pricing higher?  
+[11:09] @alex.m: She didn't specify, but yeah probably.  
+[11:10] @mike.r: Last Friday's call notes say same pains.  
+  ↳ [11:11] @sarah.k: Which call? Ours?  
+[11:12] @tariq.h: imo we differentiate on LiveView support.  
+[11:13] @alex.m: 100%. She's excited about that.  
+[11:14] @sarah.k: Cool. Manufacturing with 84 heads - scales well for us.  
+[👍 from @mike.r]  
+[14:22] @alex.m: Btw Maya been at SpecLine 3 years, knows the pains inside out.  
+[14:23] @tariq.h: Repeated fact but yeah, credible.  
+[14:24] @mike.r: Security concerns - did she elaborate?  
+[14:25] @alex.m: Not really, just flagged it with their architecture.  
+  ↳ [14:26] @sarah.k: Vague, but we hit that in proposal.  
+[14:27] @tariq.h: Spreadsheets still their current solution?  
+[14:28] @alex.m: Yup, manual entry everywhere.  
+[14:29] @sarah.k: Ngl that's low hanging fruit.  
+[👍 from @alex.m]  
+[14:30] @mike.r: Urgency critical tho - push for faster timeline?  
+[14:31] @alex.m: Tried, but locked at 2026-10-03.  
+[14:32] @tariq.h: Next sprint we mock up a demo for their stack?  
+[14:33] @sarah.k: Yes pls.  
+[14:34] @mike.r: Discovery stage means more calls?  
+[14:35] @alex.m: Planning one next week.  
+  ↳ [14:36] @tariq.h: With who? Her?  
+[14:37] @sarah.k: She said they're not interested in Outreach anymore?  
+[14:38] @mike.r: Wait, Outreach eval ongoing imo.  
+[14:39] @alex.m: Unclear but leaning our way.  
+[14:40] @tariq.h: Fwiw fragmented tooling across depts is huge.  
+[14:41] @sarah.k: Agreed. Got it.  
+[15:12] @mike.r: Pricing proposal - cc me tomorrow?  
+[15:13] @alex.m: Yep.  
+[👍 from @sarah.k]  
+[15:14] @tariq.h: Elixir/Phoenix fits perfect.  
+[15:15] @alex.m: Thx for the reminder.  
+[16:05] @sarah.k: Quick q - data silos, is that eng/sales or what?  
+[16:06] @mike.r: She mentioned both depts earlier.  
+[16:07] @tariq.h: Probs. Makes sense.  
+[16:08] @alex.m: Yeah, they hate it.  
+[16:09] @sarah.k: Slow deploys 2-3 weeks - we cut to days.  
+[16:10] @mike.r: Sell that hard.  
+[👍 from @tariq.h]  
+[16:11] @alex.m: Will do. Maya Mueller deets in CRM?  
+[16:12] @sarah.k: Updating now. Head of Data, 3 yrs.  
+[16:13] @tariq.h: SpecLine manufacturing, 84 emp. Noted.  
+[16:14] @mike.r: Timeline far but critical urgency? Odd.  
+[16:15] @alex.m: Budget cycles probs.  
+  ↳ [16:16] @sarah.k: True.  
+[16:17] @tariq.h: Proposal by Friday - draft ready?  
+[16:18] @alex.m: Almost. Lmk feedback.  
+[16:19] @mike.r: 👍  
+[16:20] @sarah.k: Outreach competitor - highlight our edge.  
+[16:21] @alex.m: On it.  
+[17:02] @tariq.h: One more: Fly.io in stack - any issues?  
+[17:03] @alex.m: Nah, she loves it.  
+[17:04] @mike.r: PostgreSQL standard.  
+[17:05] @sarah.k: Whole stack aligns.  
+[17:06] @alex.m: Deal stage Discovery locked. Next steps clear.  
+[👍 from @mike.r] [👍 from @tariq.h]  
+[17:07] @tariq.h: Thx all. GTG.

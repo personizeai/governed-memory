@@ -1,0 +1,27 @@
+Call with: Nadia Costa, Chief Revenue Officer at SpecLine
+Date: February 23, 2026
+Duration: 30 min
+
+Key Points:
+- Nadia CRO SpecLine mfg co ~71 emp (51-200 sz)
+- w/ SpecLine 5yrs reports dir to CEO
+- pain hiring spec engrs — legacy integ mess
+- stack py fastapi aws lambda dynamodb sqs
+- budget ~1.8M alloc
+- deal stage disc
+- not DM — she's influencer
+- they struggling scale eng team
+- legacy sys killing speed
+- interested our soln for hiring + integ
+- def budget holder but needs CEO nod
+
+Action Items:
+- [ ] send tech stack align deck — py/fastapi focus (me by EOW)
+- [ ] f/u mtg w/ her + CEO next week (me)
+- [ ] sch demo for eng leads (Nadia)
+- [ ] update CRM deal val 1.8M stage disc pains hiring/integ (me)
+
+Notes:
+Nadia solid contact, knows pains inside out — hiring freeze bc spec skills gap, legacy junk slowing deploys. She's pushing internally but he's dragging on budget timing (prob CEO?). Excited abt our AWS fit, said team prototypes w/ lambda/sqs but bottlenecks. She's got pull, reports dir CEO, will loop him if we nail deck. Quick win if f/u fast — by EOQ prob.
+
+He mentioned Q2 push but she's def aligned, just needs ammo for stakeholders. SpecLine scaling mfg ops, 71 heads but growth pains heavy. Good vibe, she's been there 5yrs loyal. Nudge on pains matched our ICP perf.

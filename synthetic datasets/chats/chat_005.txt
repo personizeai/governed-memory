@@ -1,0 +1,90 @@
+[09:15] @alex.m: Quick update on CastPoint @here - just got off call with Chen Okonkwo, their Head of Infrastructure. They're a manufacturing co with ~128 employees, been evaluating us vs HubSpot AI and Apollo.io. [👍 from @sarah.k]
+[09:16] @sarah.k: Nice! What's their timeline?
+[09:17] @alex.m: Decision by 2026-11-26, standard procurement: demo done, now security review then legal and VP Finance sign-off.
+[09:18]  ↳ @mike.r: VP Finance? Who's that?
+[09:19]  ↳ @alex.m: Idk his name yet, Chen will intro.
+[09:20] @derek.d: Budget? lmk
+[09:21] @alex.m: ~$350k allocated, deal value around there. Ngl, they're hurting from manual customer onboarding processes.
+  ↳ [09:22] @sarah.k: Got it [👍 from @mike.r]
+[09:23] @mike.r: Current setup? They mentioned custom CRM on Rails right?
+[09:24] @alex.m: Yep, custom-built CRM on Rails, plus Go, Kubernetes, AWS, DynamoDB, gRPC stack. Vendor lock-in with AWS is killing them tbh.
+[09:25] @sarah.k: Same story as last Friday's call? 
+[09:26] @alex.m: Pretty much, Chen's been there 2 years and it's his pet project to fix.
+[09:27]  ↳ @derek.d: He push back on price?
+[09:28]  ↳ @alex.m: Nah, budget's $350k, they're good.
+[09:29] @mike.r: Competitors: also custom internal tool? How do we stack up imo?
+[09:30] @alex.m: Their custom tool sucks for onboarding, we're better on integration with their stack fwiw.
+[09:31] @sarah.k: Deal stage negotiation now? What's next?
+[09:32] @alex.m: Yup, negotiation. Shared their pricing page for ref [shared link: CastPoint pricing page]
+[09:33] @derek.d: Makes sense. Chen say anything about HubSpot AI?
+[09:34] @alex.m: She said it's too sales-focused, they need infra-heavy.
+[09:35]  ↳ @mike.r: She? Chen's a guy no?
+[09:36]  ↳ @sarah.k: Lol unclear, but yeah probably him.
+[09:37] @sarah.k: Pain points confirmed: manual onboarding and vendor lock-in?
+[09:38] @alex.m: Spot on.
+[09:39] @mike.r: Company size 51-200, fits our sweet spot.
+[09:40] @derek.d: Tech stack matches perfectly - Go/K8s/AWS etc.
+[09:41]  ↳ @alex.m: Exactly, that's why they're biting. [👍 from @derek.d]
+[09:42] @sarah.k: Anyone loop in legal yet?
+[09:43] @alex.m: Not yet, tomorrow after security review feedback.
+[09:44] @mike.r: Got it. Chen cc'd on the thread?
+[09:45] @alex.m: Yep, he's lurking.
+[09:46] @derek.d: Fwiw, their custom CRM on Rails is ancient, time to ditch.
+[09:47] @sarah.k: Agreed, we've seen this before.
+[09:48] @mike.r: Budget $350k right? Solid.
+[09:49]  ↳ @alex.m: Yep repeated for conf.
+[09:50] @alex.m: @channel let's prep security review docs asap.
+[09:51] @sarah.k: On it 👍
+[09:52] @derek.d: What did he say about Apollo.io exactly?
+[09:53] @alex.m: They said it's meh for their gRPC needs.
+[09:54]  ↳ @mike.r: They? Which one?
+[09:55]  ↳ @derek.d: Probably Chen's team.
+[09:56] @sarah.k: Timeline feels long - 2026-11-26? Push it?
+[09:57] @alex.m: Nah, their process is locked in.
+[09:58] @mike.r: Vendor lock-in with current cloud provider - AWS right?
+[09:59] @alex.m: Yep.
+[10:00] @derek.d: Demo went well last week?
+[10:01] @sarah.k: Super smooth imo.
+[10:02]  ↳ @alex.m: Their stack demo'd perfectly.
+[10:03] @mike.r: Chen been there 2 years? Loyal guy.
+[10:04] @alex.m: Yeah, knows the pains inside out.
+[10:05] @sarah.k: Manufacturing co, 128 heads - scaling onboarding is key.
+[10:06] @derek.d: 👍
+[10:07] @alex.m: Legal review after security, then VP sign-off.
+[10:08] @mike.r: Standard buying process, no red flags.
+[10:09] @sarah.k: HubSpot AI too fluffy for them.
+[10:10] @derek.d: Apollo.io same issue.
+[10:11] @alex.m: Custom internal tool failing hard.
+[10:12] @mike.r: Our edge: full stack compat - DynamoDB, gRPC etc.
+[10:13] @sarah.k: Ngl excited, $350k deal.
+[10:14] @derek.d: Me too. Next sprint update?
+[10:15] @alex.m: Will ping tomorrow.
+[10:16] @mike.r: Cool.
+[10:17] @sarah.k: Chen mention any other pains?
+[10:18] @alex.m: Just the onboarding manual stuff.
+[10:19]  ↳ @derek.d: Gotcha.
+[10:20] @mike.r: He seemed bought in?
+[10:21] @alex.m: Totally, said we're the fix.
+[10:22] @sarah.k: Sweet. [👍 from @alex.m]
+[10:23] @derek.d: Deal stage: negotiation - propose discount?
+[10:24] @alex.m: Budget covers, no need imo.
+[10:25] @mike.r: Fwiw their pricing page shows they're cost-conscious [shared link: CastPoint pricing page]
+[10:26] @sarah.k: Noted.
+[10:27] @alex.m: Chen's team size? ~128 total.
+[10:28] @derek.d: 51-200 range yeah.
+[10:29] @mike.r: Kubernetes heavy, we shine there.
+[10:30] @sarah.k: AWS lock-in pushing them to us?
+[10:31] @alex.m: Big time.
+[10:32] @derek.d: 👍 Makes sense.
+[10:33] @mike.r: Last Friday he said...
+[10:34] @alex.m: Yeah same vibes.
+[10:35] @sarah.k: All good then.
+[10:36] @alex.m: Security review docs ready by EOD?
+[10:37]  ↳ @derek.d: Yes sir.
+[10:38] @mike.r: CC me.
+[10:39] @sarah.k: Will do.
+[10:40] @derek.d: Chen intro VP Finance soon?
+[10:41] @alex.m: Next week probably.
+[10:42] @mike.r: Timeline holds.
+[10:43] @sarah.k: Pumped for close.
+[10:44] @alex.m: Me too! 🚀 [👍 from @mike.r]

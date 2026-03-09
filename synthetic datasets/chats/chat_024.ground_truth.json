@@ -1,0 +1,59 @@
+{
+  "sample_id": "chat_024",
+  "content_type": "chat_log",
+  "company": "SkillPulse",
+  "industry": "EdTech",
+  "message_count_target": 37,
+  "actual_word_count": 495,
+  "expected_facts": [
+    {
+      "text": "Annual revenue is around $125M",
+      "type": "explicit"
+    },
+    {
+      "text": "SkillPulse is a EdTech company with about 32 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Boston",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+      "type": "explicit"
+    },
+    {
+      "text": "Tariq Xu has been at SkillPulse for 6 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating custom internal tool, Microsoft Copilot",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Operations",
+    "company_name": "SkillPulse",
+    "company_size": "11-50",
+    "technology_stack": "Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+    "deal_stage": "Negotiation",
+    "decision_timeline": "2026-05-24",
+    "competitors_mentioned": [
+      "custom internal tool",
+      "Microsoft Copilot"
+    ],
+    "buying_process": "Standard procurement: demo, security review, legal review, sign-off from VP Finance"
+  },
+  "planted_issues": {
+    "pronoun_issues": 5,
+    "temporal_issues": 2,
+    "duplicate_facts": 2
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@daniel.a"
+  ],
+  "property_coverage": 0.57
+}

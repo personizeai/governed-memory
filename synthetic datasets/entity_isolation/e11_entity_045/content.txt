@@ -1,0 +1,16 @@
+### Account Overview
+Tempest Software is a prominent player in the Manufacturing industry, employing 2735 professionals and generating annual revenue of approximately $34M. As a key prospect, the company is led in technology by Heather Ibrahim, who serves as CTO (heather.ibrahim@tempestsoftware.com). Tempest Software specializes in software solutions tailored for manufacturing operations, where data-driven insights are critical for optimizing production lines, supply chains, and operational efficiency. Our initial outreach highlighted their growing need for advanced analytics capabilities amid scaling challenges. With their sizable workforce and revenue base, Tempest represents a high-value opportunity in the B2B manufacturing segment, particularly as they seek to modernize their data infrastructure to stay competitive.
+
+### Key Details
+Heather Ibrahim, CTO at Tempest Software, oversees a robust tech stack including Scala, Spark, Databricks, Snowflake, and Airflow. These tools support their data processing and orchestration needs but are revealing limitations. Primary pain points include a lack of real-time analytics for decision making, which hampers agile responses to production fluctuations; security concerns with their current architecture, exposing vulnerabilities in handling sensitive manufacturing data; and vendor lock-in with their existing cloud provider, restricting flexibility and cost optimization. They view HubSpot AI as a competitor in the analytics space, but express dissatisfaction with its integration limitations for their complex manufacturing workflows. These challenges align closely with our platform's strengths in real-time processing, secure multi-cloud architectures, and seamless migrations.
+
+### Deal Status
+This prospect is at an early-mid stage with a potential deal value of $1,000,000. Tempest Software has shown strong initial interest following our discovery call with Heather Ibrahim, where pain points were validated. The decision timeline is targeted for Q2 2026, aligned with their fiscal planning cycle and upcoming tech refresh. No formal proposal has been submitted yet, but internal buy-in from engineering and exec teams appears promising based on Heather's feedback. Competitive positioning against HubSpot AI gives us leverage, as Tempest seeks a more manufacturing-focused solution.
+
+### Next Steps
+- Schedule a technical demo with Heather Ibrahim in the next two weeks to showcase real-time analytics on their Scala/Spark stack, addressing security and vendor lock-in directly.
+- Prepare customized ROI analysis highlighting $34M revenue growth potential via our Databricks/Snowflake integrations.
+- Follow up via email by EOW to confirm availability and share case studies from similar manufacturing clients.
+- Escalate to sales engineering for architecture review prep ahead of Q2 2026 timeline.
+
+(Word count: 378)

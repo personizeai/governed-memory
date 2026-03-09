@@ -1,0 +1,19 @@
+{
+  "entity_index": 79,
+  "name": "Ivan Patel",
+  "company": "Hazel Tech",
+  "industry": "SpaceTech",
+  "email": "ivan.patel@hazeltech.com",
+  "title": "VP of Sales",
+  "facts": [
+    "Ivan Patel is VP of Sales at Hazel Tech",
+    "Hazel Tech is a SpaceTech company with 1467 employees",
+    "Tech stack: TypeScript, React, Node.js, GCP, MongoDB",
+    "Deal value: $1,000,000",
+    "Pain points: fragmented tooling across departments; poor developer experience slowing feature velocity; integration complexity with legacy systems",
+    "Competitors: Clari, HubSpot AI",
+    "Decision timeline: Q4 2026",
+    "Annual revenue: ~$66M"
+  ],
+  "actual_word_count": 281
+}

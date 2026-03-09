@@ -1,0 +1,72 @@
+{
+  "sample_id": "email_020",
+  "content_type": "email_thread",
+  "company": "PriceMatrix",
+  "industry": "E-commerce",
+  "email_count": 7,
+  "actual_word_count": 1326,
+  "expected_facts": [
+    {
+      "text": "They're dealing with manual processes for customer onboarding",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Drift",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with vendor lock-in with current cloud provider",
+      "type": "explicit"
+    },
+    {
+      "text": "PriceMatrix is a E-commerce company with about 34 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 34% this fiscal year",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q2",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $50,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Sarah Singh has been at PriceMatrix for 2 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Go, Kubernetes, AWS, DynamoDB, gRPC",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Sales Engineering",
+    "company_name": "PriceMatrix",
+    "company_size": "11-50",
+    "technology_stack": "Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "manual processes for customer onboarding",
+      "vendor lock-in with current cloud provider",
+      "customer churn from slow support response times"
+    ],
+    "deal_value": 50000,
+    "decision_timeline": "2026-12-05",
+    "competitors_mentioned": [
+      "Drift"
+    ],
+    "next_steps": "Schedule a technical deep-dive with Sarah's engineering team",
+    "buying_process": "Procurement requires three competitive bids before decision"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 1
+  },
+  "introduces_new_person": true,
+  "colleague": "David Ibrahim, Director of IT",
+  "property_coverage": 0.79
+}

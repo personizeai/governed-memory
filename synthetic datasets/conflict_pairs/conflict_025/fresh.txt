@@ -1,0 +1,22 @@
+**Call Note: Follow-up Sales Meeting**  
+**Date:** January 05, 2026  
+**Contact:** Aisha Oduya, VP of Engineering, Keystone Labs (E-commerce)  
+**Duration:** 45 min via Zoom  
+**Attendees:** Aisha Oduya, myself  
+
+Followed up on prior demo. Aisha confirmed major **UPDATE**: Keystone Labs has fully replaced their legacy custom-built CRM with Pipedrive as of Dec 2025. This change supersedes all previous intel on their in-house system—migration completed successfully, resolving scalability issues with their 500K+ SKUs.  
+
+Key discussion points:  
+- Pipedrive's e-commerce pipeline automation is exceeding expectations for order fulfillment tracking and Shopify integration. Early ROI: 20% faster deal closure in pilot stores.  
+- Pain points addressed: Custom CRM lacked mobile access; Pipedrive's app has boosted field sales team productivity.  
+- Budget: $150K annual for Pipedrive Pro + custom workflows; add-ons (e.g., LeadBooster) under review.  
+- Decision-makers: Aisha looping in CTO (Jamal Reza) for enterprise-wide rollout approval.  
+
+Next steps:  
+- Send tailored proposal with Q2 upsell options by Jan 10.  
+- Schedule team demo (5-7 users) w/o Jan 15.  
+- Aisha to share Q4 sales metrics for benchmarking.  
+
+Opportunity strong—positioned for expansion. High confidence in close by Feb end.  
+
+(Word count: 198)

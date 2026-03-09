@@ -1,0 +1,74 @@
+{
+  "sample_id": "email_025",
+  "content_type": "email_thread",
+  "company": "ApiGrid",
+  "industry": "B2B SaaS",
+  "email_count": 5,
+  "actual_word_count": 1574,
+  "expected_facts": [
+    {
+      "text": "They've also been evaluating existing CRM workflows, Clari",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with technical debt from rapid early growth",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes PHP, Laravel, DigitalOcean, MySQL, Redis",
+      "type": "explicit"
+    },
+    {
+      "text": "ApiGrid is a B2B SaaS company with about 2410 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with inconsistent messaging across sales team",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using Pipedrive with Slack notifications",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Alex Ito has been at ApiGrid for 5 years",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of IT",
+    "company_name": "ApiGrid",
+    "company_size": "1000+",
+    "technology_stack": "PHP, Laravel, DigitalOcean, MySQL, Redis",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "technical debt from rapid early growth",
+      "inconsistent messaging across sales team"
+    ],
+    "deal_value": 200000,
+    "decision_timeline": "2026-04-24",
+    "competitors_mentioned": [
+      "existing CRM workflows",
+      "Clari"
+    ],
+    "decision_maker": true,
+    "next_steps": "Alex will share the RFP by end of week",
+    "current_solution": "Pipedrive with Slack notifications",
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1
+  },
+  "introduces_new_person": true,
+  "colleague": "Anita Kim, Director of IT",
+  "property_coverage": 0.93
+}

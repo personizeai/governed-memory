@@ -1,0 +1,59 @@
+{
+  "sample_id": "call_note_012",
+  "content_type": "call_notes",
+  "company": "CartLogic",
+  "industry": "E-commerce",
+  "duration_minutes": 30,
+  "target_word_count": 470,
+  "actual_word_count": 323,
+  "expected_facts": [
+    {
+      "text": "Tom Kaur has been at CartLogic for 3 years",
+      "type": "explicit"
+    },
+    {
+      "text": "CartLogic is a E-commerce company with about 45 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Intercom, Clari, Outreach",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $600,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with technical debt from rapid early growth",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with poor visibility into pipeline health",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Data",
+    "company_name": "CartLogic",
+    "company_size": "11-50",
+    "technology_stack": "Java, Spring Boot, Azure, Oracle, Kafka",
+    "pain_points": [
+      "technical debt from rapid early growth",
+      "poor visibility into pipeline health"
+    ],
+    "deal_value": 600000,
+    "decision_timeline": "2026-06-15",
+    "competitors_mentioned": [
+      "Intercom",
+      "Clari",
+      "Outreach"
+    ],
+    "decision_maker": false,
+    "urgency_level": "Low"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1
+  },
+  "property_coverage": 0.71
+}

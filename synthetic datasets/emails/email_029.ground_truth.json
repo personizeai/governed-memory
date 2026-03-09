@@ -1,0 +1,76 @@
+{
+  "sample_id": "email_029",
+  "content_type": "email_thread",
+  "company": "MetalGrid",
+  "industry": "Manufacturing",
+  "email_count": 5,
+  "actual_word_count": 1086,
+  "expected_facts": [
+    {
+      "text": "Maya Costa has been at MetalGrid for 4 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Drift",
+      "type": "explicit"
+    },
+    {
+      "text": "Maya reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with security concerns with current architecture",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $450,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with integration complexity with legacy systems",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Scala, Spark, Databricks, Snowflake, Airflow",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "MetalGrid is a Manufacturing company with about 4779 employees",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Product",
+    "company_name": "MetalGrid",
+    "company_size": "1000+",
+    "technology_stack": "Scala, Spark, Databricks, Snowflake, Airflow",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "security concerns with current architecture",
+      "integration complexity with legacy systems",
+      "lack of real-time analytics for decision making"
+    ],
+    "deal_value": 450000,
+    "decision_timeline": "2026-04-26",
+    "competitors_mentioned": [
+      "Drift"
+    ],
+    "next_steps": "Schedule a technical deep-dive with Maya's engineering team",
+    "urgency_level": "High"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 1
+  },
+  "introduces_new_person": true,
+  "colleague": "Jennifer Anderson, Director of IT",
+  "property_coverage": 0.79
+}

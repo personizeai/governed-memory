@@ -1,0 +1,94 @@
+{
+  "sample_id": "transcript_017",
+  "content_type": "meeting_transcript",
+  "company": "CloudNova",
+  "industry": "B2B SaaS",
+  "duration_minutes": 30,
+  "target_word_count": 2454,
+  "actual_word_count": 1915,
+  "expected_facts": [
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "Rachel Lee has been at CloudNova for 2 years",
+      "type": "explicit"
+    },
+    {
+      "text": "CloudNova is a B2B SaaS company with about 78 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 33% this fiscal year",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 6 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Go, Kubernetes, AWS, DynamoDB, gRPC",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using internal Python scripts pulling from multiple APIs",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in London",
+      "type": "explicit"
+    },
+    {
+      "text": "Rachel reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Intercom",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q3",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 4 vendors including us",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Customer Success",
+    "company_name": "CloudNova",
+    "company_size": "51-200",
+    "technology_stack": "Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "deal_stage": "Proposal",
+    "deal_value": 200000,
+    "decision_timeline": "2026-09-23",
+    "competitors_mentioned": [
+      "Intercom"
+    ],
+    "decision_maker": false,
+    "buying_process": "Two-phase: technical POC first, then business case to leadership",
+    "current_solution": "internal Python scripts pulling from multiple APIs"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 4,
+    "duplicate_facts": 2
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.79,
+  "entity_id": "rachel-cloudnova",
+  "entity_email": "rachel@cloudnova.io",
+  "entity_website": "https://cloudnova.io",
+  "contact_name": "Rachel",
+  "record_id": "crm-rachel-cloudnova"
+}

@@ -1,0 +1,21 @@
+### Account Overview
+Cortex Systems is a prominent player in the Logistics industry, employing 1978 professionals and generating approximately $240M in annual revenue. The company specializes in optimizing supply chain operations through advanced technology infrastructure. Our primary point of contact is Aisha Singh, Director of Analytics at Cortex Systems. Aisha oversees data-driven initiatives critical to their logistics efficiency, making her a key decision-maker for analytics enhancements. Her insights have highlighted strategic challenges that align perfectly with our real-time analytics solutions.
+
+### Key Details
+- **Contact Information**: Aisha Singh, Director of Analytics; Email: aisha.singh@cortexsystems.com
+- **Tech Stack**: Cortex Systems leverages a modern, scalable stack including Go for backend services, Kubernetes for orchestration, AWS as their cloud provider, DynamoDB for NoSQL database needs, and gRPC for efficient microservices communication.
+- **Pain Points**: The team struggles with a lack of real-time analytics for timely decision-making, which hampers operational agility in fast-paced logistics scenarios. Additionally, inconsistent messaging across the sales team leads to fragmented customer experiences and lost opportunities.
+- **Competitors in Consideration**: Salesforce Einstein and HubSpot AI are currently on their radar for potential analytics and CRM integrations.
+
+These challenges present a strong fit for our platform, which excels in delivering real-time insights and unified sales messaging to streamline logistics workflows.
+
+### Deal Status
+This opportunity represents a high-value prospect with an estimated deal value of $650,000. Cortex Systems is actively evaluating solutions to address their analytics gaps ahead of a decision timeline in Q2 2026. Initial discussions with Aisha have uncovered enthusiasm for our tech compatibility, given their existing use of AWS, Kubernetes, and gRPC. Competitive positioning against Salesforce Einstein and HubSpot AI positions us favorably, especially in real-time logistics analytics where we outperform on integration speed and cost-efficiency. Pipeline stage: Discovery/Qualification, with positive internal buy-in signaled.
+
+### Next Steps
+1. Schedule a 30-minute demo call with Aisha Singh by end of next week to showcase real-time analytics tailored to their Go/Kubernetes/AWS environment.
+2. Prepare customized ROI analysis addressing inconsistent sales messaging and decision-making delays, benchmarking against competitors.
+3. Follow up via email to aisha.singh@cortexsystems.com confirming pain point alignment and proposing Q1 2026 pilot for proof-of-concept.
+4. Monitor for any shifts in their Q2 2026 timeline and nurture with logistics-specific case studies.
+
+Total word count: 378

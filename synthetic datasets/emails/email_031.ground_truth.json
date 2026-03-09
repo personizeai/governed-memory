@@ -1,0 +1,76 @@
+{
+  "sample_id": "email_031",
+  "content_type": "email_thread",
+  "company": "ContentHQ",
+  "industry": "Digital Media",
+  "email_count": 7,
+  "actual_word_count": 1297,
+  "expected_facts": [
+    {
+      "text": "Priya Mitchell has been at ContentHQ for 7 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $1,200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes TypeScript, React, Node.js, GCP, MongoDB",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with poor visibility into pipeline health",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using a mix of Google Sheets and custom dashboards",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with high infrastructure costs eating into margins",
+      "type": "explicit"
+    },
+    {
+      "text": "ContentHQ is a Digital Media company with about 4458 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 27% this fiscal year",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of IT",
+    "company_name": "ContentHQ",
+    "company_size": "1000+",
+    "technology_stack": "TypeScript, React, Node.js, GCP, MongoDB",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "high infrastructure costs eating into margins",
+      "poor visibility into pipeline health",
+      "customer churn from slow support response times",
+      "integration complexity with legacy systems"
+    ],
+    "deal_value": 1200000,
+    "decision_maker": false,
+    "next_steps": "Set up POC environment for Priya's team to evaluate",
+    "buying_process": "Can sign off directly up to $200K, board approval above that",
+    "current_solution": "a mix of Google Sheets and custom dashboards",
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2
+  },
+  "introduces_new_person": true,
+  "colleague": "Keiko O'Brien, Solutions Architect",
+  "property_coverage": 0.86
+}

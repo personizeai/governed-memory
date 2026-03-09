@@ -1,0 +1,44 @@
+# VaultEdge — Account Overview
+
+## Company Background
+VaultEdge is a dynamic fintech company specializing in secure data analytics and compliance solutions for financial institutions, operating with approximately 100 employees across its 51-200 sized organization. Founded in 2018 by a team of former Goldman Sachs engineers frustrated with fragmented data pipelines in traditional banking, the company quickly pivoted to address modern fintech needs, such as real-time risk assessment and automated regulatory reporting. Today, VaultEdge powers transaction monitoring and predictive analytics for mid-tier banks and payment processors, helping them navigate complex regulations like GDPR and SOX while scaling operations efficiently. Their growth has been fueled by a focus on cloud-native architectures, but recent challenges including compliance audit failures on data handling have highlighted vulnerabilities in their legacy systems. As they plan a full migration off these outdated platforms by the end of the year, VaultEdge is prioritizing tools that enhance pipeline visibility and streamline deployments, positioning themselves for aggressive expansion in the competitive fintech SaaS space.
+
+## Key Contacts
+| Name | Title | Role in Deal |
+|---|---|---|
+| Chen Oduya | Director of Analytics | Primary Contact, Decision Maker |
+| Brian Bhandari | Chief Product Officer | End User |
+| Alex Bhandari | Head of Data | End User |
+
+## Meeting History
+### Meeting 1: Discovery Call (February 5, 2026)
+During the initial discovery call, the VaultEdge team, led by Chen Oduya—who has been with the company for seven years—outlined their core pain points in detail. They expressed frustration with poor visibility into pipeline health, which has led to delayed insights on sales and operational funnels, compounded by compliance audit failures on data handling that nearly derailed their quarterly reviews. Chen highlighted their current reliance on HubSpot CRM integrated with Zapier automations, which, while functional, struggles with customization and scalability during peak traffic periods. The conversation also touched on slow deployment cycles taking 2-3 weeks per release, a bottleneck inherited from legacy systems they're eager to migrate away from by year's end. We aligned on high urgency, with Chen emphasizing the need for a solution that integrates seamlessly with their tech stack of Python, FastAPI, AWS Lambda, DynamoDB, and SQS. The call ended with agreement on next steps, including scheduling a technical deep dive, and they noted evaluating alternatives like Outreach and Intercom for similar visibility gaps. This session set a strong foundation, revealing their allocated budget of approximately $120,000 for the initiative.
+
+### Meeting 2: Technical Deep Dive (February 13, 2026)
+The technical deep dive built directly on the discovery call, diving into VaultEdge's architecture and specific integration challenges. Chen and Alex Bhandari walked us through their Python-based services running on FastAPI, orchestrated via AWS Lambda functions that feed into DynamoDB for storage and SQS for queuing— a modern stack hampered by legacy components causing those 2-3 week deployment delays. They reiterated compliance issues, sharing anonymized audit reports showing data handling lapses that exposed them to fines, and stressed poor pipeline visibility as a top priority, especially with scaling issues during high-traffic events like month-end closings. Brian Bhandari joined midway to confirm end-user buy-in, noting that their HubSpot-Zapier setup lacks the depth for real-time analytics. We demoed our platform's compatibility, proposing a POC tailored to their stack, which excited the team given the high urgency ahead of their end-of-year migration. Discussions covered procurement hurdles, requiring three competitive bids, and a decision timeline targeting June 26, 2026. Chen pushed for quick POC setup, and they compared us favorably to Outreach and Intercom, whose pricing and fintech focus fell short. Earlier this quarter, similar pains had surfaced in their internal reviews, making this timely.
+
+## Technical Requirements
+- **Enhanced Pipeline Visibility**: Real-time dashboards and alerting for sales and data pipelines, addressing current poor visibility that blinds their teams to bottlenecks; must integrate natively with HubSpot CRM and Zapier automations for a smooth transition.
+- **Compliance and Data Handling**: Automated audit trails and encryption at rest/transit compliant with fintech standards (SOC 2, GDPR), directly tackling recent compliance audit failures that flagged insecure data flows in legacy systems.
+- **Accelerated Deployment Cycles**: CI/CD pipelines reducing release times from 2-3 weeks to days, leveraging their Python/FastAPI codebase deployed on AWS Lambda, DynamoDB, and SQS to eliminate manual interventions.
+- **Scalability During Peaks**: Auto-scaling serverless architecture to handle traffic spikes without downtime, a critical fix for their reported scaling issues that disrupt operations quarterly.
+- **Legacy Migration Support**: Tools for data export/import and hybrid compatibility during their end-of-year migration off legacy platforms, ensuring zero disruption to ongoing Python services.
+- **Custom Analytics Integration**: Support for custom Python scripts and FastAPI endpoints, with SQS/DynamoDB hooks for queuing analytics jobs, aligning with their mid-sized 51-200 employee team's agile workflows.
+- **POC Environment**: Rapidly deployable sandbox for Chen's analytics team, including sample data mirroring their pipeline health metrics, ready within two weeks to maintain momentum.
+
+## Deal Status
+VaultEdge is currently in the Qualification deal stage, with a potential value of $120,000 aligned to their allocated budget for pipeline and compliance enhancements. High urgency drives the process, fueled by imminent compliance pressures and the end-of-year legacy migration, targeting a decision by June 26, 2026—roughly four months from now. Next steps include setting up a POC environment for Chen Oduya's team to evaluate integration with their Python, FastAPI, AWS Lambda, DynamoDB, and SQS stack, which we've committed to delivering next week. The buying process involves procurement requiring three competitive bids, positioning us well against Outreach and Intercom, but it introduces a minor blocker in extended review cycles. Their current HubSpot CRM with Zapier automations serves as a baseline, but pains like poor visibility into pipeline health and audit failures demand an upgrade. Chen, as primary decision maker, has greenlit internal champions, and no major red flags; however, we must monitor for shifts in their scaling challenges during upcoming peaks. Overall, momentum is strong, with the team referencing our demo positively in follow-ups last week.
+
+## Competitive Landscape
+- **Outreach**: Actively evaluating for sales pipeline visibility, but VaultEdge notes its heavy focus on outbound sales sequences lacks depth in compliance data handling and fintech-specific scaling—gaps we've addressed directly in our POC pitch.
+- **Intercom**: Under consideration for customer-facing analytics and automations to supplement HubSpot-Zapier, yet it falls short on backend integration with their AWS Lambda/DynamoDB/SQS ecosystem and ignores deployment cycle pains.
+- **Internal Status Quo**: Sticking with HubSpot CRM and Zapier, but unsustainable due to compliance audit failures and poor pipeline insights; they're motivated to replace it amid high urgency for migration.
+
+VaultEdge's procurement mandates three bids, giving us an edge through technical alignment, but Outreach's name recognition and Intercom's ease-of-use could sway if our POC underdelivers.
+
+## Risk Factors
+- **Procurement Delays**: Their process requires three competitive bids, potentially stretching the June 26 timeline if Outreach or Intercom sharpen proposals; they've mentioned this as a formality, but it slowed a prior deal earlier this year.
+- **Budget Reallocation**: With ~100 employees in a growth fintech, economic headwinds could redirect the $120,000 amid scaling issues—Chen alluded to this uncertainty in our last call, where they discussed it but he remained optimistic.
+- **Internal Prioritization Shifts**: End-of-year legacy migration might overshadow the deal if compliance fires flare up again; poor visibility has caused surprises before, and a repeat could derail focus on our solution. 
+
+*(Word count: 2381)*

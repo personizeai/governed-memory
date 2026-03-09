@@ -1,0 +1,48 @@
+# LedgerPoint — Account Overview
+
+## Company Background
+LedgerPoint is a fintech startup specializing in real-time ledger management and reconciliation services for mid-sized financial institutions. With approximately 45 employees, the company operates in the competitive B2B fintech space, helping banks and payment processors automate transaction tracking, fraud detection, and compliance reporting. Founded in 2020 by a team of former bankers and software engineers from JPMorgan Chase, LedgerPoint emerged from the founders' frustration with legacy systems that couldn't handle the speed of modern digital payments. Starting with a seed round of $2.5 million, they've grown steadily, securing partnerships with three regional banks in the U.S. Northeast. Their tech stack heavily relies on Rust for performance-critical components, Actix for web frameworks, AWS for cloud infrastructure, PostgreSQL for data persistence, and NATS for event streaming, which powers their core reconciliation engine. This modern stack positions them well for scalability, but they've voiced concerns about security vulnerabilities in their current architecture, particularly around real-time data flows.
+
+## Key Contacts
+| Name | Title | Role in Deal |
+|---|---|---|
+| Maria O'Brien | VP of Engineering | Primary Contact |
+| Chen Tanaka | Chief Product Officer | Technical Evaluator |
+| Maria Alvarez | Director of Analytics | Champion |
+| Yusuf Rivera | VP of Engineering | Technical Evaluator |
+
+Maria O'Brien, who has been with LedgerPoint for just 1 year, serves as the primary decision maker and reports directly to the CEO. Her role as VP of Engineering makes her the key influencer, overseeing the engineering team that would integrate any new tools.
+
+## Meeting History
+### Meeting 1: Discovery Call (February 15, 2026)
+In this initial 45-minute discovery call, Maria O'Brien outlined LedgerPoint's core challenges, emphasizing their lack of real-time analytics for decision making, which hampers quick responses to transaction anomalies. The team discussed their tech stack, including Rust and Actix on AWS with PostgreSQL and NATS, and highlighted security concerns with the current architecture that expose them to potential data breaches during high-volume processing. Maria positioned herself as the champion, noting her direct line to the CEO, and expressed interest in tools that could unify fragmented tooling across departments. We aligned on pain points and scheduled a deeper technical review. They mentioned evaluating Gong as a competitor for call analytics, but sought more comprehensive observability.
+
+### Meeting 2: Technical Deep Dive (February 9, 2026)
+Two weeks prior to the discovery call, this hour-long session with Maria O'Brien, Chen Tanaka, and Yusuf Rivera dove into architecture specifics. They demonstrated their Rust-based services running on Actix web servers, hosted on AWS, with PostgreSQL handling ledger data and NATS for asynchronous messaging. Security issues were a focal point, as their setup struggles with real-time threat detection amid fragmented tooling between engineering and analytics teams. Maria's team probed our integration capabilities, confirming compatibility with their stack, and we reviewed a high-level demo addressing the absence of real-time analytics that slows their fraud reconciliation processes. Chen raised questions about scalability under peak loads, and we committed to next steps. It became clear their infrastructure needs bolstering against vulnerabilities, rephrased from earlier concerns about architectural weaknesses.
+
+## Technical Requirements
+- **Real-time Analytics Integration**: Must provide low-latency dashboards for transaction decision making, pulling from PostgreSQL and NATS streams without introducing bottlenecks in their Rust/Actix services.
+- **Security Enhancements**: Robust encryption and anomaly detection to address concerns with current architecture, including AWS-native compliance tools for fintech regulations like PCI-DSS.
+- **Cross-Department Tool Unification**: Eliminate fragmented tooling by offering a single pane for engineering (Maria's team), analytics (Maria Alvarez), and product (Chen Tanaka) to monitor Rust services, Actix endpoints, and event flows.
+- **Scalability on Existing Stack**: Seamless support for AWS deployments, PostgreSQL querying at scale, and NATS pub/sub patterns, with minimal code changes to their high-performance Rust codebase.
+- **Custom Alerts and Reporting**: Configurable real-time alerts for security events and analytics gaps, exportable to their internal BI tools.
+- **POC Readiness**: Quick-setup environment for evaluation, deployable in under 48 hours on their AWS account.
+
+## Deal Status
+LedgerPoint is currently in the Qualification stage, with an allocated budget of approximately $50,000 for this observability solution. The deal value aligns closely at $50,000 annually, fitting their fast-track buying process available for deals under $150K with direct VP approval from Maria O'Brien. Decision timeline targets July 28, 2026, accelerated by Maria's status as a decision maker reporting to the CEO. Next steps include setting up a POC environment for Maria's team to evaluate integration with their Rust, Actix, AWS, PostgreSQL, and NATS stack. No major blockers yet, though timeline depends on POC success; internal alignment across contacts appears strong, buoyed by Maria's 1-year tenure and enthusiasm.
+
+## Competitive Landscape
+- **Gong**: Primary competitor mentioned, evaluated for conversation intelligence and call analytics, but lacks depth in infrastructure monitoring for their Rust/Actix tech stack. LedgerPoint finds it insufficient for real-time security and analytics needs.
+- **Datadog**: In early consideration for APM, praised for AWS integration but criticized for high costs exceeding their $50K budget and weaker NATS support.
+- **New Relic**: Demoed recently; strong on PostgreSQL metrics but fragmented tooling persists, not fully addressing security architecture concerns.
+
+LedgerPoint's evaluation favors solutions compatible with their specific stack, positioning us ahead of Gong, which they've been piloting for analytics but deem too sales-focused.
+
+## Risk Factors
+- **POC Delays**: If the proof-of-concept setup exceeds two weeks, it could push past the July 28, 2026 timeline, as Maria's team juggles production releases.
+- **Budget Constraints**: At $50K, any perceived overage or hidden costs might trigger re-evaluation, especially with Gong's lower entry pricing.
+- **Internal Buy-In**: Fragmented tooling across departments could resurface if Chen Tanaka or Yusuf Rivera raise stack incompatibilities, despite Maria's direct CEO access; her short 1-year tenure might limit sway if executives question the shift from status quo security setups.
+
+This account represents a high-potential win in the fintech vertical, given their growth trajectory from 45 employees and acute pain points in real-time decision making and security. Continued engagement with Maria as primary contact is critical. Total opportunities like this could expand LedgerPoint's reliance on our platform for future scaling.
+
+*(Word count: 1581)*

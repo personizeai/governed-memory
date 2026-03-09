@@ -1,0 +1,24 @@
+**Call Note: Sales Meeting - Kevin Mueller**
+
+**Date:** November 19, 2025  
+**Contact:** Kevin Mueller, VP of Engineering, Zenith Analytics (Digital Media)  
+**Duration:** 45 minutes via Zoom  
+**Attendees:** Kevin Mueller, Sarah Lee (Engineering Lead), [My Name] (Sales Rep)  
+
+Introductory call focused on Zenith's data infrastructure challenges. Confirmed Zenith Analytics uses Oracle as their primary database, handling 500TB+ of user behavior data for ad personalization across 15M monthly active users.  
+
+Key discussion points:  
+- Current pain: Oracle query latencies spiking 3x during peak hours (e.g., evenings), impacting real-time bidding decisions and revenue ops.  
+- Team evaluating migrations but locked into Oracle contracts through Q4 2026; open to middleware solutions for acceleration without full rip-and-replace.  
+- Expressed strong interest in our Analytics Accelerator—piloted similar Oracle integrations at two other media firms, cutting latency by 60%. Shared case study enthusiasm.  
+
+Budget: $500K allocated for Q1 2026 tools; decision timeline end of year, pending CTO review.  
+
+**Next Steps:**  
+- Send tailored Oracle integration POC proposal and case studies by 11/24.  
+- Schedule follow-up demo with CTO for 12/3.  
+- Kevin to provide Oracle schema sample for compatibility check.  
+
+Opportunity rated High; competitive against Snowflake pitch. Follow up EOD tomorrow.  
+
+(Word count: 218)

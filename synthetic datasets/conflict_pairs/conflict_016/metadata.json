@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_016",
+  "category": "database",
+  "company": "Zenith Analytics",
+  "contact": "Kevin Mueller",
+  "industry": "Digital Media",
+  "stale_date": "2025-11-19",
+  "fresh_date": "2026-02-28",
+  "stale_claim": "Zenith Analytics uses Oracle as their primary database",
+  "fresh_claim": "Zenith Analytics migrated to PostgreSQL as their primary database",
+  "expected_query": "What database does Zenith Analytics use?",
+  "expected_answer": "migrated to PostgreSQL as their primary database",
+  "stale_word_count": 197,
+  "fresh_word_count": 161
+}

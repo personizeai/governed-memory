@@ -1,0 +1,21 @@
+**Sales Call Note**  
+**Date:** July 11, 2025  
+**Contact:** Alex Williams, VP Engineering, Catalyst IO (Fintech)  
+**Call Type:** Virtual discovery & product demo (45 mins)  
+**Attendees:** Alex Williams (Catalyst), [Your Name] (Sales Rep)  
+
+**Summary:**  
+Met with Alex to discuss Fintech payment processing needs. Catalyst IO has approximately 150 total employees, with engineering team at ~40 headcount. They're scaling ops amid 30% YoY transaction growth but struggling with legacy gateway latency during peaks (up to 2s delays).  
+
+Demoed FinSecure API integration—Alex highlighted fit for their microservices stack (Kubernetes-based). Strong interest in our ML-driven fraud detection (95% accuracy vs. their current 82%). Budget confirmed: $250K allocated for Q3 vendor switch. Pain point: Stripe integration lacks custom fraud rules; they're RFI'ing alternatives.  
+
+Alex shared roadmap: Migrate to new platform by Oct 2025; prioritize sub-500ms latency. No blockers; decision-maker buy-in from CTO.  
+
+**Opportunity:** High—positioned as top contender. Upsell potential for premium analytics add-on.  
+
+**Next Steps:**  
+- Send tailored proposal + ROI calc by EOD July 15.  
+- Schedule POC demo for July 25 (Alex + 1 Eng).  
+- Follow up via email today.  
+
+**Rating:** Hot lead. Total words: 198

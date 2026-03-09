@@ -1,0 +1,79 @@
+{
+  "sample_id": "email_002",
+  "content_type": "email_thread",
+  "company": "LedgerPoint",
+  "industry": "Fintech",
+  "email_count": 8,
+  "actual_word_count": 990,
+  "expected_facts": [
+    {
+      "text": "Security audit is coming up in Q2",
+      "type": "explicit"
+    },
+    {
+      "text": "Nadia Alvarez has been at LedgerPoint for 8 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $1,200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with poor developer experience slowing feature velocity",
+      "type": "explicit"
+    },
+    {
+      "text": "LedgerPoint is a Fintech company with about 35 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes TypeScript, React, Node.js, GCP, MongoDB",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Microsoft Copilot, Outreach, Gong",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with vendor lock-in with current cloud provider",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using a mix of Google Sheets and custom dashboards",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Chief Revenue Officer",
+    "company_name": "LedgerPoint",
+    "company_size": "11-50",
+    "technology_stack": "TypeScript, React, Node.js, GCP, MongoDB",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "vendor lock-in with current cloud provider",
+      "poor developer experience slowing feature velocity"
+    ],
+    "deal_value": 1200000,
+    "decision_timeline": "2026-11-24",
+    "competitors_mentioned": [
+      "Microsoft Copilot",
+      "Outreach",
+      "Gong"
+    ],
+    "decision_maker": false,
+    "buying_process": "IT committee evaluates quarterly, next window is Q3 2026",
+    "current_solution": "a mix of Google Sheets and custom dashboards",
+    "urgency_level": "Critical"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1
+  },
+  "introduces_new_person": true,
+  "colleague": "Simone Tanaka, Director of IT",
+  "property_coverage": 0.93
+}

@@ -1,0 +1,57 @@
+{
+  "sample_id": "call_note_036",
+  "content_type": "call_notes",
+  "company": "ShopFront Digital",
+  "industry": "E-commerce",
+  "duration_minutes": 30,
+  "target_word_count": 655,
+  "actual_word_count": 402,
+  "expected_facts": [
+    {
+      "text": "They're dealing with poor visibility into pipeline health",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with lack of real-time analytics for decision making",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using spreadsheets and manual data entry",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $120,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Omar Bhandari has been at ShopFront Digital for 5 years",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Sales",
+    "company_name": "ShopFront Digital",
+    "company_size": "1000+",
+    "technology_stack": "TypeScript, React, Node.js, GCP, MongoDB",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "poor visibility into pipeline health",
+      "lack of real-time analytics for decision making",
+      "high infrastructure costs eating into margins",
+      "security concerns with current architecture"
+    ],
+    "deal_value": 120000,
+    "decision_timeline": "2026-11-21",
+    "competitors_mentioned": [
+      "Salesforce Einstein",
+      "custom internal tool"
+    ],
+    "next_steps": "Omar will share the RFP by end of week",
+    "current_solution": "spreadsheets and manual data entry"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 1
+  },
+  "property_coverage": 0.79
+}

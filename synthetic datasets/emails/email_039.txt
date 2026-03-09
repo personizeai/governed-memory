@@ -1,0 +1,195 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Fatima Mitchell <fatima.mitchell@pixelgrid.com>  
+Subject: Helping PixelGrid cut deployment times from weeks to hours  
+Date: Tue, 3 Feb 2026 10:15:23 -0800  
+
+Hi Fatima,  
+
+I hope this email finds you well. I'm Alex Morgan from Technova, and I've been following PixelGrid's impressive growth in digital media—794 employees strong and delivering cutting-edge content experiences. Noticed your team runs Ruby on Rails on Heroku with PostgreSQL and Sidekiq, but public logs and job postings hint at frustrations with slow deployment cycles taking 2-3 weeks per release and vendor lock-in that's holding back your agility.  
+
+We've helped similar Rails shops escape Heroku's grip while accelerating deploys to hours, not weeks, with seamless integrations and real-time analytics for faster decision-making. Unlike general tools like Microsoft Copilot you're evaluating, our platform is tailored for your exact stack, enabling smooth migrations off legacy systems by year's end without disruption.  
+
+Would you be open to a 15-minute chat next week to explore how we can address these pain points specifically for PixelGrid?  
+
+Best regards,  
+Alex Morgan  
+Sales Representative  
+Technova.io  
+(415) 123-4567  
+
+---
+
+From: Fatima Mitchell <fatima.mitchell@pixelgrid.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Helping PixelGrid cut deployment times from weeks to hours  
+Date: Wed, 4 Feb 2026 09:42:11 -0500  
+
+Hi Alex,  
+
+Thanks for reaching out—I've been Head of Product here at PixelGrid for 6 years, and yes, our deployment cycles are a massive bottleneck at 2-3 weeks per release. Heroku's vendor lock-in is exacerbating this, especially as we plan a full migration off our legacy systems by end of year. We've got about $50,000 budgeted for solutions like this, and while Microsoft Copilot is in the mix, we're prioritizing stack-specific tools.  
+
+Quick question: Does Technova integrate natively with Sidekiq for job queues and PostgreSQL for our data layer? Looking forward to your thoughts.  
+
+Best,  
+Fatima Mitchell  
+Head of Product  
+PixelGrid  
+(212) 555-0101  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Fatima Mitchell <fatima.mitchell@pixelgrid.com>  
+Subject: Re: Helping PixelGrid cut deployment times from weeks to hours  
+Date: Thu, 5 Feb 2026 11:20:47 -0800  
+
+Hi Fatima,  
+
+Great to hear from you—thanks for the quick reply and context on your setup. Yes, Technova integrates natively with Sidekiq for handling background jobs without a hitch, pulling metrics directly into our real-time analytics dashboard. PostgreSQL is fully supported out-of-the-box, with zero-config querying that slots right into your Rails/Heroku workflows today.  
+
+> Hi Alex,  
+>   
+> Thanks for reaching out—I've been Head of Product here at PixelGrid for 6 years, and yes, our deployment cycles are a massive bottleneck at 2-3 weeks per release. Heroku's vendor lock-in is exacerbating this, especially as we plan a full migration off our legacy systems by end of year. We've got about $50,000 budgeted for solutions like this, and while Microsoft Copilot is in the mix, we're prioritizing stack-specific tools.  
+>   
+> Quick question: Does Technova integrate natively with Sidekiq for job queues and PostgreSQL for our data layer? Looking forward to your thoughts.  
+>   
+> Best,  
+> Fatima Mitchell  
+> Head of Product  
+> PixelGrid  
+> (212) 555-0101  
+
+To give you a light proposal: We can kick off a proof-of-concept (POC) tailored to your RoR/Sidekiq stack for just $5,000, deploying in days and showcasing 80% faster cycles plus real-time insights that Copilot can't match for your media pipelines. Full rollout would align perfectly with your $50K budget, positioning you for that end-of-year migration.  
+
+When's a good time for a quick call to dive deeper?  
+
+Cheers,  
+Alex Morgan  
+Sales Representative  
+Technova.io  
+(415) 123-4567  
+
+---
+
+From: Fatima Mitchell <fatima.mitchell@pixelgrid.com>  
+To: michael.cho@pixelgrid.com  
+CC: Alex Morgan <alex.morgan@technova.io>  
+Subject: Fwd: Helping PixelGrid cut deployment times from weeks to hours  
+Date: Thu, 5 Feb 2026 14:33:22 -0500  
+
+Michael,  
+
+Forwarding this thread from Technova—Alex seems to have a solid grasp on our pains with Heroku lock-in and slow deploys. They're proposing a POC that hits our Rails, Postgres, and Sidekiq stack directly, under our $50K budget. Can you take a look at the tech details and share your thoughts? We're eyeing options beyond Copilot for the migration.  
+
+Thanks,  
+Fatima  
+
+---------- Forwarded message ---------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Thu, 5 Feb 2026 11:20:47 -0800  
+Subject: Re: Helping PixelGrid cut deployment times from weeks to hours  
+To: Fatima Mitchell <fatima.mitchell@pixelgrid.com>  
+
+Hi Fatima,  
+
+[full body of Email 3 as above, omitted for brevity in this response but included in actual]  
+
+---
+
+From: Michael Cho <michael.cho@pixelgrid.com>  
+To: Fatima Mitchell <fatima.mitchell@pixelgrid.com>, Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Helping PixelGrid cut deployment times from weeks to hours  
+Date: Fri, 6 Feb 2026 16:17:09 -0500  
+
+Hi Alex and Fatima,  
+
+Michael here, Engineering Manager at PixelGrid (jumping in as requested). The proposal sounds promising for our 794-employee operation's scale, especially tackling vendor lock-in and those painful 2-3 week deploys. Fatima mentioned the $50K budget and August 3rd decision timeline—good to know we're in negotiation stage now.  
+
+One technical question: How does Technova specifically handle Ruby on Rails apps currently on Heroku? Does it support Sidekiq's Redis-backed queues during transition without downtime, and what's the architecture for real-time analytics on PostgreSQL data? We've got media pipelines that can't afford lags, unlike what Copilot offers generically.  
+
+> [quoted text from Fatima's forward and previous emails, including Alex's response and Fatima's initial reply, with > prefixes throughout]  
+
+Looking forward to details.  
+
+Best,  
+Michael Cho  
+Engineering Manager  
+PixelGrid  
+(212) 555-0102  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Michael Cho <michael.cho@pixelgrid.com>, Fatima Mitchell <fatima.mitchell@pixelgrid.com>  
+Subject: Re: Helping PixelGrid cut deployment times from weeks to hours  
+Date: Sat, 7 Feb 2026 09:45:31 -0800  
+
+Hi Michael and Fatima,  
+
+Thanks for looping in, Michael—appreciate the engineering perspective. Technova is built for exactly this: Ruby on Rails apps on Heroku migrate via our agentless proxy that intercepts builds and swaps to containerized pipelines (Kubernetes optional), cutting deploys to 4-6 hours first pass. Sidekiq queues stay Redis-compatible throughout, with zero-downtime blue-green swaps—no lock-in traps.  
+
+For real-time analytics, we stream PostgreSQL changes via logical replication into our dashboard (sub-1s latency), visualizing Sidekiq job fails, deploy metrics, and media throughput in custom Rails-integrated views. Here's a quick diagram link: [technova.io/pixelgrid-demo]. Beats Copilot's post-hoc analysis for your decision-making needs. POC proves it on your stack in a week.  
+
+> Hi Alex and Fatima,  
+>   
+> Michael here, Engineering Manager at PixelGrid (jumping in as requested). The proposal sounds promising for our 794-employee operation's scale, especially tackling vendor lock-in and those painful 2-3 week deploys. Fatima mentioned the $50K budget and August 3rd decision timeline—good to know we're in negotiation stage now.  
+>   
+> One technical question: How does Technova specifically handle Ruby on Rails apps currently on Heroku? Does it support Sidekiq's Redis-backed queues during transition without downtime, and what's the architecture for real-time analytics on PostgreSQL data? We've got media pipelines that can't afford lags, unlike what Copilot offers generically.  
+>   
+> [further quoted previous thread]  
+
+Since Fatima can sign off directly up to $200K (no board needed for our deal value), let's align on next steps.  
+
+Best,  
+Alex Morgan  
+Sales Representative  
+Technova.io  
+(415) 123-4567  
+
+---
+
+From: Fatima Mitchell <fatima.mitchell@pixelgrid.com>  
+To: Alex Morgan <alex.morgan@technova.io>, Michael Cho <michael.cho@pixelgrid.com>  
+Subject: Re: Helping PixelGrid cut deployment times from weeks to hours  
+Date: Mon, 10 Feb 2026 11:12:45 -0500  
+
+Hi Alex,  
+
+Michael reviewed the details offline—he's impressed with the Sidekiq/Postgres handling and thinks it aligns perfectly for our migration. This addresses our vendor lock-in, slow cycles, and lack of real-time analytics head-on, better than Copilot. With the $50K budget and my direct sign-off authority up to $200K, we're good to move into POC negotiation.  
+
+I'll present this internally to the team this week and circle back next week with feedback. Can we hop on a 30-min call Thursday to lock in POC scope and timeline? How's 2 PM ET?  
+
+> [extensive quoted thread from Michael's email, Alex's response, including forwards and priors, with > ]  
+
+Thanks,  
+Fatima Mitchell  
+Head of Product  
+PixelGrid  
+(212) 555-0101  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Fatima Mitchell <fatima.mitchell@pixelgrid.com>, Michael Cho <michael.cho@pixelgrid.com>  
+Subject: Re: Helping PixelGrid cut deployment times from weeks to hours  
+Date: Mon, 10 Feb 2026 13:28:19 -0800  
+
+Hi Fatima and Michael,  
+
+Perfect—Thursday 2 PM ET works great for me. I'll send a Calendly confirm with Zoom details shortly. Excited to finalize the POC scope (Rails/Heroku lift, Sidekiq analytics focus) and get you deploying faster ahead of that August 3 decision.  
+
+He confirmed it supports our queues seamlessly during the Heroku transition, and she added that the real-time dashboard would transform our media decisions. Looking forward to it!  
+
+> Hi Alex,  
+>   
+> Michael reviewed the details offline—he's impressed with the Sidekiq/Postgres handling and thinks it aligns perfectly for our migration. This addresses our vendor lock-in, slow cycles, and lack of real-time analytics head-on, better than Copilot. With the $50K budget and my direct sign-off authority up to $200K, we're good to move into POC negotiation.  
+>   
+> I'll present this internally to the team this week and circle back next week with feedback. Can we hop on a 30-min call Thursday to lock in POC scope and timeline? How's 2 PM ET?  
+>   
+> [full prior quoted chain]  
+
+Cheers,  
+Alex Morgan  
+Sales Representative  
+Technova.io  
+(415) 123-4567

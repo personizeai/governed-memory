@@ -1,0 +1,110 @@
+#deals-streamops
+[09:15] @alex.m: @here quick update on StreamOps - had a call with Priya Mueller yesterday, she's CRO there. Deal stage is still qualification tbh.
+[👍 from @sarah.k]
+[09:16] @sarah.k: nice, what's her vibe? lmk more
+[09:17]  ↳ @alex.m: super open, been at StreamOps 3 years now. Digital media co, ~169 employees.
+[09:18] @mike.r: fwiw they mentioned data silos between eng and sales teams last time. huge pain.
+[09:19] @maya.b: yeah makes sense for their size, 51-200 range.
+[09:20] @alex.m: exactly, and integration complexity with legacy systems is killing them ngl.
+[09:21] [👍 from @mike.r]
+[09:22] @sarah.k: budget? we hearing anything?
+[09:23]  ↳ @alex.m: ~850k allocated, she dropped that casually.
+[09:24] @mike.r: whoa solid. got it.
+[09:25] @maya.b: shared link: StreamOps pricing page - check this for context.
+[09:26] @alex.m: thx maya. also high infra costs eating margins.
+[09:27] @sarah.k: imo that's our hook. they're evaluating custom internal tool too.
+[09:28]  ↳ @mike.r: yeah and existing CRM workflows. competitors galore.
+[09:29] @alex.m: board meeting last month shifted priorities, slowed things.
+[09:30] @maya.b: noted. security audit coming up in Q3?
+[09:31] [👍 from @sarah.k]
+[09:32] @mike.r: yep she said they're not ready yet - who is she again?
+[09:33] @alex.m: Priya. not the decision maker btw.
+[09:34] @sarah.k: gotcha. tomorrow's demo good timing?
+[09:35] @maya.b: yes lmk if we need to prep more on silos.
+[09:36] @mike.r: makes sense. legacy integration demo ready.
+[09:37] @alex.m: cool. he mentioned costs too - unclear who tho.
+[09:38] @sarah.k: ? spill
+[09:39]  ↳ @alex.m: some eng guy i think. anyway budget is 850k confirmed.
+[09:40] @maya.b: repeated for clarity lol.
+[09:41] @mike.r: fwiw next sprint we can mock their CRM flows.
+[09:42] [👍 from @alex.m]
+[09:43] @sarah.k: perfect. data silos def top pain.
+[09:44] @alex.m: yeah eng sales disconnect bad.
+[09:45] @maya.b: @channel anyone talk pricing page yet?
+[09:46] @mike.r: skimmed it. aligns with 850k deal value.
+[09:47] @sarah.k: thx. last Friday they said no rush.
+[09:48] @alex.m: true, board shift. she's pushing internally tho.
+[09:49] @mike.r: who? priya?
+[09:50]  ↳ @sarah.k: yeah 3 years there, knows ropes.
+[09:51] @maya.b: solid. qualification stage means qualify harder on DM.
+[09:52] @alex.m: decision maker false rn. need to find real one.
+[09:53] [👍 from @mike.r]
+[09:54] @sarah.k: integration complexity? demo that tomorrow.
+[09:55] @mike.r: on it. legacy systems nightmare imo.
+[09:56] @maya.b: high infra costs - tie to our savings pitch.
+[09:57] @alex.m: will do. Q3 audit looms big.
+[09:58] @sarah.k: got it. custom tool eval ongoing?
+[09:59]  ↳ @mike.r: yep, and CRM workflows. we beat both.
+[10:00] @maya.b: thumbs up team. keep me posted post-demo.
+[👍 from @alex.m]
+[10:01] @alex.m: they said it won't scale - who tho?
+[10:02] @sarah.k: eng lead prob. ngl silos killing deals.
+[10:03] @mike.r: fwiw 169 employees, media co chaos.
+[10:04] @maya.b: exactly. budget locked ~850k.
+[10:05] @alex.m: makes sense.
+[10:06] @sarah.k: tomorrow confirm pains.
+[10:07] @mike.r: legacy demo gold.
+[10:08] @maya.b: good luck all.
+[10:09] [👍 from @sarah.k]
+[10:10] @alex.m: thx. board last month def shifted.
+[10:11] @sarah.k: she agree?
+[10:12] @mike.r: priya? yeah.
+[10:13] @maya.b: Q3 audit - security angle strong.
+[10:14] @alex.m: will hit that. competitors weak.
+[10:15] @sarah.k: custom tool sucks imo.
+[10:16]  ↳ @mike.r: CRM too clunky.
+[10:17] @maya.b: deal value 850k sweet spot.
+[10:18] @alex.m: qualification next step.
+[10:19] [👍 from @maya.b]
+[10:20] @sarah.k: data silos repeat offender.
+[10:21] @mike.r: eng sales hate each other lol.
+[10:22] @alex.m: legacy pain max.
+[10:23] @maya.b: infra costs demo.
+[10:24] @sarah.k: got it.
+[10:25] @mike.r: next sprint integrations.
+[10:26] @alex.m: perfect.
+[10:27] @maya.b: Priya 3 years - loyal push.
+[10:28] @sarah.k: but not DM.
+[10:29] @mike.r: find the real one tomorrow.
+[10:30] [👍 from @alex.m]
+[10:31] @alex.m: he said budget firm - unclear.
+[10:32] @maya.b: solid anyway.
+[10:33] @sarah.k: StreamOps pricing aligns.
+[10:34] @mike.r: 51-200 size fits.
+[10:35] @alex.m: digital media wild.
+[10:36] @maya.b: @here wrap strong.
+[10:37] @sarah.k: thumbs up.
+[👍 from @mike.r]
+[10:38] @alex.m: last Friday vibes good.
+[10:39] @mike.r: board shift noted.
+[10:40] @maya.b: Q3 audit key.
+[10:41] @sarah.k: pains nailed: silos, legacy, costs.
+[10:42] @alex.m: competitors toast.
+[10:43]  ↳ @mike.r: custom and CRM.
+[10:44] @maya.b: qualification win.
+[10:45] @sarah.k: she excited.
+[10:46] @mike.r: who?
+[10:47] @alex.m: priya lol.
+[10:48] [👍 from @maya.b]
+[10:49] @maya.b: 850k budget hype.
+[10:50] @sarah.k: repeated win.
+[10:51] @alex.m: demo tomorrow kills.
+[10:52] @mike.r: legacy focus.
+[10:53] @maya.b: infra savings pitch.
+[10:54] @sarah.k: silos demo.
+[10:55] @alex.m: got it.
+[10:56] @mike.r: next sprint ready.
+[10:57] @maya.b: team rocks.
+[10:58] [👍 from @sarah.k]
+[10:59] @alex.m: StreamOps ours soon.
+[11:00] @sarah.k: lmk post call.

@@ -1,0 +1,16 @@
+### Account Overview
+Reed Systems is a B2B SaaS company specializing in analytics solutions, with approximately 2230 employees and ~$35M in annual revenue. Our primary contact is Daniel Hassan, Director of Analytics (daniel.hassan@reedsystems.com). Daniel leads the analytics team and is actively evaluating solutions to address operational inefficiencies stemming from their rapid early growth. The company faces challenges with manual processes for customer onboarding, which slow down scalability, alongside difficulty hiring specialized engineers to maintain their expanding tech infrastructure.
+
+### Key Details
+Reed Systems' current tech stack includes Python, Django, AWS, PostgreSQL, and Redis, but they're experiencing technical debt from early rapid growth and vendor lock-in with their current cloud provider (AWS). These issues exacerbate pain points around manual onboarding workflows and talent acquisition. They're currently relying on a custom internal tool and exploring building solutions in-house as competitors to external vendors like ours. Daniel has highlighted these bottlenecks as critical barriers to achieving faster time-to-value for their customers.
+
+### Deal Status
+This is a high-potential opportunity with an estimated deal value of $1,000,000. Reed Systems is in the evaluation phase, prioritizing solutions that can automate onboarding, mitigate technical debt, and provide flexibility to avoid further vendor lock-in. Decision timeline is targeted for Q3 2026, aligning with their fiscal planning cycle. Internal buy-in from Daniel's team is strong, but engineering hiring constraints may influence pace. No formal RFP yet, but they're comparing against in-house development efforts.
+
+### Next Steps
+- Schedule follow-up call with Daniel Hassan by end of next week to demo onboarding automation tailored to Python/Django environments.
+- Prepare customized ROI analysis addressing AWS lock-in and technical debt relief, quantifying $1M value.
+- Identify and engage secondary stakeholders (e.g., engineering leads) via LinkedIn for broader alignment.
+- Monitor Q3 2026 timeline; propose pilot POC in Q1 2026 to accelerate momentum ahead of competitors like their internal tool.
+
+(Word count: 347)

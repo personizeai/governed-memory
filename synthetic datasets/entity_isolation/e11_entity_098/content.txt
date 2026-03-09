@@ -1,0 +1,16 @@
+### Account Overview
+Sable Digital is a prominent GovTech company specializing in digital solutions for government operations, with approximately 1003 employees and annual revenue of ~$143M. The company is led in sales by Heather Fernandez, VP of Sales (heather.fernandez@sabledigital.com), who oversees a team facing challenges in scaling efficiently. Their tech stack is modern and robust, built on Elixir, Phoenix, Fly.io, PostgreSQL, and LiveView, positioning them well for high-performance applications but highlighting needs for sales enablement tools to address operational bottlenecks.
+
+### Key Details
+Heather Fernandez, as VP of Sales at Sable Digital, is the primary point of contact for our outreach. Key pain points include inconsistent messaging across the sales team, which hampers deal closure rates, and vendor lock-in with their current cloud provider, limiting flexibility and increasing costs. They are evaluating alternatives to competitors like Microsoft Copilot and Gong, while also considering building solutions in-house to customize for GovTech compliance needs. Sable Digital's scale—1003 employees generating ~$143M in revenue—makes them an ideal enterprise prospect, with a sophisticated Elixir/Phoenix stack that aligns perfectly with our platform's capabilities on Fly.io and PostgreSQL.
+
+### Deal Status
+This is a high-value opportunity with a potential deal value of $1,000,000. Heather has expressed interest in solutions that unify sales messaging and mitigate vendor lock-in risks. The decision timeline is targeted for Q4 2026, allowing ample runway for proof-of-concept demos tailored to their LiveView-based workflows. Current stage: Qualified opportunity post-initial discovery call; no formal proposal yet, but strong alignment against competitors Microsoft Copilot, Gong, and in-house builds.
+
+### Next Steps
+1. Schedule follow-up demo with Heather Fernandez by end of next week to showcase messaging consistency features integrated with their Elixir/Phoenix ecosystem.
+2. Prepare customized ROI analysis addressing vendor lock-in, benchmarking against PostgreSQL/Fly.io migrations (target delivery: 10 days).
+3. Engage technical stakeholders for LiveView compatibility validation.
+4. Monitor Q4 2026 timeline milestones and nurture with GovTech case studies to maintain momentum toward $1M close.
+
+(Word count: 378)

@@ -1,0 +1,90 @@
+{
+  "sample_id": "document_018",
+  "content_type": "wiki_document",
+  "company": "FinStack Labs",
+  "industry": "Fintech",
+  "target_word_count": 1841,
+  "actual_word_count": 1309,
+  "expected_facts": [
+    {
+      "text": "FinStack Labs is a Fintech company with about 614 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with scaling issues during peak traffic periods",
+      "type": "explicit"
+    },
+    {
+      "text": "Chen Volkov has been at FinStack Labs for 7 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Apollo.io, HubSpot AI, custom internal tool",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using combination of Notion and Airtable",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Java, Micronaut, GCP, Spanner, Pub/Sub",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with integration complexity with legacy systems",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "company_name": "FinStack Labs",
+    "company_size": "201-1000",
+    "technology_stack": "Java, Micronaut, GCP, Spanner, Pub/Sub",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "scaling issues during peak traffic periods",
+      "integration complexity with legacy systems",
+      "manual processes for customer onboarding"
+    ],
+    "deal_value": 200000,
+    "competitors_mentioned": [
+      "Apollo.io",
+      "HubSpot AI",
+      "custom internal tool"
+    ],
+    "decision_maker": false,
+    "current_solution": "combination of Notion and Airtable",
+    "urgency_level": "Low"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Robert Patel",
+      "title": "VP of Operations",
+      "role": "Champion"
+    },
+    {
+      "name": "Omar Oduya",
+      "title": "VP of Customer Success",
+      "role": "Technical Evaluator"
+    },
+    {
+      "name": "David Anderson",
+      "title": "VP of Sales",
+      "role": "End User"
+    },
+    {
+      "name": "Brian Alvarez",
+      "title": "VP of Operations",
+      "role": "End User"
+    }
+  ],
+  "property_coverage": 0.71
+}

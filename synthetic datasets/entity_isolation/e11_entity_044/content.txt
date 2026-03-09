@@ -1,0 +1,16 @@
+### Account Overview
+Solstice AI is an E-commerce company with 1768 employees and annual revenue of ~$159M. Key contact is Daniel Novak, Chief Revenue Officer (daniel.novak@solsticeai.com). As CRO, Daniel oversees revenue operations and is actively seeking solutions to scale their sales infrastructure amid rapid growth in the competitive E-commerce space. Their tech stack includes Rust, Actix, AWS, PostgreSQL, and NATS, indicating a modern, high-performance backend focused on scalability.
+
+### Key Details
+Solstice AI faces significant challenges with poor visibility into pipeline health, making it difficult to forecast accurately and prioritize deals. Additionally, their slow deployment cycles—taking 2-3 weeks per release—are bottlenecking innovation and agility, especially as they compete against players like Drift. Daniel has highlighted these pain points in recent discussions, emphasizing the need for tools that integrate seamlessly with their Rust/Actix ecosystem on AWS and provide real-time insights without disrupting PostgreSQL/NATS workflows. With 1768 employees driving ~$159M in revenue, optimizing revenue operations is critical for their Q4 expansion goals.
+
+### Deal Status
+This is a high-potential opportunity with an estimated deal value of $1,000,000. Solstice AI is evaluating solutions to address pipeline visibility and deployment speed. Decision timeline is targeted for Q4 2026, aligned with their fiscal planning cycle. Current stage: Discovery/Qualification. Competitors like Drift are in play, but our differentiators in Rust-native integrations position us strongly. Daniel Novak has expressed strong interest, noting our potential to cut deployment times significantly.
+
+### Next Steps
+- Schedule follow-up call with Daniel Novak by end of next week to demo pipeline health dashboard tailored to their AWS/PostgreSQL setup.
+- Share customized ROI analysis highlighting 50%+ reduction in deployment cycles based on similar E-commerce clients.
+- Prepare POC integration with Rust/Actix/NATS for review in 2 weeks.
+- Monitor for internal stakeholder intros to align on Q4 2026 timeline.
+
+(Word count: 348)

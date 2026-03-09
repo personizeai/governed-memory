@@ -1,0 +1,19 @@
+### Account Overview
+Nexus Prime is a leading SpaceTech company specializing in advanced satellite analytics and orbital data processing, employing 1194 professionals globally. With an annual revenue of approximately $77M, the organization is at the forefront of space mission support and real-time telemetry solutions. Our primary point of contact is Derek Anderson, Director of Analytics at Nexus Prime (derek.anderson@nexusprime.com). Derek oversees data pipelines critical to mission-critical operations, making him a key decision-maker for analytics and CRM enhancements. Nexus Prime's growth trajectory positions them as a high-value B2B prospect, particularly as they scale operations amid increasing demand for reliable space data infrastructure.
+
+### Key Details
+Nexus Prime's technical environment is built on a modern Elixir and Phoenix stack, leveraging Fly.io for deployment, PostgreSQL for robust data storage, and LiveView for dynamic, real-time interfaces. This setup supports their high-stakes analytics needs but has exposed several pain points: repeated compliance audit failures on data handling, which risk regulatory penalties in the SpaceTech sector; poor visibility into pipeline health, hindering proactive issue resolution; scaling issues during peak traffic periods that cause latency in mission data processing; and inconsistent messaging across the sales team, leading to fragmented customer engagements.
+
+Currently, they rely on competitors like ZoomInfo for intent data, HubSpot AI for basic automation, and Apollo.io for lead sourcing. These tools fall short in integrating seamlessly with their Elixir-based ecosystem, exacerbating scalability and compliance challenges. Derek has expressed frustration with these gaps, highlighting opportunities for our solution to provide unified visibility, automated compliance checks, and traffic-resilient scaling.
+
+### Deal Status
+This represents a $1,000,000 enterprise deal opportunity, aligned with Nexus Prime's Q3 2026 decision timeline. Initial discovery calls with Derek confirmed strong fit, with pain points mapping directly to our platform's strengths in real-time analytics, AI-driven pipeline monitoring, and compliant data workflows. Competitive displacement is feasible given their dissatisfaction with ZoomInfo, HubSpot AI, and Apollo.io. Pipeline stage: Qualification – Proposal stage targeted for Q1 2026.
+
+### Next Steps
+- Schedule technical demo with Derek Anderson by end of next week to showcase Elixir/Phoenix integration and LiveView compatibility.
+- Prepare customized ROI analysis addressing compliance audits, pipeline visibility, scaling during peaks, and sales messaging consistency.
+- Engage internal champ at Nexus Prime for stakeholder intro ahead of Q4 2025.
+- Follow up via email (derek.anderson@nexusprime.com) post-demo to align on Q3 2026 timeline milestones.
+- Monitor for triggers like upcoming audits or traffic spikes to accelerate urgency.
+
+(Word count: 378)

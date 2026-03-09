@@ -1,0 +1,54 @@
+{
+  "sample_id": "call_note_025",
+  "content_type": "call_notes",
+  "company": "ApiGrid",
+  "industry": "B2B SaaS",
+  "duration_minutes": 15,
+  "target_word_count": 490,
+  "actual_word_count": 312,
+  "expected_facts": [
+    {
+      "text": "They're dealing with integration complexity with legacy systems",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with difficulty hiring specialized engineers",
+      "type": "explicit"
+    },
+    {
+      "text": "Tom Thompson has been at ApiGrid for 1 years",
+      "type": "explicit"
+    },
+    {
+      "text": "ApiGrid is a B2B SaaS company with about 868 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes TypeScript, React, Node.js, GCP, MongoDB",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $850,000",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Engineering",
+    "company_name": "ApiGrid",
+    "company_size": "201-1000",
+    "technology_stack": "TypeScript, React, Node.js, GCP, MongoDB",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "integration complexity with legacy systems",
+      "difficulty hiring specialized engineers"
+    ],
+    "deal_value": 850000,
+    "decision_timeline": "2026-11-28",
+    "decision_maker": true
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1
+  },
+  "property_coverage": 0.64
+}

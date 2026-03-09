@@ -1,0 +1,70 @@
+{
+  "sample_id": "email_003",
+  "content_type": "email_thread",
+  "company": "CareStack",
+  "industry": "Healthcare Tech",
+  "email_count": 7,
+  "actual_word_count": 1476,
+  "expected_facts": [
+    {
+      "text": "They've also been evaluating ZoomInfo, Clari, Intercom",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with manual processes for customer onboarding",
+      "type": "explicit"
+    },
+    {
+      "text": "CareStack is a Healthcare Tech company with about 95 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with fragmented tooling across departments",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "Anita Chen has been at CareStack for 1 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Java, Micronaut, GCP, Spanner, Pub/Sub",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Operations",
+    "company_name": "CareStack",
+    "company_size": "51-200",
+    "technology_stack": "Java, Micronaut, GCP, Spanner, Pub/Sub",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "fragmented tooling across departments",
+      "manual processes for customer onboarding",
+      "technical debt from rapid early growth"
+    ],
+    "decision_timeline": "2026-09-14",
+    "competitors_mentioned": [
+      "ZoomInfo",
+      "Clari",
+      "Intercom"
+    ],
+    "next_steps": "Anita will share the RFP by end of week",
+    "buying_process": "Need approval from their CFO (CFO) for anything over $100K",
+    "urgency_level": "Critical"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1
+  },
+  "introduces_new_person": true,
+  "colleague": "Heather Xu, Director of IT",
+  "property_coverage": 0.79
+}

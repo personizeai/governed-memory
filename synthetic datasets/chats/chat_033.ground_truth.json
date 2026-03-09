@@ -1,0 +1,63 @@
+{
+  "sample_id": "chat_033",
+  "content_type": "chat_log",
+  "company": "DataPulse Systems",
+  "industry": "B2B SaaS",
+  "message_count_target": 41,
+  "actual_word_count": 641,
+  "expected_facts": [
+    {
+      "text": "They've also been evaluating Intercom, Chorus.ai",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Python, Django, AWS, PostgreSQL, Redis",
+      "type": "explicit"
+    },
+    {
+      "text": "Fatima Singh has been at DataPulse Systems for 8 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $450,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using HubSpot CRM with Zapier automations",
+      "type": "explicit"
+    },
+    {
+      "text": "DataPulse Systems is a B2B SaaS company with about 151 employees",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Analytics",
+    "company_name": "DataPulse Systems",
+    "company_size": "51-200",
+    "technology_stack": "Python, Django, AWS, PostgreSQL, Redis",
+    "deal_stage": "Proposal",
+    "deal_value": 450000,
+    "decision_timeline": "2026-05-14",
+    "competitors_mentioned": [
+      "Intercom",
+      "Chorus.ai"
+    ],
+    "decision_maker": true,
+    "next_steps": "Send pricing proposal to Fatima by Friday",
+    "current_solution": "HubSpot CRM with Zapier automations",
+    "urgency_level": "Critical"
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 2,
+    "duplicate_facts": 2
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@amanda.c"
+  ],
+  "property_coverage": 0.86
+}

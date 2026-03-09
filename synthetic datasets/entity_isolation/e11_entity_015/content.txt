@@ -1,0 +1,17 @@
+### Account Overview
+Atlas Engineering is a BioTech company specializing in innovative solutions, with approximately 214 employees and annual revenue of ~$170M. Our primary contact is Yusuf Bhandari, VP of Marketing (yusuf.bhandari@atlasengineering.com). Yusuf oversees marketing strategies amid rapid growth in the BioTech sector, where talent acquisition and operational efficiency are critical challenges. The company is evaluating CRM enhancements to streamline cross-team collaboration and support scaling operations.
+
+### Key Details
+Atlas Engineering's tech stack includes TypeScript, React, Node.js, GCP, and MongoDB, powering their engineering and data-intensive workflows. Key pain points include difficulty hiring specialized engineers, data silos between engineering and sales teams, and integration complexity with legacy systems. These issues hinder agile decision-making and growth. Competitors in consideration: HubSpot AI and Microsoft Copilot. Yusuf has expressed frustration with current tools failing to bridge these gaps, emphasizing the need for seamless integrations that align with their modern stack.
+
+### Deal Status
+Potential deal value: $250,000. Yusuf Bhandari is aligned on the value proposition, with initial demos highlighting resolutions to their data silos and hiring bottlenecks via AI-driven insights. Decision timeline: Q3 2026, pending internal buy-in from engineering leads. Stage: Discovery/Proposal, with strong prospect fit given their BioTech focus and tech maturity.
+
+### Next Steps
+- Schedule follow-up call with Yusuf (week of [insert date]) to demo custom integrations for GCP/MongoDB.
+- Share case studies addressing BioTech hiring pains and legacy system migrations.
+- Request intro to engineering head to validate tech stack compatibility.
+- Track competitor activity (HubSpot AI/Microsoft Copilot) and prepare objection-handling collateral.
+- Update forecast: 70% probability at $250K ACV, Q3 2026 close.
+
+(Word count: 347)

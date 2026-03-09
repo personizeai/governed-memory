@@ -1,0 +1,187 @@
+[10:15] alex.m: @channel quick update on CourseForge - just got off call with Simone Petrov, their VP Sales. She's the DM and pushing for qual stage. Deal timeline end of Q4 2026, 10/02 specifically.
+
+[👍 from @sarah.k]
+
+[10:16] sarah.k: nice! what'd she say about pains?
+
+[10:17] alex.m: high infra costs eating margins big time. Scaling issues peak traffic killing them tbh.
+
+  ↳ [10:18] mike.r: scaling on what stack?
+
+  ↳ [10:19] alex.m: Rust, Actix, AWS, Postgres, NATS. They're on AWS heavy.
+
+[10:20] tom.f: got it. EdTech right? How big?
+
+[10:21] alex.m: 4176 employees, 1000+ easy. Eng team grew, hired 17 this quarter.
+
+[10:22] sarah.k: whoa that's fast growth. Makes sense for scaling probs.
+
+[👍 from @tom.f]
+
+[10:23] mike.r: current solution? They mentioned Python scripts before.
+
+[10:24] alex.m: yeah internal Python scripts pulling multiple APIs. Messy af.
+
+[10:25] sarah.k: ngl sounds painful. Any ROI measurement issues?
+
+[10:26] alex.m: yep, difficulty measuring ROI on AI initatives. Also security concerns current arch.
+
+[10:27] tom.f: fwiw we beat that. What's next steps?
+
+[10:28] alex.m: send pricing proposal to Simone by Friday. Fast-track if under 150k, direct VP approval.
+
+[👍 from @mike.r]
+
+[10:29] sarah.k: [shared link: CourseForge pricing page] btw their own pricing for context.
+
+[10:30] mike.r: thx. Competitors?
+
+[10:31] alex.m: evaluating Clari, MS Copilot, Gong. She said Gong's too sales focused.
+
+[10:32] tom.f: imo Clari's weak on tech stacks like theirs.
+
+  ↳ [10:33] sarah.k: agreed, especially Rust/Actix.
+
+[10:34] alex.m: Simone's only been there 1 year btw.
+
+[10:35] mike.r: new blood, good for us. She push back on costs?
+
+[10:36] alex.m: nah, she gets infra eating margins. Repeated it twice lol.
+
+[10:37] sarah.k: lol yeah she said they're not interested in more AWS spend — who is she again?
+
+[10:38] tom.f: Simone right? Makes sense.
+
+[10:39] mike.r: @here anyone talk timeline deeper? 2026 seems far.
+
+[10:40] alex.m: yeah but fast-track helps. Tomorrow follow up?
+
+[10:41] sarah.k: lmk if you need me on that.
+
+[10:42] tom.f: got it. Scaling during peaks - they demo that?
+
+[10:43] alex.m: not yet, but she mentioned it unprompted.
+
+[👍 from @sarah.k]
+
+[10:44] mike.r: their stack sounds solid but Python scripts? Archaic imo.
+
+[10:45] sarah.k: tbh yeah, pulling APIs manually. No wonder security concerns.
+
+[10:46] tom.f: repeat: hired 17 eng this quarter? That's huge for 4176 emp co.
+
+[10:47] alex.m: yep alex confirmed. Growth pains.
+
+[10:48] mike.r: she say anything on Copilot? MS stuff pricey.
+
+[10:49] alex.m: they like it but ROI hard to track. Our edge.
+
+  ↳ [10:50] sarah.k:  ↳ exactly, we measure that.
+
+[10:51] tom.f: qual stage solid? DM confirmed?
+
+[10:52] alex.m: yes Decision Maker true. VP Sales signs off.
+
+[10:53] sarah.k: cool. Last Friday notes say same pains?
+
+[10:54] mike.r: yeah infra costs again. Who noted that?
+
+[10:55] tom.f: probs Sarah. Anyway pricing by Friday key.
+
+[10:56] alex.m: on it. Any objections?
+
+[10:57] sarah.k: nope, she's keen. Unclear who "they" are in her email tho - eng team?
+
+[10:58] mike.r: probably. Got it.
+
+[👍 from @tom.f]
+
+[10:59] tom.f: fwiw Gong eval failed on scaling.
+
+[11:00] alex.m: perfect. Next sprint demo prep?
+
+[11:01] sarah.k: yes pls.
+
+[11:02] mike.r: thx update Alex.
+
+[11:03] alex.m: np team.
+
+[14:15] sarah.k: @alex.m Simone replied - wants pricing tomorrow not Friday.
+
+[14:16] alex.m: on it asap.
+
+[14:17] tom.f: fast-track eligible?
+
+[14:18] mike.r: under 150k yes, VP approval direct.
+
+[14:19] sarah.k: she reiterated scaling peaks issue.
+
+[14:20] alex.m: noted. Their Rust stack struggles there.
+
+[👍 from @mike.r]
+
+[14:21] tom.f: Python scripts def culprit on security.
+
+[14:22] mike.r: imo yeah.
+
+[14:23] sarah.k: Clari demo was last week - they hated UI.
+
+[14:24] alex.m: good for us. ROI pain same?
+
+[14:25] tom.f: yep she said "we can't measure it" - who we?
+
+[14:26] mike.r: CourseForge obv.
+
+[14:27] sarah.k: lol ok.
+
+[14:28] alex.m: sending now.
+
+[14:29] tom.f: thx.
+
+[👍 from @sarah.k]
+
+[14:30] mike.r: eng growth 17 hires - repeat for emphasis.
+
+[14:31] alex.m: yeah fueling stack needs.
+
+[14:32] sarah.k: Simone 1 yr in, already pushing change.
+
+[14:33] tom.f: smart hire.
+
+[14:34] mike.r: AWS costs killing margins, she said.
+
+[14:35] alex.m: third time this week lol.
+
+[16:45] alex.m: pricing sent to Simone.
+
+[16:46] sarah.k: great!
+
+[16:47] tom.f: any feedback loop?
+
+[16:48] mike.r: lmk when she responds.
+
+[16:49] alex.m: will do. Deal stage still qual.
+
+[16:50] sarah.k: pains locked: infra, scaling, ROI, security.
+
+[16:51] tom.f: + current Python hell.
+
+[16:52] mike.r: competitors outgunned.
+
+[16:53] alex.m: @here victory lap? Nah keep pushing.
+
+[😂 from @sarah.k]
+
+[16:54] sarah.k: thx all. Makes sense.
+
+[16:55] tom.f: 👍
+
+[16:56] mike.r: solid day.
+
+[16:57] alex.m: yeah. Simone cc'd her eng lead btw.
+
+[16:58] sarah.k: who? Unclear.
+
+[16:59] tom.f: probs the growth team.
+
+[17:00] mike.r: gotcha. End thread?

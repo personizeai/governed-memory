@@ -1,0 +1,61 @@
+{
+  "sample_id": "call_note_022",
+  "content_type": "call_notes",
+  "company": "ShipGrid",
+  "industry": "Logistics",
+  "duration_minutes": 15,
+  "target_word_count": 660,
+  "actual_word_count": 441,
+  "expected_facts": [
+    {
+      "text": "They're dealing with difficulty measuring ROI on AI initiatives",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating building in-house",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 22% this fiscal year",
+      "type": "explicit"
+    },
+    {
+      "text": "ShipGrid is a Logistics company with about 47 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with customer churn from slow support response times",
+      "type": "explicit"
+    },
+    {
+      "text": "Marcus Baker has been at ShipGrid for 6 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "company_name": "ShipGrid",
+    "company_size": "11-50",
+    "technology_stack": "Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "difficulty measuring ROI on AI initiatives",
+      "customer churn from slow support response times",
+      "poor visibility into pipeline health",
+      "compliance audit failures on data handling"
+    ],
+    "competitors_mentioned": [
+      "building in-house"
+    ],
+    "decision_maker": true,
+    "urgency_level": "Low"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 2
+  },
+  "property_coverage": 0.57
+}

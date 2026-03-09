@@ -1,0 +1,69 @@
+{
+  "sample_id": "chat_039",
+  "content_type": "chat_log",
+  "company": "PixelGrid",
+  "industry": "Digital Media",
+  "message_count_target": 51,
+  "actual_word_count": 666,
+  "expected_facts": [
+    {
+      "text": "They're dealing with difficulty measuring ROI on AI initiatives",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with data silos between engineering and sales teams",
+      "type": "explicit"
+    },
+    {
+      "text": "Simone Mitchell has been at PixelGrid for 4 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating building in-house, Drift",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using legacy Java application maintained by one person",
+      "type": "explicit"
+    },
+    {
+      "text": "PixelGrid is a Digital Media company with about 200 employees",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Chief Revenue Officer",
+    "company_name": "PixelGrid",
+    "company_size": "51-200",
+    "technology_stack": "Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "difficulty measuring ROI on AI initiatives",
+      "data silos between engineering and sales teams",
+      "poor visibility into pipeline health"
+    ],
+    "competitors_mentioned": [
+      "building in-house",
+      "Drift"
+    ],
+    "next_steps": "Set up POC environment for Simone's team to evaluate",
+    "buying_process": "Two-phase: technical POC first, then business case to leadership",
+    "current_solution": "legacy Java application maintained by one person"
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 3,
+    "duplicate_facts": 1
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@brian.a"
+  ],
+  "property_coverage": 0.71
+}

@@ -1,0 +1,16 @@
+### Account Overview
+Flint Security is a prominent Fintech company specializing in secure financial platforms, boasting approximately 2927 employees and generating ~$107M in annual revenue. Our primary contact is Kevin Garcia, VP of Customer Success at Flint Security. Kevin oversees customer onboarding, retention strategies, and cross-functional team alignment, making him a key decision-maker for tools that bridge operational gaps. Flint Security operates in a competitive Fintech landscape, where rapid scaling and data-driven decisions are critical for maintaining market edge.
+
+### Key Details
+Flint Security's tech stack is robust and enterprise-grade, centered around C#, .NET, Azure, SQL Server, and RabbitMQ. This infrastructure supports their high-volume transaction processing but has exposed significant pain points: persistent data silos between engineering and sales teams hinder collaboration, while the lack of real-time analytics hampers timely decision-making. Currently, they rely on a custom internal tool and Chorus.ai as primary solutions for conversation intelligence and analytics, but these fall short in integrating siloed data streams and providing actionable, real-time insights. Kevin has highlighted these challenges in recent discussions, emphasizing the need for a unified platform that leverages their existing stack without heavy refactoring.
+
+### Deal Status
+We have positioned our solution as the ideal fit to address Flint Security's core issues, with a projected deal value of $650,000. The opportunity is in the evaluation stage, with strong internal buy-in from Kevin and his team. Decision timeline is targeted for Q2 2026, aligned with their fiscal planning cycle. Competitive landscape includes their custom internal tool and Chorus.ai, but our real-time capabilities and seamless Azure/.NET integration give us a clear differentiator. Pipeline stage: Discovery Complete / Proposal Sent.
+
+### Next Steps
+- Schedule follow-up demo with Kevin Garcia and engineering leads to showcase real-time analytics integration with RabbitMQ and SQL Server (target: week of Oct 15).
+- Share customized ROI case study addressing data silos, quantifying 30-40% efficiency gains based on similar Fintech clients.
+- Request intro to procurement for contract review by end of Q4 2025.
+- Monitor Q1 2026 budget approvals and prepare for POC deployment.
+
+This account represents high-potential expansion in Fintech; proactive engagement will secure position ahead of competitors. (Word count: 378)

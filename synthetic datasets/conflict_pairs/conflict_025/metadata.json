@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_025",
+  "category": "current_solution",
+  "company": "Keystone Labs",
+  "contact": "Aisha Oduya",
+  "industry": "E-commerce",
+  "stale_date": "2025-06-02",
+  "fresh_date": "2026-01-05",
+  "stale_claim": "Keystone Labs uses a custom-built CRM on Rails",
+  "fresh_claim": "Keystone Labs replaced their custom CRM with Pipedrive",
+  "expected_query": "What CRM solution does Keystone Labs currently use?",
+  "expected_answer": "replaced their custom CRM with Pipedrive",
+  "stale_word_count": 143,
+  "fresh_word_count": 186
+}

@@ -1,0 +1,18 @@
+### Account Overview
+Harbor Tech is a prominent HRTech company specializing in innovative workforce management solutions, boasting 2787 employees and generating approximately $282M in annual revenue. Victor Anderson serves as the VP of Customer Success, making him a pivotal decision-maker for strategic partnerships. Reached out via victor.anderson@harbortech.com, Victor has expressed strong interest in enhancing their sales operations amid rapid scaling challenges. Their current setup relies heavily on a mix of Outreach, a custom internal tool, and ZoomInfo, but gaps in performance visibility are hindering growth.
+
+### Key Details
+Harbor Tech's engineering team leverages a modern tech stack including Java, Micronaut for microservices, GCP for cloud infrastructure, Spanner for scalable databases, and Pub/Sub for event-driven messaging. This positions them well for integrations but underscores the need for sales enablement tools that align seamlessly.
+
+Key pain points include poor visibility into pipeline health, which leaves leadership guessing on forecast accuracy; lack of real-time analytics for timely decision-making; and inconsistent messaging across the sales team, leading to diluted brand impact and longer sales cycles. Victor highlighted these during our initial discovery call, noting how their custom tool falls short on scalability and Outreach lacks depth in analytics.
+
+### Deal Status
+This opportunity carries a potential deal value of $650,000, targeting implementation to unify sales processes and boost pipeline efficiency. Victor confirmed alignment on our value prop, with internal champions identified in sales ops and customer success. Competitors remain active, but our real-time capabilities differentiate us strongly. Decision timeline is set for Q4 2026, pending ROI validation and stakeholder buy-in from exec leadership.
+
+### Next Steps
+- Schedule follow-up demo tailored to their Java/Micronaut stack and GCP environment (proposed for next week).
+- Share customized ROI calculator addressing pipeline visibility and messaging consistency.
+- Request intro to sales ops lead for technical validation.
+- Track competitor displacement via Outreach usage audit shared by Victor.
+
+Overall, high-potential account with clear fit—prioritize momentum to secure pilot commitment ahead of Q4 timeline. (Word count: 348)

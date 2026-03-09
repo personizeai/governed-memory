@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_009",
+  "category": "urgency",
+  "company": "Nimbus Networks",
+  "contact": "Alex Anderson",
+  "industry": "Manufacturing",
+  "stale_date": "2025-10-08",
+  "fresh_date": "2026-01-25",
+  "stale_claim": "Nimbus Networks described the initiative as low priority",
+  "fresh_claim": "Nimbus Networks escalated the project to critical priority after a board review",
+  "expected_query": "How urgent is Nimbus Networks's project?",
+  "expected_answer": "escalated the project to critical priority after a board review",
+  "stale_word_count": 206,
+  "fresh_word_count": 217
+}

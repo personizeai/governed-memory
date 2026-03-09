@@ -1,0 +1,1326 @@
+{
+  "description": "Master contact registry for Governed Memory synthetic datasets",
+  "total_contacts": 91,
+  "company_domains": {
+    "TechFlow Inc": "techflow.io",
+    "LedgerPoint": "ledgerpoint.com",
+    "CareStack": "carestack.io",
+    "ChannelBridge": "channelbridge.com",
+    "CastPoint": "castpoint.io",
+    "RouteWise": "routewise.com",
+    "StreamOps": "streamops.io",
+    "CourseForge": "courseforge.com",
+    "SyncWave": "syncwave.io",
+    "VaultEdge": "vaultedge.com",
+    "CloudNova": "cloudnova.io",
+    "FinStack Labs": "finstacklabs.com",
+    "BioSignal AI": "biosignalai.com",
+    "PriceMatrix": "pricematrix.io",
+    "BuildTech Corp": "buildtech.com",
+    "ShipGrid": "shipgrid.io",
+    "MediaForge": "mediaforge.com",
+    "SkillPulse": "skillpulse.io",
+    "ApiGrid": "apigrid.io",
+    "PayGrid Financial": "paygrid.com",
+    "HealthSync": "healthsync.io",
+    "RetailNova": "retailnova.com",
+    "MetalGrid": "metalgrid.io",
+    "DockSmart": "docksmart.com",
+    "ContentHQ": "contenthq.io",
+    "EduFlow": "eduflow.com",
+    "DataPulse Systems": "datapulse.io",
+    "CoinTrail": "cointrail.com",
+    "PharmaPipe": "pharmapipe.io",
+    "ShopFront Digital": "shopfront.io",
+    "ForgeNet Industries": "forgenet.com",
+    "CargoNova": "cargonova.io",
+    "PixelGrid": "pixelgrid.com",
+    "ClassGrid": "classgrid.io",
+    "MedCore Analytics": "medcore.io",
+    "CartLogic": "cartlogic.com",
+    "SpecLine": "specline.io",
+    "FreightPulse": "freightpulse.com",
+    "AdStack": "adstack.io",
+    "LearnStack": "learnstack.com"
+  },
+  "contacts": [
+    {
+      "entity_id": "marcus-novak-techflow-inc",
+      "record_id": "crm-marcus-novak-techflow-inc",
+      "contact_name": "Marcus Novak",
+      "job_title": "VP of Marketing",
+      "company": "TechFlow Inc",
+      "industry": "B2B SaaS",
+      "email": "marcus.novak@techflow.io",
+      "website": "https://techflow.io",
+      "type": "Contact",
+      "appears_in": [
+        "call_notes/call_note_001"
+      ]
+    },
+    {
+      "entity_id": "rachel-williams-ledgerpoint",
+      "record_id": "crm-rachel-williams-ledgerpoint",
+      "contact_name": "Rachel Williams",
+      "job_title": "Chief Product Officer",
+      "company": "LedgerPoint",
+      "industry": "Fintech",
+      "email": "rachel.williams@ledgerpoint.com",
+      "website": "https://ledgerpoint.com",
+      "type": "Contact",
+      "appears_in": [
+        "call_notes/call_note_002"
+      ]
+    },
+    {
+      "entity_id": "tom-singh-carestack",
+      "record_id": "crm-tom-singh-carestack",
+      "contact_name": "Tom Singh",
+      "job_title": "VP of Sales",
+      "company": "CareStack",
+      "industry": "Healthcare Tech",
+      "email": "tom.singh@carestack.io",
+      "website": "https://carestack.io",
+      "type": "Contact",
+      "appears_in": [
+        "call_notes/call_note_003"
+      ]
+    },
+    {
+      "entity_id": "jennifer-costa-channelbridge",
+      "record_id": "crm-jennifer-costa-channelbridge",
+      "contact_name": "Jennifer Costa",
+      "job_title": "Chief Revenue Officer",
+      "company": "ChannelBridge",
+      "industry": "E-commerce",
+      "email": "jennifer.costa@channelbridge.com",
+      "website": "https://channelbridge.com",
+      "type": "Contact",
+      "appears_in": [
+        "call_notes/call_note_004"
+      ]
+    },
+    {
+      "entity_id": "lisa-kim-castpoint",
+      "record_id": "crm-lisa-kim-castpoint",
+      "contact_name": "Lisa Kim",
+      "job_title": "VP of Engineering",
+      "company": "CastPoint",
+      "industry": "Manufacturing",
+      "email": "lisa.kim@castpoint.io",
+      "website": "https://castpoint.io",
+      "type": "Contact",
+      "appears_in": [
+        "call_notes/call_note_005"
+      ]
+    },
+    {
+      "entity_id": "maria-garcia-routewise",
+      "record_id": "crm-maria-garcia-routewise",
+      "contact_name": "Maria Garcia",
+      "job_title": "Director of Analytics",
+      "company": "RouteWise",
+      "industry": "Logistics",
+      "email": "maria.garcia@routewise.com",
+      "website": "https://routewise.com",
+      "type": "Contact",
+      "appears_in": [
+        "call_notes/call_note_006"
+      ]
+    },
+    {
+      "entity_id": "alex-garcia-streamops",
+      "record_id": "crm-alex-garcia-streamops",
+      "contact_name": "Alex Garcia",
+      "job_title": "Director of IT",
+      "company": "StreamOps",
+      "industry": "Digital Media",
+      "email": "alex.garcia@streamops.io",
+      "website": "https://streamops.io",
+      "type": "Contact",
+      "appears_in": [
+        "call_notes/call_note_007"
+      ]
+    },
+    {
+      "entity_id": "priya-patel-courseforge",
+      "record_id": "crm-priya-patel-courseforge",
+      "contact_name": "Priya Patel",
+      "job_title": "VP of Sales",
+      "company": "CourseForge",
+      "industry": "EdTech",
+      "email": "priya.patel@courseforge.com",
+      "website": "https://courseforge.com",
+      "type": "Contact",
+      "appears_in": [
+        "call_notes/call_note_008"
+      ]
+    },
+    {
+      "entity_id": "tom-hassan-syncwave",
+      "record_id": "crm-tom-hassan-syncwave",
+      "contact_name": "Tom Hassan",
+      "job_title": "Director of IT",
+      "company": "SyncWave",
+      "industry": "B2B SaaS",
+      "email": "tom.hassan@syncwave.io",
+      "website": "https://syncwave.io",
+      "type": "Contact",
+      "appears_in": [
+        "call_notes/call_note_009"
+      ]
+    },
+    {
+      "entity_id": "jennifer-thompson-vaultedge",
+      "record_id": "crm-jennifer-thompson-vaultedge",
+      "contact_name": "Jennifer Thompson",
+      "job_title": "Head of Data",
+      "company": "VaultEdge",
+      "industry": "Fintech",
+      "email": "jennifer.thompson@vaultedge.com",
+      "website": "https://vaultedge.com",
+      "type": "Contact",
+      "appears_in": [
+        "call_notes/call_note_010"
+      ]
+    },
+    {
+      "entity_id": "tom-wright-techflow-inc",
+      "record_id": "crm-tom-wright-techflow-inc",
+      "contact_name": "Tom Wright",
+      "job_title": "VP of Customer Success",
+      "company": "TechFlow Inc",
+      "industry": "B2B SaaS",
+      "email": "tom.wright@techflow.io",
+      "website": "https://techflow.io",
+      "type": "Contact",
+      "appears_in": [
+        "chats/chat_001"
+      ]
+    },
+    {
+      "entity_id": "fatima-singh-ledgerpoint",
+      "record_id": "crm-fatima-singh-ledgerpoint",
+      "contact_name": "Fatima Singh",
+      "job_title": "Director of Analytics",
+      "company": "LedgerPoint",
+      "industry": "Fintech",
+      "email": "fatima.singh@ledgerpoint.com",
+      "website": "https://ledgerpoint.com",
+      "type": "Contact",
+      "appears_in": [
+        "chats/chat_002"
+      ]
+    },
+    {
+      "entity_id": "lisa-anderson-carestack",
+      "record_id": "crm-lisa-anderson-carestack",
+      "contact_name": "Lisa Anderson",
+      "job_title": "Head of Infrastructure",
+      "company": "CareStack",
+      "industry": "Healthcare Tech",
+      "email": "lisa.anderson@carestack.io",
+      "website": "https://carestack.io",
+      "type": "Contact",
+      "appears_in": [
+        "chats/chat_003"
+      ]
+    },
+    {
+      "entity_id": "marcus-williams-channelbridge",
+      "record_id": "crm-marcus-williams-channelbridge",
+      "contact_name": "Marcus Williams",
+      "job_title": "VP of Engineering",
+      "company": "ChannelBridge",
+      "industry": "E-commerce",
+      "email": "marcus.williams@channelbridge.com",
+      "website": "https://channelbridge.com",
+      "type": "Contact",
+      "appears_in": [
+        "chats/chat_004"
+      ]
+    },
+    {
+      "entity_id": "michael-johnson-castpoint",
+      "record_id": "crm-michael-johnson-castpoint",
+      "contact_name": "Michael Johnson",
+      "job_title": "Head of Infrastructure",
+      "company": "CastPoint",
+      "industry": "Manufacturing",
+      "email": "michael.johnson@castpoint.io",
+      "website": "https://castpoint.io",
+      "type": "Contact",
+      "appears_in": [
+        "chats/chat_005"
+      ]
+    },
+    {
+      "entity_id": "sarah-routewise",
+      "record_id": "crm-sarah-routewise",
+      "contact_name": "Sarah",
+      "job_title": "Director of IT",
+      "company": "RouteWise",
+      "industry": "Logistics",
+      "email": "sarah@routewise.com",
+      "website": "https://routewise.com",
+      "type": "Contact",
+      "appears_in": [
+        "chats/chat_006"
+      ]
+    },
+    {
+      "entity_id": "alex-garcia-routewise",
+      "record_id": "crm-alex-garcia-routewise",
+      "contact_name": "Alex Garcia",
+      "job_title": "VP of Marketing",
+      "company": "RouteWise",
+      "industry": "Logistics",
+      "email": "alex.garcia@routewise.com",
+      "website": "https://routewise.com",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_046"
+      ]
+    },
+    {
+      "entity_id": "david-nakamura-streamops",
+      "record_id": "crm-david-nakamura-streamops",
+      "contact_name": "David Nakamura",
+      "job_title": "Chief Revenue Officer",
+      "company": "StreamOps",
+      "industry": "Digital Media",
+      "email": "david.nakamura@streamops.io",
+      "website": "https://streamops.io",
+      "type": "Contact",
+      "appears_in": [
+        "chats/chat_007"
+      ]
+    },
+    {
+      "entity_id": "robert-lee-courseforge",
+      "record_id": "crm-robert-lee-courseforge",
+      "contact_name": "Robert Lee",
+      "job_title": "Director of IT",
+      "company": "CourseForge",
+      "industry": "EdTech",
+      "email": "robert.lee@courseforge.com",
+      "website": "https://courseforge.com",
+      "type": "Contact",
+      "appears_in": [
+        "chats/chat_008"
+      ]
+    },
+    {
+      "entity_id": "sarah-costa-syncwave",
+      "record_id": "crm-sarah-costa-syncwave",
+      "contact_name": "Sarah Costa",
+      "job_title": "Director of Analytics",
+      "company": "SyncWave",
+      "industry": "B2B SaaS",
+      "email": "sarah.costa@syncwave.io",
+      "website": "https://syncwave.io",
+      "type": "Contact",
+      "appears_in": [
+        "chats/chat_009"
+      ]
+    },
+    {
+      "entity_id": "anita-johnson-vaultedge",
+      "record_id": "crm-anita-johnson-vaultedge",
+      "contact_name": "Anita Johnson",
+      "job_title": "VP of Customer Success",
+      "company": "VaultEdge",
+      "industry": "Fintech",
+      "email": "anita.johnson@vaultedge.com",
+      "website": "https://vaultedge.com",
+      "type": "Contact",
+      "appears_in": [
+        "chats/chat_010"
+      ]
+    },
+    {
+      "entity_id": "emily-patel-techflow-inc",
+      "record_id": "crm-emily-patel-techflow-inc",
+      "contact_name": "Emily Patel",
+      "job_title": "CTO",
+      "company": "TechFlow Inc",
+      "industry": "B2B SaaS",
+      "email": "emily.patel@techflow.io",
+      "website": "https://techflow.io",
+      "type": "Contact",
+      "appears_in": [
+        "documents/document_001"
+      ]
+    },
+    {
+      "entity_id": "marcus-alvarez-ledgerpoint",
+      "record_id": "crm-marcus-alvarez-ledgerpoint",
+      "contact_name": "Marcus Alvarez",
+      "job_title": "Director of IT",
+      "company": "LedgerPoint",
+      "industry": "Fintech",
+      "email": "marcus.alvarez@ledgerpoint.com",
+      "website": "https://ledgerpoint.com",
+      "type": "Contact",
+      "appears_in": [
+        "documents/document_002"
+      ]
+    },
+    {
+      "entity_id": "amanda-mueller-carestack",
+      "record_id": "crm-amanda-mueller-carestack",
+      "contact_name": "Amanda Mueller",
+      "job_title": "CTO",
+      "company": "CareStack",
+      "industry": "Healthcare Tech",
+      "email": "amanda.mueller@carestack.io",
+      "website": "https://carestack.io",
+      "type": "Contact",
+      "appears_in": [
+        "documents/document_003"
+      ]
+    },
+    {
+      "entity_id": "marcus-chen-channelbridge",
+      "record_id": "crm-marcus-chen-channelbridge",
+      "contact_name": "Marcus Chen",
+      "job_title": "Head of Data",
+      "company": "ChannelBridge",
+      "industry": "E-commerce",
+      "email": "marcus.chen@channelbridge.com",
+      "website": "https://channelbridge.com",
+      "type": "Contact",
+      "appears_in": [
+        "documents/document_004"
+      ]
+    },
+    {
+      "entity_id": "maria-patel-castpoint",
+      "record_id": "crm-maria-patel-castpoint",
+      "contact_name": "Maria Patel",
+      "job_title": "Contact",
+      "company": "CastPoint",
+      "industry": "Manufacturing",
+      "email": "maria.patel@castpoint.io",
+      "website": "https://castpoint.io",
+      "type": "Contact",
+      "appears_in": [
+        "documents/document_005"
+      ]
+    },
+    {
+      "entity_id": "sarah-williams-routewise",
+      "record_id": "crm-sarah-williams-routewise",
+      "contact_name": "Sarah Williams",
+      "job_title": "VP of Engineering",
+      "company": "RouteWise",
+      "industry": "Logistics",
+      "email": "sarah.williams@routewise.com",
+      "website": "https://routewise.com",
+      "type": "Contact",
+      "appears_in": [
+        "documents/document_006"
+      ]
+    },
+    {
+      "entity_id": "james-baker-streamops",
+      "record_id": "crm-james-baker-streamops",
+      "contact_name": "James Baker",
+      "job_title": "Head of Data",
+      "company": "StreamOps",
+      "industry": "Digital Media",
+      "email": "james.baker@streamops.io",
+      "website": "https://streamops.io",
+      "type": "Contact",
+      "appears_in": [
+        "documents/document_007"
+      ]
+    },
+    {
+      "entity_id": "maria-patel-courseforge",
+      "record_id": "crm-maria-patel-courseforge",
+      "contact_name": "Maria Patel",
+      "job_title": "Director of Sales Engineering",
+      "company": "CourseForge",
+      "industry": "EdTech",
+      "email": "maria.patel@courseforge.com",
+      "website": "https://courseforge.com",
+      "type": "Contact",
+      "appears_in": [
+        "documents/document_008"
+      ]
+    },
+    {
+      "entity_id": "amanda-lee-syncwave",
+      "record_id": "crm-amanda-lee-syncwave",
+      "contact_name": "Amanda Lee",
+      "job_title": "VP of Sales",
+      "company": "SyncWave",
+      "industry": "B2B SaaS",
+      "email": "amanda.lee@syncwave.io",
+      "website": "https://syncwave.io",
+      "type": "Contact",
+      "appears_in": [
+        "documents/document_009"
+      ]
+    },
+    {
+      "entity_id": "michael-anderson-vaultedge",
+      "record_id": "crm-michael-anderson-vaultedge",
+      "contact_name": "Michael Anderson",
+      "job_title": "Director of Analytics",
+      "company": "VaultEdge",
+      "industry": "Fintech",
+      "email": "michael.anderson@vaultedge.com",
+      "website": "https://vaultedge.com",
+      "type": "Contact",
+      "appears_in": [
+        "documents/document_010"
+      ]
+    },
+    {
+      "entity_id": "tom-singh-techflow-inc",
+      "record_id": "crm-tom-singh-techflow-inc",
+      "contact_name": "Tom Singh",
+      "job_title": "Chief Revenue Officer",
+      "company": "TechFlow Inc",
+      "industry": "B2B SaaS",
+      "email": "tom.singh@techflow.io",
+      "website": "https://techflow.io",
+      "type": "Contact",
+      "appears_in": [
+        "emails/email_001"
+      ]
+    },
+    {
+      "entity_id": "fatima-okonkwo-ledgerpoint",
+      "record_id": "crm-fatima-okonkwo-ledgerpoint",
+      "contact_name": "Fatima Okonkwo",
+      "job_title": "Chief Revenue Officer",
+      "company": "LedgerPoint",
+      "industry": "Fintech",
+      "email": "fatima.okonkwo@ledgerpoint.com",
+      "website": "https://ledgerpoint.com",
+      "type": "Contact",
+      "appears_in": [
+        "emails/email_002"
+      ]
+    },
+    {
+      "entity_id": "amanda-fernandez-carestack",
+      "record_id": "crm-amanda-fernandez-carestack",
+      "contact_name": "Amanda Fernandez",
+      "job_title": "VP of Operations",
+      "company": "CareStack",
+      "industry": "Healthcare Tech",
+      "email": "amanda.fernandez@carestack.io",
+      "website": "https://carestack.io",
+      "type": "Contact",
+      "appears_in": [
+        "emails/email_003"
+      ]
+    },
+    {
+      "entity_id": "jennifer-garcia-channelbridge",
+      "record_id": "crm-jennifer-garcia-channelbridge",
+      "contact_name": "Jennifer Garcia",
+      "job_title": "Head of Infrastructure",
+      "company": "ChannelBridge",
+      "industry": "E-commerce",
+      "email": "jennifer.garcia@channelbridge.com",
+      "website": "https://channelbridge.com",
+      "type": "Contact",
+      "appears_in": [
+        "emails/email_004"
+      ]
+    },
+    {
+      "entity_id": "brian-baker-castpoint",
+      "record_id": "crm-brian-baker-castpoint",
+      "contact_name": "Brian Baker",
+      "job_title": "CTO",
+      "company": "CastPoint",
+      "industry": "Manufacturing",
+      "email": "brian.baker@castpoint.io",
+      "website": "https://castpoint.io",
+      "type": "Contact",
+      "appears_in": [
+        "emails/email_005"
+      ]
+    },
+    {
+      "entity_id": "maria-williams-routewise",
+      "record_id": "crm-maria-williams-routewise",
+      "contact_name": "Maria Williams",
+      "job_title": "Director of Engineering",
+      "company": "RouteWise",
+      "industry": "Logistics",
+      "email": "maria.williams@routewise.com",
+      "website": "https://routewise.com",
+      "type": "Contact",
+      "appears_in": [
+        "emails/email_006"
+      ]
+    },
+    {
+      "entity_id": "sarah-patel-streamops",
+      "record_id": "crm-sarah-patel-streamops",
+      "contact_name": "Sarah Patel",
+      "job_title": "Chief Revenue Officer",
+      "company": "StreamOps",
+      "industry": "Digital Media",
+      "email": "sarah.patel@streamops.io",
+      "website": "https://streamops.io",
+      "type": "Contact",
+      "appears_in": [
+        "emails/email_007"
+      ]
+    },
+    {
+      "entity_id": "maria-garcia-courseforge",
+      "record_id": "crm-maria-garcia-courseforge",
+      "contact_name": "Maria Garcia",
+      "job_title": "Head of Infrastructure",
+      "company": "CourseForge",
+      "industry": "EdTech",
+      "email": "maria.garcia@courseforge.com",
+      "website": "https://courseforge.com",
+      "type": "Contact",
+      "appears_in": [
+        "emails/email_008"
+      ]
+    },
+    {
+      "entity_id": "tom-johnson-syncwave",
+      "record_id": "crm-tom-johnson-syncwave",
+      "contact_name": "Tom Johnson",
+      "job_title": "Director of Engineering",
+      "company": "SyncWave",
+      "industry": "B2B SaaS",
+      "email": "tom.johnson@syncwave.io",
+      "website": "https://syncwave.io",
+      "type": "Contact",
+      "appears_in": [
+        "emails/email_009"
+      ]
+    },
+    {
+      "entity_id": "marcus-baker-vaultedge",
+      "record_id": "crm-marcus-baker-vaultedge",
+      "contact_name": "Marcus Baker",
+      "job_title": "Chief Revenue Officer",
+      "company": "VaultEdge",
+      "industry": "Fintech",
+      "email": "marcus.baker@vaultedge.com",
+      "website": "https://vaultedge.com",
+      "type": "Contact",
+      "appears_in": [
+        "emails/email_010"
+      ]
+    },
+    {
+      "entity_id": "sarah-chen-techflow-inc",
+      "record_id": "crm-sarah-chen-techflow-inc",
+      "contact_name": "Sarah Chen",
+      "job_title": "VP of Engineering",
+      "company": "TechFlow Inc",
+      "industry": "B2B SaaS",
+      "email": "sarah.chen@techflow.io",
+      "website": "https://techflow.io",
+      "type": "Contact",
+      "appears_in": [
+        "multi_source/source_1_discovery_call",
+        "multi_source/source_2_followup_call",
+        "multi_source/source_3_email_thread",
+        "multi_source/source_4_crm_notes",
+        "multi_source/source_5_research"
+      ]
+    },
+    {
+      "entity_id": "priya-techflow-inc",
+      "record_id": "crm-priya-techflow-inc",
+      "contact_name": "Priya",
+      "job_title": "Head of Product",
+      "company": "TechFlow Inc",
+      "industry": "B2B SaaS",
+      "email": "priya@techflow.io",
+      "website": "https://techflow.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_001"
+      ]
+    },
+    {
+      "entity_id": "lisa-wright-ledgerpoint",
+      "record_id": "crm-lisa-wright-ledgerpoint",
+      "contact_name": "Lisa Wright",
+      "job_title": "VP of Operations",
+      "company": "LedgerPoint",
+      "industry": "Fintech",
+      "email": "lisa.wright@ledgerpoint.com",
+      "website": "https://ledgerpoint.com",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_002"
+      ]
+    },
+    {
+      "entity_id": "kevin-garcia-carestack",
+      "record_id": "crm-kevin-garcia-carestack",
+      "contact_name": "Kevin Garcia",
+      "job_title": "Head of Data",
+      "company": "CareStack",
+      "industry": "Healthcare Tech",
+      "email": "kevin.garcia@carestack.io",
+      "website": "https://carestack.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_003"
+      ]
+    },
+    {
+      "entity_id": "tom-channelbridge",
+      "record_id": "crm-tom-channelbridge",
+      "contact_name": "Tom",
+      "job_title": "Director of IT",
+      "company": "ChannelBridge",
+      "industry": "E-commerce",
+      "email": "tom@channelbridge.com",
+      "website": "https://channelbridge.com",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_004"
+      ]
+    },
+    {
+      "entity_id": "anita-castpoint",
+      "record_id": "crm-anita-castpoint",
+      "contact_name": "Anita",
+      "job_title": "VP of Engineering",
+      "company": "CastPoint",
+      "industry": "Manufacturing",
+      "email": "anita@castpoint.io",
+      "website": "https://castpoint.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_005"
+      ]
+    },
+    {
+      "entity_id": "jennifer-routewise",
+      "record_id": "crm-jennifer-routewise",
+      "contact_name": "Jennifer",
+      "job_title": "Head of Data",
+      "company": "RouteWise",
+      "industry": "Logistics",
+      "email": "jennifer@routewise.com",
+      "website": "https://routewise.com",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_006"
+      ]
+    },
+    {
+      "entity_id": "priya-streamops",
+      "record_id": "crm-priya-streamops",
+      "contact_name": "Priya",
+      "job_title": "Chief Revenue Officer",
+      "company": "StreamOps",
+      "industry": "Digital Media",
+      "email": "priya@streamops.io",
+      "website": "https://streamops.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_007"
+      ]
+    },
+    {
+      "entity_id": "rachel-courseforge",
+      "record_id": "crm-rachel-courseforge",
+      "contact_name": "Rachel",
+      "job_title": "Director of IT",
+      "company": "CourseForge",
+      "industry": "EdTech",
+      "email": "rachel@courseforge.com",
+      "website": "https://courseforge.com",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_008"
+      ]
+    },
+    {
+      "entity_id": "maria-syncwave",
+      "record_id": "crm-maria-syncwave",
+      "contact_name": "Maria",
+      "job_title": "VP of Sales",
+      "company": "SyncWave",
+      "industry": "B2B SaaS",
+      "email": "maria@syncwave.io",
+      "website": "https://syncwave.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_009"
+      ]
+    },
+    {
+      "entity_id": "rachel-vaultedge",
+      "record_id": "crm-rachel-vaultedge",
+      "contact_name": "Rachel",
+      "job_title": "Chief Revenue Officer",
+      "company": "VaultEdge",
+      "industry": "Fintech",
+      "email": "rachel@vaultedge.com",
+      "website": "https://vaultedge.com",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_010"
+      ]
+    },
+    {
+      "entity_id": "chen-medcore-analytics",
+      "record_id": "crm-chen-medcore-analytics",
+      "contact_name": "Chen",
+      "job_title": "Director of Sales Engineering",
+      "company": "MedCore Analytics",
+      "industry": "Healthcare Tech",
+      "email": "chen@medcore.io",
+      "website": "https://medcore.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_011"
+      ]
+    },
+    {
+      "entity_id": "jennifer-cartlogic",
+      "record_id": "crm-jennifer-cartlogic",
+      "contact_name": "Jennifer",
+      "job_title": "Director of Engineering",
+      "company": "CartLogic",
+      "industry": "E-commerce",
+      "email": "jennifer@cartlogic.com",
+      "website": "https://cartlogic.com",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_012"
+      ]
+    },
+    {
+      "entity_id": "rachel-specline",
+      "record_id": "crm-rachel-specline",
+      "contact_name": "Rachel",
+      "job_title": "VP of Marketing",
+      "company": "SpecLine",
+      "industry": "Manufacturing",
+      "email": "rachel@specline.io",
+      "website": "https://specline.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_013"
+      ]
+    },
+    {
+      "entity_id": "emily-freightpulse",
+      "record_id": "crm-emily-freightpulse",
+      "contact_name": "Emily",
+      "job_title": "Contact",
+      "company": "FreightPulse",
+      "industry": "Logistics",
+      "email": "emily@freightpulse.com",
+      "website": "https://freightpulse.com",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_014"
+      ]
+    },
+    {
+      "entity_id": "david-adstack",
+      "record_id": "crm-david-adstack",
+      "contact_name": "David",
+      "job_title": "CTO",
+      "company": "AdStack",
+      "industry": "Digital Media",
+      "email": "david@adstack.io",
+      "website": "https://adstack.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_015"
+      ]
+    },
+    {
+      "entity_id": "lisa-alvarez-learnstack",
+      "record_id": "crm-lisa-alvarez-learnstack",
+      "contact_name": "Lisa Alvarez",
+      "job_title": "VP of Marketing",
+      "company": "LearnStack",
+      "industry": "EdTech",
+      "email": "lisa.alvarez@learnstack.com",
+      "website": "https://learnstack.com",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_016"
+      ]
+    },
+    {
+      "entity_id": "rachel-cloudnova",
+      "record_id": "crm-rachel-cloudnova",
+      "contact_name": "Rachel",
+      "job_title": "VP of Customer Success",
+      "company": "CloudNova",
+      "industry": "B2B SaaS",
+      "email": "rachel@cloudnova.io",
+      "website": "https://cloudnova.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_017"
+      ]
+    },
+    {
+      "entity_id": "robert-finstack-labs",
+      "record_id": "crm-robert-finstack-labs",
+      "contact_name": "Robert",
+      "job_title": "VP of Marketing",
+      "company": "FinStack Labs",
+      "industry": "Fintech",
+      "email": "robert@finstacklabs.com",
+      "website": "https://finstacklabs.com",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_018"
+      ]
+    },
+    {
+      "entity_id": "jennifer-biosignal-ai",
+      "record_id": "crm-jennifer-biosignal-ai",
+      "contact_name": "Jennifer",
+      "job_title": "CTO",
+      "company": "BioSignal AI",
+      "industry": "Healthcare Tech",
+      "email": "jennifer@biosignalai.com",
+      "website": "https://biosignalai.com",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_019"
+      ]
+    },
+    {
+      "entity_id": "sarah-williams-pricematrix",
+      "record_id": "crm-sarah-williams-pricematrix",
+      "contact_name": "Sarah Williams",
+      "job_title": "Head of Data",
+      "company": "PriceMatrix",
+      "industry": "E-commerce",
+      "email": "sarah.williams@pricematrix.io",
+      "website": "https://pricematrix.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_020"
+      ]
+    },
+    {
+      "entity_id": "tom-buildtech-corp",
+      "record_id": "crm-tom-buildtech-corp",
+      "contact_name": "Tom",
+      "job_title": "VP of Marketing",
+      "company": "BuildTech Corp",
+      "industry": "Manufacturing",
+      "email": "tom@buildtech.com",
+      "website": "https://buildtech.com",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_021"
+      ]
+    },
+    {
+      "entity_id": "priya-shipgrid",
+      "record_id": "crm-priya-shipgrid",
+      "contact_name": "Priya",
+      "job_title": "CTO",
+      "company": "ShipGrid",
+      "industry": "Logistics",
+      "email": "priya@shipgrid.io",
+      "website": "https://shipgrid.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_022"
+      ]
+    },
+    {
+      "entity_id": "david-mediaforge",
+      "record_id": "crm-david-mediaforge",
+      "contact_name": "David",
+      "job_title": "Director of IT",
+      "company": "MediaForge",
+      "industry": "Digital Media",
+      "email": "david@mediaforge.com",
+      "website": "https://mediaforge.com",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_023"
+      ]
+    },
+    {
+      "entity_id": "fatima-skillpulse",
+      "record_id": "crm-fatima-skillpulse",
+      "contact_name": "Fatima",
+      "job_title": "Director of IT",
+      "company": "SkillPulse",
+      "industry": "EdTech",
+      "email": "fatima@skillpulse.io",
+      "website": "https://skillpulse.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_024"
+      ]
+    },
+    {
+      "entity_id": "lisa-garcia-apigrid",
+      "record_id": "crm-lisa-garcia-apigrid",
+      "contact_name": "Lisa Garcia",
+      "job_title": "Head of Product",
+      "company": "ApiGrid",
+      "industry": "B2B SaaS",
+      "email": "lisa.garcia@apigrid.io",
+      "website": "https://apigrid.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_025"
+      ]
+    },
+    {
+      "entity_id": "lisa-paygrid-financial",
+      "record_id": "crm-lisa-paygrid-financial",
+      "contact_name": "Lisa",
+      "job_title": "Contact",
+      "company": "PayGrid Financial",
+      "industry": "Fintech",
+      "email": "lisa@paygrid.com",
+      "website": "https://paygrid.com",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_026"
+      ]
+    },
+    {
+      "entity_id": "tom-healthsync",
+      "record_id": "crm-tom-healthsync",
+      "contact_name": "Tom",
+      "job_title": "Head of Infrastructure",
+      "company": "HealthSync",
+      "industry": "Healthcare Tech",
+      "email": "tom@healthsync.io",
+      "website": "https://healthsync.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_027"
+      ]
+    },
+    {
+      "entity_id": "lisa-retailnova",
+      "record_id": "crm-lisa-retailnova",
+      "contact_name": "Lisa",
+      "job_title": "Chief Product Officer",
+      "company": "RetailNova",
+      "industry": "E-commerce",
+      "email": "lisa@retailnova.com",
+      "website": "https://retailnova.com",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_028"
+      ]
+    },
+    {
+      "entity_id": "lisa-metalgrid",
+      "record_id": "crm-lisa-metalgrid",
+      "contact_name": "Lisa",
+      "job_title": "Head of Infrastructure",
+      "company": "MetalGrid",
+      "industry": "Manufacturing",
+      "email": "lisa@metalgrid.io",
+      "website": "https://metalgrid.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_029"
+      ]
+    },
+    {
+      "entity_id": "emily-docksmart",
+      "record_id": "crm-emily-docksmart",
+      "contact_name": "Emily",
+      "job_title": "VP of Customer Success",
+      "company": "DockSmart",
+      "industry": "Logistics",
+      "email": "emily@docksmart.com",
+      "website": "https://docksmart.com",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_030"
+      ]
+    },
+    {
+      "entity_id": "tom-contenthq",
+      "record_id": "crm-tom-contenthq",
+      "contact_name": "Tom",
+      "job_title": "Director of IT",
+      "company": "ContentHQ",
+      "industry": "Digital Media",
+      "email": "tom@contenthq.io",
+      "website": "https://contenthq.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_031"
+      ]
+    },
+    {
+      "entity_id": "emily-eduflow",
+      "record_id": "crm-emily-eduflow",
+      "contact_name": "Emily",
+      "job_title": "Head of Product",
+      "company": "EduFlow",
+      "industry": "EdTech",
+      "email": "emily@eduflow.com",
+      "website": "https://eduflow.com",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_032"
+      ]
+    },
+    {
+      "entity_id": "rachel-datapulse-systems",
+      "record_id": "crm-rachel-datapulse-systems",
+      "contact_name": "Rachel",
+      "job_title": "Director of Sales Engineering",
+      "company": "DataPulse Systems",
+      "industry": "B2B SaaS",
+      "email": "rachel@datapulse.io",
+      "website": "https://datapulse.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_033"
+      ]
+    },
+    {
+      "entity_id": "rachel-cointrail",
+      "record_id": "crm-rachel-cointrail",
+      "contact_name": "Rachel",
+      "job_title": "Director of Sales Engineering",
+      "company": "CoinTrail",
+      "industry": "Fintech",
+      "email": "rachel@cointrail.com",
+      "website": "https://cointrail.com",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_034"
+      ]
+    },
+    {
+      "entity_id": "emily-pharmapipe",
+      "record_id": "crm-emily-pharmapipe",
+      "contact_name": "Emily",
+      "job_title": "VP of Engineering",
+      "company": "PharmaPipe",
+      "industry": "Healthcare Tech",
+      "email": "emily@pharmapipe.io",
+      "website": "https://pharmapipe.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_035"
+      ]
+    },
+    {
+      "entity_id": "robert-shopfront-digital",
+      "record_id": "crm-robert-shopfront-digital",
+      "contact_name": "Robert",
+      "job_title": "Head of Data",
+      "company": "ShopFront Digital",
+      "industry": "E-commerce",
+      "email": "robert@shopfront.io",
+      "website": "https://shopfront.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_036"
+      ]
+    },
+    {
+      "entity_id": "tom-kim-forgenet-industries",
+      "record_id": "crm-tom-kim-forgenet-industries",
+      "contact_name": "Tom Kim",
+      "job_title": "VP of Marketing",
+      "company": "ForgeNet Industries",
+      "industry": "Manufacturing",
+      "email": "tom.kim@forgenet.com",
+      "website": "https://forgenet.com",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_037"
+      ]
+    },
+    {
+      "entity_id": "lisa-okonkwo-cargonova",
+      "record_id": "crm-lisa-okonkwo-cargonova",
+      "contact_name": "Lisa Okonkwo",
+      "job_title": "Chief Revenue Officer",
+      "company": "CargoNova",
+      "industry": "Logistics",
+      "email": "lisa.okonkwo@cargonova.io",
+      "website": "https://cargonova.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_038"
+      ]
+    },
+    {
+      "entity_id": "emily-pixelgrid",
+      "record_id": "crm-emily-pixelgrid",
+      "contact_name": "Emily",
+      "job_title": "Director of Sales Engineering",
+      "company": "PixelGrid",
+      "industry": "Digital Media",
+      "email": "emily@pixelgrid.com",
+      "website": "https://pixelgrid.com",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_039"
+      ]
+    },
+    {
+      "entity_id": "jennifer-classgrid",
+      "record_id": "crm-jennifer-classgrid",
+      "contact_name": "Jennifer",
+      "job_title": "Head of Data",
+      "company": "ClassGrid",
+      "industry": "EdTech",
+      "email": "jennifer@classgrid.io",
+      "website": "https://classgrid.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_040"
+      ]
+    },
+    {
+      "entity_id": "jennifer-techflow-inc",
+      "record_id": "crm-jennifer-techflow-inc",
+      "contact_name": "Jennifer",
+      "job_title": "Director of Sales Engineering",
+      "company": "TechFlow Inc",
+      "industry": "B2B SaaS",
+      "email": "jennifer@techflow.io",
+      "website": "https://techflow.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_041"
+      ]
+    },
+    {
+      "entity_id": "james-ledgerpoint",
+      "record_id": "crm-james-ledgerpoint",
+      "contact_name": "James",
+      "job_title": "Director of Sales Engineering",
+      "company": "LedgerPoint",
+      "industry": "Fintech",
+      "email": "james@ledgerpoint.com",
+      "website": "https://ledgerpoint.com",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_042"
+      ]
+    },
+    {
+      "entity_id": "brian-carestack",
+      "record_id": "crm-brian-carestack",
+      "contact_name": "Brian",
+      "job_title": "Head of Data",
+      "company": "CareStack",
+      "industry": "Healthcare Tech",
+      "email": "brian@carestack.io",
+      "website": "https://carestack.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_043"
+      ]
+    },
+    {
+      "entity_id": "lisa-channelbridge",
+      "record_id": "crm-lisa-channelbridge",
+      "contact_name": "Lisa",
+      "job_title": "Chief Revenue Officer",
+      "company": "ChannelBridge",
+      "industry": "E-commerce",
+      "email": "lisa@channelbridge.com",
+      "website": "https://channelbridge.com",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_044"
+      ]
+    },
+    {
+      "entity_id": "alex-singh-castpoint",
+      "record_id": "crm-alex-singh-castpoint",
+      "contact_name": "Alex Singh",
+      "job_title": "VP of Customer Success",
+      "company": "CastPoint",
+      "industry": "Manufacturing",
+      "email": "alex.singh@castpoint.io",
+      "website": "https://castpoint.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_045"
+      ]
+    },
+    {
+      "entity_id": "robert-streamops",
+      "record_id": "crm-robert-streamops",
+      "contact_name": "Robert",
+      "job_title": "Chief Product Officer",
+      "company": "StreamOps",
+      "industry": "Digital Media",
+      "email": "robert@streamops.io",
+      "website": "https://streamops.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_047"
+      ]
+    },
+    {
+      "entity_id": "maria-courseforge",
+      "record_id": "crm-maria-courseforge",
+      "contact_name": "Maria",
+      "job_title": "Director of Sales Engineering",
+      "company": "CourseForge",
+      "industry": "EdTech",
+      "email": "maria@courseforge.com",
+      "website": "https://courseforge.com",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_048"
+      ]
+    },
+    {
+      "entity_id": "brian-syncwave",
+      "record_id": "crm-brian-syncwave",
+      "contact_name": "Brian",
+      "job_title": "VP of Sales",
+      "company": "SyncWave",
+      "industry": "B2B SaaS",
+      "email": "brian@syncwave.io",
+      "website": "https://syncwave.io",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_049"
+      ]
+    },
+    {
+      "entity_id": "chen-vaultedge",
+      "record_id": "crm-chen-vaultedge",
+      "contact_name": "Chen",
+      "job_title": "Director of Sales Engineering",
+      "company": "VaultEdge",
+      "industry": "Fintech",
+      "email": "chen@vaultedge.com",
+      "website": "https://vaultedge.com",
+      "type": "Contact",
+      "appears_in": [
+        "transcripts/transcript_050"
+      ]
+    }
+  ]
+}

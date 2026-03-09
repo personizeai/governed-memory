@@ -1,0 +1,167 @@
+[09:15] @alex.m: @channel quick update on LedgerPoint - had a great call with Lucia Garcia yesterday, she's VP of Operations there. They're a fintech with about 3363 employees, main office in Boston. Deal stage is Proposal now.
+
+[👍 from @sarah.k]
+
+[09:16] @sarah.k: Nice! What's their budget looking like? lmk.
+
+[09:17] @alex.m: Approx $1,200,000 allocated. But they're evaluating Clari and their existing CRM workflows too.
+
+[09:18] @mike.r: Got it. Tech stack? We need to check fit.
+
+  ↳ [09:19] @alex.m: Rust, Actix, AWS, PostgreSQL, NATS. Matches ours well imo.
+
+  ↳ [09:20] @mike.r: Perfect, their current solution is internal Python scripts pulling from multiple APIs. We can crush that. 👍
+
+[09:21] @sarah.k: Lucia's only been there 1 year, fwiw. New blood might push for change.
+
+[09:22] @david.b: Makes sense. Company size 1000+ yeah?
+
+[09:23] @alex.m: Yeah 3363 employees, repeated that last Friday in the call notes.
+
+[09:24] @sarah.k: [shared link: LedgerPoint pricing page] Check this out, their public stuff.
+
+[09:25] @mike.r: Looking at it now. Deal value 1200000, timeline to 2026-05-16?
+
+[09:26] @alex.m: Yep, decision timeline 2026-05-16. But buying process has fast-track for under $150K with direct VP approval.
+
+[09:27] @sarah.k: Ours is way over that tho lol.
+
+[09:28] @david.b: She mentioned Clari? Who is she btw?
+
+[09:29] @alex.m: Lucia yeah. They're stuck with those CRM workflows rn.
+
+[09:30] @mike.r: Ngl, our Rust integration will blow Python scripts away.
+
+[09:31] @sarah.k: tbh yeah. @here anyone talk pricing yet?
+
+[09:32] @david.b: Not yet. He said budget's tight - wait who?
+
+[09:33] @alex.m: Their CFO I think. Anyway, proposal draft ready?
+
+[09:34] @mike.r: Got it tomorrow morning.
+
+[09:35] @sarah.k: Cool, next sprint we align on competitors.
+
+[09:36] @david.b: Clari's the main one, and internal stuff.
+
+[09:37] @alex.m: Yep, repeated the tech stack in notes: AWS, PostgreSQL etc.
+
+[09:38] @mike.r: Fwiw their NATS setup is solid, but we enhance it.
+
+  ↳ [09:39] @sarah.k: True, Actix web too?
+
+  ↳ [09:40] @alex.m: Yup.
+
+[09:41] @david.b: Lucia pushed back on timeline?
+
+[09:42] @sarah.k: No, she seems bought in. Boston office visit next?
+
+[09:43] @mike.r: Makes sense. Deal value confirms 1.2M?
+
+[09:44] @alex.m: Locked in at 1200000.
+
+[09:45] @david.b: They said no to fast-track? Who did?
+
+[09:46] @sarah.k: Probably ops team. Anyway, proposal stage is key now.
+
+[09:47] @mike.r: 👍
+
+[09:48] @alex.m: Current solution sucks tbh, multiple APIs via Python.
+
+[09:49] @sarah.k: Yeah we've seen that before.
+
+[09:50] @david.b: Company size again? 1000+ right?
+
+[09:51] @alex.m: 3363 employees, fintech giant basically.
+
+[09:52] @mike.r: Timeline to May 16th 2026 feels long, push it?
+
+[09:53] @sarah.k: lmk if we need demo for their stack.
+
+[09:54] @david.b: He wants POC first - unclear who.
+
+[09:55] @alex.m: Lucia does imo.
+
+[09:56] @mike.r: Got it. Competitors like Clari out.
+
+[09:57] @sarah.k: Existing CRM too. We win on tech.
+
+[09:58] @david.b: Budget $1,200,000 solid?
+
+[09:59] @alex.m: Yes.
+
+[10:00] @mike.r: Proposal out tomorrow.
+
+[10:01] @sarah.k: Perfect.
+
+[👍 from @david.b]
+
+[10:02] @alex.m: Thread on buying process?
+
+  ↳ [10:03] @david.b: Fast-track under 150K but we're not.
+
+  ↳ [10:04] @sarah.k: VP approval direct tho.
+
+  ↳ [10:05] @mike.r: Lucia can swing it.
+
+[10:06] @david.b: She excited about AWS migrate?
+
+[10:07] @alex.m: Yeah ngl.
+
+[10:08] @sarah.k: Boston trip last Friday was good recon.
+
+[10:09] @mike.r: Agreed.
+
+[10:10] @david.b: PostgreSQL pain points?
+
+[10:11] @alex.m: Their scripts overload it.
+
+[10:12] @sarah.k: We fix with NATS streaming.
+
+[10:13] @mike.r: Boom.
+
+[10:14] @david.b: Clari eval ends next sprint?
+
+[10:15] @alex.m: Hopefully.
+
+[10:16] @sarah.k: Deal stage update in CRM?
+
+[10:17] @mike.r: On it.
+
+[10:18] @david.b: 👍
+
+[10:19] @alex.m: Lucia's 1 year tenure means fresh eyes.
+
+[10:20] @sarah.k: True.
+
+[10:21] @mike.r: Tech stack repeat: Rust heavy.
+
+[10:22] @david.b: Matches us.
+
+[10:23] @alex.m: Proposal includes competitor comparison.
+
+[10:24] @sarah.k: Good call.
+
+[10:25] @mike.r: Fwiw their pricing page shows gaps.
+
+[10:26] @david.b: Saw that link.
+
+[10:27] @alex.m: Timeline push to Q4?
+
+[10:28] @sarah.k: Tomorrow discuss.
+
+[10:29] @mike.r: He balked at value - who?
+
+[10:30] @david.b: Ops maybe.
+
+[10:31] @alex.m: Nah, green light.
+
+[10:32] @sarah.k: Got it.
+
+[10:33] @mike.r: Current Python hell.
+
+[10:34] @david.b: We save them.
+
+[10:35] @alex.m: 58th msg? Wait no, just counting lol.
+
+[10:36] @sarah.k: Deal on fire. 🚀

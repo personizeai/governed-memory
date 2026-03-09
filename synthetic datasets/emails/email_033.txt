@@ -1,0 +1,189 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Keiko Chen <keiko.chen@datapulse.com>  
+Subject: Tailored AI Insights for DataPulse Systems' Onboarding Efficiency  
+Date: Sat, 14 Feb 2026 10:32:15 -0800  
+
+Hi Keiko,  
+
+I hope this email finds you well. I came across DataPulse Systems while researching innovative B2B SaaS companies in San Francisco tackling customer data challenges, and your 8 years as Head of Product caught my eye on LinkedIn—congrats on navigating that rapid early growth.  
+
+At Technova, we specialize in AI-powered platforms that automate manual processes like customer onboarding, which I understand is a pain point for teams like yours dealing with technical debt and data silos between engineering and sales. Unlike HubSpot AI, Chorus.ai, or Salesforce Einstein that you're evaluating, our solution integrates seamlessly with your C#, .NET, Azure, SQL Server, and RabbitMQ stack, replacing that legacy Java application maintained by just one person and cutting high infrastructure costs that are eating into margins. With your IT budget up 28% this fiscal year and evaluating 5 vendors including us, we're seeing teams like yours reduce onboarding time by 40% in weeks.  
+
+Would you be open to a 15-minute chat next week to discuss how we can address your specific silos and tech debt?  
+
+Best regards,  
+Alex Morgan  
+Sales Representative  
+Technova  
+(415) 555-0123  
+alex.morgan@technova.io  
+
+---
+
+From: Keiko Chen <keiko.chen@datapulse.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Tailored AI Insights for DataPulse Systems' Onboarding Efficiency  
+Date: Sun, 15 Feb 2026 14:47:22 -0800  
+
+Hi Alex,  
+
+Thanks for reaching out—appreciate the personalization. Quick question: how does your platform handle integrations with RabbitMQ for real-time data syncing, especially since we're moving away from our legacy Java app?  
+
+We're indeed looking at options amid our growth pains and that 28% IT budget bump.  
+
+Best,  
+Keiko Chen  
+Head of Product  
+DataPulse Systems  
+(415) 555-0198  
+keiko.chen@datapulse.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Keiko Chen <keiko.chen@datapulse.com>  
+Subject: Re: Tailored AI Insights for DataPulse Systems' Onboarding Efficiency  
+Date: Mon, 16 Feb 2026 09:15:44 -0800  
+
+Hi Keiko,  
+
+Great question—happy to dive in.  
+
+> Quick question: how does your platform handle integrations with RabbitMQ for real-time data syncing, especially since we're moving away from our legacy Java app?  
+
+Our platform uses native RabbitMQ connectors via .NET libraries, enabling pub/sub patterns for real-time syncing between your Azure SQL Server and onboarding workflows. This eliminates the bottlenecks in your current legacy Java setup (maintained by that one dev), and we've helped similar 11-50 employee SaaS firms like yours (43 heads, right?) cut manual onboarding steps by 60% while bridging eng-sales data silos. No custom code needed—plugs right into your stack.  
+
+As a light next step, I can share a customized demo proposal tailored to DataPulse's high infrastructure costs and tech debt from rapid growth. Open to hopping on a quick call this week?  
+
+Cheers,  
+Alex Morgan  
+Sales Representative  
+Technova  
+(415) 555-0123  
+alex.morgan@technova.io  
+
+---
+
+From: Keiko Chen <keiko.chen@datapulse.com>  
+To: Michael Xu <michael.xu@datapulse.com>  
+CC: Alex Morgan <alex.morgan@technova.io>  
+Subject: Fwd: Tailored AI Insights for DataPulse Systems' Onboarding Efficiency  
+Date: Tue, 17 Feb 2026 11:23:09 -0800  
+
+Michael,  
+
+Thoughts on this? Alex seems to get our pains with onboarding and the Java legacy mess. They're one of the 5 we're evaluating alongside HubSpot AI, etc. Can you check the RabbitMQ integration claim? We need something before end of quarter with the budget increase.  
+
+Keiko  
+
+---------- Forwarded message ----------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Mon, 16 Feb 2026 09:15:44 -0800  
+Subject: Re: Tailored AI Insights for DataPulse Systems' Onboarding Efficiency  
+To: Keiko Chen <keiko.chen@datapulse.com>  
+
+Hi Keiko,  
+
+Great question—happy to dive in.  
+
+> Quick question: how does your platform handle integrations with RabbitMQ for real-time data syncing, especially since we're moving away from our legacy Java app?  
+
+Our platform uses native RabbitMQ connectors via .NET libraries, enabling pub/sub patterns for real-time syncing between your Azure SQL Server and onboarding workflows. This eliminates the bottlenecks in your current legacy Java setup (maintained by that one dev), and we've helped similar 11-50 employee SaaS firms like yours (43 heads, right?) cut manual onboarding steps by 60% while bridging eng-sales data silos. No custom code needed—plugs right into your stack.  
+
+As a light next step, I can share a customized demo proposal tailored to DataPulse's high infrastructure costs and tech debt from rapid growth. Open to hopping on a quick call this week?  
+
+Cheers,  
+Alex Morgan  
+Sales Representative  
+Technova  
+(415) 555-0123  
+alex.morgan@technova.io  
+
+----------  
+
+Keiko Chen  
+Head of Product  
+DataPulse Systems  
+(415) 555-0198  
+keiko.chen@datapulse.com  
+
+---
+
+From: Michael Xu <michael.xu@datapulse.com>  
+To: Keiko Chen <keiko.chen@datapulse.com>, Alex Morgan <alex.morgan@technova.io>  
+CC:  
+Subject: Re: Tailored AI Insights for DataPulse Systems' Onboarding Efficiency  
+Date: Wed, 18 Feb 2026 16:08:37 -0800  
+
+Alex,  
+
+Keiko forwarded this—intriguing on the RabbitMQ side. But technically, how does it scale under load with our C# services pushing 10k+ messages/sec via RabbitMQ queues? We're buried in tech debt here, and that legacy Java app is a single point of failure. Does it support Azure-native auto-scaling without spiking our infra costs?  
+
+Michael  
+
+> Michael,  
+>  
+> Thoughts on this? Alex seems to get our pains with onboarding and the Java legacy mess. They're one of the 5 we're evaluating alongside HubSpot AI, etc. Can you check the RabbitMQ integration claim? We need something before end of quarter with the budget increase.  
+>  
+> Keiko  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Michael Xu <michael.xu@datapulse.com>, Keiko Chen <keiko.chen@datapulse.com>  
+Subject: Re: Tailored AI Insights for DataPulse Systems' Onboarding Efficiency  
+Date: Thu, 19 Feb 2026 08:45:21 -0800  
+
+Hi Michael (and Keiko),  
+
+Thanks for looping in—love the technical depth.  
+
+> But technically, how does it scale under load with our C# services pushing 10k+ messages/sec via RabbitMQ queues? We're buried in tech debt here, and that legacy Java app is a single point of failure. Does it support Azure-native auto-scaling without spiking our infra costs?  
+
+Spot on concerns. Our RabbitMQ integration leverages MassTransit over .NET for high-throughput queuing (handles 50k+ msg/sec in benchmarks with your stack), with built-in Azure Functions for auto-scaling—ties directly into your SQL Server for persistence without custom RabbitMQ clustering. We've migrated 20+ SaaS firms from similar legacy Java single-dev nightmares, slashing infra costs 35% (key for your margins amid growth debt) and automating onboarding to free up eng time. No data silos left between sales and eng post-integration.  
+
+To prove it, how about scheduling a technical deep-dive next week with your engineering team? I can bring our solutions architect to walk through a POC against your C#/Azure setup. What's your availability?  
+
+Best,  
+Alex Morgan  
+Sales Representative  
+Technova  
+(415) 555-0123  
+alex.morgan@technova.io  
+
+---
+
+From: Keiko Chen <keiko.chen@datapulse.com>  
+To: Alex Morgan <alex.morgan@technova.io>, Michael Xu <michael.xu@datapulse.com>  
+Subject: Re: Tailored AI Insights for DataPulse Systems' Onboarding Efficiency  
+Date: Fri, 20 Feb 2026 13:17:52 -0800  
+
+Alex,  
+
+He says the scaling sounds promising—let's do the deep-dive. Michael and I are free next Thursday, Feb 27 at 2pm PT. Work for you? Urgency is high here with Q1 end looming and that budget.  
+
+Keiko  
+
+> Spot on concerns. Our RabbitMQ integration leverages MassTransit over .NET for high-throughput queuing (handles 50k+ msg/sec in benchmarks with your stack), with built-in Azure Functions for auto-scaling—ties directly into your SQL Server for persistence without custom RabbitMQ clustering. We've migrated 20+ SaaS firms from similar legacy Java single-dev nightmares, slashing infra costs 35% (key for your margins amid growth debt) and automating onboarding to free up eng time. No data silos left between sales and eng post-integration.  
+>  
+> To prove it, how about scheduling a technical deep-dive next week with your engineering team? I can bring our solutions architect to walk through a POC against your C#/Azure setup. What's your availability?  
+>  
+> Best,  
+> Alex Morgan  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Keiko Chen <keiko.chen@datapulse.com>, Michael Xu <michael.xu@datapulse.com>  
+Subject: Re: Tailored AI Insights for DataPulse Systems' Onboarding Efficiency  
+Date: Fri, 20 Feb 2026 14:05:33 -0800  
+
+Perfect, Keiko and Michael—Thursday, Feb 27 at 2pm PT is locked in. I'll send a Calendar invite shortly with agenda: RabbitMQ/ Azure deep-dive, onboarding POC demo, and Q&A on vs. HubSpot/Chorus/Salesforce. Excited to tackle your silos, debt, and costs head-on before quarter-end.  
+
+Talk soon!  
+
+Alex Morgan  
+Sales Representative  
+Technova  
+(415) 555-0123  
+alex.morgan@technova.io

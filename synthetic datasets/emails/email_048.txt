@@ -1,0 +1,207 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Anita Baker <anita.baker@courseforge.com>  
+Subject: Tailored insights for CourseForge's revenue ops - from Technova  
+Date: Fri, Feb 13, 2026, 10:15 AM EST  
+
+Hi Anita,  
+
+I hope this email finds you well. I'm reaching out because I noticed CourseForge, the innovative EdTech company with about 45 employees out of your New York office, has been evaluating options like Clari alongside your existing CRM workflows to streamline operations.  
+
+At Technova, we specialize in automating revenue processes for teams like yours using HubSpot CRM with Zapier automations, helping tackle manual customer onboarding and other bottlenecks. With your team's high urgency to improve efficiency, I'd love to share how we've helped similar companies cut down on those pains.  
+
+Are you open to a quick 15-minute chat next week?  
+
+Best regards,  
+Alex Morgan  
+Account Executive  
+Technova  
++1 (415) 555-0123  
+
+---
+
+From: Anita Baker <anita.baker@courseforge.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Tailored insights for CourseForge's revenue ops - from Technova  
+Date: Sat, Feb 14, 2026, 9:30 AM EST  
+
+Hi Alex,  
+
+Thanks for the note. I've been at CourseForge for 6 years as Head of Data, and we're indeed looking at Clari but sticking with our HubSpot CRM and Zapier setup for now. Our main issues are poor developer experience slowing feature velocity and manual processes for customer onboarding.  
+
+What specific integrations do you have with our tech stack—Go, Kubernetes, AWS, DynamoDB, gRPC?  
+
+Best,  
+Anita Baker  
+Head of Data  
+CourseForge  
++1 (212) 555-0198  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Anita Baker <anita.baker@courseforge.com>  
+Subject: Re: Tailored insights for CourseForge's revenue ops - from Technova  
+Date: Sat, Feb 14, 2026, 2:45 PM EST  
+
+Hi Anita,  
+
+Great to hear from you—thanks for the quick reply and context on your 6-year tenure at CourseForge.  
+
+> Our main issues are poor developer experience slowing feature velocity and manual processes for customer onboarding.  
+
+Technova integrates seamlessly with Go services via gRPC, deploys on Kubernetes in AWS (with DynamoDB support for low-latency ops data), and directly enhances HubSpot/Zapier workflows to automate onboarding—reducing manual steps by 70% for clients like yours. We've seen teams cut high infrastructure costs eating into margins while boosting velocity. With your ~$450K budget allocated and procurement needing three competitive bids, this positions us well against Clari.  
+
+Here's a light one-pager proposal tailored to your 11-50 employee setup: [Technova Proposal - CourseForge.pdf]  
+
+Open to that 15-min call next week?  
+
+Best,  
+Alex Morgan  
+Account Executive  
+Technova  
++1 (415) 555-0123  
+
+---
+
+From: Anita Baker <anita.baker@courseforge.com>  
+To: james.petrov@courseforge.com  
+CC: Alex Morgan <alex.morgan@technova.io>  
+Subject: Fwd: Tailored insights for CourseForge's revenue ops - from Technova  
+Date: Mon, Feb 16, 2026, 11:20 AM EST  
+
+James,  
+
+Checking this out—thoughts on their gRPC integration claim? Forwarding Alex's response for your take as Engineering Manager. We're qualifying this against Clari and our CRM flows, high urgency given end of quarter push.  
+
+Thanks,  
+Anita  
+
+---------- Forwarded message ----------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Sat, Feb 14, 2026, 2:45 PM EST  
+Subject: Re: Tailored insights for CourseForge's revenue ops - from Technova  
+To: Anita Baker <anita.baker@courseforge.com>  
+
+Hi Anita,  
+
+Great to hear from you—thanks for the quick reply and context on your 6-year tenure at CourseForge.  
+
+> Our main issues are poor developer experience slowing feature velocity and manual processes for customer onboarding.  
+
+Technova integrates seamlessly with Go services via gRPC, deploys on Kubernetes in AWS (with DynamoDB support for low-latency ops data), and directly enhances HubSpot/Zapier workflows to automate onboarding—reducing manual steps by 70% for clients like yours. We've seen teams cut high infrastructure costs eating into margins while boosting velocity. With your ~$450K budget allocated and procurement needing three competitive bids, this positions us well against Clari.  
+
+Here's a light one-pager proposal tailored to your 11-50 employee setup: [Technova Proposal - CourseForge.pdf]  
+
+Open to that 15-min call next week?  
+
+Best,  
+Alex Morgan  
+Account Executive  
+Technova  
++1 (415) 555-0123  
+
+Anita Baker  
+Head of Data  
+CourseForge  
++1 (212) 555-0198  
+
+---
+
+From: James Petrov <james.petrov@courseforge.com>  
+To: Anita Baker <anita.baker@courseforge.com>, Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Tailored insights for CourseForge's revenue ops - from Technova  
+Date: Mon, Feb 16, 2026, 3:15 PM EST  
+
+Hi Alex, Anita,  
+
+James here, Engineering Manager. The gRPC mention caught my eye—how does it handle DynamoDB sharding in a multi-tenant K8s cluster like ours on AWS? He mentioned poor dev experience earlier; does this address that specifically?  
+
+Thanks,  
+James Petrov  
+Engineering Manager  
+CourseForge  
++1 (212) 555-0201  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: James Petrov <james.petrov@courseforge.com>, Anita Baker <anita.baker@courseforge.com>  
+Subject: Re: Tailored insights for CourseForge's revenue ops - from Technova  
+Date: Tue, Feb 17, 2026, 10:00 AM EST  
+
+Hi James and Anita,  
+
+Thanks for looping in, James—appreciate the engineering perspective on CourseForge's New York-based stack.  
+
+> The gRPC mention caught my eye—how does it handle DynamoDB sharding in a multi-tenant K8s cluster like ours on AWS? He mentioned poor dev experience earlier; does this address that specifically?  
+
+Our gRPC gateway proxies requests with native DynamoDB partitioning logic, supporting sharded multi-tenancy out-of-the-box (e.g., via partition keys aligned to your Go services). It deploys as a sidecar in K8s, auto-scales on AWS EKS, and includes dev tools like local emulation for faster iteration—directly tackling poor developer experience and velocity slowdowns. Pairs perfectly with your HubSpot/Zapier for onboarding automation, optimizing infra costs.  
+
+Full tech deck attached: [Technova Tech Overview.pdf]  
+
+Shall we hop on a 30-min call Thursday to demo?  
+
+Best,  
+Alex Morgan  
+Account Executive  
+Technova  
++1 (415) 555-0123  
+
+---
+
+From: Anita Baker <anita.baker@courseforge.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+CC: James Petrov <james.petrov@courseforge.com>  
+Subject: Re: Tailored insights for CourseForge's revenue ops - from Technova  
+Date: Wed, Feb 18, 2026, 4:30 PM EST  
+
+Hi Alex,  
+
+James and I reviewed—looks promising for our qualification stage. He likes the sharding approach, but they need to see it in action. Let's schedule that demo next week, say Tuesday at 2 PM EST? Procurement wants the three bids lined up by then.  
+
+Best,  
+Anita Baker  
+Head of Data  
+CourseForge  
++1 (212) 555-0198  
+
+> From: Alex Morgan <alex.morgan@technova.io>  
+> Date: Tue, Feb 17, 2026, 10:00 AM EST  
+> Subject: Re: Tailored insights for CourseForge's revenue ops - from Technova  
+> To: James Petrov <james.petrov@courseforge.com>, Anita Baker <anita.baker@courseforge.com>  
+>  
+> Hi James and Anita,  
+>  
+> Thanks for looping in, James—appreciate the engineering perspective on CourseForge's New York-based stack.  
+>  
+> > The gRPC mention caught my eye—how does it handle DynamoDB sharding in a multi-tenant K8s cluster like ours on AWS? He mentioned poor dev experience earlier; does this address that specifically?  
+>  
+> Our gRPC gateway proxies requests with native DynamoDB partitioning logic... [truncated for brevity]  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Anita Baker <anita.baker@courseforge.com>  
+CC: James Petrov <james.petrov@courseforge.com>  
+Subject: Re: Tailored insights for CourseForge's revenue ops - from Technova  
+Date: Wed, Feb 18, 2026, 5:15 PM EST  
+
+Perfect, Anita and James—Tuesday at 2 PM EST works great. I'll send the Zoom link and prep a custom demo covering your Go/gRPC onboarding flows, dev experience boosts, and infra savings.  
+
+Confirmed! Looking forward to it.  
+
+Best,  
+Alex Morgan  
+Account Executive  
+Technova  
++1 (415) 555-0123  
+
+> From: Anita Baker <anita.baker@courseforge.com>  
+> Date: Wed, Feb 18, 2026, 4:30 PM EST  
+> Subject: Re: Tailored insights for CourseForge's revenue ops - from Technova  
+> To: Alex Morgan <alex.morgan@technova.io>  
+> CC: James Petrov <james.petrov@courseforge.com>  
+>  
+> Hi Alex,  
+>  
+> James and I reviewed—looks promising... [truncated]

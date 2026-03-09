@@ -1,0 +1,19 @@
+**Call Note: Sales Meeting w/ Ivan Xu, VP Engineering, Drift Analytics**  
+**Date:** September 12, 2025  
+**Duration:** 45 min | **Attendees:** Me, Ivan Xu  
+**Industry:** Healthcare Tech  
+
+Discussed Drift's growth challenges in healthcare analytics platform. Ivan highlighted scaling pains with real-time patient data processing under HIPAA constraints. Noted their engineering team of about 40 people is stretched thin on custom ML pipelines, leading to 20% delays in feature releases.  
+
+Expressed strong interest in our AI orchestration tool for faster model deployment and cost savings—demo resonated well, especially auto-scaling features. Budget cycle opens Q4; targeting $250K pilot spend. Pain point: Current vendor lock-in with AWS, seeking multi-cloud flexibility.  
+
+Competitors: Evaluated Databricks, but our HIPAA-ready integrations tipped scales. Ivan committed to internal review w/ CTO next week.  
+
+**Next Steps:**  
+- Send POC proposal by 9/15 (incl. custom healthcare benchmarks).  
+- Schedule follow-up call 9/19 w/ Ivan + CTO.  
+- Nurture: Share case study on similar healthcare client (reduced eng time 35%).  
+
+**Opportunity Stage:** Qualified | **Potential Value:** $750K ACV | **Win Probability:** 65%  
+
+(Word count: 178)

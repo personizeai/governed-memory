@@ -1,0 +1,75 @@
+{
+  "sample_id": "chat_021",
+  "content_type": "chat_log",
+  "company": "BuildTech Corp",
+  "industry": "Manufacturing",
+  "message_count_target": 45,
+  "actual_word_count": 606,
+  "expected_facts": [
+    {
+      "text": "Their tech stack includes Python, Django, AWS, PostgreSQL, Redis",
+      "type": "explicit"
+    },
+    {
+      "text": "BuildTech Corp is a Manufacturing company with about 83 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Simone reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating ZoomInfo, Apollo.io, custom internal tool",
+      "type": "explicit"
+    },
+    {
+      "text": "Simone Bhandari has been at BuildTech Corp for 1 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $850,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with vendor lock-in with current cloud provider",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with lack of real-time analytics for decision making",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Engineering",
+    "company_name": "BuildTech Corp",
+    "company_size": "51-200",
+    "technology_stack": "Python, Django, AWS, PostgreSQL, Redis",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "lack of real-time analytics for decision making",
+      "vendor lock-in with current cloud provider",
+      "inconsistent messaging across sales team",
+      "slow deployment cycles taking 2-3 weeks per release"
+    ],
+    "deal_value": 850000,
+    "decision_timeline": "2026-07-30",
+    "competitors_mentioned": [
+      "ZoomInfo",
+      "Apollo.io",
+      "custom internal tool"
+    ],
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 3,
+    "duplicate_facts": 2
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@omar.e"
+  ],
+  "property_coverage": 0.71
+}

@@ -1,0 +1,172 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Jennifer Moreau <jmoreau@channelbridge.com>  
+Subject: Tailored pipeline visibility solution for ChannelBridge's scaling needs  
+Date: Wed, 04 Feb 2026 10:32:15 -0500  
+
+Hi Jennifer,  
+
+I hope this email finds you well. I'm reaching out because I noticed ChannelBridge, the Boston-based e-commerce leader with over 4,241 employees, has been evaluating options like Intercom and your existing CRM workflows to address poor visibility into pipeline health—especially amid scaling issues during peak traffic periods.  
+
+Technova's platform integrates seamlessly with stacks like Elixir, Phoenix, Fly.io, PostgreSQL, and LiveView, providing real-time dashboards that give your team crystal-clear insights into deal progression without disrupting your current setup. We've helped similar companies cut forecasting errors by 40% and handle Black Friday surges effortlessly.  
+
+Would you be open to a 15-minute call next week to discuss how we can support your priorities post that recent board meeting?  
+
+Best regards,  
+Alex Morgan  
+Sales Representative  
+Technova  
++1 (555) 123-4567  
+alex.morgan@technova.io  
+
+---
+
+From: Jennifer Moreau <jmoreau@channelbridge.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Tailored pipeline visibility solution for ChannelBridge's scaling needs  
+Date: Thu, 05 Feb 2026 14:21:47 -0500  
+
+Hi Alex,  
+
+Thanks for the note—I've been at ChannelBridge for 6 years now, reporting directly to the CEO, and pipeline visibility has indeed been a headache, especially with our growth. We're scaling Elixir/Phoenix apps on Fly.io, and peak traffic is killing us.  
+
+Quick question: How does Technova handle security during integrations? We have a security audit coming up in Q3.  
+
+Best,  
+Jennifer Moreau  
+VP of Engineering  
+ChannelBridge  
++1 (617) 555-7890  
+jmoreau@channelbridge.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Jennifer Moreau <jmoreau@channelbridge.com>  
+Subject: Re: Tailored pipeline visibility solution for ChannelBridge's scaling needs  
+Date: Thu, 05 Feb 2026 16:45:22 -0500  
+
+Hi Jennifer,  
+
+Great to hear from you—thanks for the context on your 6-year tenure and direct CEO reporting line. That's impressive.  
+
+On security: Technova is SOC 2 Type II compliant, with end-to-end encryption for all data in transit and at rest. Our integrations use OAuth 2.0 and never store credentials, making it audit-ready. We've passed audits for e-commerce clients just like yours facing Q3 deadlines. As a light proposal, we could start with a custom POC integrating your PostgreSQL/LiveView setup to demo pipeline health visibility—no commitment needed.  
+
+Open to hopping on a call next week?  
+
+Best,  
+Alex Morgan  
+Sales Representative  
+Technova  
++1 (555) 123-4567  
+alex.morgan@technova.io  
+
+> On Thu, 05 Feb 2026 14:21:47 -0500 Jennifer Moreau <jmoreau@channelbridge.com> wrote:  
+> Hi Alex,  
+>   
+> Thanks for the note—I've been at ChannelBridge for 6 years now, reporting directly to the CEO, and pipeline visibility has indeed been a headache, especially with our growth. We're scaling Elixir/Phoenix apps on Fly.io, and peak traffic is killing us.  
+>   
+> Quick question: How does Technova handle security during integrations? We have a security audit coming up in Q3.  
+>   
+> Best,  
+> Jennifer Moreau  
+> VP of Engineering  
+> ChannelBridge  
+> +1 (617) 555-7890  
+> jmoreau@channelbridge.com  
+
+---
+
+From: Jennifer Moreau <jmoreau@channelbridge.com>  
+To: Maya Williams <mwilliams@channelbridge.com>, Alex Morgan <alex.morgan@technova.io>  
+CC:  
+Subject: Fwd: Re: Tailored pipeline visibility solution for ChannelBridge's scaling needs  
+Date: Fri, 06 Feb 2026 09:15:09 -0500  
+
+Maya,  
+
+FYI on this thread from Technova—thoughts on their security claims and POC idea? They seem to address our pipeline visibility gaps and scaling pains. Alex, looping in Maya Williams, our Director of IT, for her input.  
+
+Thanks,  
+Jennifer  
+
+---------- Forwarded message ----------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Thu, 05 Feb 2026 16:45:22 -0500  
+Subject: Re: Tailored pipeline visibility solution for ChannelBridge's scaling needs  
+To: Jennifer Moreau <jmoreau@channelbridge.com>  
+
+Hi Jennifer,  
+
+Great to hear from you—thanks for the context on your 6-year tenure and direct CEO reporting line. That's impressive.  
+
+On security: Technova is SOC 2 Type II compliant, with end-to-end encryption for all data in transit and at rest. Our integrations use OAuth 2.0 and never store credentials, making it audit-ready. We've passed audits for e-commerce clients just like yours facing Q3 deadlines. As a light proposal, we could start with a custom POC integrating your PostgreSQL/LiveView setup to demo pipeline health visibility—no commitment needed.  
+
+Open to hopping on a call next week?  
+
+[signature block as above]  
+
+> [quoted previous email from Jennifer]  
+
+---
+
+From: Maya Williams <mwilliams@channelbridge.com>  
+To: Jennifer Moreau <jmoreau@channelbridge.com>, Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Fwd: Re: Tailored pipeline visibility solution for ChannelBridge's scaling needs  
+Date: Mon, 09 Feb 2026 11:28:33 -0500  
+
+Hi Alex, Jennifer,  
+
+Maya here from IT. Jennifer forwarded this over because we're deep in negotiation stage on tools beyond Intercom and our CRM workflows, especially after the board meeting last month shifted priorities toward better pipeline health and hiring specialized Elixir engineers—which has been tough.  
+
+Technically, how does Technova perform under high load on Fly.io with Phoenix LiveView? We see spikes that crash visibility during peaks, and end of quarter is brutal. Also, they mentioned the stack matches—can it query PostgreSQL live without latency?  
+
+Thanks,  
+Maya Williams  
+Director of IT  
+ChannelBridge  
++1 (617) 555-0123  
+mwilliams@channelbridge.com  
+
+> On Fri, 06 Feb 2026 09:15:09 -0500 Jennifer Moreau <jmoreau@channelbridge.com> wrote:  
+> Maya,  
+>   
+> FYI on this thread from Technova—thoughts on their security claims and POC idea? They seem to address our pipeline visibility gaps and scaling pains. Alex, looping in Maya Williams, our Director of IT, for her input.  
+>   
+> ---------- Forwarded message ----------  
+> [full quoted previous emails]  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Maya Williams <mwilliams@channelbridge.com>, Jennifer Moreau <jmoreau@channelbridge.com>  
+CC:  
+Subject: Re: Fwd: Re: Tailored pipeline visibility solution for ChannelBridge's scaling needs  
+Date: Mon, 09 Feb 2026 14:07:51 -0500  
+
+Hi Maya and Jennifer,  
+
+Thanks for the intro, Maya—excited to address your IT perspective. ChannelBridge's setup with Elixir, Phoenix, Fly.io, PostgreSQL, and LiveView is a perfect fit for Technova.  
+
+On performance: We deploy serverlessly alongside Fly.io, auto-scaling to handle 10x spikes without latency. Live queries to PostgreSQL use streaming WebSockets via Phoenix channels, ensuring sub-100ms updates even at peak— we've benchmarked this for e-commerce clients hitting millions of events/minute. No crashes, full visibility into pipeline health during end-of-quarter crunches.  
+
+Security audit prep is covered with our compliance toolkit. Given the high urgency post-board meeting and hiring challenges for specialized engineers, Jennifer, I'll send a detailed pricing proposal by Friday—tailored up to your $200K direct sign-off threshold (board for above). Can you approve POCs like this internally?  
+
+Let's schedule that call next week to demo. Available Wed/Thu?  
+
+Best,  
+Alex Morgan  
+Sales Representative  
+Technova  
++1 (555) 123-4567  
+alex.morgan@technova.io  
+
+> On Mon, 09 Feb 2026 11:28:33 -0500 Maya Williams <mwilliams@channelbridge.com> wrote:  
+> Hi Alex, Jennifer,  
+>   
+> Maya here from IT. Jennifer forwarded this over because we're deep in negotiation stage on tools beyond Intercom and our CRM workflows, especially after the board meeting last month shifted priorities toward better pipeline health and hiring specialized Elixir engineers—which has been tough.  
+>   
+> Technically, how does Technova perform under high load on Fly.io with Phoenix LiveView? We see spikes that crash visibility during peaks, and end of quarter is brutal. Also, they mentioned the stack matches—can it query PostgreSQL live without latency?  
+>   
+> [signature]  
+>   
+> > [quoted Jennifer's forward and prior thread]

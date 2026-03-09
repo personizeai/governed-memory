@@ -1,0 +1,17 @@
+### Account Overview
+Maple Analytics is a Digital Media company with 403 employees and approximately $29M in annual revenue. The primary contact is Marcus Chen, VP of Engineering at Maple Analytics (marcus.chen@mapleanalytics.com). As a mid-sized player in the digital media space, Maple Analytics has experienced rapid early growth, leading to accumulated technical challenges. They currently rely on a tech stack including Ruby on Rails, Heroku, PostgreSQL, and Sidekiq. Marcus oversees engineering teams grappling with scalability and efficiency issues in this environment.
+
+### Key Details
+Maple Analytics faces several critical pain points: security concerns with their current architecture, significant technical debt from rapid early growth, slow deployment cycles that take 2-3 weeks per release, and integration complexity with legacy systems. These issues are hindering their ability to innovate quickly in the competitive digital media landscape. Key competitors in their evaluation include Intercom and ZoomInfo, positioning our solution as a strong alternative to address these gaps. Marcus Chen, as VP of Engineering, is the key technical decision-maker, deeply involved in assessing tools that can streamline deployments and enhance security without disrupting their Ruby on Rails/Heroku foundation.
+
+### Deal Status
+This represents a high-value opportunity with a potential deal value of $650,000. The decision timeline is targeted for Q4 2026, allowing time for proof-of-concept demos and integration testing. Initial discussions with Marcus have uncovered alignment on pain points, with strong interest in how our platform can reduce deployment times and mitigate security risks. No formal proposal has been submitted yet, but verbal buy-in on addressing technical debt is positive. Risks include budget cycles tied to their fiscal year and preference for incumbents like Intercom.
+
+### Next Steps
+- Schedule a 30-minute technical deep-dive call with Marcus Chen by end of next week to demo integration with PostgreSQL/Sidekiq.
+- Prepare customized ROI analysis highlighting 50-70% faster deployments vs. their 2-3 week cycles.
+- Follow up on security audit sharing by EOW to build trust.
+- Engage sales engineering for a POC plan tailored to Ruby on Rails/Heroku stack, aiming for Q1 2026 kickoff.
+- Monitor competitor activity from Intercom/ZoomInfo and position differentiators proactively.
+
+(Word count: 378)

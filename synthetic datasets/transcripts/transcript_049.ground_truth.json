@@ -1,0 +1,79 @@
+{
+  "sample_id": "transcript_049",
+  "content_type": "meeting_transcript",
+  "company": "SyncWave",
+  "industry": "B2B SaaS",
+  "duration_minutes": 30,
+  "target_word_count": 2054,
+  "actual_word_count": 1416,
+  "expected_facts": [
+    {
+      "text": "They've also been evaluating Chorus.ai",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with poor developer experience slowing feature velocity",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with high infrastructure costs eating into margins",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $172M",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes C#, .NET, Azure, SQL Server, RabbitMQ",
+      "type": "explicit"
+    },
+    {
+      "text": "Brian Alvarez has been at SyncWave for 7 years",
+      "type": "explicit"
+    },
+    {
+      "text": "SyncWave is a B2B SaaS company with about 69 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Brian reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Denver",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Sales",
+    "company_name": "SyncWave",
+    "company_size": "51-200",
+    "technology_stack": "C#, .NET, Azure, SQL Server, RabbitMQ",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "high infrastructure costs eating into margins",
+      "poor developer experience slowing feature velocity",
+      "lack of real-time analytics for decision making",
+      "customer churn from slow support response times"
+    ],
+    "decision_timeline": "2026-08-18",
+    "competitors_mentioned": [
+      "Chorus.ai"
+    ],
+    "decision_maker": true,
+    "buying_process": "IT committee evaluates quarterly, next window is Q3 2026",
+    "urgency_level": "Low"
+  },
+  "planted_issues": {
+    "pronoun_issues": 5,
+    "temporal_issues": 1,
+    "duplicate_facts": 2
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.79,
+  "entity_id": "brian-syncwave",
+  "entity_email": "brian@syncwave.io",
+  "entity_website": "https://syncwave.io",
+  "contact_name": "Brian",
+  "record_id": "crm-brian-syncwave"
+}

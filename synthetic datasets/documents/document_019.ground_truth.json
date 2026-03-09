@@ -1,0 +1,90 @@
+{
+  "sample_id": "document_019",
+  "content_type": "wiki_document",
+  "company": "BioSignal AI",
+  "industry": "Healthcare Tech",
+  "target_word_count": 2485,
+  "actual_word_count": 1613,
+  "expected_facts": [
+    {
+      "text": "Engineering team is growing \u2014 hired 13 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $600,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using HubSpot CRM with Zapier automations",
+      "type": "explicit"
+    },
+    {
+      "text": "BioSignal AI is a Healthcare Tech company with about 45 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with poor visibility into pipeline health",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with compliance audit failures on data handling",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q3",
+      "type": "explicit"
+    },
+    {
+      "text": "Marcus Williams has been at BioSignal AI for 7 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating custom internal tool",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Infrastructure",
+    "company_name": "BioSignal AI",
+    "company_size": "11-50",
+    "technology_stack": "Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "compliance audit failures on data handling",
+      "poor visibility into pipeline health",
+      "security concerns with current architecture",
+      "vendor lock-in with current cloud provider"
+    ],
+    "deal_value": 600000,
+    "decision_timeline": "2026-05-13",
+    "competitors_mentioned": [
+      "custom internal tool"
+    ],
+    "next_steps": "Set up POC environment for Marcus's team to evaluate",
+    "buying_process": "Procurement requires three competitive bids before decision",
+    "current_solution": "HubSpot CRM with Zapier automations",
+    "urgency_level": "Critical"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Elena Volkov",
+      "title": "Head of Product",
+      "role": "Champion"
+    },
+    {
+      "name": "Maria O'Brien",
+      "title": "Chief Revenue Officer",
+      "role": "Champion"
+    }
+  ],
+  "property_coverage": 0.93
+}

@@ -1,0 +1,16 @@
+### Account Overview
+Violet Analytics is a prominent EdTech company specializing in analytics solutions for educational institutions. With approximately 752 employees and annual revenue of ~$163M, the company is experiencing rapid growth but faces operational challenges that could impact scalability. Key contact is Maya Novak, VP of Operations (maya.novak@violetanalytics.com), who oversees infrastructure and efficiency initiatives. As a B2B prospect, Violet Analytics represents a high-value opportunity due to its sizable footprint in the EdTech sector and clear needs for modernizing CRM and operational workflows.
+
+### Key Details
+Violet Analytics currently runs on a robust tech stack including Java, Micronaut, GCP, Spanner, and Pub/Sub, which supports their data-intensive operations. However, Maya Novak has highlighted critical pain points: security concerns with their current architecture, which expose vulnerabilities in handling sensitive student data, and high infrastructure costs that are eating into margins amid rising cloud expenses. They are evaluating alternatives to their existing CRM workflows and tools like ZoomInfo, seeking a more secure, cost-efficient platform to streamline sales and operations without disrupting their GCP-centric environment.
+
+### Deal Status
+This prospect is in the early evaluation stage with a projected deal value of $250,000. Maya Novak has expressed interest in solutions addressing their security and cost issues, positioning our offering as a strong fit against competitors. Decision timeline is targeted for Q4 2026, aligned with their fiscal planning cycle, allowing time for proofs-of-concept and stakeholder alignment. Initial discussions indicate strong buy-in from operations leadership, with potential expansion to other departments post-pilot.
+
+### Next Steps
+- Schedule a 30-minute discovery call with Maya Novak by end of next week to deep-dive into security concerns and demo integration with their Java/Micronaut stack on GCP.
+- Prepare customized ROI analysis showing 20-30% infrastructure cost savings, tailored to their Spanner/Pub/Sub usage.
+- Share case studies from similar EdTech clients to build credibility against ZoomInfo and legacy CRM workflows.
+- Follow up in 2 weeks if no response, looping in any identified technical stakeholders for a joint technical review.
+
+(Word count: 378)

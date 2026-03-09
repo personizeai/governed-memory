@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_017",
+  "category": "cloud_provider",
+  "company": "Solstice AI",
+  "contact": "Rachel Novak",
+  "industry": "E-commerce",
+  "stale_date": "2025-12-12",
+  "fresh_date": "2026-01-02",
+  "stale_claim": "Solstice AI runs their infrastructure on AWS",
+  "fresh_claim": "Solstice AI migrated their infrastructure to Google Cloud",
+  "expected_query": "What cloud provider does Solstice AI use?",
+  "expected_answer": "migrated their infrastructure to Google Cloud",
+  "stale_word_count": 177,
+  "fresh_word_count": 214
+}

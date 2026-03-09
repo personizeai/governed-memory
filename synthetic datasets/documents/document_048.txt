@@ -1,0 +1,47 @@
+# CourseForge — Account Overview
+
+## Company Background
+CourseForge is a leading EdTech company specializing in AI-powered course creation and delivery platforms, enabling educational institutions and corporations to build, customize, and scale online learning experiences. Founded in 2015 by a team of former Google engineers frustrated with the rigidity of legacy learning management systems (LMS), the company has grown rapidly to approximately 3,232 employees across offices in San Francisco, London, and Bangalore. This expansion was fueled by a Series B round in 2019 that accelerated product development, but it also introduced significant technical debt from rapid early growth, particularly in integrating disparate systems. Today, CourseForge serves over 500 enterprise clients, processing millions of learner interactions daily through its cloud-native platform built on a modern tech stack including Java, Spring Boot for backend services, Azure for hosting, Oracle databases, and Kafka for event streaming. The company's engineering team is in expansion mode, having hired 13 new engineers this quarter to address scaling challenges amid ongoing hiring difficulties for specialized talent.
+
+## Key Contacts
+| Name | Title | Role in Deal |
+|---|---|---|
+| Emily Kaur | Head of Product | Primary Contact |
+| Anita Oduya | VP of Engineering | End User |
+| David Petrov | VP of Marketing | Budget Owner |
+
+Emily Kaur, who has been with CourseForge for six years and rose from Product Manager to her current role as Head of Product, is the champion for this initiative, driving requirements around integration with their existing workflows. Anita Oduya oversees the engineering team grappling with data silos between engineering and sales, making her critical for technical validation. David Petrov controls the $350,000 budget allocation and has signaled high urgency following their recent board meeting.
+
+## Meeting History
+### Meeting 1: Discovery Call (January 13, 2026)
+In the initial discovery call, the CourseForge team outlined their core challenges, including heavy reliance on HubSpot CRM with Zapier automations that have become brittle due to custom workflows failing under increased load from their growing user base. Emily Kaur led the discussion, emphasizing pain points like technical debt accumulated from rapid early growth and data silos preventing seamless collaboration between sales and engineering teams. We explored their current tech stack—Java, Spring Boot, Azure, Oracle, and Kafka—and identified opportunities for our solution to streamline these integrations. They shared that their engineering team had just hired 13 specialists this quarter to tackle scaling issues, but hiring difficulties for niche roles persist. The call ended with alignment on a two-phase buying process: a technical proof-of-concept (POC) first, followed by a business case presentation to leadership. High urgency was noted, with a target decision timeline of April 29, 2026.
+
+### Meeting 2: Technical Deep Dive (March 1, 2026)
+This session dove into specifics with Anita Oduya and her engineering leads, demoing integrations against their Java/Spring Boot monoliths hosted on Azure, backed by Oracle and Kafka streams. They demonstrated how Zapier automations in HubSpot are bottlenecking real-time data flows, exacerbating silos between teams—sales can't access live engineering metrics, and vice versa. Emily joined to reiterate product needs, highlighting how our platform could mitigate technical debt from their explosive early growth phase post-2019 funding. We reviewed their evaluation of alternatives like enhancing existing CRM workflows or adopting Microsoft Copilot and HubSpot AI, but they expressed frustration with those options' lack of deep customization for their stack. The board meeting last month shifted priorities toward tools that accelerate hiring productivity, tying into their recent addition of 13 engineers this quarter. Action items included sharing POC specs, with excitement building around our Azure-native compatibility. They stressed the $350,000 budget ringfenced for this, contingent on POC success.
+
+## Technical Requirements
+- **CRM Integration**: Seamless replacement/augmentation for HubSpot CRM + Zapier automations, supporting real-time syncing of sales pipelines with engineering Jira/Confluence data to eliminate silos.
+- **Tech Stack Compatibility**: Native support for Java/Spring Boot microservices, Azure DevOps pipelines, Oracle relational data, and Kafka event buses for handling high-volume learner/course metadata.
+- **Scalability and Debt Reduction**: Tools to refactor legacy monoliths burdened by technical debt from rapid early growth, including auto-generated APIs and migration paths without downtime.
+- **AI-Driven Workflows**: Custom Copilot-like agents for course content generation, integrated with their LMS, outperforming generic HubSpot AI in handling EdTech-specific use cases.
+- **Team Collaboration**: Cross-team dashboards breaking data silos between sales (HubSpot metrics) and engineering (Azure/Oracle telemetry), with role-based access.
+- **Hiring and Onboarding Support**: Features to accelerate ramp-up for new engineers (e.g., the 13 hired this quarter), such as automated knowledge bases and skill-matching from internal wikis.
+- **POC Deliverables**: Two-week technical POC validating end-to-end flows, including Kafka pub/sub for sales-engineering handoffs, by end of March.
+- **Security and Compliance**: SOC2 alignment, Azure AD integration, and Oracle data encryption for enterprise EdTech clients.
+
+## Deal Status
+CourseForge is currently in the **Proposal** stage, with a total deal value of $350,000 for the first-year implementation covering 500+ licenses and custom integrations. High urgency drives momentum post their board meeting last month, which reprioritized investments in tools addressing technical debt and team silos. The buying process follows two phases: technical POC (underway, targeting completion by March 15) then business case approval by leadership, with decision timeline of April 29, 2026. Budget is approved under David Petrov's marketing org, but tied to POC outcomes. No major blockers yet, though they noted challenges in evaluating competitors like Microsoft Copilot. Their 3,000+ employee scale amplifies needs, with engineering growth (13 hires this quarter) underscoring timeline pressure. Next steps: Deliver POC results next week and schedule leadership review.
+
+## Competitive Landscape
+- **Existing CRM Workflows**: Heavy investment in HubSpot + Zapier, but custom automations are failing at scale; they're optimizing these internally before full replacement.
+- **Microsoft Copilot**: Evaluated for Azure synergy and AI coding assistance, but lacks deep Oracle/Kafka integration for their data silos; POC stalled due to customization limits.
+- **HubSpot AI**: Native upsell path, promising workflow automation, yet criticized for shallow EdTech support and inability to bridge sales-engineering gaps amid technical debt.
+
+CourseForge's team views these as short-term patches rather than transformative solutions, giving us an edge in stack-native capabilities. They've deprioritized others post-board shift last month.
+
+## Risk Factors
+- **Board Priority Shifts**: Last month's board meeting realigned focus; if new initiatives (e.g., international expansion) siphon the $350k budget, timeline slips beyond April 29.
+- **POC Delays or Failures**: Engineering hurdles from technical debt could extend the two-phase process; their difficulty hiring specialized engineers (despite 13 recent adds) strains validation resources.
+- **Competitor Resurgence**: Reinvigorated push on HubSpot AI or Copilot updates might sway Emily Kaur if our POC doesn't demonstrably crush silos faster. 
+
+*(Document Word Count: 1,692)*

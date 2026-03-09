@@ -1,0 +1,61 @@
+{
+  "sample_id": "chat_044",
+  "content_type": "chat_log",
+  "company": "ChannelBridge",
+  "industry": "E-commerce",
+  "message_count_target": 43,
+  "actual_word_count": 631,
+  "expected_facts": [
+    {
+      "text": "Currently using legacy Java application maintained by one person",
+      "type": "explicit"
+    },
+    {
+      "text": "Yusuf Williams has been at ChannelBridge for 1 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $120,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating ZoomInfo, existing CRM workflows",
+      "type": "explicit"
+    },
+    {
+      "text": "ChannelBridge is a E-commerce company with about 2671 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Customer Success",
+    "company_name": "ChannelBridge",
+    "company_size": "1000+",
+    "technology_stack": "Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+    "deal_stage": "Qualification",
+    "deal_value": 120000,
+    "competitors_mentioned": [
+      "ZoomInfo",
+      "existing CRM workflows"
+    ],
+    "decision_maker": true,
+    "next_steps": "Yusuf will share the RFP by end of week",
+    "current_solution": "legacy Java application maintained by one person"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 3,
+    "duplicate_facts": 2
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@anita.e"
+  ],
+  "property_coverage": 0.71
+}

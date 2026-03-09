@@ -1,0 +1,62 @@
+# RouteWise — Account Overview
+
+## Company Background
+
+RouteWise is a logistics technology company specializing in route optimization and supply chain management software, headquartered in their main office in Seattle, Washington. With approximately 83 employees—falling within the 51-200 company size range—they provide SaaS solutions that help mid-sized logistics firms streamline delivery operations, reduce fuel costs, and improve real-time tracking for fleets across North America. Founded in 2018 by a group of former Amazon logistics engineers frustrated with inefficient routing tools during the e-commerce boom, RouteWise bootstrapped its way to profitability by 2022, focusing on AI-driven algorithms that integrate seamlessly with existing warehouse management systems. Their growth has been steady, fueled by a 23% increase in IT budget this fiscal year, allowing them to tackle internal challenges like fragmented tooling across departments while serving clients in e-commerce fulfillment and last-mile delivery sectors. Today, they handle over 500,000 routes daily for partners like regional grocers and parcel services, positioning them as a nimble player in a competitive logistics SaaS market dominated by giants.
+
+## Key Contacts
+
+| Name | Title | Role in Deal | Email | Phone | Notes |
+|---|---|---|---|---|---|
+| James Johnson | VP of Engineering | Primary Contact | james.j@routewise.com | (206) 555-0101 | At RouteWise for 4 years; leads tech eval and has been championing integration needs. |
+| Lucia Mitchell | VP of Sales | Technical Evaluator | lucia.m@routewise.com | (206) 555-0102 | Focuses on sales-engineering alignment; highlighted data silos in early calls. |
+| Robert Johansson | VP of Operations | Budget Owner | robert.j@routewise.com | (206) 555-0103 | Controls $1.8M allocation; emphasized ROI during discovery. |
+
+James has been instrumental in steering conversations toward technical feasibility, drawing from his deep experience with their stack. Lucia brings a cross-functional perspective, often bridging gaps between teams, while Robert holds the purse strings and prioritizes quick wins.
+
+## Meeting History
+
+### Meeting 1: Discovery Call (January 13, 2026)
+
+In this initial 45-minute Zoom call, the RouteWise team outlined their core pain points, including data silos between engineering and sales teams that hinder real-time visibility into customer routes and performance metrics. James Johnson led the discussion, explaining how their current setup—built on Go for backend services, orchestrated via Kubernetes on AWS with DynamoDB for storage and gRPC for inter-service communication—struggles with fragmented tooling across departments, leading to poor developer experience and slowed feature velocity. The team expressed frustration over manual data handoffs that delay sales forecasting and route adjustments, with Robert Johansson noting the company's recent IT budget increase of 23% this fiscal year as a green light for consolidation. We positioned RouteWise's platform as a unifying layer, and they agreed to a deep dive; James mentioned their security audit coming up in Q3 as a potential accelerator. Attendees appreciated the high-level demo, but it became clear that integration with their gRPC APIs would be key—no firm commitments yet, but enthusiasm was high.
+
+### Meeting 2: Technical Deep Dive (February 4, 2026)
+
+Two weeks after the discovery call, this 90-minute session dove into architecture compatibility, with James sharing screen to walkthrough their Kubernetes clusters on AWS and DynamoDB schemas handling high-volume logistics data. Lucia Mitchell probed on sales-engineering data sync, reiterating silos as a top issue, while Robert quizzed on scalability for their 83-person operation's growing fleet management needs. We demoed gRPC endpoint mocking and Go SDK integration, addressing fragmented tooling by showing how our platform unifies dev workflows without refactoring their stack. They raised concerns about developer velocity—James noted poor experiences slowing releases—and we committed to a POC using their real DynamoDB data. The meeting ended positively, with homework assigned for a joint architecture diagram; their upcoming Q3 security audit was flagged again as influencing timelines. Robert hinted at the $1.8 million budget envelope, signaling seriousness, though they referenced evaluations of alternatives like ZoomInfo and Intercom for similar unification.
+
+Follow-up actions included sending over detailed integration docs last week, which James confirmed receipt of via Slack. Next steps pending their feedback, expected imminently.
+
+## Technical Requirements
+
+- **API Integration**: Native support for gRPC protocols to interface with their Go-based microservices without middleware overhead, ensuring low-latency route data syncing.
+- **Data Unification**: Tools to break down data silos between engineering (DynamoDB-stored telemetry) and sales (CRM exports), enabling cross-team dashboards for route optimization metrics.
+- **Kubernetes Compatibility**: Helm charts or operators for seamless deployment on their AWS EKS clusters, supporting auto-scaling for peak logistics seasons.
+- **Developer Experience**: IDE plugins and CLI tools tailored for Go developers to improve workflow velocity, addressing fragmented tooling pains with unified CI/CD pipelines.
+- **Scalability and Storage**: Horizontal scaling to handle DynamoDB throughput for 500k+ daily routes, with cost-optimized AWS integrations.
+- **Security and Compliance**: SOC 2 Type II readiness for their Q3 audit, including RBAC, encryption at rest/transit matching their stack.
+- **Analytics Layer**: Real-time querying across silos for sales forecasting and engineering insights, reducing manual ETL processes.
+- **Customization**: Extensible via Go SDK for custom logistics algorithms, preserving their IP while enhancing feature rollout speed.
+
+These map directly to their pain points: fragmented tooling, data silos, and poor developer experience slowing feature velocity.
+
+## Deal Status
+
+Currently in the Discovery stage, this opportunity represents a potential $1,800,000 annual commitment for enterprise licensing covering their full Seattle-based operation and remote teams. With a decision timeline targeted for June 2, 2026—about four months from now—the deal has medium urgency, bolstered by their 23% IT budget uplift this fiscal year and allocated envelope matching our pricing model. Blockers include awaiting POC results on gRPC-DynamoDB integration and alignment on security features ahead of Q3 audit; James Johnson's buy-in remains strong, but Robert is pushing for competitive benchmarks. No red flags on budget—it's ringfenced—but we need to differentiate sharply from their evaluations next week. Pipeline progression: 40% probability, with executive briefing slotted for late March to accelerate.
+
+Their roughly 80-employee team size underscores the need for scalable per-user pricing, which we've tailored accordingly. Momentum is building post-deep dive, but relative timelines like "in the next quarter" for audit prep add pressure to close gaps swiftly.
+
+## Competitive Landscape
+
+RouteWise is actively evaluating alternatives to address their fragmented tooling and data silos:
+- **ZoomInfo**: Strong contender for sales intelligence, but lacks deep engineering integrations with Kubernetes or gRPC; they're testing it for CRM enrichment, though James noted integration friction with their AWS setup.
+- **Intercom**: In play for customer-facing comms and basic analytics, appealing to Lucia's sales team, but falls short on backend unification for DynamoDB route data—seen as a partial fit for silos but not developer velocity.
+
+No mentions of others like HubSpot or Salesforce, but their focus remains on tools bridging eng-sales divides. We've highlighted our logistics-specific edge (e.g., route viz) over these generalists; last month's deep dive positioned us favorably, but they plan side-by-side pilots soon.
+
+## Risk Factors
+
+- **Security Audit Timing**: Q3 audit could derail if our compliance docs don't align perfectly with their AWS/DynamoDB controls—James flagged this twice, and delays here might pause decisions.
+- **Competitive Poaching**: Ongoing ZoomInfo/Intercom evals risk them settling for siloed fixes; unclear pronoun references in their notes (e.g., "they said it integrates well, but who?") highlight internal confusion we could exploit with clarity.
+- **Internal Buy-In Gaps**: Budget owner Robert's ROI scrutiny amid medium urgency; if data silos persist without quick wins, fragmented tooling frustration could lead to status quo inertia, especially with their small team's bandwidth constraints. 
+
+This account shows promise for expansion post-win, given their growth trajectory.

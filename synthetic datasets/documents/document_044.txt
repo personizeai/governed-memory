@@ -1,0 +1,50 @@
+# ChannelBridge — Account Overview
+
+## Company Background
+ChannelBridge is a dynamic e-commerce platform specializing in multi-channel retail solutions, enabling brands to seamlessly integrate online stores, physical retail, and social commerce channels. With approximately 363 employees, the company falls within the 201-1000 size bracket, positioning it as a mid-sized player in the competitive e-commerce industry. Founded in 2018 by a trio of former Amazon executives frustrated with fragmented customer data across sales channels, ChannelBridge quickly scaled by addressing the pain of siloed inventory and order management. Today, it powers over 500 mid-market retailers, processing millions in transactions annually, but faces growing challenges like scaling during peak traffic periods—such as Black Friday surges—that strain their infrastructure. Their tech stack, built on Rust for high-performance backends with Actix web framework, leverages AWS for cloud hosting, PostgreSQL for reliable data storage, and NATS for real-time messaging, all while planning a full migration off legacy monolithic systems by the end of this year to modernize operations.
+
+## Key Contacts
+| Name | Title | Role in Deal |
+|---|---|---|
+| Yusuf Oduya | VP of Engineering | Primary Contact |
+| Emily O'Brien | VP of Marketing | Champion |
+| Jennifer Johansson | Head of Infrastructure | Champion |
+| Chen Hassan | VP of Operations | End User |
+
+Yusuf Oduya, who has been with ChannelBridge for five years and reports directly to the CEO, serves as our primary technical liaison, driving requirements gathering and POC evaluations. Emily and Jennifer have emerged as strong internal advocates after our initial demos, while Chen focuses on operational integration, particularly around automating manual customer onboarding processes currently bogged down by their Pipedrive setup with Slack notifications.
+
+## Meeting History
+### Meeting 1: Discovery Call (January 15, 2026)
+In this introductory 45-minute Zoom call with Yusuf Oduya and Emily O'Brien, we uncovered ChannelBridge's core pain points: manual processes for customer onboarding that delay time-to-value, scaling issues during peak traffic periods leading to downtime, customer churn from slow support response times, and high infrastructure costs eating into margins. They highlighted their current reliance on Pipedrive integrated with Slack notifications for basic CRM workflows, which lacks the scalability needed for their Rust-Actix backend on AWS. Yusuf shared that they've allocated roughly $450,000 in budget for a solution, and they're evaluating three vendors including ours. The team expressed interest in our platform's ability to handle real-time data syncing, setting a positive tone; they committed to a follow-up technical session. Last quarter's traffic spikes were referenced as a recent example of their frustrations.
+
+### Meeting 2: Technical Deep Dive (March 9, 2026)
+This two-hour deep dive involved Yusuf, Jennifer Johansson, and Chen Hassan, where we mapped their tech stack—Rust applications using Actix for APIs, deployed on AWS with PostgreSQL databases and NATS for event streaming—against our integration capabilities. Discussions centered on their migration plans away from legacy systems by year-end, with a focus on resolving scaling bottlenecks during high-traffic events and automating onboarding to reduce manual CRM handoffs from Pipedrive-Slack. They demoed their setup, revealing how slow support responses contribute to churn, and probed our POC setup for high infra cost optimizations. Jennifer championed our NATS compatibility, while Yusuf pushed for a proof-of-concept environment tailored to his engineering team. It was agreed that we'd prioritize their $450k budget constraints in the proposal. Two weeks prior to this meeting, they'd hit another scaling incident, underscoring urgency despite their low overall priority level.
+
+## Technical Requirements
+- **Scalability for Peak Traffic**: Support for auto-scaling Rust/Actix services on AWS to handle Black Friday-level surges without downtime, addressing current bottlenecks that cause order processing delays.
+- **Database and Messaging Integration**: Seamless connectivity with PostgreSQL for transactional data and NATS for real-time pub/sub messaging, enabling low-latency customer interactions.
+- **CRM Automation**: Eliminate manual onboarding processes by integrating with or replacing Pipedrive-Slack workflows, automating customer data sync and support ticketing to cut response times and churn.
+- **Legacy Migration Support**: Tools for phased migration from monolithic legacy systems by end-of-year, with minimal disruption to existing Rust backend.
+- **Cost Optimization**: Features to reduce high AWS infrastructure costs through efficient resource provisioning and monitoring, preserving margins on their ~$450k allocated budget.
+- **Real-Time Support Analytics**: Dashboards to track and improve support response times, directly tackling customer churn linked to delays.
+- **Multi-Channel E-commerce Sync**: Unified data layer for online, retail, and social channels, leveraging their stack for performant order and inventory management.
+
+These requirements align closely with their 363-employee operation's growth trajectory, where engineering leads like Yusuf emphasize performance in Rust and Actix environments.
+
+## Deal Status
+ChannelBridge is currently in the Negotiation stage, with a potential deal value of $450,000 annually for our enterprise platform. The decision timeline targets June 9, 2026, though urgency remains low due to their stable but strained operations. Next steps include setting up a dedicated POC environment for Yusuf's team to evaluate integrations with their Rust-Actix-AWS-PostgreSQL-NATS stack, particularly testing scaling under simulated peak loads and onboarding automation. Budget is confirmed at approximately $450k, covering implementation and first-year support. Blockers are minimal but include internal alignment on vendor selection among the three they're considering; we've positioned strongly via champions Emily and Jennifer. Their migration off legacy systems by December adds momentum, but high infrastructure costs and manual processes continue to pressure timelines. Recent meetings have built rapport, and we're optimistic about closing post-POC in the coming months.
+
+## Competitive Landscape
+ChannelBridge is rigorously evaluating three vendors, including ours, to replace their Pipedrive-Slack CRM limitations:
+- **Vendor A (HubSpot-like)**: Strong in marketing automation but weak on real-time scaling for their Rust/Actix needs; Emily noted integration gaps with NATS.
+- **Vendor B (Custom Enterprise)**: Offers deep AWS/PostgreSQL support and matches their migration timeline, but at higher costs exceeding their $450k budget—Yusuf flagged pricing as a concern.
+- **Us (ChannelBridge's Preferred)**: Best fit for e-commerce multi-channel sync, with proven POC potential for peak traffic scaling and onboarding automation; Jennifer highlighted our edge in reducing churn via faster support.
+
+They're in late-stage talks with Vendor B, but our technical alignment and lower urgency give us room to differentiate through the upcoming POC.
+
+## Risk Factors
+- **Budget Overruns and Cost Sensitivity**: With $450k allocated, any perceived high infrastructure add-ons could trigger reevaluation, especially as margins are squeezed by AWS costs— they've reiterated this in multiple discussions.
+- **Internal Buy-In Delays**: While Yusuf reports directly to the CEO, competing priorities like the end-of-year legacy migration might sideline the POC; Jennifer mentioned resource constraints last month, and it could push past the June 9 timeline if his team is pulled elsewhere.
+- **Competitor Momentum**: Vendor B's strong PostgreSQL/NATS play poses a threat; if they demo better scaling two weeks from now, it might sway Chen, despite our champions. Their low urgency amplifies this, as they've tolerated Pipedrive issues for years.
+
+The team discussed these in the last deep dive, and he suggested we mitigate by fast-tracking the POC setup. Overall, ChannelBridge's 363 employees drive a structured but deliberate process, with their tech stack repeated as a key evaluation criterion across sections: Rust-Actix core, AWS hosting, PostgreSQL persistence, NATS streaming—ensuring any solution must weave into this ecosystem without friction.

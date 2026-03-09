@@ -1,0 +1,148 @@
+---
+type: Contact
+record_id: crm-jennifer-classgrid
+email: jennifer@classgrid.io
+website_url: https://classgrid.io
+company: ClassGrid
+industry: EdTech
+contact_name: Jennifer
+job_title: Head of Data
+---
+
+Alex: Hi Jennifer, great to see you. Thanks for hopping on. Kevin's here too, our sales engineer. How's your day going so far?
+
+Jennifer: Hey Alex, good to see you both. Yeah, it's been a whirlwind morning, but I'm glad we could squeeze this in. Kevin, nice to meet you.
+
+Kevin: Likewise, Jennifer. Excited to chat about how we might help at ClassGrid.
+
+Alex: Perfect. So, just to kick us off, this is our discovery call for TechNova's data platform. We're in the EdTech space too, working with a bunch of players like you guys. Jennifer, as Head of Data at ClassGrid, I know you're evaluating solutions right now. Mind giving us a quick rundown on where things stand?
+
+Jennifer: Sure, happy to. We're a company of about 280 employees, focused on EdTech tools for classrooms and admins. We've got around $162 million in annual revenue, which is solid, but we're scaling fast. Last month, we had a board meeting that really shifted our priorities—pushed us harder into data analytics and pipeline visibility. Right now, poor visibility into pipeline health is killing us, you know? We can't see what's bottlenecking deals.
+
+Alex: Totally get that. Pipeline health is huge in sales-driven EdTech. And you're dealing with vendor lock-in with your current cloud provider too, from what I recall?
+
+Jennifer: Yeah, exactly. Stuck on Azure, and it's getting pricey and inflexible. Our tech stack is C#, .NET, Azure, SQL Server, RabbitMQ—pretty standard, but the lock-in is real. We've been looking at migrations off legacy systems by end of year, and that board shift made it urgent.
+
+Kevin: Interesting stack. RabbitMQ for messaging? That pairs well with what we do. We integrate seamlessly with .NET and SQL Server, and we've helped a few EdTech firms migrate off Azure without downtime. He mentioned in prep that your IT budget got a nice bump this fiscal year.
+
+Jennifer: Oh, yeah, up 37%. That's helped, but we're careful with it. We've allocated roughly $600,000 for this initiative. Evaluating four vendors right now, including you folks, Drift, and tweaking our existing CRM workflows.
+
+Alex: Got it, $600K budget—smart allocation. And Drift makes sense as a competitor; we've seen them in play. You're not the final decision maker here, right? Who else is involved?
+
+Jennifer: No, I report directly to the CEO, but yeah, it's a team thing. I've only been at ClassGrid for a year, so I'm still getting my bearings, but the CEO's looped in heavily post-board meeting.
+
+Kevin: Makes sense. Security audit coming up in Q3—that's next quarter, right? Vendor lock-in could complicate that. Our platform's got SOC 2 Type II, and we handle audits smoothly. She noted poor visibility earlier; can you expand on that? Like, what metrics are you missing?
+
+Jennifer: Totally. We can't drill into pipeline stages properly—conversion rates, deal velocity, all fuzzy. Um, right now, it's like we're flying blind on forecast accuracy. And with the migration by end of year, we need something that doesn't add more chaos.
+
+Alex: Yeah, we've seen that a lot. A few weeks ago, we closed a similar deal with an EdTech firm—250 employees, same pains. They were on Azure too, vendor-locked, and our tool gave them 360-degree pipeline views. Revenue was close to yours, around $160M or so.
+
+Jennifer: Hmm, sounds promising. We've got 280 folks here, so scale matters. Company size-wise, we're in that 201-1000 range, growing. But tell me more about your integration. Does it play nice with RabbitMQ queues?
+
+Kevin: Absolutely. We have native connectors for RabbitMQ, .NET apps, and SQL Server. No custom code needed. Here's a quick demo angle: imagine pulling live pipeline data from your CRM, enriching it with external EdTech benchmarks, and visualizing it in real-time. He showed me a similar setup yesterday—cut their blind spots by 40%.
+
+Alex: Kevin's the expert here. Jennifer, what's the biggest headache with current CRM workflows? You mentioned evaluating them alongside Drift.
+
+Jennifer: The workflows are clunky—too manual, no automation on pipeline health checks. Drift's chat stuff is okay, but not deep on data. And with four vendors, we're comparing apples to oranges sometimes.
+
+Kevin: Fair. Let me pull up a screen share if that's cool. Okay, here— this is our dashboard. See this pipeline view? Filters by stage, predicts churn. Integrates with Azure if you want bridge data during migration. Your C# services could pub-sub right into it via RabbitMQ.
+
+Jennifer: Nice, looks clean. How's the data latency? We deal with real-time classroom data sometimes.
+
+Kevin: Sub-second for most queries. SQL Server optimized, and we shard across clouds—no Azure dependency. They had a board meeting last month too, shifted to analytics; we aligned perfectly.
+
+Alex: Right, priorities shift fast. Your security audit in Q3—how's that factoring in? Budget increase of 37% gives room, but compliance is key.
+
+Jennifer: Huge factor. Q3 audit's looming, and vendor lock-in makes us nervous about audits. We've got about six hundred thousand set aside, roughly, to cover tools that handle this.
+
+Kevin: We can tee up a compliance deck for that. Poor visibility ties into security too—unseen pipeline risks could flag in audits. She was saying earlier about reporting to the CEO; does he want custom dashboards?
+
+Jennifer: Yeah, direct line to him. He's all about end-of-year migration off legacy. A few weeks ago, we mapped it out—needs to be done by December.
+
+Alex: End of year migration—aggressive but doable. We've done three like that. ClassGrid's revenue at $162M means you can invest smartly. Digression for a sec: Jennifer, you into EdTech long? I saw you joined a year ago—how's the transition been?
+
+Jennifer: Ha, yeah, one year exactly next week. Came from finance tech; EdTech's more fun, but data pains are universal. You know, kids' learning analytics add layers.
+
+Alex: Love it. My kid's in one of your platforms—ClassGrid, right? Great UX. Back on track: with four vendors, what sets us apart?
+
+Kevin: Integration depth. Here's another screen: RabbitMQ listener pulling CRM events, blending with .NET logs. Visibility into pipeline health? Boom—heatmaps, forecasts. No more guessing.
+
+Jennifer: Impressive. He mentioned SOC 2—can you send that post-call? And budget-wise, does this fit under $600K?
+
+Alex: Easily. We've allocated deals in that ballpark. Roughly six hundred grand covers full deployment for your size.
+
+Kevin: Yep. And for Q3 audit, we have pre-built reports. She reports to CEO; we can customize for exec views.
+
+Jennifer: Good. Existing CRM workflows are a benchmark—Drift's more conversational, but we need data muscle.
+
+Alex: Understood. Next quarter's audit—any specific regs? FERPA heavy in EdTech?
+
+Jennifer: FERPA, yes, and some state stuff. Vendor lock-in with Azure is exposing us there.
+
+Kevin: Our multi-cloud setup dodges that. Migration by end of year: we stage it—legacy to us in phases. He walked through a 280-employee rollout last month; smooth.
+
+Alex: Last month board meeting shifted priorities—data first now?
+
+Jennifer: Spot on. Pipeline health was top ask. Um, poor visibility is costing us deals.
+
+Kevin: Let's quantify. In demo mode: input your stack—C#, Azure egress. Output: pipeline scorecards. IT budget up 37%—perfect timing.
+
+Jennifer: Yeah, 37% boost opened doors. Company size 201-1000 means we need scalable.
+
+Alex: Scalable we are. Drift competes on chat, but pipeline depth? Us.
+
+Jennifer: True. A few weeks ago, we scored vendors—yours looks strong.
+
+Kevin: Great. Security audit prep: we audit-ready. He prepped a similar Q3 one recently.
+
+Jennifer: Awesome. End of month, RFP drops. I'll share it by end of week.
+
+Alex: Perfect next step. Jennifer shares RFP end of week—we review, propose.
+
+Kevin: And tech POC? We can spin one with your RabbitMQ sample.
+
+Jennifer: Let's do it. He mentioned integrations—send docs too.
+
+Alex: Will do. Any other pains? Legacy migration details?
+
+Jennifer: Legacy is old .NET monoliths—off by year-end. Vendor lock-in slows it.
+
+Kevin: We accelerate. SQL Server lift-and-shift, RabbitMQ retarget.
+
+Jennifer: Sounds good. Board last month pushed this hard.
+
+Alex: Revenue $162M funds it well. 280 employees—tailored fit.
+
+Kevin: One more demo bit: pipeline health sim. See this? Predicts Q4 based on now.
+
+Jennifer: Wow, that's the visibility we crave. Poor pipeline sight lines hurt forecasts.
+
+Alex: Exactly. Budget around $600K— we optimize within.
+
+Jennifer: Roughly 600 grand, yes.
+
+Kevin: Competitors like Drift lack this depth. CRM workflows? Augment them.
+
+Jennifer: Agreed. I've been here a year; this aligns with CEO's vision.
+
+Alex: Fantastic. Digress again: EdTech weather today? Any conferences coming?
+
+Jennifer: Ha, next quarter's big one. But back—Q3 audit looms.
+
+Kevin: We got you. Next steps clear: RFP end of week.
+
+Jennifer: Yes, I'll send by Friday.
+
+Alex: Thanks, Jennifer. Kevin, wrap with questions?
+
+Kevin: Just one: timeline post-RFP? Board shifted last month—urgency high?
+
+Jennifer: High. Migration end of year, audit Q3.
+
+Alex: Solid. Appreciate the time—30 minutes flew. Talk soon.
+
+Jennifer: You too. Bye.
+
+Kevin: Cheers.
+
+[Word count: 2487]

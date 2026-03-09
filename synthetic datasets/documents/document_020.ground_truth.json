@@ -1,0 +1,83 @@
+{
+  "sample_id": "document_020",
+  "content_type": "wiki_document",
+  "company": "PriceMatrix",
+  "industry": "E-commerce",
+  "target_word_count": 2282,
+  "actual_word_count": 1524,
+  "expected_facts": [
+    {
+      "text": "Rachel Park has been at PriceMatrix for 6 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 3 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $1,800,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Rachel reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using Salesforce with custom Apex triggers",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q2",
+      "type": "explicit"
+    },
+    {
+      "text": "PriceMatrix is a E-commerce company with about 81 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Chorus.ai, existing CRM workflows",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Scala, Spark, Databricks, Snowflake, Airflow",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Sales",
+    "company_name": "PriceMatrix",
+    "company_size": "51-200",
+    "technology_stack": "Scala, Spark, Databricks, Snowflake, Airflow",
+    "deal_value": 1800000,
+    "decision_timeline": "2026-07-10",
+    "competitors_mentioned": [
+      "Chorus.ai",
+      "existing CRM workflows"
+    ],
+    "decision_maker": true,
+    "current_solution": "Salesforce with custom Apex triggers",
+    "urgency_level": "Low"
+  },
+  "planted_issues": {
+    "pronoun_issues": 1,
+    "temporal_issues": 2,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Sarah Fernandez",
+      "title": "Chief Revenue Officer",
+      "role": "Technical Evaluator"
+    },
+    {
+      "name": "Daniel Rivera",
+      "title": "Director of Analytics",
+      "role": "Budget Owner"
+    }
+  ],
+  "property_coverage": 0.71
+}

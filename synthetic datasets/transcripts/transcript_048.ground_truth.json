@@ -1,0 +1,73 @@
+{
+  "sample_id": "transcript_048",
+  "content_type": "meeting_transcript",
+  "company": "CourseForge",
+  "industry": "EdTech",
+  "duration_minutes": 45,
+  "target_word_count": 3247,
+  "actual_word_count": 1717,
+  "expected_facts": [
+    {
+      "text": "Currently using combination of Notion and Airtable",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Clari",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Java, Micronaut, GCP, Spanner, Pub/Sub",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $75,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 13 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "Maria Singh has been at CourseForge for 2 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in London",
+      "type": "explicit"
+    },
+    {
+      "text": "CourseForge is a EdTech company with about 3602 employees",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Sales Engineering",
+    "company_name": "CourseForge",
+    "company_size": "1000+",
+    "technology_stack": "Java, Micronaut, GCP, Spanner, Pub/Sub",
+    "deal_stage": "Proposal",
+    "deal_value": 75000,
+    "decision_timeline": "2026-10-28",
+    "competitors_mentioned": [
+      "Clari"
+    ],
+    "current_solution": "combination of Notion and Airtable",
+    "urgency_level": "High"
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 2,
+    "duplicate_facts": 2
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.71,
+  "entity_id": "maria-courseforge",
+  "entity_email": "maria@courseforge.com",
+  "entity_website": "https://courseforge.com",
+  "contact_name": "Maria",
+  "record_id": "crm-maria-courseforge"
+}

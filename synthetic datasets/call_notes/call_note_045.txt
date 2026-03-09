@@ -1,0 +1,25 @@
+Call with: Emily Garcia, VP of Customer Success at CastPoint
+Date: February 17, 2026
+Duration: 45 min
+
+Key Points:
+- Mfg co, ~147 emp (51-200 range)
+- Vendor lock-in w/ curr cloud prov — big pain, want out
+- Poor dev exp slowing feature velocity, devs frustrated
+- Curr soln: spreadsheets + manual data entry, killing them
+- Eval'ing Salesforce Einstein too
+- Budget alloc'd ~$600k
+- She's been there 7 yrs, knows ops inside out
+- Deal stage: negotiation
+- Not DM, but influencing — he's pushing for Q2 close?
+- Timeline: by 11/30/26 def
+- Pain: dev slowdown + lock-in
+- Likes our demo, prob better than Einstein
+
+Action Items:
+- [ ] Send vendor lock-in case study + ROI calc (me, by EOD)
+- [ ] Sch f/u mtg w/ her + eng team next week (me)
+- [ ] Ping CTO re: dev exp pains (me, Fri)
+
+Notes:
+Emily solid contact, not decision maker but looped in deep on pains. She's pushing internally bc lock-in costing them velocity — mentioned devs spending 30% time on manual crap vs building. Budget $600k locked, competing w/ Einstein but they hate the complexity. She's been at CastPoint 7 yrs, def gets the mfg side. Need to f/u quick on case studies by EOQ to keep momentum, she's hinting at intro to real DM next week if we nail it. Deal value lines up perfect w/ their alloc, just gotta address that he's dragging on timeline.

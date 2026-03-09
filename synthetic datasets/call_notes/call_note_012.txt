@@ -1,0 +1,37 @@
+Call with: Tom Kaur, Head of Data at CartLogic  
+Date: February 16, 2026  
+Duration: 30 min  
+
+Key Points:  
+- Tom intro - Head of Data, @ CartLogic 3 yrs  
+- Co: e-comm, ~45 emp (11-50 sz)  
+- Stack: Java, Spring Boot heavy, Azure, Oracle DB, Kafka streams  
+- Pain 1: tech debt, rapid early growth killed scalability  
+- Pain 2: poor pipe health viz, blind spots everywhere  
+- Evalling Intercom (chat), Clari (forecast), Outreach (seq)  
+- Budget: ~$600k alloc'd  
+- Deal val: 600k  
+- Timeline: 2026-06-15  
+- Not DM, urgency low  
+- Likes our pipe viz demo  
+- He's pushing Q2  
+- Tech fit good w/ their stack  
+- Wants POC on Kafka integ  
+- Competitor edge: we beat Clari on viz depth  
+- Outreach too sales-y for data team  
+- Intercom not pipe focused  
+- He'll loop in eng next  
+- Budget locked, but slow roll bc debt backlog  
+- Pipe issues costing reps time, def need fix  
+- Azure mig ongoing, Oracle legacy hurts  
+
+Action Items:  
+- [ ] Send updated deck re: pipe viz + Kafka POC plan - me by EOW  
+- [ ] F/u call w/ Tom next week, sched eng intro - me  
+- [ ] Ping their CEO for align - Tom  
+- [ ] Log comp intel Intercom/Clari/Outreach - me  
+
+Notes:  
+Tom solid contact but not DM - he's data guy, pushing up to sales leads. Went deep on pains: tech debt from '23 growth spurt, now pipe viz sucks, reps chasing ghosts. Demo landed well, he sees us fixing Oracle/Kafka blind spots better than Clari. Low urgency tho, timeline drags to June. He'll f/u next week w/ eng feedback, but he's hesitant bc budget team nitpicking.  
+
+Overall good vibe, co smallish e-comm scaling messy. Not rushing Q2 despite budget, prob internal politics. Send deck quick, keep momentum. He's bullish on us vs Outreach, says too seq heavy. Track for mid-Q2 nudge. (Word count: 472)

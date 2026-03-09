@@ -1,0 +1,175 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Sarah Garcia <sarah.garcia@streamops.com>  
+Subject: Unifying revenue ops tooling at StreamOps - quick chat?  
+Date: Mon, February 9, 2026 10:15 AM PST  
+
+Hi Sarah,  
+
+I hope this email finds you well. I came across your profile while researching digital media leaders tackling revenue ops challenges—congrats on your 3 years at StreamOps, scaling to 778 employees amid rapid growth.  
+
+StreamOps seems to be dealing with fragmented tooling across departments, technical debt from that early expansion, and difficulty hiring specialized engineers for stacks like Java, Spring Boot, Azure, Oracle, and Kafka. Technova's low-code platform unifies sales and revops workflows, integrating natively with your exact tech stack to streamline everything without needing Kafka wizards on staff.  
+
+We've helped similar-sized companies (201-1000 employees) cut through vendor sprawl—even those evaluating Outreach—by providing a single pane for sequencing, analytics, and automation. With your team in negotiation stage across 5 vendors, I'd love 15 minutes next week to share how we fit your $50K budget and critical timeline.  
+
+Best,  
+Alex Morgan  
+Account Executive  
+Technova  
+(415) 555-0100  
+alex.morgan@technova.io  
+
+---
+
+From: Sarah Garcia <sarah.garcia@streamops.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Unifying revenue ops tooling at StreamOps - quick chat?  
+Date: Tue, February 10, 2026 2:45 PM PST  
+
+Hi Alex,  
+
+Thanks for reaching out—timely, as we're actively evaluating solutions for our fragmented tooling and hiring pains. Our budget is approximately $50,000, and decision timeline is firm by September 22nd given critical urgency.  
+
+How specifically does Technova integrate with Kafka for real-time data streaming in our Azure/Oracle setup? We're looking at Outreach and 3 others too.  
+
+Thanks,  
+Sarah Garcia  
+Chief Revenue Officer  
+StreamOps  
+(650) 555-0200  
+sarah.garcia@streamops.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Sarah Garcia <sarah.garcia@streamops.com>  
+Subject: Re: Unifying revenue ops tooling at StreamOps - quick chat?  
+Date: Tue, February 10, 2026 4:20 PM PST  
+
+Hi Sarah,  
+
+Great to hear from you—excited Technova is on your radar with Outreach and the others.  
+
+> Thanks for reaching out—timely, as we're actively evaluating solutions for our fragmented tooling and hiring pains. Our budget is approximately $50,000, and decision timeline is firm by September 22nd given critical urgency.  
+
+Technova integrates natively with Kafka via Spring Boot connectors, handling real-time event streaming directly into Azure Event Hubs or your Oracle schemas without custom code. This reduces technical debt and lets generalist engineers manage it—no more hunting specialized Kafka talent amid your hiring challenges.  
+
+As a light next step in this negotiation, how about a 30-min demo tailored to StreamOps' stack? I'm free next week.  
+
+Best,  
+Alex Morgan  
+Account Executive  
+Technova  
+(415) 555-0100  
+alex.morgan@technova.io  
+
+---
+
+From: Sarah Garcia <sarah.garcia@streamops.com>  
+To: Raj Mueller <raj.mueller@streamops.com>  
+CC: Alex Morgan <alex.morgan@technova.io>  
+Subject: Fw: Unifying revenue ops tooling at StreamOps - quick chat?  
+Date: Wed, February 11, 2026 9:30 AM PST  
+
+Raj—  
+
+Alex from Technova reached out; one of the 5 vendors we're evaluating alongside Outreach. Addresses our fragmented tooling and hiring issues head-on with low-code integration into Java/Spring/Azure/Oracle/Kafka. Worth a tech review before we push to demo? Their $50K package fits budget.  
+
+---------- Forwarded message ---------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Tue, February 10, 2026 4:20 PM PST  
+Subject: Re: Unifying revenue ops tooling at StreamOps - quick chat?  
+To: Sarah Garcia <sarah.garcia@streamops.com>  
+
+Hi Sarah,  
+
+[previous content quoted above]  
+
+Best,  
+Alex Morgan  
+...  
+
+Sarah Garcia  
+Chief Revenue Officer  
+StreamOps  
+(650) 555-0200  
+sarah.garcia@streamops.com  
+
+---
+
+From: Raj Mueller <raj.mueller@streamops.com>  
+To: Sarah Garcia <sarah.garcia@streamops.com>, Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Unifying revenue ops tooling at StreamOps - quick chat?  
+Date: Wed, February 11, 2026 11:15 AM PST  
+
+Sarah, Alex—  
+
+Thanks for looping me in. Sarah mentioned it addresses fragmented tooling across departments, and it looks promising for our technical debt from rapid growth.  
+
+> Technova integrates natively with Kafka via Spring Boot connectors, handling real-time event streaming directly into Azure Event Hubs or your Oracle schemas without custom code.  
+
+On a technical level, how does Technova handle high-volume Oracle scaling in our Azure Kubernetes setup with Kafka producers? We're struggling to hire specialists for that, and with 5 vendors in play, need assurance it won't add to our pains. Also, any benchmarks on latency for StreamOps-scale (778 users)?  
+
+He seems confident—thoughts?  
+
+Raj Mueller  
+Solutions Architect  
+StreamOps  
+(650) 555-0300  
+raj.mueller@streamops.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Sarah Garcia <sarah.garcia@streamops.com>, Raj Mueller <raj.mueller@streamops.com>  
+Subject: Re: Unifying revenue ops tooling at StreamOps - quick chat?  
+Date: Wed, February 11, 2026 3:00 PM PST  
+
+Sarah, Raj—thanks for the intro and great questions.  
+
+> On a technical level, how does Technova handle high-volume Oracle scaling in our Azure Kubernetes setup with Kafka producers? We're struggling to hire specialists for that, and with 5 vendors in play, need assurance it won't add to our pains. Also, any benchmarks on latency for StreamOps-scale (778 users)?  
+
+Technova deploys as containerized Spring Boot microservices on Azure AKS, auto-scaling Oracle connections via JDBC pooling and Kafka Streams for partitioning. We've benchmarked <50ms p99 latency at 10k+ events/sec on similar digital media stacks—no specialized hires needed, as our low-code UI handles partitioning configs. This directly tackles your fragmented tooling and growth debt, outperforming Outreach's limited Kafka support.  
+
+To dive deeper before end of quarter, let's schedule a 45-min technical demo next week—I've attached a one-pager with StreamOps-fit case study (50K deal size match). Available Tue 2PM or Thu 10AM PST?  
+
+Best,  
+Alex Morgan  
+Account Executive  
+Technova  
+(415) 555-0100  
+alex.morgan@technova.io  
+
+---
+
+From: Sarah Garcia <sarah.garcia@streamops.com>  
+To: Alex Morgan <alex.morgan@technova.io>, Raj Mueller <raj.mueller@streamops.com>  
+Subject: Re: Unifying revenue ops tooling at StreamOps - quick chat?  
+Date: Thu, February 12, 2026 8:45 AM PST  
+
+Alex, Raj—  
+
+This aligns well with our critical needs and Sept 22 timeline. Raj, does Thu 10AM work for the demo? It could resolve our hiring gaps faster than the other vendors.  
+
+Sarah Garcia  
+Chief Revenue Officer  
+StreamOps  
+(650) 555-0200  
+sarah.garcia@streamops.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Sarah Garcia <sarah.garcia@streamops.com>, Raj Mueller <raj.mueller@streamops.com>  
+Subject: Re: Unifying revenue ops tooling at StreamOps - quick chat? - Demo Confirmed Thu 10AM  
+Date: Thu, February 12, 2026 9:20 AM PST  
+
+Sarah, Raj—perfect, confirmed for Thursday 10AM PST. I've sent calendar invites with technova.io/demo link (passcode: StreamOps2026). We'll cover Kafka/Oracle integration live, tailored to your stack and $50K scope.  
+
+Looking forward—let's get StreamOps unified!  
+
+Best,  
+Alex Morgan  
+Account Executive  
+Technova  
+(415) 555-0100  
+alex.morgan@technova.io

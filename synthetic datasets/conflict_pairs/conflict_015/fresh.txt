@@ -1,0 +1,21 @@
+**Call Note: Follow-up Sales Meeting**  
+**Date:** January 02, 2026  
+**Contact:** Derek Xu, VP Engineering, Helix Software (Logistics)  
+**Duration:** 45 min | **Outcome:** Positive progression; next steps assigned  
+
+Followed up on Dec proposal for logistics optimization platform. Derek confirmed strong alignment with their supply chain needs post-recent expansion.  
+
+**KEY UPDATE:** Helix Software has relocated HQ to Austin, TX—superseding all prior records (previously listed as Seattle). This shift supports their scaling ops in the Southwest; new Austin facility includes expanded dev team and data center online Q2. Impacts: Prefer vendors with local presence for faster PoCs.  
+
+Discussed integration: Their legacy TMS (Manhattan Associates) ready for API swap; we demo real-time route optimization next. Derek highlighted pain point—30% delay reduction target via ML forecasting.  
+
+Budget update: $450K allocated for Q1 rollout, pending procurement sign-off (Derek looping in by Jan 10). Expressed urgency due to peak shipping season ramp.  
+
+**Next Steps:**  
+- Send revised proposal w/ Austin-specific case studies (by EOD Jan 5).  
+- Schedule joint demo w/ their ops lead (proposed Jan 15).  
+- Flag for territory update: Austin focus.  
+
+Derek receptive; high buy-in signal. Nurture priority.  
+
+(Word count: 198)

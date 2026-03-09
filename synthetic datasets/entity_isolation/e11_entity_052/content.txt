@@ -1,0 +1,16 @@
+### Account Overview
+Titanium Logic is a prominent LegalTech company specializing in advanced compliance and case management solutions. With approximately 1,148 employees and annual revenue of ~$237M, they serve enterprise clients in the legal sector, focusing on secure data handling and workflow automation. Our primary contact is Lisa Dubois, Head of Infrastructure, who oversees the company's core technical operations including cloud infrastructure and developer tooling. Lisa has been instrumental in identifying opportunities to modernize their stack amid growing regulatory pressures.
+
+### Key Details
+Titanium Logic's current tech stack revolves around C#, .NET, Azure, SQL Server, and RabbitMQ, which supports their high-volume data processing needs but has exposed limitations. Key pain points include repeated compliance audit failures on data handling, risking fines and client trust, and poor developer experience that is slowing feature velocity—teams report friction in deployment pipelines and debugging workflows. They currently rely on a custom internal tool as their competitor solution, which lacks scalability and integration flexibility. Lisa emphasized these challenges during our initial discovery call, highlighting the need for a more robust, compliant alternative to accelerate innovation without compromising security.
+
+### Deal Status
+This represents a high-potential opportunity with an estimated deal value of $250,000. The prospect is in the evaluation stage, with a decision timeline targeted for Q3 2026. Lisa has expressed strong alignment with our platform's capabilities in addressing their Azure-native compliance gaps and enhancing developer productivity via seamless .NET integrations. Internal champions are forming, and we've shared a tailored POC addressing their RabbitMQ messaging bottlenecks. Competitive displacement of their custom tool is feasible given demonstrated ROI projections.
+
+### Next Steps
+- Schedule follow-up demo with Lisa and her engineering leads (Q4 2025) to showcase compliance audit simulations and devex improvements.
+- Deliver customized TCO analysis contrasting our solution against their custom internal tool.
+- Engage procurement for contract discussions by EOY 2025 to align with Q3 2026 timeline.
+- Monitor quarterly earnings for revenue triggers that could accelerate urgency.
+
+(Word count: 347)

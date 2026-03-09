@@ -1,0 +1,113 @@
+[09:15] @alex.m: Quick update @channel - just off call with Director of IT at RouteWise. Logistics co w/ ~165 employees. Deal stage: Qualification. 
+[👍 from @sarah.k]
+[09:16] @sarah.k: Nice! What's their stack?
+[09:17] @alex.m: Scala, Spark, Databricks, Snowflake, Airflow. Matches ours perfectly imo.
+[09:18]  ↳ @mike.r: Snowflake? Sweet, we crush that.
+[09:19] @alex.m: Yeah they're hating vendor lock-in w/ current cloud provider. Compliance audit failures on data handling too.
+[09:20] @maya.a: Oof, compliance sucks. Current solution?
+[09:21] @alex.m: Microsoft Dynamics w/ Power Automate. Been evaluating Outreach, Clari fwiw.
+[👍 from @mike.r]
+[09:22] @sarah.k: Got it. Budget?
+[09:23] @alex.m: ~$200k allocated. Solid.
+[09:24] @mike.r: Whoa $200k? RouteWise is 51-200 size right? Logistics fits our wheelhouse.
+[09:25] @maya.a: Makes sense. Pain points nailed - compliance and lock-in.
+[09:26] @alex.m: Yup. He mentioned audit failed last Friday. Rough.
+[09:27]  ↳ @sarah.k: "He" the Director? Lmk details.
+[09:28] @mike.r: She said they're eyeing demos soon tbh.
+[09:29] @sarah.k: Who's "she"? Director or someone else?
+[09:30] @alex.m: Ngl Outreach is their top comp rn.
+[09:31]  ↳ @maya.a: Clari too? We beat both imo.
+[09:32] @mike.r: @here thoughts on next steps? Qual call tomorrow?
+[09:33] @maya.a: Got it on stack. Spark + Airflow = easy win.
+[09:34] @sarah.k: Budget $200k confirmed? RouteWise logistics yeah.
+[09:35] @alex.m: Yeah Sarah, he dropped that. Director of IT.
+[09:36] @mike.r: They repeated vendor lock-in twice on call. Hurts.
+[09:37]  ↳ @alex.m: Yup, Databricks tying them down.
+[09:38] @maya.a: Power Automate is junk for compliance imo.
+[09:39] @sarah.k: [shared link: RouteWise pricing page] Check their public stuff.
+[🔗 from @sarah.k]
+[09:40] @mike.r: Link looks good. 165 employees confirmed.
+[09:41] @alex.m: Thx Sarah. Pain point: data handling audits failing bad.
+[09:42]  ↳ @maya.a: Like last Friday's?
+[09:43] @sarah.k: Who's "they" in evals? Outreach team?
+[09:44] @mike.r: Makes sense. Dynamics to us = smooth.
+[👍 from @alex.m]
+[09:45] @maya.a: Next sprint we prioritize Spark integration demo?
+[09:46] @alex.m: Demo tomorrow w/ Director?
+[09:47] @sarah.k: Qual stage - push for pains deeper.
+[09:48] @mike.r: Clari's weak on Snowflake afaik.
+[09:49]  ↳ @alex.m: True, we own that.
+[09:50] @maya.a: Budget ~$200k again? Alex confirm.
+[09:51] @sarah.k: Got it Mike. Vendor lock-in killer.
+[09:52] @alex.m: He said no to Outreach pricing. "They" hate it.
+[09:53] @mike.r: "He" Director right? Lmk.
+[09:54] @maya.a: Airflow flows to ours ez.
+[👍 from @sarah.k]
+[09:55] @sarah.k: @channel push qual questions list?
+[09:56] @alex.m: Scala compat? 100% yes.
+[09:57]  ↳ @mike.r: Spark too.
+[09:58] @maya.a: Compliance fix via our data handling?
+[09:59] @mike.r: Yup, audit proof.
+[10:00] @sarah.k: RouteWise size 51-200, perfect tier.
+[10:01] @alex.m: Last Friday audit was data handling fail.
+[10:02] @maya.a: Repeated pain. Lock-in w/ cloud.
+[10:03] @mike.r: Power Automate workflows messy.
+[10:04] @sarah.k: Outreach evals dragging?
+[10:05] @alex.m: She thinks Clari too sales-y.
+[10:06]  ↳ @maya.a: "She" who?
+[10:07] @mike.r: Got it. Demo prep tomorrow.
+[👍 from @alex.m]
+[10:08] @maya.a: Budget $200k locked imo.
+[10:09] @sarah.k: Tech stack screams us: Databricks, Snowflake.
+[10:10] @alex.m: Director wants call notes shared.
+[10:11] @mike.r: Sending now.
+[10:12] @maya.a: Thx. Vendor lock-in demo slide?
+[10:13] @sarah.k: Yes pls.
+[10:14] @alex.m: Qual stage update in CRM?
+[10:15] @mike.r: On it.
+[10:16]  ↳ @sarah.k: Add pains: compliance, lock-in.
+[10:17] @maya.a: Makes sense.
+[10:18] @alex.m: RouteWise logistics - route opti pains?
+[10:19] @sarah.k: Tie to data handling.
+[10:20] @mike.r: Next sprint: custom Spark POC.
+[10:21] @maya.a: Love it.
+[👍 from @mike.r]
+[10:22] @alex.m: Current Dynamics killing them.
+[10:23] @sarah.k: Power Automate hacks everywhere.
+[10:24] @mike.r: Clari no compliance certs.
+[10:25]  ↳ @alex.m: Outreach neither.
+[10:26] @maya.a: Our edge.
+[10:27] @sarah.k: Budget repeat: $200k.
+[10:28] @alex.m: Yep Maya said it too.
+[10:29] @mike.r: Director IT contact deets?
+[10:30] @maya.a: In thread.
+[10:31] @sarah.k: Got it. Tomorrow demo @here?
+[10:32] @alex.m: Confirm pains unclear? He/she/they mess.
+[10:33]  ↳ @mike.r: Lol yeah.
+[10:34] @maya.a: Scala/Airflow test env ready?
+[10:35] @sarah.k: Yes.
+[10:36] @mike.r: Snowflake query demos.
+[10:37] @alex.m: Perfect.
+[10:38] @maya.a: Logistics 165 emp - scale fine.
+[10:39] @sarah.k: Deal value 200k push.
+[10:40] @mike.r: Qual to proposal next?
+[10:41] @alex.m: After tomorrow.
+[👍 from @sarah.k]
+[10:42] @maya.a: Vendor lock-in pitch strong.
+[10:43] @sarah.k: Compliance audit story.
+[10:44] @mike.r: Last Friday deets?
+[10:45] @alex.m: Data leaks flagged.
+[10:46]  ↳ @maya.a: Gotcha.
+[10:47] @sarah.k: Outreach pricing shared link?
+[10:48] @mike.r: Nvm ours better.
+[10:49] @alex.m: Clari eval paused.
+[10:50] @maya.a: Win.
+[10:51] @sarah.k: Stack full: Spark, Databricks.
+[10:52] @mike.r: Airflow too.
+[10:53] @alex.m: Director happy.
+[10:54] @maya.a: Next sprint align.
+[10:55] @sarah.k: 👍
+[10:56] @mike.r: All good?
+[10:57] @alex.m: Yep.
+[10:58] @maya.a: Makes sense.
+[10:59] @sarah.k: Qual locked.

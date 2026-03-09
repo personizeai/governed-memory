@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_004",
+  "category": "deal_stage",
+  "company": "Stratos AI",
+  "contact": "Nina Wright",
+  "industry": "B2B SaaS",
+  "stale_date": "2025-08-01",
+  "fresh_date": "2026-02-10",
+  "stale_claim": "Stratos AI is in the Discovery phase of the sales process",
+  "fresh_claim": "Stratos AI has moved to the Proposal stage",
+  "expected_query": "What deal stage is Stratos AI at?",
+  "expected_answer": "has moved to the Proposal stage",
+  "stale_word_count": 197,
+  "fresh_word_count": 176
+}

@@ -1,0 +1,21 @@
+**Call Note: Follow-up Sales Meeting**  
+**Date:** February 10, 2026  
+**Contact:** Nina Wright, VP of Engineering, Stratos AI (B2B SaaS)  
+**Duration:** 45 min | **Attendees:** Me, Nina Wright  
+
+**Key Discussion Points:**  
+- Reviewed prior demo; Nina confirmed our AI-driven workflow automation aligns perfectly with Stratos AI's need to reduce deployment times by 40% amid rapid scaling.  
+- Addressed concerns on API integration with their Kubernetes environment—provided case study from similar B2B SaaS client (TechNova), showing 99.9% uptime post-integration.  
+- Nina shared internal timeline: Targeting Q2 rollout to support upcoming product launch.  
+
+**Stage Update:**  
+**CHANGE: Stratos AI advanced to Proposal stage.** This supersedes previous Discovery status following Nina's confirmation of stakeholder buy-in and budget allocation ($250K initial).  
+
+**Action Items:**  
+- Send customized proposal (incl. ROI calculator and integration roadmap) by EOD Feb 15.  
+- Nina to loop in CTO for review; schedule joint call Feb 20.  
+- Follow-up email sent post-call with recap and resources.  
+
+**Notes:** High enthusiasm from Nina—described our solution as "top contender" vs. competitor (FluxAI). Next steps on track; deal momentum strong.  
+
+(Word count: 178)

@@ -1,0 +1,28 @@
+### Account Overview
+Prism Networks is a prominent Digital Media company with approximately 454 employees and annual revenue of ~$248M. Led in marketing by Lisa Kim, VP of Marketing (lisa.kim@prismnetworks.com), the company specializes in innovative digital solutions but faces challenges scaling operations amid rapid growth. Their tech stack includes Python, Django, AWS, PostgreSQL, and Redis, supporting a robust backend for media delivery and analytics. Key pain points include difficulty hiring specialized engineers, inconsistent messaging across the sales team, and customer churn driven by slow support response times. These issues are hindering their ability to maintain competitive edge against rivals like Apollo.io.
+
+### Key Details
+- **Primary Contact**: Lisa Kim, VP of Marketing  
+  Email: lisa.kim@prismnetworks.com  
+- **Company Profile**:  
+  - Industry: Digital Media  
+  - Headcount: 454 employees  
+  - Annual Revenue: ~$248M  
+- **Technical Environment**: Heavily reliant on Python and Django for application development, with AWS for cloud infrastructure, PostgreSQL as the primary database, and Redis for caching and session management.  
+- **Challenges**:  
+  - Recruitment struggles for specialized engineers, leading to talent gaps in scaling digital platforms.  
+  - Inconsistent sales messaging causing misalignment in go-to-market strategies.  
+  - Elevated customer churn due to delayed support responses, impacting retention in a fast-paced media landscape.  
+- **Competitors**: Currently evaluating solutions similar to Apollo.io for CRM and sales enablement.
+
+### Deal Status
+Prospecting stage with a potential deal value of $50,000. Lisa Kim has expressed interest in addressing pain points through targeted CRM enhancements to streamline hiring pipelines, unify sales communications, and accelerate support workflows. Decision timeline is targeted for Q3 2026, aligning with their fiscal planning cycle. No formal proposal submitted yet; initial discussions highlight strong fit given their tech stack compatibility and competitive positioning against Apollo.io. Opportunity rated high due to revenue scale and urgent needs.
+
+### Next Steps
+1. Schedule discovery call with Lisa Kim by end of next week to demo CRM features tailored to Python/Django integrations and sales messaging automation.  
+2. Prepare customized proposal addressing engineer hiring tools, support ticketing acceleration, and churn reduction analytics.  
+3. Research Prism Networks' recent funding or expansions for leverage in Q3 2026 timeline discussions.  
+4. Monitor competitor activity from Apollo.io and position our solution as superior for Digital Media scalability.  
+Owner: [Your Name] | Due: [Next Friday]  
+
+*(Word count: 378)*

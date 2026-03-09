@@ -1,0 +1,19 @@
+{
+  "entity_index": 69,
+  "name": "Nina Costa",
+  "company": "Juniper Networks",
+  "industry": "Cybersecurity",
+  "email": "nina.costa@junipernetworks.com",
+  "title": "VP of Operations",
+  "facts": [
+    "Nina Costa is VP of Operations at Juniper Networks",
+    "Juniper Networks is a Cybersecurity company with 371 employees",
+    "Tech stack: C#, .NET, Azure, SQL Server, RabbitMQ",
+    "Deal value: $650,000",
+    "Pain points: poor visibility into pipeline health; scaling issues during peak traffic periods; lack of real-time analytics for decision making; data silos between engineering and sales teams",
+    "Competitors: building in-house, Intercom, HubSpot AI",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$175M"
+  ],
+  "actual_word_count": 329
+}

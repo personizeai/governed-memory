@@ -1,0 +1,32 @@
+Call with: Emily Lee, Director of IT at StreamOps
+Date: February 18, 2026
+Duration: 25 min
+
+Key Points:
+- Dig media co ~22 emp (11-50 sz)
+- Stack Py/Django/AWS/PG/Redis
+- Curr SFDC + custom Apex trigs
+- Evalling Apollo.io/Gong/Intercom
+- Frag tooling x depts
+- Tech debt rapid early growth
+- Vendor lock-in curr cloud (AWS?)
+- Emily 2yrs @ StreamOps
+- Pain fragmented + debt + lock-in
+- Deal stage proposal
+- She's pushing IT unif
+- He wants Q2 pilot
+- Prob need demo customization
+- Def int in our Apex compat
+- Budget? FY25 maybe
+- Champs in sales/eng depts
+
+Action Items:
+- [ ] Send revised proposal w/ stack integ (me, EOD)
+- [ ] Sch demo for her + eng lead (me)
+- [ ] F/u w/ Emily next wk re: boss buy-in
+- [ ] Ping sales champ @ StreamOps (me, by EOQ)
+
+Notes:
+Talked pains—frag tooling killing prod, depts siloed bc custom SFDC hacks + AWS lock. She's been there 2yrs, knows debt from hypergrowth. They're eyeing us vs Apollo/Gong/Intercom but our Py/Django fit wins. He (eng?) pushing Q2 rollout, she's def champing but needs boss nod. Quick mtg w/ her team prob.
+
+Sent prelim proposal last wk, she wants tweaks for Redis integ + Apex migr. Deal stage proposal, hot if we nail demo. F/u next wk, she's optimistic but vendor lock big hurdle. She's looping in IT leads, they're fragmented bad.

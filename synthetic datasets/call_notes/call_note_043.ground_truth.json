@@ -1,0 +1,60 @@
+{
+  "sample_id": "call_note_043",
+  "content_type": "call_notes",
+  "company": "CareStack",
+  "industry": "Healthcare Tech",
+  "duration_minutes": 25,
+  "target_word_count": 620,
+  "actual_word_count": 335,
+  "expected_facts": [
+    {
+      "text": "Their tech stack includes Java, Spring Boot, Azure, Oracle, Kafka",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Apollo.io, Drift, building in-house",
+      "type": "explicit"
+    },
+    {
+      "text": "Marcus Fernandez has been at CareStack for 6 years",
+      "type": "explicit"
+    },
+    {
+      "text": "CareStack is a Healthcare Tech company with about 2203 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 5 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $75,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Engineering",
+    "company_name": "CareStack",
+    "company_size": "1000+",
+    "technology_stack": "Java, Spring Boot, Azure, Oracle, Kafka",
+    "deal_stage": "Qualification",
+    "deal_value": 75000,
+    "competitors_mentioned": [
+      "Apollo.io",
+      "Drift",
+      "building in-house"
+    ],
+    "decision_maker": false,
+    "next_steps": "Marcus to present internally and circle back next week",
+    "buying_process": "Fast-track available for deals under $150K with direct VP approval"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 2
+  },
+  "property_coverage": 0.71
+}

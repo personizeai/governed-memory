@@ -1,0 +1,63 @@
+{
+  "sample_id": "email_022",
+  "content_type": "email_thread",
+  "company": "ShipGrid",
+  "industry": "Logistics",
+  "email_count": 4,
+  "actual_word_count": 1228,
+  "expected_facts": [
+    {
+      "text": "Currently using combination of Notion and Airtable",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with vendor lock-in with current cloud provider",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Java, Spring Boot, Azure, Oracle, Kafka",
+      "type": "explicit"
+    },
+    {
+      "text": "Heather reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with high infrastructure costs eating into margins",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "ShipGrid is a Logistics company with about 2013 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Heather Moreau has been at ShipGrid for 1 years",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Sales",
+    "company_name": "ShipGrid",
+    "company_size": "1000+",
+    "technology_stack": "Java, Spring Boot, Azure, Oracle, Kafka",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "high infrastructure costs eating into margins",
+      "vendor lock-in with current cloud provider"
+    ],
+    "decision_timeline": "2026-07-30",
+    "buying_process": "Two-phase: technical POC first, then business case to leadership",
+    "current_solution": "combination of Notion and Airtable"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 2
+  },
+  "introduces_new_person": true,
+  "colleague": "Daniel Ibrahim, Engineering Manager",
+  "property_coverage": 0.64
+}

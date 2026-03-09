@@ -1,0 +1,93 @@
+{
+  "sample_id": "document_013",
+  "content_type": "wiki_document",
+  "company": "SpecLine",
+  "industry": "Manufacturing",
+  "target_word_count": 1597,
+  "actual_word_count": 1054,
+  "expected_facts": [
+    {
+      "text": "They've also been evaluating Microsoft Copilot, Apollo.io",
+      "type": "explicit"
+    },
+    {
+      "text": "Michael reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using spreadsheets and manual data entry",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes PHP, Laravel, DigitalOcean, MySQL, Redis",
+      "type": "explicit"
+    },
+    {
+      "text": "SpecLine is a Manufacturing company with about 748 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Michael Johansson has been at SpecLine for 8 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with technical debt from rapid early growth",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with integration complexity with legacy systems",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Marketing",
+    "company_name": "SpecLine",
+    "company_size": "201-1000",
+    "technology_stack": "PHP, Laravel, DigitalOcean, MySQL, Redis",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "technical debt from rapid early growth",
+      "integration complexity with legacy systems",
+      "compliance audit failures on data handling"
+    ],
+    "deal_value": 200000,
+    "competitors_mentioned": [
+      "Microsoft Copilot",
+      "Apollo.io"
+    ],
+    "decision_maker": true,
+    "current_solution": "spreadsheets and manual data entry"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Yusuf Johansson",
+      "title": "VP of Customer Success",
+      "role": "Technical Evaluator"
+    },
+    {
+      "name": "Alex Petrov",
+      "title": "Director of Analytics",
+      "role": "Technical Evaluator"
+    },
+    {
+      "name": "Daniel Hassan",
+      "title": "Chief Revenue Officer",
+      "role": "Technical Evaluator"
+    },
+    {
+      "name": "Nina Petrov",
+      "title": "Chief Revenue Officer",
+      "role": "Budget Owner"
+    }
+  ],
+  "property_coverage": 0.71
+}

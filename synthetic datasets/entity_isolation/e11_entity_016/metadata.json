@@ -1,0 +1,19 @@
+{
+  "entity_index": 16,
+  "name": "Maria Cho",
+  "company": "Beacon Financial",
+  "industry": "MarTech",
+  "email": "maria.cho@beaconfinancial.com",
+  "title": "Chief Revenue Officer",
+  "facts": [
+    "Maria Cho is Chief Revenue Officer at Beacon Financial",
+    "Beacon Financial is a MarTech company with 1129 employees",
+    "Tech stack: Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+    "Deal value: $250,000",
+    "Pain points: slow deployment cycles taking 2-3 weeks per release; scaling issues during peak traffic periods; vendor lock-in with current cloud provider",
+    "Competitors: HubSpot AI, building in-house",
+    "Decision timeline: Q4 2026",
+    "Annual revenue: ~$261M"
+  ],
+  "actual_word_count": 335
+}

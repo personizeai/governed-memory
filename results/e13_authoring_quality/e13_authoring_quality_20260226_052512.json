@@ -1,0 +1,2775 @@
+{
+  "experiment_id": "e13_authoring_quality",
+  "started_at": "2026-02-26T05:23:40.569481",
+  "completed_at": "2026-02-26T05:25:12.208816",
+  "metadata": {
+    "governance_pairs": [
+      {
+        "category": "sales",
+        "well_authored_name": "Sales Playbook: Discovery Call Framework",
+        "poorly_authored_name": "Discovery Playbook"
+      },
+      {
+        "category": "brand",
+        "well_authored_name": "Brand Voice Guidelines: External Communications",
+        "poorly_authored_name": "Brand Guide"
+      },
+      {
+        "category": "compliance",
+        "well_authored_name": "Data Handling and Privacy Policy: Customer Data",
+        "poorly_authored_name": "Data Policy"
+      },
+      {
+        "category": "product",
+        "well_authored_name": "Product Knowledge: Core Analytics Platform",
+        "poorly_authored_name": "Product Info"
+      },
+      {
+        "category": "support",
+        "well_authored_name": "Support Escalation Policy: Incident Response",
+        "poorly_authored_name": "Escalation Rules"
+      }
+    ]
+  },
+  "record_count": 45,
+  "records": [
+    {
+      "task_label": "cold_email",
+      "task_text": "Write a cold outbound email to a VP of Sales at a SaaS company",
+      "task_type": "relevant",
+      "expected_categories": [
+        "sales",
+        "brand"
+      ],
+      "min_score_threshold": 0.3,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 10,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 10,
+      "selected_variable_names": [
+        "brand-voice-guidelines",
+        "icp-definition-mid-market-saas",
+        "Sales Guidelines",
+        "brand-voice-guidelines",
+        "icp-definition-mid-market-saas",
+        "prospect-research-protocol",
+        "product-positioning-messaging",
+        "competitive-analysis-framework",
+        "pricing-negotiation-guidelines",
+        "product-knowledge-core-platform"
+      ],
+      "context_chars": 38093,
+      "routing_duration_ms": 869,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "brand": {
+          "well_name_match": true,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": true,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:23:43.976071"
+    },
+    {
+      "task_label": "gdpr_response",
+      "task_text": "Draft a GDPR compliance response for a data deletion request",
+      "task_type": "relevant",
+      "expected_categories": [
+        "compliance",
+        "support"
+      ],
+      "min_score_threshold": 0.3,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 9,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 9,
+      "selected_variable_names": [
+        "data-handling-privacy-policy",
+        "data-handling-privacy-policy",
+        "regulatory-compliance-healthcare",
+        "regulatory-compliance-financial-services",
+        "pricing-negotiation-guidelines",
+        "brand-voice-guidelines",
+        "pricing-negotiation-guidelines",
+        "brand-voice-guidelines",
+        "support-sla-by-account-tier"
+      ],
+      "context_chars": 29897,
+      "routing_duration_ms": 679,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": true,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": true,
+          "poor_name_match": true,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        }
+      },
+      "_timestamp": "2026-02-26T05:23:46.178539"
+    },
+    {
+      "task_label": "tech_demo",
+      "task_text": "Prepare a technical demo walkthrough for the core platform",
+      "task_type": "relevant",
+      "expected_categories": [
+        "product",
+        "sales"
+      ],
+      "min_score_threshold": 0.3,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 10,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 10,
+      "selected_variable_names": [
+        "product-knowledge-core-platform",
+        "product-knowledge-core-platform",
+        "technical-troubleshooting-guide",
+        "onboarding-workflow-builder-track",
+        "onboarding-workflow-builder-track",
+        "product-positioning-messaging",
+        "Personize Guide",
+        "Product Guidelines",
+        "product-knowledge-evaluation-framework",
+        "onboarding-workflow-design-partner"
+      ],
+      "context_chars": 46739,
+      "routing_duration_ms": 595,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": true
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": true,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:23:48.162742"
+    },
+    {
+      "task_label": "competitive_analysis",
+      "task_text": "Create a competitive analysis comparing us to HubSpot AI",
+      "task_type": "relevant",
+      "expected_categories": [
+        "product",
+        "sales"
+      ],
+      "min_score_threshold": 0.3,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 10,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 10,
+      "selected_variable_names": [
+        "competitive-analysis-framework",
+        "competitive-analysis-framework",
+        "product-positioning-messaging",
+        "icp-definition-mid-market-saas",
+        "icp-definition-mid-market-saas",
+        "Product Guidelines",
+        "Sales Guidelines",
+        "Marketing Guidelines",
+        "product-knowledge-core-platform",
+        "Personize Guide"
+      ],
+      "context_chars": 46471,
+      "routing_duration_ms": 696,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": true,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:23:50.318797"
+    },
+    {
+      "task_label": "escalation",
+      "task_text": "Write an escalation response for a critical customer issue",
+      "task_type": "relevant",
+      "expected_categories": [
+        "support",
+        "compliance"
+      ],
+      "min_score_threshold": 0.3,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 10,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 10,
+      "selected_variable_names": [
+        "Support Guidelines",
+        "technical-troubleshooting-guide",
+        "brand-voice-guidelines",
+        "support-escalation-policy",
+        "brand-voice-guidelines",
+        "support-sla-by-account-tier",
+        "pricing-negotiation-guidelines",
+        "Customer Success Guidelines",
+        "onboarding-workflow-builder-track",
+        "icp-definition-mid-market-saas"
+      ],
+      "context_chars": 40406,
+      "routing_duration_ms": 588,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": true,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": true,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        }
+      },
+      "_timestamp": "2026-02-26T05:23:52.381133"
+    },
+    {
+      "task_label": "onboarding",
+      "task_text": "Draft an onboarding welcome email for a new builder customer",
+      "task_type": "relevant",
+      "expected_categories": [
+        "brand",
+        "product"
+      ],
+      "min_score_threshold": 0.3,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 10,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 10,
+      "selected_variable_names": [
+        "onboarding-workflow-builder-track",
+        "onboarding-workflow-builder-track",
+        "onboarding-workflow-design-partner",
+        "onboarding-workflow-design-partner",
+        "brand-voice-guidelines",
+        "Customer Success Guidelines",
+        "brand-voice-guidelines",
+        "prospect-research-protocol",
+        "Marketing Guidelines",
+        "Product Guidelines"
+      ],
+      "context_chars": 45647,
+      "routing_duration_ms": 625,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": true,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:23:54.330198"
+    },
+    {
+      "task_label": "discovery_fintech",
+      "task_text": "Prepare discovery call questions for a fintech prospect",
+      "task_type": "relevant",
+      "expected_categories": [
+        "sales"
+      ],
+      "min_score_threshold": 0.3,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 10,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 10,
+      "selected_variable_names": [
+        "sales-playbook-discovery-call",
+        "prospect-research-protocol",
+        "Sales Guidelines",
+        "regulatory-compliance-financial-services",
+        "icp-definition-mid-market-saas",
+        "product-knowledge-core-platform",
+        "icp-definition-mid-market-saas",
+        "product-positioning-messaging",
+        "onboarding-workflow-design-partner",
+        "brand-voice-guidelines"
+      ],
+      "context_chars": 38407,
+      "routing_duration_ms": 643,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": true,
+          "poor_name_match": true,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "brand": {
+          "well_name_match": true,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": true,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:23:56.350049"
+    },
+    {
+      "task_label": "pricing",
+      "task_text": "Create a pricing proposal with discount justification",
+      "task_type": "relevant",
+      "expected_categories": [
+        "sales",
+        "compliance"
+      ],
+      "min_score_threshold": 0.3,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 5,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 5,
+      "selected_variable_names": [
+        "pricing-negotiation-guidelines",
+        "pricing-negotiation-guidelines",
+        "product-positioning-messaging",
+        "competitive-analysis-framework",
+        "Sales Guidelines"
+      ],
+      "context_chars": 19447,
+      "routing_duration_ms": 454,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:23:58.160372"
+    },
+    {
+      "task_label": "market_research",
+      "task_text": "Write a market research brief on the healthcare AI segment",
+      "task_type": "relevant",
+      "expected_categories": [
+        "product"
+      ],
+      "min_score_threshold": 0.3,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 9,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 9,
+      "selected_variable_names": [
+        "market-research-guidelines",
+        "prospect-research-protocol",
+        "regulatory-compliance-healthcare",
+        "market-research-guidelines",
+        "competitive-analysis-framework",
+        "icp-definition-mid-market-saas",
+        "icp-definition-mid-market-saas",
+        "regulatory-compliance-financial-services",
+        "competitive-analysis-framework"
+      ],
+      "context_chars": 30892,
+      "routing_duration_ms": 596,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": true
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:00.191914"
+    },
+    {
+      "task_label": "product_update",
+      "task_text": "Draft a product knowledge update about the MCP integration",
+      "task_type": "relevant",
+      "expected_categories": [
+        "product"
+      ],
+      "min_score_threshold": 0.3,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 10,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 10,
+      "selected_variable_names": [
+        "product-knowledge-mcp-integration",
+        "product-knowledge-core-platform",
+        "product-knowledge-core-platform",
+        "product-knowledge-evaluation-framework",
+        "Product Guidelines",
+        "product-knowledge-evaluation-framework",
+        "onboarding-workflow-builder-track",
+        "engineering-style-guide",
+        "onboarding-workflow-design-partner",
+        "brand-voice-guidelines"
+      ],
+      "context_chars": 42131,
+      "routing_duration_ms": 600,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": true,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": true,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:02.242019"
+    },
+    {
+      "task_label": "office_supplies",
+      "task_text": "Order new office supplies for the engineering floor",
+      "task_type": "distractor",
+      "expected_categories": [],
+      "min_score_threshold": 0.3,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 5,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 5,
+      "selected_variable_names": [
+        "office-supplies-policy",
+        "office-supplies-policy",
+        "engineering-style-guide",
+        "onboarding-workflow-builder-track",
+        "onboarding-workflow-builder-track"
+      ],
+      "context_chars": 18584,
+      "routing_duration_ms": 488,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:04.118926"
+    },
+    {
+      "task_label": "holiday_party",
+      "task_text": "Plan the company holiday party logistics",
+      "task_type": "distractor",
+      "expected_categories": [],
+      "min_score_threshold": 0.3,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 2,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 2,
+      "selected_variable_names": [
+        "event-planning-conference-booth",
+        "event-planning-conference-booth"
+      ],
+      "context_chars": 5912,
+      "routing_duration_ms": 588,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:06.087630"
+    },
+    {
+      "task_label": "book_room",
+      "task_text": "Book a conference room for Thursday's standup",
+      "task_type": "distractor",
+      "expected_categories": [],
+      "min_score_threshold": 0.3,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 2,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 2,
+      "selected_variable_names": [
+        "event-planning-conference-booth",
+        "event-planning-conference-booth"
+      ],
+      "context_chars": 5912,
+      "routing_duration_ms": 911,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:08.459285"
+    },
+    {
+      "task_label": "vacation_cal",
+      "task_text": "Update the team vacation calendar for March",
+      "task_type": "distractor",
+      "expected_categories": [],
+      "min_score_threshold": 0.3,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 3,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 3,
+      "selected_variable_names": [
+        "engineering-style-guide",
+        "meeting-notes-template",
+        "Product Guidelines"
+      ],
+      "context_chars": 13180,
+      "routing_duration_ms": 448,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:10.345536"
+    },
+    {
+      "task_label": "lunch_menu",
+      "task_text": "Review the lunch menu options for the team event",
+      "task_type": "distractor",
+      "expected_categories": [],
+      "min_score_threshold": 0.3,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 2,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 2,
+      "selected_variable_names": [
+        "event-planning-conference-booth",
+        "engineering-style-guide"
+      ],
+      "context_chars": 7415,
+      "routing_duration_ms": 615,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:12.356012"
+    },
+    {
+      "task_label": "cold_email",
+      "task_text": "Write a cold outbound email to a VP of Sales at a SaaS company",
+      "task_type": "relevant",
+      "expected_categories": [
+        "sales",
+        "brand"
+      ],
+      "min_score_threshold": 0.5,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 6,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 6,
+      "selected_variable_names": [
+        "brand-voice-guidelines",
+        "icp-definition-mid-market-saas",
+        "Sales Guidelines",
+        "brand-voice-guidelines",
+        "icp-definition-mid-market-saas",
+        "prospect-research-protocol"
+      ],
+      "context_chars": 23233,
+      "routing_duration_ms": 619,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "brand": {
+          "well_name_match": true,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:14.404519"
+    },
+    {
+      "task_label": "gdpr_response",
+      "task_text": "Draft a GDPR compliance response for a data deletion request",
+      "task_type": "relevant",
+      "expected_categories": [
+        "compliance",
+        "support"
+      ],
+      "min_score_threshold": 0.5,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 2,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 2,
+      "selected_variable_names": [
+        "data-handling-privacy-policy",
+        "data-handling-privacy-policy"
+      ],
+      "context_chars": 6946,
+      "routing_duration_ms": 470,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": true,
+          "poor_name_match": true,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": true
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:16.344646"
+    },
+    {
+      "task_label": "tech_demo",
+      "task_text": "Prepare a technical demo walkthrough for the core platform",
+      "task_type": "relevant",
+      "expected_categories": [
+        "product",
+        "sales"
+      ],
+      "min_score_threshold": 0.5,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 3,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 3,
+      "selected_variable_names": [
+        "product-knowledge-core-platform",
+        "product-knowledge-core-platform",
+        "technical-troubleshooting-guide"
+      ],
+      "context_chars": 13754,
+      "routing_duration_ms": 680,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": true
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": true,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:18.479702"
+    },
+    {
+      "task_label": "competitive_analysis",
+      "task_text": "Create a competitive analysis comparing us to HubSpot AI",
+      "task_type": "relevant",
+      "expected_categories": [
+        "product",
+        "sales"
+      ],
+      "min_score_threshold": 0.5,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 1,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 1,
+      "selected_variable_names": [
+        "competitive-analysis-framework"
+      ],
+      "context_chars": 3928,
+      "routing_duration_ms": 583,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": true
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": true
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:20.489180"
+    },
+    {
+      "task_label": "escalation",
+      "task_text": "Write an escalation response for a critical customer issue",
+      "task_type": "relevant",
+      "expected_categories": [
+        "support",
+        "compliance"
+      ],
+      "min_score_threshold": 0.5,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 1,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 1,
+      "selected_variable_names": [
+        "Support Guidelines"
+      ],
+      "context_chars": 5359,
+      "routing_duration_ms": 635,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": true
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:22.600394"
+    },
+    {
+      "task_label": "onboarding",
+      "task_text": "Draft an onboarding welcome email for a new builder customer",
+      "task_type": "relevant",
+      "expected_categories": [
+        "brand",
+        "product"
+      ],
+      "min_score_threshold": 0.5,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 5,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 5,
+      "selected_variable_names": [
+        "onboarding-workflow-builder-track",
+        "onboarding-workflow-builder-track",
+        "onboarding-workflow-design-partner",
+        "onboarding-workflow-design-partner",
+        "brand-voice-guidelines"
+      ],
+      "context_chars": 20741,
+      "routing_duration_ms": 714,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": true,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": true
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:24.693239"
+    },
+    {
+      "task_label": "discovery_fintech",
+      "task_text": "Prepare discovery call questions for a fintech prospect",
+      "task_type": "relevant",
+      "expected_categories": [
+        "sales"
+      ],
+      "min_score_threshold": 0.5,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 3,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 3,
+      "selected_variable_names": [
+        "sales-playbook-discovery-call",
+        "prospect-research-protocol",
+        "Sales Guidelines"
+      ],
+      "context_chars": 13149,
+      "routing_duration_ms": 493,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": true,
+          "poor_name_match": true,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:26.628769"
+    },
+    {
+      "task_label": "pricing",
+      "task_text": "Create a pricing proposal with discount justification",
+      "task_type": "relevant",
+      "expected_categories": [
+        "sales",
+        "compliance"
+      ],
+      "min_score_threshold": 0.5,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 2,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 2,
+      "selected_variable_names": [
+        "pricing-negotiation-guidelines",
+        "pricing-negotiation-guidelines"
+      ],
+      "context_chars": 6632,
+      "routing_duration_ms": 598,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:28.585167"
+    },
+    {
+      "task_label": "market_research",
+      "task_text": "Write a market research brief on the healthcare AI segment",
+      "task_type": "relevant",
+      "expected_categories": [
+        "product"
+      ],
+      "min_score_threshold": 0.5,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 3,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 3,
+      "selected_variable_names": [
+        "market-research-guidelines",
+        "prospect-research-protocol",
+        "regulatory-compliance-healthcare"
+      ],
+      "context_chars": 10437,
+      "routing_duration_ms": 646,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": true
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:30.617000"
+    },
+    {
+      "task_label": "product_update",
+      "task_text": "Draft a product knowledge update about the MCP integration",
+      "task_type": "relevant",
+      "expected_categories": [
+        "product"
+      ],
+      "min_score_threshold": 0.5,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 1,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 1,
+      "selected_variable_names": [
+        "product-knowledge-mcp-integration"
+      ],
+      "context_chars": 3395,
+      "routing_duration_ms": 586,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:32.560434"
+    },
+    {
+      "task_label": "office_supplies",
+      "task_text": "Order new office supplies for the engineering floor",
+      "task_type": "distractor",
+      "expected_categories": [],
+      "min_score_threshold": 0.5,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 1,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 1,
+      "selected_variable_names": [
+        "office-supplies-policy"
+      ],
+      "context_chars": 3206,
+      "routing_duration_ms": 611,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:34.612643"
+    },
+    {
+      "task_label": "holiday_party",
+      "task_text": "Plan the company holiday party logistics",
+      "task_type": "distractor",
+      "expected_categories": [],
+      "min_score_threshold": 0.5,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 1,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 1,
+      "selected_variable_names": [
+        "event-planning-conference-booth"
+      ],
+      "context_chars": 2955,
+      "routing_duration_ms": 775,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:36.821143"
+    },
+    {
+      "task_label": "book_room",
+      "task_text": "Book a conference room for Thursday's standup",
+      "task_type": "distractor",
+      "expected_categories": [],
+      "min_score_threshold": 0.5,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 3,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 3,
+      "selected_variable_names": [
+        "event-planning-conference-booth",
+        "event-planning-conference-booth",
+        "meeting-notes-template"
+      ],
+      "context_chars": 8807,
+      "routing_duration_ms": 455,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:38.651143"
+    },
+    {
+      "task_label": "vacation_cal",
+      "task_text": "Update the team vacation calendar for March",
+      "task_type": "distractor",
+      "expected_categories": [],
+      "min_score_threshold": 0.5,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 3,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 3,
+      "selected_variable_names": [
+        "engineering-style-guide",
+        "meeting-notes-template",
+        "Product Guidelines"
+      ],
+      "context_chars": 13180,
+      "routing_duration_ms": 478,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:40.498832"
+    },
+    {
+      "task_label": "lunch_menu",
+      "task_text": "Review the lunch menu options for the team event",
+      "task_type": "distractor",
+      "expected_categories": [],
+      "min_score_threshold": 0.5,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 3,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 3,
+      "selected_variable_names": [
+        "event-planning-conference-booth",
+        "engineering-style-guide",
+        "meeting-notes-template"
+      ],
+      "context_chars": 10310,
+      "routing_duration_ms": 439,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:42.367015"
+    },
+    {
+      "task_label": "cold_email",
+      "task_text": "Write a cold outbound email to a VP of Sales at a SaaS company",
+      "task_type": "relevant",
+      "expected_categories": [
+        "sales",
+        "brand"
+      ],
+      "min_score_threshold": 0.65,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 3,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 3,
+      "selected_variable_names": [
+        "brand-voice-guidelines",
+        "icp-definition-mid-market-saas",
+        "Sales Guidelines"
+      ],
+      "context_chars": 12392,
+      "routing_duration_ms": 599,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "brand": {
+          "well_name_match": true,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:44.270288"
+    },
+    {
+      "task_label": "gdpr_response",
+      "task_text": "Draft a GDPR compliance response for a data deletion request",
+      "task_type": "relevant",
+      "expected_categories": [
+        "compliance",
+        "support"
+      ],
+      "min_score_threshold": 0.65,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 1,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 1,
+      "selected_variable_names": [
+        "data-handling-privacy-policy"
+      ],
+      "context_chars": 3472,
+      "routing_duration_ms": 737,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": true,
+          "poor_name_match": true,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": true
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:46.397734"
+    },
+    {
+      "task_label": "tech_demo",
+      "task_text": "Prepare a technical demo walkthrough for the core platform",
+      "task_type": "relevant",
+      "expected_categories": [
+        "product",
+        "sales"
+      ],
+      "min_score_threshold": 0.65,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 1,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 1,
+      "selected_variable_names": [
+        "product-knowledge-core-platform"
+      ],
+      "context_chars": 4158,
+      "routing_duration_ms": 742,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": true
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": true,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:48.568700"
+    },
+    {
+      "task_label": "competitive_analysis",
+      "task_text": "Create a competitive analysis comparing us to HubSpot AI",
+      "task_type": "relevant",
+      "expected_categories": [
+        "product",
+        "sales"
+      ],
+      "min_score_threshold": 0.65,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 3,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 3,
+      "selected_variable_names": [
+        "competitive-analysis-framework",
+        "competitive-analysis-framework",
+        "product-positioning-messaging"
+      ],
+      "context_chars": 11311,
+      "routing_duration_ms": 504,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": true
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": true
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:50.524285"
+    },
+    {
+      "task_label": "escalation",
+      "task_text": "Write an escalation response for a critical customer issue",
+      "task_type": "relevant",
+      "expected_categories": [
+        "support",
+        "compliance"
+      ],
+      "min_score_threshold": 0.65,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 3,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 3,
+      "selected_variable_names": [
+        "Support Guidelines",
+        "technical-troubleshooting-guide",
+        "brand-voice-guidelines"
+      ],
+      "context_chars": 14509,
+      "routing_duration_ms": 594,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": true,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": true
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:52.567140"
+    },
+    {
+      "task_label": "onboarding",
+      "task_text": "Draft an onboarding welcome email for a new builder customer",
+      "task_type": "relevant",
+      "expected_categories": [
+        "brand",
+        "product"
+      ],
+      "min_score_threshold": 0.65,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 3,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 3,
+      "selected_variable_names": [
+        "onboarding-workflow-builder-track",
+        "onboarding-workflow-builder-track",
+        "onboarding-workflow-design-partner"
+      ],
+      "context_chars": 12368,
+      "routing_duration_ms": 544,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": true
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": true
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:54.505966"
+    },
+    {
+      "task_label": "discovery_fintech",
+      "task_text": "Prepare discovery call questions for a fintech prospect",
+      "task_type": "relevant",
+      "expected_categories": [
+        "sales"
+      ],
+      "min_score_threshold": 0.65,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 3,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 3,
+      "selected_variable_names": [
+        "sales-playbook-discovery-call",
+        "prospect-research-protocol",
+        "Sales Guidelines"
+      ],
+      "context_chars": 13149,
+      "routing_duration_ms": 568,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": true,
+          "poor_name_match": true,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:56.516051"
+    },
+    {
+      "task_label": "pricing",
+      "task_text": "Create a pricing proposal with discount justification",
+      "task_type": "relevant",
+      "expected_categories": [
+        "sales",
+        "compliance"
+      ],
+      "min_score_threshold": 0.65,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 1,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 1,
+      "selected_variable_names": [
+        "pricing-negotiation-guidelines"
+      ],
+      "context_chars": 3315,
+      "routing_duration_ms": 559,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:24:58.448563"
+    },
+    {
+      "task_label": "market_research",
+      "task_text": "Write a market research brief on the healthcare AI segment",
+      "task_type": "relevant",
+      "expected_categories": [
+        "product"
+      ],
+      "min_score_threshold": 0.65,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 3,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 3,
+      "selected_variable_names": [
+        "market-research-guidelines",
+        "prospect-research-protocol",
+        "regulatory-compliance-healthcare"
+      ],
+      "context_chars": 10437,
+      "routing_duration_ms": 581,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": true
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:25:00.397940"
+    },
+    {
+      "task_label": "product_update",
+      "task_text": "Draft a product knowledge update about the MCP integration",
+      "task_type": "relevant",
+      "expected_categories": [
+        "product"
+      ],
+      "min_score_threshold": 0.65,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 1,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 1,
+      "selected_variable_names": [
+        "product-knowledge-mcp-integration"
+      ],
+      "context_chars": 3395,
+      "routing_duration_ms": 557,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 1,
+          "category_expected": true
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:25:02.342595"
+    },
+    {
+      "task_label": "office_supplies",
+      "task_text": "Order new office supplies for the engineering floor",
+      "task_type": "distractor",
+      "expected_categories": [],
+      "min_score_threshold": 0.65,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 3,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 3,
+      "selected_variable_names": [
+        "office-supplies-policy",
+        "office-supplies-policy",
+        "engineering-style-guide"
+      ],
+      "context_chars": 10874,
+      "routing_duration_ms": 576,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:25:04.352888"
+    },
+    {
+      "task_label": "holiday_party",
+      "task_text": "Plan the company holiday party logistics",
+      "task_type": "distractor",
+      "expected_categories": [],
+      "min_score_threshold": 0.65,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 3,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 3,
+      "selected_variable_names": [
+        "event-planning-conference-booth",
+        "event-planning-conference-booth",
+        "hr-interview-process"
+      ],
+      "context_chars": 9973,
+      "routing_duration_ms": 607,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 2,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:25:06.426762"
+    },
+    {
+      "task_label": "book_room",
+      "task_text": "Book a conference room for Thursday's standup",
+      "task_type": "distractor",
+      "expected_categories": [],
+      "min_score_threshold": 0.65,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 3,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 3,
+      "selected_variable_names": [
+        "event-planning-conference-booth",
+        "event-planning-conference-booth",
+        "meeting-notes-template"
+      ],
+      "context_chars": 8807,
+      "routing_duration_ms": 474,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:25:08.337307"
+    },
+    {
+      "task_label": "vacation_cal",
+      "task_text": "Update the team vacation calendar for March",
+      "task_type": "distractor",
+      "expected_categories": [],
+      "min_score_threshold": 0.65,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 3,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 3,
+      "selected_variable_names": [
+        "engineering-style-guide",
+        "meeting-notes-template",
+        "Product Guidelines"
+      ],
+      "context_chars": 13180,
+      "routing_duration_ms": 536,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:25:10.329258"
+    },
+    {
+      "task_label": "lunch_menu",
+      "task_text": "Review the lunch menu options for the team event",
+      "task_type": "distractor",
+      "expected_categories": [],
+      "min_score_threshold": 0.65,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "critical_count": 3,
+      "supplementary_count": 0,
+      "section_mode_count": 0,
+      "full_mode_count": 3,
+      "selected_variable_names": [
+        "event-planning-conference-booth",
+        "engineering-style-guide",
+        "meeting-notes-template"
+      ],
+      "context_chars": 10310,
+      "routing_duration_ms": 434,
+      "pair_matches": {
+        "sales": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "brand": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "compliance": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        },
+        "product": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 1,
+          "poor_tag_overlap": 1,
+          "category_expected": false
+        },
+        "support": {
+          "well_name_match": false,
+          "poor_name_match": false,
+          "well_tag_overlap": 0,
+          "poor_tag_overlap": 0,
+          "category_expected": false
+        }
+      },
+      "_timestamp": "2026-02-26T05:25:12.204965"
+    }
+  ]
+}

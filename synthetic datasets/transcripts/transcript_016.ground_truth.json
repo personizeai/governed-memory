@@ -1,0 +1,77 @@
+{
+  "sample_id": "transcript_016",
+  "content_type": "meeting_transcript",
+  "company": "LearnStack",
+  "industry": "EdTech",
+  "duration_minutes": 60,
+  "target_word_count": 4493,
+  "actual_word_count": 2386,
+  "expected_facts": [
+    {
+      "text": "They're dealing with poor developer experience slowing feature velocity",
+      "type": "explicit"
+    },
+    {
+      "text": "LearnStack is a EdTech company with about 1262 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Lisa Alvarez has been at LearnStack for 6 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using Pipedrive with Slack notifications",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $350,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Salesforce Einstein",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with compliance audit failures on data handling",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Marketing",
+    "company_name": "LearnStack",
+    "company_size": "1000+",
+    "technology_stack": "Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "compliance audit failures on data handling",
+      "poor developer experience slowing feature velocity",
+      "poor visibility into pipeline health",
+      "lack of real-time analytics for decision making"
+    ],
+    "deal_value": 350000,
+    "decision_timeline": "2026-12-01",
+    "competitors_mentioned": [
+      "Salesforce Einstein"
+    ],
+    "decision_maker": false,
+    "next_steps": "Lisa will share the RFP by end of week",
+    "buying_process": "Need approval from their CFO (CFO) for anything over $100K",
+    "current_solution": "Pipedrive with Slack notifications"
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 2,
+    "duplicate_facts": 3
+  },
+  "has_third_participant": true,
+  "property_coverage": 0.93,
+  "entity_id": "lisa-alvarez-learnstack",
+  "entity_email": "lisa.alvarez@learnstack.com",
+  "entity_website": "https://learnstack.com",
+  "contact_name": "Lisa Alvarez",
+  "record_id": "crm-lisa-alvarez-learnstack"
+}

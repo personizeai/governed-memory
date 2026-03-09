@@ -1,0 +1,32 @@
+Call with: Lucia Fernandez, Director of Sales Engineering at PriceMatrix
+Date: February 01, 2026
+Duration: 25 min
+
+Key Points:
+- PriceMatrix 51-200 emp, deal stage proposal, $600k value, med urgency, timeline 9/19
+- Lucia 2yrs @ PM, knows stack inside out — TS/React/Node/GCP/MongoDB
+- Pain: no real-time analytics → dec mking suffers, def need it for ops
+- Hiring specialized engs — tough, esp Node/GCP folks, scaling peaks killing them
+- ROI on AI inits? Zero visibility, frustrated w/ current tools
+- Eval Outreach too, but lacks our realtime edge, she's comparing
+- Likes demo, esp analytics dashboard, wants custom for peak traffic
+- Budget ok but needs buy-in from CTO, he's pushing Q2 close? (wait, her or him?)
+- Compet: Outreach only so far, but they're slow on GCP integ
+- Urgency med — by EOQ? Nah, but next week mtg w/ team
+- She dug integration w/ Mongo, no brainer swap from old setup
+- Pain scaling peaks — lost 20% rev last Black Friday, yikes
+- Def interested, but hiring crunch delaying eval
+- Asked re: our hiring module? Tie to analytics for ROI tracking
+- He's skeptical on price (CTO?), but $600k fits if proves ROI fast
+- F/u on POC for realtime — she'll loop engs
+
+Action Items:
+- [ ] Send revised proposal w/ GCP/Mongo specifics — me by EOD Fri
+- [ ] Schedule f/u mtg next week w/ her + CTO — me
+- [ ] Share Outreach vs us matrix — me, cc Lucia
+- [ ] Ping eng team for custom scaling demo — me
+
+Notes:
+Lucia solid contact, 2yrs in, pushing internally but CTO drag (he? her boss?). Pain on realtime analytics hits hard — no vis into dec mking, esp peaks w/ React/Node load. Stack matches perfect, Outreach eval but weak on realtime/ROI. Deal $600k proposal stage, med urgency to 9/19. She's motivated bc hiring woes killing velocity, wants our tool to track eng ROI + scale. Quick mtg next week key, get CTO in.
+
+Vague on team size impact but 51-200 screams growth pains. Demo landed well, she'll advocate if POC shines on Mongo integ + AI ROI. Watch Outreach — they quoted but no realtime. F/U aggressive by EOQ push? She's open. (Who owns budget final?) Solid vibe, prob close if we nail custom.

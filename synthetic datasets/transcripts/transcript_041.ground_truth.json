@@ -1,0 +1,80 @@
+{
+  "sample_id": "transcript_041",
+  "content_type": "meeting_transcript",
+  "company": "TechFlow Inc",
+  "industry": "B2B SaaS",
+  "duration_minutes": 60,
+  "target_word_count": 4007,
+  "actual_word_count": 2933,
+  "expected_facts": [
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "Jennifer Kim has been at TechFlow Inc for 3 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $600,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with high infrastructure costs eating into margins",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with fragmented tooling across departments",
+      "type": "explicit"
+    },
+    {
+      "text": "TechFlow Inc is a B2B SaaS company with about 31 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $122M",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Clari, HubSpot AI",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Sales Engineering",
+    "company_name": "TechFlow Inc",
+    "company_size": "11-50",
+    "technology_stack": "Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "fragmented tooling across departments",
+      "high infrastructure costs eating into margins",
+      "inconsistent messaging across sales team"
+    ],
+    "deal_value": 600000,
+    "decision_timeline": "2026-06-24",
+    "competitors_mentioned": [
+      "Clari",
+      "HubSpot AI"
+    ],
+    "decision_maker": true,
+    "next_steps": "Set up POC environment for Jennifer's team to evaluate",
+    "buying_process": "Procurement requires three competitive bids before decision"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 4,
+    "duplicate_facts": 2
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.86,
+  "entity_id": "jennifer-techflow-inc",
+  "entity_email": "jennifer@techflow.io",
+  "entity_website": "https://techflow.io",
+  "contact_name": "Jennifer",
+  "record_id": "crm-jennifer-techflow-inc"
+}

@@ -1,0 +1,57 @@
+Call with: Kevin Nakamura, VP of Sales at CourseForge
+Date: February 20, 2026
+Duration: 25 min
+
+Key Points:
+- EdTech, ~135 emps (51-200 sz)
+- Stack: Elixir/Phoenix/Fly.io/Postgres/LiveView
+- Pains: fragmented tooling x depts, slow deploys 2-3wks/release
+- Curr: Notion + Airtable combo — messy af
+- Budget: ~$350k alloc'd
+- Kev @ CF 3yrs, def DM
+- Eval'ing: custom int tool, Outreach, Clari
+- Stage: Proposal
+- Urgency: med
+- Timeline: 2026-11-01
+- He's frustrated w/ deploys blocking sales team
+- Wants faster cycles, prob our speed wins
+- Mentioned Fly.io pains — scaling issues?
+- Notion/Airtable no integration, data silos
+- Outreach too sales-only, Clari forecast weak
+- Custom tool eval stalled, overbudget
+- They're Phoenix heavy, LiveView ui lags on deploys
+- 135 emps but tooling like 500 — chaos
+- He pushed back on price but $350k room
+- Def interested in demoing our deploy flow
+- Competitors weak on their Elixir stack
+- Slow releases kill velocity, reps waiting 2-3wks
+- Depts siloed: eng/sales/mktz all diff tools
+- Airtable hacks falling apart, Notion notes everywhere
+- Kevin solid contact, knows CPO well
+- Proposal stage, need to lock next steps
+- Med urgency — not fire drill but building
+- By EOQ? Nah, he's eyeing Q3 close
+- Custom tool eval dead end, they're pivoting
+- Outreach demo'd last mo, no go
+- Clari too pricey for value
+- Frag tooling killing collab, esp sales-eng handoff
+- Postgres deploys manual, error prone
+- LiveView changes take forever to prod
+- $350k budget firm, from ops realloc
+- He's got pull, 3yrs tenure helps
+- Next week f/u critical
+- Pain deep on deploys — 2-3wks too long
+- They're 51-200 but feel bigger pains
+- Elixir perf good but release cycle sucks
+- Phoenix apps multiple, all slow
+
+Action Items:
+- [ ] Send updated proposal w/ Elixir benchmarks (me, by EOD)
+- [ ] Sch mtg w/ their eng lead next week (me)
+- [ ] F/u on budget approval status (Kevin)
+- [ ] Demo prep: Fly.io + LiveView flows (eng team)
+
+Notes:
+Kev solid, been at CourseForge 3yrs, knows pains inside out. They're EdTech scaling fast but fragmented tooling across depts killing them — sales using Notion scraps, eng on Airtable db hell. Slow deploys 2-3wks/release esp hurts, Phoenix/LiveView changes bottleneck everything. Budget $350k locked, stage proposal, med urgency. He's the DM, pushing internally but timeline to 11/1. Mentioned Outreach/Clari/custom tool evals flopping — our stack fit (Elixir/Fly.io/Postgres) perfect edge. He's eyeing Q3 but by EOQ if we move fast.
+
+He kept circling back to deploy speed, said "we're dying here" — prob sales quotas slipping bc of it. Custom tool was their hail mary but overran costs. Notion/Airtable patchwork no match. Need to hit eng pain next mtg, unclear if CPO fully looped but he's got sway. Next week key to advance, or stalls. Urgency med but building, 135 emps feeling 2x pains. Proposal out today.

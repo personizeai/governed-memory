@@ -1,0 +1,31 @@
+Call with: Amanda Costa, Chief Revenue Officer at PayGrid Financial  
+Date: February 24, 2026  
+Duration: 30 min  
+
+Key Points:  
+- CRO @ PayGrid Fintech (1000+, ~5k emps) - 6 yrs there  
+- Deal stage: Negotiation, ~$350k budget alloc'd  
+- Pain: poor visibility pipeline health - def need better dashboards  
+- Pain: hiring specialized engs tough, esp Java/Micronaut  
+- Tech stack: Java, Micronaut, GCP/Spanner/PubSub  
+- Eval'ing HubSpot AI, SF Einstein - she's pushing back on costs  
+- Decision maker: yes, direct VP approval path but fast-track only <150k (we're over)  
+- RFP incoming EOW from her  
+- He mentioned Q2 close if pricing flex - prob sales VTO?  
+- They want POC next week, pipeline viz demo  
+- She's bought similar before, trusts GCP integ  
+- Budget locked, no slippage  
+- Competitors weak on hiring analytics tie-in  
+- EOQ pressure high, pipeline blind spots killing forecast  
+- She said "we're bleeding on eng hires" - tie to our talent mod?  
+
+Action Items:  
+- [ ] Send RFP response draft + pricing matrix (me, by EOD tomorrow)  
+- [ ] Schedule POC mtg w/ eng team (Amanda to confirm slots next week)  
+- [ ] F/u on HubSpot/SF diffs - deck ready? (me)  
+- [ ] Loop in VP for 350k approval path (her side)  
+
+Notes:  
+Strong call, Amanda engaged whole time. She's key DM, been at PayGrid 6 yrs, knows pains inside out - pipeline invis + eng hiring crunch top. Tech aligns perfect (Java/Micronaut/GCP etc), but they're eyeing HubSpot AI/SF Einstein bc cheaper upfront. Deal 350k exceeds fast-track <150k, so she'll push VPs. He jumped in late call (her SVP?), wants Q2 aggressive. RFP by EOW, next week POC def go.  
+
+Budget firm ~350k, no wiggle but open flex terms. Poor pipeline viz killing them, our demo nailed it. Hiring pain acute - specialized engs scarce, they lose to BigTech. She's motivated, fast process if we hit RFP quick. Watch competitors, they're weak on GCP depth. EOQ ram down hard.

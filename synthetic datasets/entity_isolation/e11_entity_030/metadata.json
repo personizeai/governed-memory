@@ -1,0 +1,19 @@
+{
+  "entity_index": 30,
+  "name": "Chloe Nakamura",
+  "company": "Ironclad AI",
+  "industry": "CleanTech",
+  "email": "chloe.nakamura@ironcladai.com",
+  "title": "VP of Engineering",
+  "facts": [
+    "Chloe Nakamura is VP of Engineering at Ironclad AI",
+    "Ironclad AI is a CleanTech company with 2280 employees",
+    "Tech stack: Java, Spring Boot, Azure, Oracle, Kafka",
+    "Deal value: $250,000",
+    "Pain points: difficulty measuring ROI on AI initiatives; customer churn from slow support response times",
+    "Competitors: Clari, existing CRM workflows",
+    "Decision timeline: Q4 2026",
+    "Annual revenue: ~$279M"
+  ],
+  "actual_word_count": 268
+}

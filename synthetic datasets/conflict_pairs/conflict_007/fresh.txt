@@ -1,0 +1,19 @@
+**Call Note: Follow-up Sales Meeting**  
+**Date:** January 10, 2026  
+**Contact:** Heather Nakamura, VP Engineering, Redwood Analytics (Digital Media)  
+**Duration:** 45 min | **Attendees:** HN, [My Name], Sales Eng.  
+
+Key Discussion Points:  
+- Reviewed Q1 product demo; strong alignment with Redwood's real-time analytics needs for ad personalization in digital media workflows. HN confirmed our API integrates seamlessly with their existing CMS (Adobe Experience Manager).  
+- **UPDATE: Timeline Acceleration.** Redwood has accelerated project rollout from previously discussed Q3/Q4 2026 to Q2 2026. This supersedes prior notes—driven by internal exec pressure to capture Q2 ad spend surge. HN cited 20% faster dev cycles post-team expansion (now 15 engineers on point).  
+- Budget: HN greenlit $250K POC allocation; seeking final sign-off from CFO by EOM Jan. Expressed mild pricing pushback—countered with 10% volume discount tied to Q2 go-live.  
+- Risks: Minor concern on data latency SLAs; committed to stress-test benchmarks in next session. No competitor mentions (e.g., Snowflake out).  
+
+Next Steps:  
+- Send revised SOW reflecting Q2 timeline by 1/15.  
+- Schedule technical deep-dive + custom demo: Week of 1/20 (proposed 1/22, 2pm PT). HN to confirm.  
+- Internal: Escalate timeline shift to Account Team for resource reallocation.  
+
+Overall: High intent; deal momentum building. Probability: 75% (up from 60%). Follow up 1/12 if no SOW ack.  
+
+(Word count: 218)

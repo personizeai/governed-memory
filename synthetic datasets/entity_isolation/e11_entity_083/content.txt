@@ -1,0 +1,17 @@
+### Account Overview
+Clover Solutions is a Healthcare Tech company specializing in innovative solutions for healthcare delivery, with approximately 868 employees and ~$131M in annual revenue. Our primary contact is Keiko Alvarez, Director of Engineering at Clover Solutions (keiko.alvarez@cloversolutions.com). Keiko leads engineering efforts focused on scalable tech infrastructure, making her a key decision-maker for tools that enhance development and operational efficiency. The company is actively evaluating CRM and AI-driven platforms to address gaps in their current stack, positioning them as a high-value B2B prospect in the healthcare tech space.
+
+### Key Details
+Clover Solutions' tech stack includes C#, .NET, Azure, SQL Server, and RabbitMQ, which supports their robust backend for healthcare applications. However, they face significant pain points: difficulty measuring ROI on AI initiatives and poor visibility into pipeline health. These challenges are hindering their ability to optimize engineering workflows and forecast accurately. Current competitors in their evaluation include Intercom, Clari, and Microsoft Copilot, as Clover seeks a unified solution to integrate with their Azure-heavy environment and provide better analytics for AI investments.
+
+### Deal Status
+This opportunity has a potential deal value of $400,000, reflecting Clover's scale and need for enterprise-grade CRM enhancements. Keiko has expressed strong interest in demos tailored to healthcare tech pain points, with initial discussions highlighting alignment between our platform and their .NET/Azure ecosystem. The decision timeline is targeted for Q2 2026, allowing time for proof-of-concept trials and stakeholder buy-in. Current stage: Discovery/Qualification, with positive signals from engineering alignment.
+
+### Next Steps
+- Schedule a 30-minute technical demo with Keiko by end of next week, focusing on ROI measurement for AI initiatives and pipeline visibility dashboards integrated with RabbitMQ and SQL Server.
+- Share case studies of Healthcare Tech wins against Intercom/Clari competitors.
+- Follow up on Azure compatibility questionnaire sent 10/15; aim for response by 10/22.
+- Escalate to VP Engineering intro if demo advances, prepping custom ROI calculator for $400K opportunity.
+- Monitor Q2 2026 timeline; set internal milestone review in Q4 2025.
+
+(Word count: 347)

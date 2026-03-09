@@ -1,0 +1,46 @@
+# PixelGrid — Account Overview
+
+## Company Background
+PixelGrid is a dynamic digital media company specializing in real-time personalized advertising platforms for e-commerce and content publishers. With approximately 45 employees (falling within the 11-50 size range), the company focuses on leveraging big data analytics to deliver hyper-targeted ad experiences that maximize engagement and revenue during high-traffic events. Founded in early 2022 by a trio of former Google engineers who identified a gap in scalable, low-latency ad serving amid the explosion of streaming media, PixelGrid experienced explosive early growth, onboarding over 200 publisher clients in its first 18 months. This rapid expansion, however, has left them grappling with significant technical debt from hasty implementations, including outdated monolithic services that struggle under load. Compounding these challenges, they lost a major customer last quarter due to protracted onboarding issues stemming from their legacy CRM setup, which highlighted broader operational inefficiencies. Recently, their engineering team has been growing aggressively—they hired 17 people this quarter alone—to address these pain points, signaling a commitment to modernization despite the company's relatively lean size.
+
+## Key Contacts
+| Name | Title | Role in Deal |
+|---|---|---|
+| Elena Okonkwo | Head of Product | Primary Contact |
+| Aisha Lee | VP of Sales | Champion |
+| Michael Petrov | VP of Operations | Budget Owner |
+| Tom Petrov | Chief Product Officer | Champion |
+
+Elena Okonkwo, the Head of Product and our primary contact, has been at PixelGrid for just 1 year but has quickly become a vocal advocate for overhauling their tech stack. Aisha Lee serves as a strong internal champion, pushing for solutions that align sales pipelines with operational realities. Michael Petrov, as Budget Owner and a decision maker, controls the approximately $450,000 allocated for this initiative. Tom Petrov, the Chief Product Officer and another champion (and Michael's brother), emphasizes strategic fit in product-led decisions.
+
+## Meeting History
+### Meeting 1: Discovery Call (January 11, 2026)
+In our initial discovery call, the PixelGrid team outlined their core challenges, including scaling issues during peak traffic periods when their ad platform experiences latency spikes exceeding 500ms, leading to lost revenue opportunities. Elena Okonkwo led the discussion, detailing how technical debt from rapid early growth has bottlenecked their engineering velocity, and they currently rely on Pipedrive integrated with Slack notifications as their sales and ops CRM solution—which they described as inadequate for handling complex deal workflows. Aisha Lee highlighted the recent loss of a major customer last quarter due to onboarding delays, underscoring the urgency for a more robust system. We explored their tech stack, which centers on Scala for backend services, Spark for processing, Databricks for ML workflows, Snowflake for data warehousing, and Airflow for orchestration. The conversation established a two-phase buying process: a technical POC first, followed by a business case presentation to leadership. They expressed concerns about vendor lock-in with their current cloud provider, and we positioned our solution as a flexible alternative. Action items included sharing a high-level demo tailored to their pain points.
+
+### Meeting 2: Technical Deep Dive (February 11, 2026)
+The technical deep dive built on the discovery call, with Michael and Tom Petrov joining Elena to scrutinize integration feasibility. Their engineering leads demoed live issues with scaling during simulated peak traffic—where Spark jobs on Databricks bog down due to inefficient data pipelines orchestrated via Airflow—and vendor lock-in risks that prevent seamless migration from Snowflake dependencies. We reviewed their full stack (Scala/Spark/Databricks/Snowflake/Airflow) and proposed custom integrations, addressing technical debt accumulated from early hyper-growth phases. Elena noted the team's expansion, with 17 new hires this quarter bolstering capacity for a POC. Discussions turned to competitors: they're seriously considering building in-house to avoid external dependencies, alongside evaluations of Drift for conversational sales tools and Microsoft Copilot for AI-assisted ops. They confirmed the $450,000 budget envelope and a decision timeline of November 18, 2026, post-POC validation. A key unclear moment arose when they referenced "it" as the primary blocker—whether budget reallocation or internal buy-in remained ambiguous, but we followed up via Slack to clarify. Next steps: POC kickoff in March.
+
+## Technical Requirements
+- **Scalability for Peak Traffic**: Must handle 10x traffic surges (e.g., Black Friday events) with sub-200ms latency, integrating seamlessly with existing Scala/Spark services to mitigate current bottlenecks observed during high-load periods.
+- **Data Pipeline Orchestration**: Airflow-compatible scheduling with enhanced monitoring; support for Databricks ML jobs and Snowflake querying without introducing new vendor lock-in.
+- **CRM Integration**: Replace or augment Pipedrive + Slack notifications with advanced workflow automation, including AI-driven lead scoring and onboarding sequences to prevent repeats of last quarter's customer loss.
+- **Technical Debt Reduction**: Modular architecture to refactor legacy Scala monoliths, enabling faster iterations amid engineering team's recent growth (17 hires this quarter).
+- **AI/ML Enhancements**: Copilot-like features for ops and sales, but with custom scalability beyond off-the-shelf tools like Microsoft Copilot or Drift.
+- **POC-Ready Customization**: Two-phase support—technical validation first (e.g., Spark job acceleration), then business ROI modeling for leadership.
+- **Cloud Agnosticism**: Escape current provider lock-in via portable APIs, ensuring Snowflake/Databricks continuity.
+- **Real-Time Analytics**: Spark-streaming integrations for ad personalization, addressing revenue leaks from scaling failures.
+- **Security & Compliance**: SOC2 alignment for media client data, with Airflow DAG auditing.
+- **Budget Alignment**: Solution scoped to ~$450K annual commitment, with phased rollout.
+
+## Deal Status
+PixelGrid is currently in the Negotiation stage, with a projected deal value of $450,000 over the first year, tied to successful completion of the technical POC scheduled for Q2 2026. The allocated budget remains intact under Michael Petrov's oversight, reflecting their urgency to resolve scaling pains during peak traffic and technical debt from hyper-growth, which have already cost them a key client last quarter. Their buying process is rigorously two-phase: we've advanced past discovery and deep dive, with POC underway to demonstrate value against in-house build or competitors like Drift and Microsoft Copilot. Decision timeline targets November 18, 2026, aligning with fiscal year-end planning, though minor blockers include finalizing POC success criteria—Elena mentioned last week they might need executive alignment if engineering bandwidth stretches thin post their 17 hires this quarter. Momentum is strong, with Aisha and Tom as champions advocating internally; we've drafted the MSA, pending vendor lock-in reassurances. Overall, close probability sits at 75%, but we must maintain weekly check-ins to navigate any shifts in their Pipedrive-Slack ecosystem transition.
+
+## Competitive Landscape
+- **Building In-House**: Primary threat; engineering expansion (17 hires this quarter) gives them resources to develop custom Scala/Spark tools, though technical debt and onboarding failures (e.g., last quarter's loss) make this risky.
+- **Drift**: Evaluating for conversational CRM to replace Pipedrive + Slack, but lacks deep Databricks/Snowflake integration for their ad-scale needs.
+- **Microsoft Copilot**: Attracted by AI ops features, yet concerns over vendor lock-in mirror their current cloud pains; POC will differentiate our stack-agnostic approach (Scala/Spark/Airflow/etc.).
+
+## Risk Factors
+- **Internal Prioritization Shifts**: Recent engineering hires (17 this quarter) could divert focus from POC to fire-fighting scaling issues, delaying the November 18 timeline; they've hinted at stretching resources thin.
+- **Competitor Momentum**: Strong pull toward in-house build or Copilot if our POC doesn't clearly outperform on peak traffic handling—Elena noted "they" (unclear if execs or engineers) favor familiarity.
+- **Budget Reallocation**: $450K pot vulnerable if Q3 results echo last quarter's churn; vendor lock-in fears could pivot them to cheaper Drift alternatives.

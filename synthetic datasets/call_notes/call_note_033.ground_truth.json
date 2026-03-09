@@ -1,0 +1,53 @@
+{
+  "sample_id": "call_note_033",
+  "content_type": "call_notes",
+  "company": "DataPulse Systems",
+  "industry": "B2B SaaS",
+  "duration_minutes": 25,
+  "target_word_count": 501,
+  "actual_word_count": 388,
+  "expected_facts": [
+    {
+      "text": "Elena Novak has been at DataPulse Systems for 7 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with scaling issues during peak traffic periods",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $850,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with slow deployment cycles taking 2-3 weeks per release",
+      "type": "explicit"
+    },
+    {
+      "text": "DataPulse Systems is a B2B SaaS company with about 184 employees",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Chief Product Officer",
+    "company_name": "DataPulse Systems",
+    "company_size": "51-200",
+    "technology_stack": "Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "slow deployment cycles taking 2-3 weeks per release",
+      "scaling issues during peak traffic periods",
+      "technical debt from rapid early growth"
+    ],
+    "deal_value": 850000,
+    "decision_timeline": "2026-06-27",
+    "decision_maker": true,
+    "next_steps": "Set up POC environment for Elena's team to evaluate",
+    "current_solution": "combination of Notion and Airtable"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 2
+  },
+  "property_coverage": 0.79
+}

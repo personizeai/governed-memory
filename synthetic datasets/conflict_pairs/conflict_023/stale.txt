@@ -1,0 +1,22 @@
+**Sales Call Note**  
+**Date:** November 27, 2025  
+**Contact:** Priya Anderson, VP of Engineering, Ridge Computing (Manufacturing)  
+**Call Type:** Virtual sales meeting/demo (45 mins via Zoom)  
+**Attendees:** Priya Anderson, myself (AE), SE Jordan Lee  
+
+**Key Discussion Points:**  
+Priya provided update on Ridge's manufacturing ops challenges, including 15-20% downtime from predictive maintenance gaps in their legacy systems. They're scaling production for EV components and need AI analytics for real-time anomaly detection and supply chain optimization.  
+
+Demo went well—highlighted our platform's edge AI models, which integrate seamlessly with Siemens PLCs and SAP ERP (their current stack). Priya noted positive ROI projections from similar manufacturing clients (e.g., 25% uptime improvement).  
+
+**Competitive Landscape:** Ridge Computing is evaluating Salesforce Einstein as an alternative, primarily for its CRM-native AI but concerned about manufacturing-specific customizations and higher TCO. Priya cited our lower implementation timeline (4-6 weeks vs. Einstein's 8-12) as a differentiator.  
+
+**Budget/Timeline:** Q1 2026 rollout targeted; $750K budget approved for AI platform. Priya confirmed RFP process starts Jan 2026.  
+
+**Action Items/Next Steps:**  
+- Send tailored POC proposal with Ridge's sample sensor data by Dec 3.  
+- Priya to intro CTO for joint technical review on Dec 10.  
+- Follow up on tech stack details (IoT endpoints, data volume) by EOW.  
+**Opportunity Stage:** Qualified – High intent.  
+
+(Word count: 218)

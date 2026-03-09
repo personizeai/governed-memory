@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_003",
+  "category": "team_size",
+  "company": "Cortex Systems",
+  "contact": "Alex Costa",
+  "industry": "Digital Media",
+  "stale_date": "2025-08-10",
+  "fresh_date": "2026-02-02",
+  "stale_claim": "Cortex Systems has an engineering team of about 40 people",
+  "fresh_claim": "Cortex Systems grew their engineering team to 85 people",
+  "expected_query": "How large is Cortex Systems's engineering team?",
+  "expected_answer": "grew their engineering team to 85 people",
+  "stale_word_count": 192,
+  "fresh_word_count": 181
+}

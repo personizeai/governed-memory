@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_027",
+  "category": "pain_point",
+  "company": "Aether IO",
+  "contact": "Keiko O'Brien",
+  "industry": "EdTech",
+  "stale_date": "2025-08-14",
+  "fresh_date": "2026-02-20",
+  "stale_claim": "Aether IO identified slow deployment cycles as their primary pain point",
+  "fresh_claim": "Aether IO said their main concern shifted to data silos between teams",
+  "expected_query": "What is Aether IO's primary pain point?",
+  "expected_answer": "said their main concern shifted to data silos between teams",
+  "stale_word_count": 164,
+  "fresh_word_count": 189
+}

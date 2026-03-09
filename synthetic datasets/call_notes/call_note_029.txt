@@ -1,0 +1,35 @@
+Call with: Tariq Lee, CTO at MetalGrid
+Date: February 05, 2026
+Duration: 20 min
+
+Key Points:
+- Tariq CTO, 4 yrs @ MetalGrid mfg co ~4600 emps (1000+ scale)
+- Bd mtg last mo shifted prios — away from dev tools, more ops focus
+- Budget alloc ~$200k, def in play for Q2
+- Tech stack: TS/React/Node/GCP/Mongo — good fit, they're heavy GCP
+- Eng tm growing fast, hired 10 this qtr, scaling Node svcs
+- Deal stage: Proposal, val $200k
+- He's decision maker, but pushing for June 25 timeline
+- Urgency low — they paused other vendors post-bd mtg
+- Likes our React integ, prob w/ Mongo sync
+- She mentioned (eng lead?) bottlenecks in GCP scaling
+- Re: timeline, aiming end Q2, but board call next week
+- He's open to POC, but budget locked til EOQ review
+- Competitors: out, bc our TS supp better
+- Pain: legacy Node deploys slow, need faster CI/CD
+- Tariq says tm overwhelmed w/ growth, def need help
+- Low urgency now, prios shifted to prod stability
+- He wants pricing dets by Fri, cc eng
+- Deal val holds @200k if we hit June
+- They're 1000+ but feels like startup chaos w/ hires
+
+Action Items:
+- [ ] Send pricing proposal to Tariq by Fri (me)
+- [ ] F/u w/ eng lead on Mongo POC (me)
+- [ ] Sch mtg next week post-bd update (Tariq)
+- [ ] Log deal stage Proposal, timeline 6/25/26 (me)
+
+Notes:
+Tariq solid contact, knows stack inside out — TS/Node pros, but they're slammed post-hires. Bd mtg killed urgency, shifted to ops over greenfield dev, so low push now. He/they sound bought in on value prop, esp React->GCP flows, but he's deferring til June unless we sweeten pricing. Def decision maker, looped in CEO indirectly. Quick call, he's responsive, f/u Fri critical to keep momentum. Prob they'll bite if we nail Mongo dets — eng tm stretched thin.
+
+Post-call vibe: chill but pragmatic. He mentioned "we're not rushing" re: Q2, but board EOQ push might accel. Watch for her (eng?) input on scaling. Deal @200k viable, stage Proposal locked. Next week key for timeline nudge.

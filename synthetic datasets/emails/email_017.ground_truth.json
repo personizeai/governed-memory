@@ -1,0 +1,70 @@
+{
+  "sample_id": "email_017",
+  "content_type": "email_thread",
+  "company": "CloudNova",
+  "industry": "B2B SaaS",
+  "email_count": 8,
+  "actual_word_count": 1082,
+  "expected_facts": [
+    {
+      "text": "Currently evaluating 4 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "CloudNova is a B2B SaaS company with about 44 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $120,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 33% this fiscal year",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 6 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Intercom, building in-house, Microsoft Copilot",
+      "type": "explicit"
+    },
+    {
+      "text": "Aisha Singh has been at CloudNova for 2 years",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "CTO",
+    "company_name": "CloudNova",
+    "company_size": "11-50",
+    "technology_stack": "Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+    "deal_stage": "Negotiation",
+    "deal_value": 120000,
+    "decision_timeline": "2026-04-16",
+    "competitors_mentioned": [
+      "Intercom",
+      "building in-house",
+      "Microsoft Copilot"
+    ],
+    "decision_maker": true,
+    "next_steps": "Aisha will share the RFP by end of week",
+    "buying_process": "Two-phase: technical POC first, then business case to leadership"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 2
+  },
+  "introduces_new_person": true,
+  "colleague": "Omar Chen, Solutions Architect",
+  "property_coverage": 0.79
+}

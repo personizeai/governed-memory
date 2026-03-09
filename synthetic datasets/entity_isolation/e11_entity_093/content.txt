@@ -1,0 +1,18 @@
+### Account Overview
+Amber Computing is a PropTech company specializing in innovative property technology solutions, with approximately 1921 employees and ~$42M in annual revenue. Our primary contact is Omar Santos, Director of Sales Engineering at Amber Computing (omar.santos@ambercomputing.com). Omar oversees the sales engineering team, focusing on technical implementations and customer-facing solutions. The company is actively evaluating CRM enhancements to address operational inefficiencies in their PropTech ecosystem, positioning them as a high-value B2B prospect.
+
+### Key Details
+Amber Computing's tech stack includes Scala, Spark, Databricks, Snowflake, and Airflow, indicating a robust data engineering foundation with emphasis on big data processing and orchestration. Key pain points include high customer churn driven by slow support response times and a lack of real-time analytics for timely decision-making. These challenges are hindering their ability to scale sales operations effectively in the competitive PropTech space.
+
+They are considering alternatives such as building solutions in-house, or adopting competitors like Clari and ZoomInfo. Omar has expressed frustration with current tools not integrating seamlessly with their existing stack, leading to delays in support tickets and missed revenue opportunities from poor visibility into customer behaviors.
+
+### Deal Status
+Potential deal value is estimated at $120,000, with a decision timeline targeted for Q2 2026. Initial discussions with Omar have uncovered strong alignment with our platform's real-time analytics and support automation features, which directly mitigate their churn issues. The opportunity is in early discovery stage, with positive internal buy-in from sales engineering. No formal proposal submitted yet, but momentum is building as they compare us against in-house builds and Clari/ZoomInfo.
+
+### Next Steps
+- Schedule follow-up demo with Omar Santos to showcase integration with Scala, Spark, Databricks, Snowflake, and Airflow (target: next week).
+- Prepare customized ROI analysis addressing customer churn and real-time analytics pain points.
+- Request intro to additional stakeholders via Omar for broader evaluation.
+- Monitor Q2 2026 timeline and set reminder for proposal submission in Q4 2025.
+
+(Word count: 352)

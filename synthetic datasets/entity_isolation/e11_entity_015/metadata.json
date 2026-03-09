@@ -1,0 +1,19 @@
+{
+  "entity_index": 15,
+  "name": "Yusuf Bhandari",
+  "company": "Atlas Engineering",
+  "industry": "BioTech",
+  "email": "yusuf.bhandari@atlasengineering.com",
+  "title": "VP of Marketing",
+  "facts": [
+    "Yusuf Bhandari is VP of Marketing at Atlas Engineering",
+    "Atlas Engineering is a BioTech company with 214 employees",
+    "Tech stack: TypeScript, React, Node.js, GCP, MongoDB",
+    "Deal value: $250,000",
+    "Pain points: difficulty hiring specialized engineers; data silos between engineering and sales teams; integration complexity with legacy systems",
+    "Competitors: HubSpot AI, Microsoft Copilot",
+    "Decision timeline: Q3 2026",
+    "Annual revenue: ~$170M"
+  ],
+  "actual_word_count": 266
+}

@@ -1,0 +1,33 @@
+Call with: Nadia Park, Head of Infrastructure at ChannelBridge  
+Date: February 21, 2026  
+Duration: 20 min  
+
+Key Points:  
+- Nadia Park, Head Infra @ ChannelBridge (e-comm co, ~565 emps, 201-1000 sz)  
+- There 7 yrs, knows stack inside out  
+- Scaling issues peak traffic – AWS choking, Redis lags  
+- Compliance audit fails data handling – big red flags last Q  
+- Stack: Python/Django/AWS/PostgreSQL/Redis  
+- Peaks kill perf, need auto-scale fix  
+- Audits bombing bc data policies not tight  
+- She's pushing scaling demo  
+- Not DM – defers to CTO  
+- Deal stage: Negotiation  
+- Likes our compl module  
+- Pain: peaks + audits  
+- He's skeptical on price (CTO?)  
+- Prob w/ current setup during Black Friday surges  
+- Wants POC next week  
+- Re: timeline – by EOQ?  
+
+Action Items:  
+- [ ] Send updated proposal w/ scaling benchmarks (me)  
+- [ ] F/u intro to CTO (me)  
+- [ ] Schedule POC demo next week (Nadia)  
+- [ ] Share compl audit case study by EOQ (me)  
+- [ ] Log pains in CRM – scaling/audits (me)  
+
+Notes:  
+Nadia solid contact, been at ChannelBridge 7 yrs running infra. Big pains scaling during peak traffic – their AWS/Postgres/Redis stack can't hack it, esp e-comm spikes. Compliance audits failing hard on data handling, regulators breathing down neck. She's not decision maker tho, keeps deferring to "him" on budget calls. Deal in negotiation, she's warm on our stack fit (Py/Django compat).  
+
+Pushed for quick win on peaks, mentioned last peak they lost 20% conv rate. He's dragging on SOW but open if POC shines next week. F/U aggressive by EOQ to close Q2 push. She's bought in technically, just needs CTO greenlight. Terse call, she multitasked but engaged.

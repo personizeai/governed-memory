@@ -1,0 +1,17 @@
+### Account Overview
+Coral AI is a prominent AgriTech company specializing in innovative agricultural solutions powered by AI. With approximately 2320 employees and annual revenue of ~$47M, they are scaling rapidly in a competitive landscape. Our primary point of contact is Elena Mitchell, CTO at Coral AI (elena.mitchell@coralai.com). Elena oversees their technical strategy and is actively evaluating solutions to modernize their infrastructure amid growth challenges.
+
+### Key Details
+Coral AI's tech stack is built on Elixir, Phoenix, Fly.io, PostgreSQL, and LiveView, enabling real-time, scalable applications tailored to AgriTech demands. However, they face significant pain points: vendor lock-in with their current cloud provider is hindering flexibility and cost efficiency, while fragmented tooling across departments is causing silos, slowing collaboration, and increasing operational overhead. Current alternatives include a custom internal tool and Apollo.io, but these fall short in integration and scalability for their needs.
+
+### Deal Status
+This opportunity represents a $120,000 deal value, targeting a comprehensive platform to address their cloud migration and tooling unification. Elena has expressed strong interest following initial demos, citing alignment with their Elixir/Phoenix ecosystem. The decision timeline is set for Q2 2026, aligned with their fiscal planning cycle. Internal champions are in place, but budget approval and stakeholder buy-in from engineering and ops teams remain key hurdles. Competitive landscape favors us over the custom tool and Apollo.io due to superior multi-cloud support and seamless LiveView integration.
+
+### Next Steps
+- Schedule follow-up call with Elena by end of next week to demo vendor lock-in mitigation features.
+- Prepare customized ROI analysis highlighting $120K investment vs. ~$47M revenue growth potential.
+- Engage Coral AI's ops lead (via Elena intro) for pain point validation workshop in Q1 2026.
+- Monitor Q2 2026 timeline; set alert for budget RFP release.
+- Nurture with case studies on AgriTech clients using similar Elixir stacks.
+
+(Word count: 347)

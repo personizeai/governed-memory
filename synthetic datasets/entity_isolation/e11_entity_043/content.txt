@@ -1,0 +1,16 @@
+### Account Overview
+Ridge Computing is a prominent Healthcare Tech company specializing in innovative solutions for healthcare data management and analytics. With approximately 2872 employees and annual revenue of ~$272M, the company is scaling rapidly in a competitive landscape. Key contact is Aisha Chen, Chief Product Officer, reachable at aisha.chen@ridgecomputing.com. Aisha oversees product strategy and development, making her a pivotal decision-maker for technology partnerships that enhance operational efficiency and security in healthcare environments.
+
+### Key Details
+Ridge Computing's current tech stack includes Python, FastAPI for backend services, AWS Lambda for serverless computing, DynamoDB for NoSQL database needs, and SQS for message queuing. These choices reflect a modern, cloud-native architecture optimized for scalability in healthcare applications. However, the team faces significant pain points: poor visibility into pipeline health, which hampers forecasting and resource allocation, and security concerns with their current architecture, particularly around data sensitivity in healthcare compliance (e.g., HIPAA). Primary competitor in their evaluation is Microsoft Copilot, which they've explored for productivity enhancements but found lacking in customized pipeline visibility and security integrations tailored to healthcare tech.
+
+### Deal Status
+Prospect status: Qualified Opportunity. Potential deal value is $50,000, targeting implementation of advanced pipeline monitoring and secure architecture tools. Decision timeline is set for Q2 2026, aligned with their fiscal planning cycle. Aisha has expressed strong interest following initial discussions, noting alignment with Ridge's growth goals. No major roadblocks identified yet, but security vetting and ROI proof-of-concept will be critical.
+
+### Next Steps
+- Schedule a 30-minute demo with Aisha Chen by end of next week to showcase pipeline visibility features using their Python/FastAPI stack.
+- Prepare customized security audit report addressing DynamoDB/SQS vulnerabilities, contrasting with Microsoft Copilot limitations.
+- Follow up via email to aisha.chen@ridgecomputing.com confirming interest in AWS Lambda integrations.
+- Internal: Assign sales engineer for technical deep-dive prep; update forecast to reflect $50K pipeline addition for Q2 2026 close.
+
+(Word count: 348)

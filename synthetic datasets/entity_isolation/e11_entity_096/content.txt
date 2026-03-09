@@ -1,0 +1,16 @@
+### Account Overview
+Pearl Analytics is a prominent MarTech company specializing in advanced analytics solutions for marketing teams. With approximately 1890 employees and annual revenue of ~$149M, the company has experienced rapid growth, positioning it as a key player in the competitive MarTech landscape. Our primary contact is Chloe Fernandez, Head of Product, reachable at chloe.fernandez@pearlanalytics.com. Chloe leads product strategy and development, making her a critical decision-maker for technology partnerships that address scalability and integration challenges.
+
+### Key Details
+Pearl Analytics' tech stack includes TypeScript, React, Node.js, GCP, and MongoDB, reflecting a modern, cloud-native architecture. However, the company faces significant pain points: integration complexity with legacy systems and technical debt accumulated from rapid early growth. These issues hinder their ability to innovate quickly and scale operations efficiently. Competitors such as Clari are actively vying for their business, emphasizing the need for a differentiated solution that aligns with their stack and resolves these bottlenecks.
+
+### Deal Status
+This represents a high-potential opportunity with an estimated deal value of $400,000. Pearl Analytics is evaluating solutions to modernize their product infrastructure ahead of major expansions. The decision timeline is targeted for Q3 2026, allowing ample time for proof-of-concept demonstrations and pilot integrations. Initial discussions with Chloe have uncovered strong alignment on addressing their integration and technical debt challenges, positioning us favorably against Clari.
+
+### Next Steps
+- Schedule a technical deep-dive call with Chloe Fernandez by end of next week to demo compatibility with their TypeScript/React/Node.js/GCP/MongoDB stack.
+- Prepare customized materials highlighting legacy system integrations and technical debt mitigation case studies.
+- Engage engineering team for a tailored POC plan, aiming for delivery in Q1 2025 to build momentum toward the Q3 2026 decision.
+- Monitor competitor activity from Clari and follow up quarterly to maintain top-of-mind status.
+
+(Word count: 348)

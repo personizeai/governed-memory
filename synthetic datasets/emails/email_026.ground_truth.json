@@ -1,0 +1,76 @@
+{
+  "sample_id": "email_026",
+  "content_type": "email_thread",
+  "company": "PayGrid Financial",
+  "industry": "Fintech",
+  "email_count": 8,
+  "actual_word_count": 1447,
+  "expected_facts": [
+    {
+      "text": "They've also been evaluating Apollo.io, Gong, building in-house",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $191M",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $450,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with fragmented tooling across departments",
+      "type": "explicit"
+    },
+    {
+      "text": "PayGrid Financial is a Fintech company with about 756 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 24% this fiscal year",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Scala, Spark, Databricks, Snowflake, Airflow",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with technical debt from rapid early growth",
+      "type": "explicit"
+    },
+    {
+      "text": "Aisha Okonkwo has been at PayGrid Financial for 8 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Austin",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Sales",
+    "company_name": "PayGrid Financial",
+    "company_size": "201-1000",
+    "technology_stack": "Scala, Spark, Databricks, Snowflake, Airflow",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "technical debt from rapid early growth",
+      "fragmented tooling across departments",
+      "security concerns with current architecture",
+      "slow deployment cycles taking 2-3 weeks per release"
+    ],
+    "deal_value": 450000,
+    "competitors_mentioned": [
+      "Apollo.io",
+      "Gong",
+      "building in-house"
+    ]
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2
+  },
+  "introduces_new_person": true,
+  "colleague": "Michael Santos, Solutions Architect",
+  "property_coverage": 0.57
+}

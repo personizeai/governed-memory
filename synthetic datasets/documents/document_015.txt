@@ -1,0 +1,68 @@
+# AdStack — Account Overview
+
+## Company Background
+
+AdStack is a prominent digital media company specializing in programmatic advertising solutions, enabling brands and agencies to optimize ad placements across premium digital channels. With approximately 493 employees, the organization falls squarely within the mid-market segment (201-1000 headcount), operating primarily in the competitive ad tech space where real-time bidding, audience targeting, and performance analytics drive revenue growth. Founded in 2015 by a trio of former Google engineers who identified gaps in scalable ad serving infrastructure, AdStack quickly scaled from a bootstrapped startup in San Francisco to a venture-backed leader serving over 500 enterprise clients globally. The company's core platform processes billions of ad impressions daily, leveraging a modern tech stack that includes Ruby on Rails for its backend services, Heroku for cloud deployment, PostgreSQL for robust data persistence, and Sidekiq for efficient background job processing. Over the years, AdStack has navigated challenges like evolving privacy regulations and market consolidation, but it continues to thrive by focusing on data-driven personalization. Recently, they've been grappling with internal pain points such as compliance audit failures on data handling, which have exposed vulnerabilities in their data pipelines, and customer churn stemming from slow support response times that hinder client retention efforts.
+
+## Key Contacts
+
+| Name | Title | Role in Deal |
+|---|---|---|
+| David Santos | Director of Sales Engineering | Primary Contact |
+| David Anderson | Director of Analytics | Champion |
+| Fatima Park | Director of Engineering | End User |
+| Heather Kim | Director of Analytics | Budget Owner |
+| Tom Novak | Chief Revenue Officer | End User |
+
+David Santos, who has been with AdStack for three years in his role as Director of Sales Engineering, serves as our primary point of contact and has been designated as a key decision maker in this evaluation process.
+
+## Meeting History
+
+### Meeting 1: Discovery Call (January 8, 2026)
+
+The initial discovery call on January 8, 2026, lasted 45 minutes and was attended by David Santos (Director of Sales Engineering) and David Anderson (Director of Analytics) from AdStack, alongside our sales engineer and account executive. The discussion centered on AdStack's operational challenges, particularly their ongoing struggles with customer churn driven by slow support response times, which they quantified at a 15% quarterly loss rate directly attributable to delayed ticket resolutions. They highlighted how their current reliance on spreadsheets and manual data entry for tracking support metrics and sales pipelines exacerbates these issues, leading to data silos between engineering and sales teams that prevent timely interventions. Compliance audit failures on data handling were a major red flag raised early; auditors had flagged inconsistencies in how customer data was logged and audited across systems, risking fines under GDPR and CCPA frameworks. David Santos emphasized the need for a more integrated solution to streamline workflows, noting that high infrastructure costs from their existing setup—running on Ruby on Rails with Heroku and PostgreSQL—are eating into margins by up to 20%. The team expressed medium urgency around solving these pain points, with a decision timeline targeted for June 30, 2026. They also mentioned evaluating alternatives like Clari for revenue forecasting and Intercom for support ticketing, alongside tweaks to their existing CRM workflows. Action items included scheduling a technical deep dive, which David committed to coordinating internally.
+
+### Meeting 2: Technical Deep Dive (March 1, 2026)
+
+The technical deep dive on March 1, 2026, involved a two-hour session with Fatima Park (Director of Engineering), Heather Kim (Director of Analytics), and Tom Novak (Chief Revenue Officer), joined by our solutions architect and product specialist. This meeting delved into AdStack's technical environment, confirming their stack comprises Ruby on Rails applications hosted on Heroku, backed by PostgreSQL databases and Sidekiq for queue management—a setup that's performant but strained by scaling demands. Fatima detailed how data silos manifest technically: sales data in one PostgreSQL instance isn't synced with engineering logs in real-time, causing delays in support prioritization and contributing to churn from unresolved tickets averaging 48 hours. They reiterated compliance woes, with recent audits failing due to inadequate audit trails in manual processes reliant on spreadsheets, and Heather outlined how high Heroku bills (over $50K/month) are squeezing budgets despite a $200,000 allocation for new tools. The group demoed our platform's integration capabilities, showing seamless Sidekiq hooks and PostgreSQL connectors, which generated enthusiasm—Tom called it a "game-changer" for bridging teams. Competitors came up again: Clari for predictive analytics, Intercom as a support overlay, and internal CRM customizations they're outgrowing. Next steps were clarified, with David Santos to present our proposal internally and circle back next week. He mentioned that they've been at around 500 employees lately, underscoring their growth phase.
+
+## Technical Requirements
+
+AdStack's technical needs are shaped by their mid-sized digital media operations and specific pain points. Key requirements include:
+
+- **Real-time Data Integration**: Must support ingestion from Ruby on Rails apps on Heroku, with direct connectors to PostgreSQL for querying sales and support data, eliminating manual spreadsheet exports that currently create silos between engineering and sales.
+- **Background Job Processing**: Compatibility with Sidekiq for handling high-volume tasks like churn prediction alerts and support ticket routing, reducing response times from days to minutes.
+- **Compliance and Audit Logging**: Automated audit trails for all data handling to address recent compliance audit failures, including GDPR/CCPA-compliant retention policies and immutable logs viewable via a dashboard.
+- **Scalability for Ad Tech Workloads**: Handle billions of daily events without inflating infrastructure costs, with auto-scaling on Heroku-like environments to protect margins currently eroded by high bills.
+- **Churn Analytics Dashboard**: AI-driven insights into customer churn patterns linked to support delays, integrating with existing CRM workflows for proactive interventions.
+- **Custom Reporting**: Replace spreadsheets with no-code builders for analytics teams, supporting exports to tools like Clari or Intercom if needed during transition.
+- **Security Posture**: SOC 2 Type II compliance, with SSO and RBAC to pass their standard procurement security review.
+- **API-First Architecture**: RESTful APIs for embedding into their Rails monolith, ensuring minimal disruption during POC.
+- **Performance Monitoring**: Built-in metrics for query latency on PostgreSQL datasets exceeding 1TB in size.
+- **Mobile Accessibility**: Dashboards optimized for field sales engineers tracking churn metrics on-the-go.
+
+These align with their Qualification-stage evaluation, focusing on proof-of-concept viability before legal and VP Finance sign-off.
+
+## Deal Status
+
+AdStack is currently in the Qualification deal stage, with an estimated deal value of $200,000 annually for our enterprise platform, covering core integrations and premium support. The buying process follows their standard procurement path: initial demo (completed), upcoming security review, legal review for MSA tweaks, and final sign-off from the VP of Finance. Budget is pre-allocated at approximately $200K, driven by pains like compliance audit failures, customer churn from sluggish support responses, data silos hampering cross-team visibility, and escalating infrastructure costs on their Ruby/Heroku/PostgreSQL/Sidekiq stack. Urgency is rated medium, with a firm decision timeline of June 30, 2026—about three months from now, post-technical validation. No major blockers yet, but next steps hinge on David Santos presenting our tailored proposal internally this week and circling back next week with feedback. Their current solution of spreadsheets and manual data entry is unsustainable amid growth to nearly 500 staff, pushing them toward automation. We've teed up a POC environment mirroring their Heroku setup for hands-on testing, which could accelerate momentum if they greenlight it soon. Overall, momentum is positive, with David Anderson as a vocal champion rallying engineering buy-in.
+
+## Competitive Landscape
+
+AdStack is actively evaluating a mix of solutions to address their pain points:
+
+- **Clari**: Strong contender for revenue intelligence and forecasting, particularly appealing to analytics leads like Heather Kim for churn prediction, but lacks deep engineering integrations.
+- **Intercom**: In play for support ticketing to combat slow response times, with Fatima Park interested in its chatbots; however, it doesn't solve data silos or compliance logging holistically.
+- **Existing CRM Workflows**: They're iterating on custom Salesforce/Zapier automations layered over spreadsheets, but Tom Novak admits these are patchwork fixes inflating costs without scalability.
+
+Our edge lies in full-stack compatibility with their Rails/Heroku/PostgreSQL/Sidekiq environment, positioning us as the unified platform over point solutions.
+
+## Risk Factors
+
+- **Procurement Delays**: Their standard process—demo, security review, legal, VP Finance sign-off—could stretch the June 30, 2026 timeline if security scans flag issues with our PostgreSQL connectors, especially given recent compliance audit failures.
+- **Internal Alignment**: Data silos between sales and engineering persist; if Fatima Park's team resists integration testing, it might slow David's internal presentation next week, dampening champion David Anderson's enthusiasm.
+- **Budget Scrutiny**: With high infrastructure costs already pressuring margins and churn impacting revenue, Heather Kim as budget owner might push back on the $200K commitment if competitors like Clari offer lower entry pricing. 
+
+(Note: This overview was last updated post-March 1, 2026 deep dive; refresh after David's follow-up next week for any shifts in urgency or blockers.) 
+
+*(Word count: 2247)*

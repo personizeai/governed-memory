@@ -1,0 +1,48 @@
+Call with: Elena Novak, Chief Product Officer at DataPulse Systems  
+Date: February 10, 2026  
+Duration: 25 min  
+
+Key Points:  
+- Elena CPO DataPulse Systems, 7yrs tenure  
+- B2B SaaS co, ~184 emps (51-200 range)  
+- Pains: slow deploys 2-3wks/release, scaling issues peak traffic, tech debt rapid early growth  
+- Stack Python/FastAPI AWS Lambda/DynamoDB/SQS  
+- Curr soln Notion+Airtable combo — clunky for prod mgmt  
+- Budget alloc ~$850k Deal Value 850000  
+- Deal Stage Qualification  
+- She's Decision Maker True  
+- Timeline Decision 2026-06-27 end June  
+- Wants POC eval her team  
+- She's frustrated w/ deploys killing velocity  
+- Peaks crash serv — eng scrambling  
+- He mentioned (eng lead?) pushing Q2 fix  
+- Tech debt piling, legacy code hell  
+- Aligned on our fit — faster CI/CD Lambda scale  
+- Prob buy-in from CTO side  
+- She's def interested, probing pricing tiers  
+- Competitor? Nah, homegrown mess  
+- Scaling prob worst, 10x traffic spikes  
+- Deploys block releases monthly  
+- Team size prod/eng ~30?  
+- She's open POC next week  
+- Budget locked Q2 spend  
+- Pain scale 8/10 deploys, 9/10 peaks  
+- Our demo resonated Lambda/SQS wins  
+- She noted Airtable limits @scale  
+- He's (VP Eng?) vetoed last tool  
+- EOQ push for pilot signoff  
+- Qual'd well — pains match soln  
+- No red flags budget/timeline  
+
+Action Items:  
+- [ ] Set up POC env for Elena's team eval (me)  
+- [ ] Send POC access + agenda by EOD (me)  
+- [ ] F/u call next week post-POC kickoff (me)  
+- [ ] Loop CTO on pains for buy-in (Elena)  
+- [ ] Update deal stage/props CRM (me)  
+- [ ] Quote tiers w/ 850k budget (me)  
+
+Notes:  
+Elena solid DM, 7yrs @DataPulse knows pains inside out. Call flowed good, she's qual'd — budget real, timeline June 27 firm but flexible if POC shines. Her team's slammed w/ peaks (Lambda choking Dynamo queue-ups), deploys 2-3wks killing iter. Stack ripe for us: FastAPI/SQS bottlenecks clear. She's pushing internally, but he's (eng?) skeptical last vendor. Next week POC critical to unblock.  
+
+Vibed on tech debt — early growth mess, Notion/Airtable patchwork no more. 184 emps growing fast, B2B SaaS churn risk high sans scale. She's aligned, prob closes if we nail eval. EOQ Q2 goal, she's motivated. Quick mtg, terse but high intent. F/U asap.

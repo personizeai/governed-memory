@@ -1,0 +1,43 @@
+# SkillPulse — Account Overview
+
+## Company Background
+SkillPulse is a dynamic EdTech company specializing in AI-powered learning platforms that personalize educational experiences for K-12 and higher education institutions worldwide. Founded in 2018 by a team of former Google engineers and educators frustrated with outdated learning management systems, the company has grown rapidly to approximately 136 employees, operating primarily out of San Francisco with a remote-first culture. With annual revenue hovering around $161 million, SkillPulse powers adaptive tutoring for over 5 million students across 2,000 school districts, leveraging cutting-edge AI to boost engagement and outcomes. Their recent 18% increase in IT budget this fiscal year underscores a commitment to scaling infrastructure amid aggressive expansion, though they've grappled with compliance audit failures on data handling that have delayed product rollouts. The company's tech stack, centered on Go for backend services, Kubernetes for orchestration, AWS for cloud hosting, DynamoDB for NoSQL storage, and gRPC for microservices communication, supports their high-velocity development needs but has exposed pain points in developer workflows.
+
+## Key Contacts
+| Name | Title | Role in Deal |
+|---|---|---|
+| Ivan Patel | Director of Engineering | Primary Contact |
+| Rachel Cho | Director of Engineering | End User |
+| Omar Kaur | Head of Data | Champion |
+| Elena Chen | VP of Marketing | Budget Owner |
+
+Ivan Patel, who has been with SkillPulse for four years, serves as the primary technical decision influencer and has been instrumental in articulating their challenges with poor developer experience. Rachel Cho's team directly experiences the slowdowns in feature velocity, making her feedback critical during evaluations. Omar Kaur champions the solution internally due to data compliance pressures, while Elena Chen controls the purse strings, linking ROI expectations to marketing-led growth initiatives.
+
+## Meeting History
+### Meeting 1: Discovery Call (January 13, 2026)
+In the initial discovery call two months ago, Ivan Patel outlined SkillPulse's core challenges, emphasizing how poor developer experience was slowing feature velocity and leading to compliance audit failures on data handling. They detailed their reliance on Salesforce with custom Apex triggers for customer engagement workflows, which has become a bottleneck as their Go-based services on Kubernetes and AWS struggle with integration friction. The team expressed frustration that these issues were hampering their ability to measure ROI on AI initiatives effectively, and Ivan highlighted the need for tools that could streamline developer productivity without adding compliance risks. Rachel Cho joined midway, sharing end-user perspectives on how delayed features impact educator adoption rates. Discussions touched on their evaluation of alternatives like Intercom, but they were keen to explore our platform's fit given the recent 18% IT budget uplift. The call ended with alignment on pain points and a commitment to a deeper technical review.
+
+### Meeting 2: Technical Deep Dive (March 8, 2026)
+Last quarter's technical deep dive, held virtually with Ivan, Rachel, and Omar, dove into architecture specifics, where they demonstrated their tech stack including Go microservices communicating via gRPC, orchestrated on Kubernetes clusters in AWS, with DynamoDB handling high-throughput session data. Ivan explained how custom Apex triggers in their Salesforce setup exacerbate developer slowdowns, causing feature velocity to lag by weeks on critical updates, and they've faced repeated compliance audit failures due to inconsistent data handling across services. Omar stressed the urgency of quantifying AI ROI, noting that without better tooling, initiatives like personalized learning paths underperform. Rachel demonstrated a live workflow bottleneck, where integrating Salesforce data into their gRPC endpoints takes excessive manual effort, and they probed our platform's compatibility with their stack. We walked through a high-level demo, addressing their requirements for seamless observability and compliance guardrails. The session wrapped with enthusiasm for a POC, though they reiterated ongoing talks with Intercom as a baseline comparison. Action items included sharing detailed specs ahead of next steps.
+
+## Technical Requirements
+- **Developer Experience Enhancement**: Tools to mitigate poor developer experience by automating integration between Go services, gRPC APIs, and Salesforce Apex triggers, reducing onboarding time from weeks to days and accelerating feature velocity.
+- **Compliance and Data Handling**: Built-in auditing and policy enforcement for data flows across AWS, Kubernetes, and DynamoDB to prevent future compliance audit failures, with automated reporting for regulatory standards like FERPA and GDPR relevant to EdTech.
+- **Observability and Monitoring**: Real-time metrics dashboards for tracking developer productivity, service latencies in gRPC calls, and DynamoDB query performance, integrated with existing Kubernetes logging pipelines.
+- **AI ROI Measurement**: Analytics modules to quantify impact of AI-driven features, such as engagement uplift in learning platforms, with customizable KPIs tied to revenue metrics amid their $161M ARR growth.
+- **Scalability Support**: Horizontal scaling recommendations for their 136-employee engineering team, supporting high-traffic student sessions without Apex trigger bottlenecks.
+- **Seamless Salesforce Integration**: No-code/low-code bridges to replace custom Apex triggers, ensuring bidirectional sync with SkillPulse's core Go backend.
+- **Security Posture**: Role-based access controls and encryption at rest/transit for sensitive student data, addressing recent audit gaps.
+- **POC Readiness**: Environment setup compatible with AWS VPCs, Kubernetes namespaces, and gRPC protobuf schemas for rapid evaluation by Ivan's team.
+- **Budget Alignment**: Solutions scalable within their 18% increased IT spend, prioritizing quick wins on velocity and compliance.
+
+## Deal Status
+Currently in the Proposal stage, this opportunity represents a potential $750K ACV deal over three years, driven by SkillPulse's medium urgency to resolve developer velocity drags and compliance risks before their Q2 fiscal close. The decision timeline targets April 29, 2026, aligning with their annual planning cycle, though we've proposed accelerating via a POC environment setup for Ivan Patel's team next week to demonstrate value. Key blockers include internal alignment on budget allocation—despite the 18% IT increase—and final sign-off from Elena Chen on ROI projections for AI initiatives. Their current Salesforce setup with custom Apex triggers remains the baseline, but frustration with integration pains positions us favorably. Competitive pressure from Intercom lingers, as they've been piloting it for basic workflows, yet our deeper technical fit with their Go, Kubernetes, AWS, DynamoDB, and gRPC stack gives us an edge. Next steps involve delivering the customized proposal by end of this week, scheduling the POC kickoff, and looping in Omar for data validation. Momentum is building, with Ivan vocal about the four years he's spent optimizing their stack only to hit these persistent hurdles.
+
+## Competitive Landscape
+SkillPulse is actively evaluating Intercom as their primary alternative, drawn to its out-of-the-box customer engagement features that partially address Salesforce Apex limitations. However, Intercom falls short on deep observability for their gRPC-heavy architecture and lacks robust compliance tooling for EdTech data sensitivities, which we've positioned as our differentiators. Internal notes suggest they've run a small Intercom POC, but feedback from Rachel indicates integration challenges with Kubernetes-deployed services persist. No other vendors are top-of-mind, though generic Salesforce add-ons were dismissed early due to customization overhead.
+
+## Risk Factors
+- **Budget Scrutiny**: Elena Chen's ROI focus could delay if our POC doesn't clearly demonstrate velocity gains over Intercom, especially with their recent audit-driven compliance mandates tightening spend justification.
+- **Technical Fit Validation**: Ivan's team might uncover edge cases in gRPC/DynamoDB integrations during POC, reigniting reliance on custom Apex workarounds if not addressed swiftly— they've noted developer experience slowdowns persisting for months.
+- **Internal Champion Fatigue**: Omar Kaur's advocacy is strong, but competing priorities from feature backlogs could sideline the deal if the April 29 timeline slips, compounded by ongoing Intercom evaluation.

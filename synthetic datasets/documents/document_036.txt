@@ -1,0 +1,41 @@
+# ShopFront Digital — Account Overview
+
+## Company Background
+ShopFront Digital is a dynamic e-commerce company with approximately 887 employees, operating in the competitive online retail sector where it provides scalable platforms for mid-sized retailers to manage storefronts, inventory, and customer experiences. Founded in 2012 by a group of former Amazon engineers frustrated with rigid legacy systems in retail tech, the company bootstrapped its way from a garage operation in Seattle to a mid-market leader with offices in San Francisco and Austin, emphasizing agile development and customer-centric innovations. Today, they power digital shopping experiences for over 500 brands, but they're grappling with a legacy Java application that's maintained by just one developer, leading to slow deployment cycles that take 2-3 weeks per release and high infrastructure costs on Azure that are eating into their margins. Their modern tech stack revolves around C#, .NET for core services, Azure for cloud hosting, SQL Server for data persistence, and RabbitMQ for messaging, which they've been optimizing to handle peak holiday traffic spikes.
+
+## Key Contacts
+| Name | Title | Role in Deal |
+|---|---|---|
+| Sarah Nakamura | Director of Analytics | Primary Contact (Decision Maker; has been with ShopFront Digital for 4 years, champions data-driven initiatives) |
+| Emily Lee | CTO | Technical Evaluator (oversees architecture alignment with C#, .NET, and Azure stack) |
+| Robert Kim | Head of Infrastructure | End User (manages daily operations on SQL Server and RabbitMQ; focused on cost reductions) |
+
+## Meeting History
+### Meeting 1: Discovery Call (January 7, 2026)
+In this initial 45-minute virtual discovery call, Sarah Nakamura outlined ShopFront Digital's core challenges, including poor visibility into pipeline health that hampers forecasting accuracy and high infrastructure costs consuming 25% of their engineering budget. They discussed the limitations of their current legacy Java application, which is maintained by a single person and causes deployment delays of 2-3 weeks per release, making it hard to iterate quickly on e-commerce features. Sarah emphasized their urgency at a medium level, noting that while budget is allocated around $120,000, they need solutions integrating seamlessly with C#, .NET, Azure, SQL Server, and RabbitMQ. The team agreed it was a strong fit, and she requested a technical deep dive next; they promised follow-up materials by the end of the week.
+
+### Meeting 2: Technical Deep Dive (March 8, 2026)
+This 90-minute session with Emily Lee and Robert Kim dove into specifics, where they demoed our platform's compatibility with their stack, including real-time dashboards for pipeline visibility and cost optimization tools targeting Azure spend. Robert highlighted how their outdated Java system, supported by just one maintainer, creates bottlenecks and poor ROI measurement on AI pilots for personalization; they were impressed but raised questions about deployment speed. Emily pushed for a POC to validate integration with SQL Server queries and RabbitMQ event streams, confirming the two-phase buying process: technical proof-of-concept first, followed by a business case to leadership. Sarah followed up post-call, excited about addressing margins eroded by infra costs, though it was unclear if she meant the full team or just her department was aligned.
+
+## Technical Requirements
+- **Pipeline Visibility Dashboard**: Real-time analytics integrating with SQL Server and Azure to provide clear insights into sales pipeline health, replacing current siloed reporting that lacks drill-down capabilities.
+- **Infrastructure Cost Optimization**: Automated monitoring and alerting for Azure resources, with predictive scaling tied to RabbitMQ message queues to reduce high costs eating into e-commerce margins.
+- **Seamless Tech Stack Integration**: Full compatibility with C#, .NET Core services for backend APIs, ensuring low-friction adoption without refactoring their primary e-commerce logic.
+- **Accelerated Deployment Pipelines**: CI/CD tools to shrink release cycles from 2-3 weeks to days, mitigating risks from the legacy Java app maintained by a lone developer.
+- **AI ROI Measurement**: Built-in metrics tracking for AI-driven features like recommendation engines, addressing difficulties in quantifying business impact on customer conversion rates.
+- **Scalability for Peak Loads**: Horizontal scaling support for holiday traffic surges, leveraging RabbitMQ for reliable order queuing and SQL Server for transactional integrity.
+- **Custom Reporting**: Flexible dashboards exportable to tools like Power BI, focused on e-commerce KPIs such as cart abandonment and inventory turnover.
+- **Security and Compliance**: SOC 2 alignment with role-based access for analytics teams, integrating with Azure AD for authentication.
+- **POC-Ready Features**: Sandbox environment for quick technical validation, including sample data migration from their current systems.
+
+## Deal Status
+ShopFront Digital is currently in the Qualification stage of our sales process, with an estimated deal value of $120,000 for the first-year implementation covering core analytics and optimization modules. The decision timeline targets September 30, 2026, aligning with their fiscal Q4 planning, though urgency remains at a medium level due to ongoing budget reviews. Their buying process is structured in two phases—starting with a technical POC to demonstrate value against pain points like poor pipeline visibility, elevated Azure infrastructure expenses eroding margins, protracted 2-3 week deployments, and challenges tracking AI ROI—followed by a formal business case presentation to executive leadership. Next steps include sending a tailored pricing proposal to Sarah Nakamura by Friday, after which we'll schedule the POC kickoff; potential blockers are minor, such as Robert's concerns over RabbitMQ latency in high-volume scenarios, but momentum is positive as they've deprioritized heavier custom builds.
+
+## Competitive Landscape
+- **Custom Internal Tool**: Primary alternative under evaluation; their engineering team has prototyped a bespoke dashboard using in-house C#/.NET skills, but it's stalled due to the single maintainer's bandwidth on the legacy Java system and lacks mature Azure cost analytics.
+- ShopFront Digital mentioned exploring this internal option early in discussions, but Sarah noted it wouldn't address full-stack integration needs like SQL Server querying or RabbitMQ orchestration without significant additional dev time.
+
+## Risk Factors
+- **Dependency on Key Maintainer**: Reliance on one person for the legacy Java application could delay migration or POC participation if that individual leaves, stalling technical validation and extending the timeline past September 2026.
+- **Budget Scrutiny**: With high infrastructure costs already pressuring margins, any perceived overlap with their custom internal tool might trigger re-evaluation, especially if leadership demands stricter ROI proof during the business case phase—Sarah referenced this hesitation, though it wasn't specified whose approval was pending.
+- **Internal Alignment Gaps**: Medium urgency means competing priorities like holiday scaling could divert Emily and Robert; they discussed pipeline health issues extensively, but it remains ambiguous whether the full infrastructure team supports shifting from current ad-hoc monitoring.

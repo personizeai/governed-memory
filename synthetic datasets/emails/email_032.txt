@@ -1,0 +1,217 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Chloe Oduya <chloe.oduya@eduflow.com>  
+Subject: Tailored AI Conversation Intelligence for EduFlow's Rapid Growth  
+Date: Fri, Feb 7, 2026 9:45 AM PST  
+
+Hi Chloe,  
+
+I hope this email finds you well. My name is Alex Morgan, and I'm a Sales Representative at Technova, where we specialize in AI-powered conversation intelligence platforms that help EdTech companies like EduFlow supercharge their sales and marketing teams.  
+
+I came across EduFlow recently—congratulations on hitting around 181 employees and scaling so impressively in the EdTech space! With your engineering team growing rapidly (I hear you've hired 18 people this quarter alone), and your tech stack built on Ruby on Rails, Heroku, PostgreSQL, and Sidekiq, you're clearly poised for even more momentum. But I also understand that many growing teams like yours are still relying on a mix of Google Sheets and custom dashboards for conversation insights, which can become a bottleneck as you expand.  
+
+Technova's platform integrates seamlessly with modern stacks like yours, providing real-time AI analysis of calls, meetings, and demos—spotting risks, coaching reps, and uncovering upsell opportunities automatically. Companies similar to EduFlow have seen a 35% lift in close rates within the first quarter. Would you be open to a quick 15-minute chat next week to explore how this could fit your workflow, especially ahead of your Q2 security audit?  
+
+Looking forward to hearing from you!  
+
+Best regards,  
+Alex Morgan  
+Sales Representative  
+Technova  
+(415) 555-0123  
+alex.morgan@technova.io  
+
+---
+
+From: Chloe Oduya <chloe.oduya@eduflow.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Tailored AI Conversation Intelligence for EduFlow's Rapid Growth  
+Date: Sat, Feb 8, 2026 11:20 AM PST  
+
+Hi Alex,  
+
+Thanks for reaching out—interesting timing. I've been at EduFlow for just a year now as VP of Marketing, and I report directly to our CEO, so scaling our tools is top of mind. We've been evaluating options like Chorus.ai and HubSpot AI for conversation intelligence, but our current mix of Google Sheets and custom dashboards isn't cutting it anymore with the team's growth.  
+
+Quick question: How does Technova handle integrations with Ruby on Rails apps deployed on Heroku, and what's the typical pricing look like for a company our size (51-200 employees)?  
+
+Best,  
+Chloe Oduya  
+VP of Marketing  
+EduFlow  
+(650) 555-0987  
+chloe.oduya@eduflow.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Chloe Oduya <chloe.oduya@eduflow.com>  
+Subject: Re: Tailored AI Conversation Intelligence for EduFlow's Rapid Growth  
+Date: Mon, Feb 10, 2026 2:15 PM PST  
+
+> Hi Alex,  
+>   
+> Thanks for reaching out—interesting timing. I've been at EduFlow for just a year now as VP of Marketing, and I report directly to our CEO, so scaling our tools is top of mind. We've been evaluating options like Chorus.ai and HubSpot AI for conversation intelligence, but our current mix of Google Sheets and custom dashboards isn't cutting it anymore with the team's growth.  
+>   
+> Quick question: How does Technova handle integrations with Ruby on Rails apps deployed on Heroku, and what's the typical pricing look like for a company our size (51-200 employees)?  
+>   
+> Best,  
+> Chloe  
+
+Hi Chloe,  
+
+Great to hear from you—thanks for the quick reply and for sharing those details. It's smart that you're evaluating Chorus.ai and HubSpot AI; we've helped several teams transition from those and similar tools by offering deeper Rails/Heroku compatibility without the bloat.  
+
+On integrations: Technova deploys via a lightweight Sidekiq-compatible worker that hooks directly into your PostgreSQL-backed Rails app on Heroku. Setup takes under 2 hours typically—no custom code needed, and it auto-scales with your dynos. We've got case studies from EdTech firms with identical stacks seeing 99.9% uptime post-integration.  
+
+For pricing, at your scale (51-200 employees), we start around $50/user/month for our core AI insights, scaling to enterprise tiers with advanced coaching and security features. With a budget in the $1.2M range annually (which aligns with what similar EduFlow-sized teams allocate), you'd unlock full customization, including audit-ready compliance for your upcoming Q2 security review.  
+
+As a light next step, how about a 20-minute demo tailored to your Sheets-to-AI migration? I'm free next week—let me know what works.  
+
+Cheers,  
+Alex Morgan  
+Sales Representative  
+Technova  
+(415) 555-0123  
+alex.morgan@technova.io  
+
+---
+
+From: Chloe Oduya <chloe.oduya@eduflow.com>  
+To: Elena Johnson <elena.johnson@eduflow.com>  
+CC: Alex Morgan <alex.morgan@technova.io>  
+Subject: Fwd: Re: Tailored AI Conversation Intelligence for EduFlow's Rapid Growth  
+Date: Tue, Feb 11, 2026 4:30 PM PST  
+
+---------- Forwarded message ---------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Mon, Feb 10, 2026 2:15 PM PST  
+Subject: Re: Tailored AI Conversation Intelligence for EduFlow's Rapid Growth  
+To: Chloe Oduya <chloe.oduya@eduflow.com>  
+
+> Hi Alex,  
+>   
+> [previous thread quoted]  
+
+Hi Chloe,  
+
+[Alex's response body as above]  
+
+Elena—thoughts on this? Alex seems to know our stack well (RoR, Heroku, PG, Sidekiq). With engineering hires and security audit looming, could be worth a look before end of quarter. Looping you in as our Solutions Architect.  
+
+Chloe  
+
+--  
+Chloe Oduya  
+VP of Marketing  
+EduFlow  
+(650) 555-0987  
+chloe.oduya@eduflow.com  
+
+---
+
+From: Elena Johnson <elena.johnson@eduflow.com>  
+To: Chloe Oduya <chloe.oduya@eduflow.com>, Alex Morgan <alex.morgan@technova.io>  
+CC:  
+Subject: Re: Tailored AI Conversation Intelligence for EduFlow's Rapid Growth  
+Date: Wed, Feb 12, 2026 10:05 AM PST  
+
+> ---------- Forwarded message ---------  
+> From: Chloe Oduya <chloe.oduya@eduflow.com>  
+> Date: Tue, Feb 11, 2026 4:30 PM PST  
+> Subject: Fwd: Re: Tailored AI Conversation Intelligence for EduFlow's Rapid Growth  
+> To: Elena Johnson <elena.johnson@eduflow.com>  
+> CC: Alex Morgan <alex.morgan@technova.io>  
+>   
+> [Chloe's forward comment]  
+>   
+> [Alex's previous email quoted fully]  
+
+Hi Alex and Chloe,  
+
+Chloe forwarded this over—thanks. She mentioned the integration sounded promising, but I need more technical details before we consider it for our discovery stage. With our decision timeline around September 3rd and a $1,200,000 budget allocated, we're being thorough, especially since we're still looking at Chorus.ai and HubSpot AI.  
+
+Specific question: How does Technova ensure data sovereignty and compliance during PostgreSQL syncing on Heroku, particularly with Sidekiq queues for high-volume call data? We're prepping for a Q2 security audit, and any custom dashboard exports need to be SOC 2 Type II ready out of the box. Also, with our engineering team adding 18 heads this quarter, scalability under load is key—have you benchmarked against Rails apps handling 10k+ daily events?  
+
+She said it was a light proposal, so hopefully this isn't too much.  
+
+Best,  
+Elena Johnson  
+Solutions Architect  
+EduFlow  
+(650) 555-1122  
+elena.johnson@eduflow.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Elena Johnson <elena.johnson@eduflow.com>, Chloe Oduya <chloe.oduya@eduflow.com>  
+CC:  
+Subject: Re: Tailored AI Conversation Intelligence for EduFlow's Rapid Growth  
+Date: Thu, Feb 13, 2026 1:45 PM PST  
+
+> From: Elena Johnson <elena.johnson@eduflow.com>  
+> Date: Wed, Feb 12, 2026 10:05 AM PST  
+> Subject: Re: Tailored AI Conversation Intelligence for EduFlow's Rapid Growth  
+> To: Chloe Oduya <chloe.oduya@eduflow.com>, Alex Morgan <alex.morgan@technova.io>  
+>   
+> [Elena's full body and forward quoted]  
+
+Hi Elena (and Chloe),  
+
+Thanks for jumping in, Elena—appreciate the technical depth, and Chloe, great call forwarding this. Your stack (Ruby on Rails on Heroku with PostgreSQL and Sidekiq) is one we optimize for heavily, and we're excited about supporting EduFlow's growth at 181 employees strong.  
+
+On data sovereignty and compliance: Technova uses customer-controlled encryption keys for all PostgreSQL syncs, with data residing in your chosen Heroku region (e.g., US West for sovereignty). Sidekiq integration leverages Redis-backed queues with automatic retry logic, ensuring zero data loss. Full SOC 2 Type II certification is standard, including audit logs exportable to your custom dashboards—perfect for your Q2 security audit. We've passed similar reviews for EdTech peers without issues.  
+
+Scalability benchmarks: In Rails environments like yours, we handle 50k+ daily events (calls/meetings) on a standard Heroku Performance dyno, with <200ms latency for AI insights. Load testing shows 4x the throughput of Chorus.ai under burst traffic, thanks to our vector-optimized PostgreSQL extensions. Here's a quick one-pager with graphs: [Link: technova.io/rails-benchmark.pdf]. Transitioning from Google Sheets is seamless via CSV/API imports.  
+
+This positions you well ahead of competitors like HubSpot AI, especially at your $1.2M deal value in discovery. Happy to dive deeper—available for a tech deep-dive next week?  
+
+Best,  
+Alex Morgan  
+Sales Representative  
+Technova  
+(415) 555-0123  
+alex.morgan@technova.io  
+
+---
+
+From: Chloe Oduya <chloe.oduya@eduflow.com>  
+To: Alex Morgan <alex.morgan@technova.io>, Elena Johnson <elena.johnson@eduflow.com>  
+CC:  
+Subject: Re: Tailored AI Conversation Intelligence for EduFlow's Rapid Growth  
+Date: Fri, Feb 14, 2026 3:20 PM PST  
+
+> [Previous chain quoted, including Elena's and Alex's latest]  
+
+Hi Alex,  
+
+Elena reviewed your response—she was impressed with the Sidekiq details and benchmarks. With our September 3rd timeline and engineering growth (those 18 new hires need tools now), let's schedule that follow-up. How's next Wednesday at 11 AM PST?  
+
+Chloe (cc'ing Elena for alignment)  
+
+--  
+Chloe Oduya  
+VP of Marketing  
+EduFlow  
+(650) 555-0987  
+chloe.oduya@eduflow.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Chloe Oduya <chloe.oduya@eduflow.com>, Elena Johnson <elena.johnson@eduflow.com>  
+CC:  
+Subject: Re: Tailored AI Conversation Intelligence for EduFlow's Rapid Growth  
+Date: Fri, Feb 14, 2026 4:10 PM PST  
+
+> [Full previous chain quoted]  
+
+Perfect, Chloe and Elena—next Wednesday, Feb 26th at 11 AM PST works great. I'll send a Zoom link and agenda focused on your Rails/Heroku integration, security audit prep, and migrating from Sheets/dashboards.  
+
+Looking forward to it—this could be a game-changer for EduFlow ahead of Q2. Confirming for both of you?  
+
+Cheers,  
+Alex Morgan  
+Sales Representative  
+Technova  
+(415) 555-0123  
+alex.morgan@technova.io

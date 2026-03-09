@@ -1,0 +1,67 @@
+# CoinTrail — Account Overview
+
+## Company Background
+
+CoinTrail is a prominent Fintech company headquartered in Denver, Colorado, specializing in blockchain analytics and cryptocurrency transaction tracing solutions for financial institutions and regulatory bodies. With approximately 562 employees—falling squarely within the 201-1000 company size range—the organization has established itself as a key player in the digital asset compliance space. Founded in 2015 by a group of former Wall Street analysts and blockchain engineers who identified gaps in real-time transaction monitoring during the early crypto boom, CoinTrail quickly pivoted from a startup consultancy to a full-scale SaaS platform provider. Their growth trajectory accelerated post-2020 with the surge in institutional crypto adoption, leading to expansions in engineering and data teams. Notably, their engineering team is growing rapidly, having hired 5 people this quarter alone to bolster serverless architectures amid increasing demand. The company's tech stack heavily features Python for backend logic, FastAPI for API development, AWS Lambda for scalable compute, DynamoDB for NoSQL storage, and SQS for message queuing, enabling them to handle high-volume transaction data efficiently. This setup underscores their commitment to cloud-native, event-driven systems tailored for Fintech scalability. However, recent challenges, such as losing a major customer last quarter due to onboarding issues, have heightened internal focus on streamlining customer acquisition processes.
+
+## Key Contacts
+
+| Name | Title | Role in Deal |
+|---|---|---|
+| Brandon Oduya | Head of Infrastructure | Primary Contact |
+| Sarah Xu | CTO | Technical Evaluator |
+| Elena Williams | Head of Data | Technical Evaluator |
+| Victor Ibrahim | Head of Product | Technical Evaluator |
+| Jennifer Petrov | Director of Sales Engineering | Budget Owner |
+
+Brandon Oduya, who has been with CoinTrail for 8 years as Head of Infrastructure and serves as a key decision maker, has been instrumental in guiding our discussions. The rest of the team provides critical technical and budgetary oversight.
+
+## Meeting History
+
+### Meeting 1: Discovery Call (February 11, 2026)
+
+In the initial discovery call on February 11, 2026, the CoinTrail team, led by Brandon Oduya, outlined their core pain points with their existing Salesforce setup, which relies on custom Apex triggers for workflow automation but struggles with scalability during peak transaction volumes. They emphasized the need for a more robust integration layer to connect their Python-based services with CRM data flows. Discussions revealed their evaluation of five vendors, including our solution, HubSpot AI, and Outreach, as they seek alternatives to address onboarding bottlenecks that contributed to losing a major customer last quarter. Brandon highlighted how their recent board meeting last month shifted priorities toward faster deployment cycles, and the group probed our capabilities in serverless environments like AWS Lambda. The call ended with agreement on a technical deep dive, where they expressed cautious optimism but noted procurement's requirement for three competitive bids. This session set a collaborative tone, though urgency remains low given their extended decision timeline.
+
+### Meeting 2: Technical Deep Dive (March 11, 2026)
+
+The technical deep dive on March 11, 2026, involved Sarah Xu, Elena Williams, Victor Ibrahim, and Jennifer Petrov joining Brandon Oduya for an in-depth review of integration feasibility. They demonstrated their tech stack, showcasing Python scripts interfacing with FastAPI endpoints, AWS Lambda functions processing DynamoDB streams via SQS queues, and how Salesforce custom Apex triggers currently bottleneck real-time data syncing. Our demo addressed their requirements for seamless API orchestration, low-latency event handling, and compliance-grade auditing, which resonated strongly as they recounted onboarding issues from the previous quarter that eroded client trust. The team appreciated our no-code connectors but raised concerns about vendor lock-in, given they're still assessing five options total, including HubSpot AI and Outreach. Brandon committed to presenting our proposal internally next week, aligning with their negotiation-stage process. Sarah noted their engineering hires this quarter would accelerate pilots, but the board's recent priority realignment last month introduced some hesitancy. They shared architecture diagrams, revealing Denver HQ's hybrid cloud setup, and requested POC specs by mid-April. Overall, it advanced the deal but highlighted procurement hurdles.
+
+## Technical Requirements
+
+- **Scalable Integration with Existing CRM**: Must support Salesforce with custom Apex triggers for bidirectional syncing without refactoring legacy code; current solution causes delays in transaction pipeline updates.
+- **Serverless Compatibility**: Full compatibility with Python, FastAPI APIs, AWS Lambda functions, DynamoDB for data persistence, and SQS for asynchronous messaging to handle 10M+ daily crypto traces.
+- **Real-Time Onboarding Workflows**: Automated, low-touch onboarding to prevent repeats of last quarter's major customer loss due to manual processes; requires AI-driven validation and compliance checks.
+- **Event-Driven Architecture Support**: Native handling of high-throughput events with sub-second latency, integrating into their Denver-based infrastructure without vendor-specific dependencies.
+- **Multi-Vendor Evaluation Alignment**: Solution must differentiate in POCs against four competitors, providing superior audit trails and customization via no-code tools.
+- **Engineering Team Scalability**: Tools to empower their recently expanded team (5 new hires this quarter) with drag-and-drop integrations and monitoring dashboards.
+- **Compliance and Security**: SOC 2 Type II, GDPR-ready features for Fintech, with granular access controls mirroring their DynamoDB/SQS permissions model.
+- **Deployment Timeline Fit**: Quick-setup options to meet the July 28, 2026, decision timeline, including sandbox environments for internal demos.
+
+Their tech stack—Python, FastAPI, AWS Lambda, DynamoDB, and SQS—demands a vendor-agnostic orchestrator that enhances rather than replaces these components.
+
+## Deal Status
+
+CoinTrail's deal is currently in the Negotiation stage, with an anticipated decision timeline of July 28, 2026. The potential value sits at $450K ACV for a multi-year enterprise license covering their 562-employee Fintech operation in Denver. Next steps include Brandon Oduya presenting our POC internally and circling back next week, following procurement's mandate for three competitive bids amid their evaluation of five vendors total. Urgency level is low, tempered by a recent board meeting last month that shifted priorities toward cost optimization and internal tooling before external commitments. Their engineering growth—with five hires this quarter—positions them well for adoption, but the Salesforce custom Apex triggers as their current solution create integration friction points we're addressing head-on. Progress is steady, with technical evaluators aligned, though Jennifer Petrov as budget owner seeks deeper ROI modeling. Blockers include formal RFP issuance and competitor POCs, but our early momentum keeps us as a frontrunner.
+
+## Competitive Landscape
+
+CoinTrail is rigorously evaluating five vendors in total, including our solution, to replace or augment their Salesforce with custom Apex triggers setup:
+
+- **HubSpot AI**: Strong in marketing automation but weaker on custom Fintech workflows; they're testing its AI for lead scoring against our orchestration.
+- **Outreach**: Excels in sales sequencing, appealing to Victor Ibrahim's product team, but lacks deep serverless integration with their Python/FastAPI stack.
+- **Three Other Unnamed Vendors**: Likely including legacy CRM enhancers; procurement insists on three bids minimum, stretching the process.
+- **Internal Build Consideration**: Post-board meeting last month, they're weighing custom development using AWS Lambda/DynamoDB, given their engineering expansion.
+
+Our edge lies in native support for their full tech stack (Python, FastAPI, AWS Lambda, DynamoDB, SQS), positioning us ahead in technical fit despite the crowded field.
+
+## Risk Factors
+
+- **Procurement Delays and Bid Requirements**: Their process demands three competitive bids, and with five vendors under review, this could extend beyond the July 28, 2026, timeline; recent board shifts last month may prioritize internal options.
+- **Onboarding Trauma Echo**: Losing a major customer last quarter to integration issues makes them risk-averse; any perceived gaps in our Salesforce Apex compatibility could trigger hesitancy, especially as they integrate new engineering hires.
+- **Priority Realignment**: The board meeting last month altered focuses toward cost controls, potentially deprioritizing this deal if budget scrutiny intensifies—Brandon mentioned it might slow his internal presentation next week. 
+
+(Note: Their evaluation of five vendors, including HubSpot AI and Outreach, is a recurring theme across sections, underscoring the competitive pressure.) 
+
+This overview captures CoinTrail's dynamics as a mid-sized Fintech (201-1000 employees) navigating growth pains. Regular updates recommended given low urgency and shifting priorities. 
+
+*(Word count: 2031)*

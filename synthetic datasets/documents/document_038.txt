@@ -1,0 +1,64 @@
+# CargoNova — Account Overview
+
+## Company Background
+
+CargoNova is a mid-sized logistics company specializing in multimodal freight forwarding and supply chain optimization, serving clients across North America and Europe. With approximately 588 employees, the firm operates a network of warehouses and distribution centers, leveraging advanced routing algorithms to manage everything from perishable goods to heavy industrial cargo. Founded in 2012 by former executives from a major shipping conglomerate who identified gaps in real-time visibility for cross-border shipments, CargoNova has grown steadily through strategic acquisitions and a focus on technology-driven efficiencies. Their tech stack, which includes Rust for high-performance backend services, Actix for web frameworks, AWS for cloud infrastructure, PostgreSQL for data persistence, and NATS for messaging, underscores their commitment to scalable, resilient systems amid a competitive logistics landscape. Recently, they've faced challenges, including losing a major customer last quarter due to onboarding delays that highlighted weaknesses in their current tools.
+
+## Key Contacts
+
+| Name | Title | Role in Deal | Tenure at CargoNova | Decision Maker |
+|---|---|---|---|---|
+| Aisha Patel | Head of Data | Primary Contact | 1 year | Yes |
+| Simone Mitchell | VP of Operations | Budget Owner | 5 years | Yes |
+| Felix Costa | Director of Engineering | Budget Owner | 3 years | No |
+| Omar Lee | Director of Engineering | Budget Owner | 4 years | No |
+
+Aisha Patel, as Head of Data, has been instrumental in championing data modernization efforts since joining just a year ago. Simone Mitchell oversees operational budgets and has direct influence on procurement. Felix and Omar handle technical evaluations but defer to Aisha and Simone on final sign-off.
+
+## Meeting History
+
+### Meeting 1: Discovery Call (February 19, 2026)
+
+In the initial discovery call held on February 19, 2026, the CargoNova team outlined their pain points with their existing setup, a combination of Notion for collaborative documentation and Airtable for lightweight databases, which has proven inadequate for scaling logistics operations. Aisha Patel led the discussion, emphasizing the need for better integration with their Rust and Actix-based services running on AWS, alongside PostgreSQL and NATS. They shared how losing a key customer last quarter stemmed from onboarding issues, where data silos caused delays. The team expressed high urgency, noting their IT budget increased by 27% this fiscal year to address such gaps ahead of an upcoming security audit in Q2. It was clear they were evaluating alternatives seriously, including building something in-house or turning to ZoomInfo.
+
+### Meeting 2: Technical Deep Dive (February 11, 2026)
+
+The technical deep dive on February 11, 2026, involved Felix Costa and Omar Lee diving into architecture specifics. They demonstrated how their stack—Rust for core logic, Actix-web for APIs, AWS services like ECS and S3, PostgreSQL for transactional data, and NATS for event streaming—struggles with real-time analytics under current tools. Aisha highlighted the critical urgency, reiterating the Q2 security audit looming and how the recent customer loss exposed vulnerabilities in onboarding workflows tied to Notion and Airtable. Discussions touched on competitive options like in-house development, which they've prototyped but shelved due to resource constraints, and ZoomInfo as a benchmark. Simone Mitchell joined midway, confirming budget availability around $850,000 and a fast-track buying process for deals under $150K with VP approval. They appreciated the demo but requested a tailored proposal soon; it needs to land by Friday to align with their decision timeline.
+
+## Technical Requirements
+
+CargoNova's requirements are driven by their logistics workload, demanding robust, scalable solutions that integrate seamlessly with their established tech ecosystem. Key needs include:
+
+- **Real-time Data Synchronization**: Full compatibility with Rust and Actix for backend processing, ensuring sub-second latency for shipment tracking via NATS pub-sub messaging.
+- **Cloud-Native Scalability**: Deep AWS integration (e.g., Lambda, RDS for PostgreSQL) to handle peak volumes during holiday shipping seasons, replacing the limitations of Notion and Airtable.
+- **Advanced Analytics Dashboards**: Customizable BI tools for supply chain visibility, with role-based access controls to mitigate risks exposed by last quarter's customer churn.
+- **Onboarding Automation**: Workflow builders to streamline vendor and client integrations, directly addressing the onboarding issues that led to their major account loss.
+- **Security and Compliance Features**: Audit-ready logging and encryption standards, critical for their Q2 security audit, including SOC 2 alignment and PostgreSQL query optimization for sensitive logistics data.
+- **API-First Design**: RESTful and GraphQL endpoints compatible with Actix-web, plus event-driven hooks into NATS for microservices orchestration.
+- **Multi-Tenant Support**: Isolation for their 588-employee user base across departments, with admin controls for Simone Mitchell's operations team.
+- **Reporting and Export**: Native exports to PostgreSQL schemas and AWS S3 buckets, surpassing the ad-hoc exports from their current Notion-Airtable combo.
+- **Mobile Accessibility**: Responsive apps for warehouse staff, integrated with AWS Cognito for auth.
+- **Custom Integrations**: Plugins for logistics-specific ERPs, with extensibility to avoid the pitfalls of in-house builds they've considered.
+
+These specs reflect their 27% IT budget uplift this fiscal year, positioning them for growth post-recent setbacks.
+
+## Deal Status
+
+The deal is currently in the Proposal stage, with an allocated budget of approximately $850,000 and a decision timeline targeted for May 26, 2026. Urgency is rated Critical due to the impending Q2 security audit and lessons from losing a significant customer last quarter over onboarding friction with their patchwork of Notion and Airtable tools. Next steps include sending a detailed pricing proposal to Aisha Patel by Friday, which will incorporate fast-track approval pathways for any sub-$150K modules requiring direct VP sign-off from Simone Mitchell. Their tech stack—Rust, Actix, AWS, PostgreSQL, and NATS—has been fully mapped, and we've aligned our solution to exceed their current limitations. Momentum is strong, bolstered by the 27% IT budget increase this year, but execution on the proposal is key to maintaining pace.
+
+## Competitive Landscape
+
+CargoNova is actively evaluating a few alternatives amid their push for better data management:
+
+- **Building In-House**: They've explored custom development using their Rust/Actix expertise on AWS, but paused after prototyping due to high engineering costs and diversion from core logistics ops. This remains a viable fallback if timelines slip.
+- **ZoomInfo**: Positioned as a direct competitor for contact and account data enrichment, it's appealing for its out-of-box sales intelligence but lacks deep customization for logistics workflows and their NATS/PostgreSQL setup.
+
+No other vendors were named, but their fast-track process and critical urgency suggest we're in a strong position if we deliver the proposal promptly.
+
+## Risk Factors
+
+- **Security Audit Delays**: The Q2 audit could shift priorities if compliance gaps in their current Notion-Airtable solution surface, potentially derailing timelines; they've emphasized this repeatedly, and it ties back to the onboarding failures that cost them a major client recently.
+- **Internal Resource Constraints**: With engineering directors like Felix and Omar stretched thin on AWS/PostgreSQL optimizations, any perceived integration complexity with Rust/Actix/NATS might push them toward simpler options like ZoomInfo or resuming in-house efforts.
+- **Budget Scrutiny**: Despite the 27% increase this fiscal year, VP Simone Mitchell has flagged economic headwinds in logistics; if our $850K ask exceeds fast-track thresholds without clear ROI tied to preventing future customer losses, approval could stall before the May 26 deadline.
+
+This overview was last updated post-technical deep dive. For full CRM notes, reference ticket #CN-2026-019. Team alignment recommended ahead of proposal send by end of week.

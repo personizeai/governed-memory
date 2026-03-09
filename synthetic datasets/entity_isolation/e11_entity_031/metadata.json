@@ -1,0 +1,19 @@
+{
+  "entity_index": 31,
+  "name": "Sarah Reyes",
+  "company": "Sapphire Tech",
+  "industry": "InsurTech",
+  "email": "sarah.reyes@sapphiretech.com",
+  "title": "Head of Infrastructure",
+  "facts": [
+    "Sarah Reyes is Head of Infrastructure at Sapphire Tech",
+    "Sapphire Tech is a InsurTech company with 2643 employees",
+    "Tech stack: Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "Deal value: $250,000",
+    "Pain points: difficulty measuring ROI on AI initiatives; compliance audit failures on data handling; inconsistent messaging across sales team",
+    "Competitors: Chorus.ai",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$72M"
+  ],
+  "actual_word_count": 277
+}

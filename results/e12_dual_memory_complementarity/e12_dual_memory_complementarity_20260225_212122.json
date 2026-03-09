@@ -1,0 +1,2912 @@
+{
+  "experiment_id": "e12_dual_memory_complementarity",
+  "started_at": "2026-02-25T21:07:49.816639",
+  "completed_at": "2026-02-25T21:21:22.207205",
+  "metadata": {},
+  "record_count": 20,
+  "records": [
+    {
+      "sample_id": "transcript_025",
+      "content_type": "transcripts",
+      "total_ground_truth_facts": 14,
+      "open_set_memories": 63,
+      "schema_properties": 35,
+      "captured_by_both": 6,
+      "captured_by_open_only": 5,
+      "captured_by_schema_only": 1,
+      "missed_by_both": 2,
+      "open_set_recall": 0.786,
+      "schema_recall": 0.5,
+      "combined_recall": 0.857,
+      "properties_extracted_count": 35,
+      "expected_properties_count": 13,
+      "per_fact_classification": [
+        {
+          "fact": "They're planning a migration off legacy systems by end of year",
+          "category": "both",
+          "key_terms": [
+            "they're",
+            "planning",
+            "migration",
+            "legacy",
+            "systems"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "They had a board meeting last month that shifted priorities",
+          "category": "both",
+          "key_terms": [
+            "board",
+            "meeting",
+            "month",
+            "shifted",
+            "priorities"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "They're dealing with manual processes for customer onboarding",
+          "category": "both",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "manual",
+            "processes",
+            "customer",
+            "onboarding"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "They've also been evaluating Apollo.io, Clari, Drift",
+          "category": "missed",
+          "key_terms": [
+            "they've",
+            "evaluating",
+            "apollo.io,",
+            "clari,",
+            "drift"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        },
+        {
+          "fact": "Their tech stack includes Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+          "category": "missed",
+          "key_terms": [
+            "tech",
+            "stack",
+            "includes",
+            "python,",
+            "fastapi,",
+            "lambda,"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        },
+        {
+          "fact": "ApiGrid is a B2B SaaS company with about 156 employees",
+          "category": "open_only",
+          "key_terms": [
+            "apigrid",
+            "b2b",
+            "saas",
+            "company",
+            "156",
+            "employees"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They lost a major customer last quarter due to onboarding issues",
+          "category": "both",
+          "key_terms": [
+            "lost",
+            "major",
+            "customer",
+            "quarter",
+            "onboarding",
+            "issues"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "IT budget was increased by 36% this fiscal year",
+          "category": "open_only",
+          "key_terms": [
+            "budget",
+            "increased",
+            "36%",
+            "fiscal"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Lisa Garcia has been at ApiGrid for 5 years",
+          "category": "both",
+          "key_terms": [
+            "lisa",
+            "garcia",
+            "apigrid",
+            "5",
+            "years"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Engineering team is growing \u2014 hired 7 people this quarter",
+          "category": "open_only",
+          "key_terms": [
+            "engineering",
+            "team",
+            "growing",
+            "hired",
+            "7",
+            "people"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They're dealing with integration complexity with legacy systems",
+          "category": "both",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "integration",
+            "complexity",
+            "legacy",
+            "systems"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Budget allocated is approximately $350,000",
+          "category": "open_only",
+          "key_terms": [
+            "budget",
+            "allocated",
+            "approximately",
+            "$350,000"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Annual revenue is around $125M",
+          "category": "open_only",
+          "key_terms": [
+            "annual",
+            "revenue",
+            "around",
+            "$125m"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Currently using Microsoft Dynamics with Power Automate",
+          "category": "schema_only",
+          "key_terms": [
+            "currently",
+            "microsoft",
+            "dynamics",
+            "power",
+            "automate"
+          ],
+          "in_open_set": false,
+          "in_schema": true
+        }
+      ],
+      "_timestamp": "2026-02-25T21:08:57.885116"
+    },
+    {
+      "sample_id": "transcript_027",
+      "content_type": "transcripts",
+      "total_ground_truth_facts": 14,
+      "open_set_memories": 32,
+      "schema_properties": 17,
+      "captured_by_both": 2,
+      "captured_by_open_only": 9,
+      "captured_by_schema_only": 2,
+      "missed_by_both": 1,
+      "open_set_recall": 0.786,
+      "schema_recall": 0.286,
+      "combined_recall": 0.929,
+      "properties_extracted_count": 17,
+      "expected_properties_count": 12,
+      "per_fact_classification": [
+        {
+          "fact": "They've also been evaluating Apollo.io, Clari, Drift",
+          "category": "open_only",
+          "key_terms": [
+            "they've",
+            "evaluating",
+            "apollo.io,",
+            "clari,",
+            "drift"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Tom Garcia has been at HealthSync for 7 years",
+          "category": "open_only",
+          "key_terms": [
+            "garcia",
+            "healthsync",
+            "7",
+            "years"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Their main office is in Austin",
+          "category": "open_only",
+          "key_terms": [
+            "main",
+            "office",
+            "austin"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "IT budget was increased by 20% this fiscal year",
+          "category": "open_only",
+          "key_terms": [
+            "budget",
+            "increased",
+            "20%",
+            "fiscal"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They're planning a migration off legacy systems by end of year",
+          "category": "both",
+          "key_terms": [
+            "they're",
+            "planning",
+            "migration",
+            "legacy",
+            "systems"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "They're dealing with poor developer experience slowing feature velocity",
+          "category": "schema_only",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "poor",
+            "developer",
+            "experience",
+            "slowing"
+          ],
+          "in_open_set": false,
+          "in_schema": true
+        },
+        {
+          "fact": "They're dealing with security concerns with current architecture",
+          "category": "schema_only",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "security",
+            "concerns",
+            "current",
+            "architecture"
+          ],
+          "in_open_set": false,
+          "in_schema": true
+        },
+        {
+          "fact": "They lost a major customer last quarter due to onboarding issues",
+          "category": "both",
+          "key_terms": [
+            "lost",
+            "major",
+            "customer",
+            "quarter",
+            "onboarding",
+            "issues"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "HealthSync is a Healthcare Tech company with about 4048 employees",
+          "category": "open_only",
+          "key_terms": [
+            "healthsync",
+            "healthcare",
+            "tech",
+            "company",
+            "4048",
+            "employees"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Annual revenue is around $149M",
+          "category": "open_only",
+          "key_terms": [
+            "annual",
+            "revenue",
+            "around",
+            "$149m"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Budget allocated is approximately $120,000",
+          "category": "open_only",
+          "key_terms": [
+            "budget",
+            "allocated",
+            "approximately",
+            "$120,000"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They had a board meeting last month that shifted priorities",
+          "category": "open_only",
+          "key_terms": [
+            "board",
+            "meeting",
+            "month",
+            "shifted",
+            "priorities"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Engineering team is growing \u2014 hired 7 people this quarter",
+          "category": "open_only",
+          "key_terms": [
+            "engineering",
+            "team",
+            "growing",
+            "hired",
+            "7",
+            "people"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Their tech stack includes Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+          "category": "missed",
+          "key_terms": [
+            "tech",
+            "stack",
+            "includes",
+            "ruby",
+            "rails,",
+            "heroku,"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        }
+      ],
+      "_timestamp": "2026-02-25T21:09:28.061037"
+    },
+    {
+      "sample_id": "transcript_001",
+      "content_type": "transcripts",
+      "total_ground_truth_facts": 13,
+      "open_set_memories": 95,
+      "schema_properties": 29,
+      "captured_by_both": 5,
+      "captured_by_open_only": 6,
+      "captured_by_schema_only": 0,
+      "missed_by_both": 2,
+      "open_set_recall": 0.846,
+      "schema_recall": 0.385,
+      "combined_recall": 0.846,
+      "properties_extracted_count": 29,
+      "expected_properties_count": 12,
+      "per_fact_classification": [
+        {
+          "fact": "They're dealing with security concerns with current architecture",
+          "category": "both",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "security",
+            "concerns",
+            "current",
+            "architecture"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Their main office is in Denver",
+          "category": "open_only",
+          "key_terms": [
+            "main",
+            "office",
+            "denver"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They're dealing with inconsistent messaging across sales team",
+          "category": "both",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "inconsistent",
+            "messaging",
+            "across",
+            "sales"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "They had a board meeting last month that shifted priorities",
+          "category": "open_only",
+          "key_terms": [
+            "board",
+            "meeting",
+            "month",
+            "shifted",
+            "priorities"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They lost a major customer last quarter due to onboarding issues",
+          "category": "both",
+          "key_terms": [
+            "lost",
+            "major",
+            "customer",
+            "quarter",
+            "onboarding",
+            "issues"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "TechFlow Inc is a B2B SaaS company with about 2759 employees",
+          "category": "missed",
+          "key_terms": [
+            "techflow",
+            "b2b",
+            "saas",
+            "company",
+            "2759",
+            "employees"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        },
+        {
+          "fact": "Currently using legacy Java application maintained by one person",
+          "category": "both",
+          "key_terms": [
+            "currently",
+            "legacy",
+            "java",
+            "application",
+            "maintained",
+            "person"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "IT budget was increased by 40% this fiscal year",
+          "category": "open_only",
+          "key_terms": [
+            "budget",
+            "increased",
+            "40%",
+            "fiscal"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Priya Fernandez has been at TechFlow Inc for 4 years",
+          "category": "open_only",
+          "key_terms": [
+            "priya",
+            "fernandez",
+            "techflow",
+            "4",
+            "years"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They've also been evaluating Salesforce Einstein, ZoomInfo, Outreach",
+          "category": "open_only",
+          "key_terms": [
+            "they've",
+            "evaluating",
+            "salesforce",
+            "einstein,",
+            "zoominfo,",
+            "outreach"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Security audit is coming up in Q2",
+          "category": "both",
+          "key_terms": [
+            "security",
+            "audit",
+            "coming",
+            "q2"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Engineering team is growing \u2014 hired 19 people this quarter",
+          "category": "open_only",
+          "key_terms": [
+            "engineering",
+            "team",
+            "growing",
+            "hired",
+            "19",
+            "people"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Their tech stack includes Rust, Actix, AWS, PostgreSQL, NATS",
+          "category": "missed",
+          "key_terms": [
+            "tech",
+            "stack",
+            "includes",
+            "rust,",
+            "actix,",
+            "aws,"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        }
+      ],
+      "_timestamp": "2026-02-25T21:11:03.885007"
+    },
+    {
+      "sample_id": "transcript_017",
+      "content_type": "transcripts",
+      "total_ground_truth_facts": 14,
+      "open_set_memories": 54,
+      "schema_properties": 35,
+      "captured_by_both": 4,
+      "captured_by_open_only": 8,
+      "captured_by_schema_only": 1,
+      "missed_by_both": 1,
+      "open_set_recall": 0.857,
+      "schema_recall": 0.357,
+      "combined_recall": 0.929,
+      "properties_extracted_count": 35,
+      "expected_properties_count": 11,
+      "per_fact_classification": [
+        {
+          "fact": "They're planning a migration off legacy systems by end of year",
+          "category": "both",
+          "key_terms": [
+            "they're",
+            "planning",
+            "migration",
+            "legacy",
+            "systems"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Rachel Lee has been at CloudNova for 2 years",
+          "category": "both",
+          "key_terms": [
+            "rachel",
+            "cloudnova",
+            "2",
+            "years"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "CloudNova is a B2B SaaS company with about 78 employees",
+          "category": "open_only",
+          "key_terms": [
+            "cloudnova",
+            "b2b",
+            "saas",
+            "company",
+            "78",
+            "employees"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "IT budget was increased by 33% this fiscal year",
+          "category": "open_only",
+          "key_terms": [
+            "budget",
+            "increased",
+            "33%",
+            "fiscal"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Engineering team is growing \u2014 hired 6 people this quarter",
+          "category": "open_only",
+          "key_terms": [
+            "engineering",
+            "team",
+            "growing",
+            "hired",
+            "6",
+            "people"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Budget allocated is approximately $200,000",
+          "category": "open_only",
+          "key_terms": [
+            "budget",
+            "allocated",
+            "approximately",
+            "$200,000"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They had a board meeting last month that shifted priorities",
+          "category": "both",
+          "key_terms": [
+            "board",
+            "meeting",
+            "month",
+            "shifted",
+            "priorities"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Their tech stack includes Go, Kubernetes, AWS, DynamoDB, gRPC",
+          "category": "missed",
+          "key_terms": [
+            "tech",
+            "stack",
+            "includes",
+            "kubernetes,",
+            "aws,",
+            "dynamodb,"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        },
+        {
+          "fact": "Currently using internal Python scripts pulling from multiple APIs",
+          "category": "schema_only",
+          "key_terms": [
+            "currently",
+            "internal",
+            "python",
+            "scripts",
+            "pulling",
+            "multiple"
+          ],
+          "in_open_set": false,
+          "in_schema": true
+        },
+        {
+          "fact": "Their main office is in London",
+          "category": "open_only",
+          "key_terms": [
+            "main",
+            "office",
+            "london"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Rachel reports to the CEO directly",
+          "category": "open_only",
+          "key_terms": [
+            "rachel",
+            "reports",
+            "directly"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They've also been evaluating Intercom",
+          "category": "open_only",
+          "key_terms": [
+            "they've",
+            "evaluating",
+            "intercom"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Security audit is coming up in Q3",
+          "category": "both",
+          "key_terms": [
+            "security",
+            "audit",
+            "coming",
+            "q3"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Currently evaluating 4 vendors including us",
+          "category": "open_only",
+          "key_terms": [
+            "currently",
+            "evaluating",
+            "4",
+            "vendors",
+            "including"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        }
+      ],
+      "_timestamp": "2026-02-25T21:12:13.066499"
+    },
+    {
+      "sample_id": "transcript_031",
+      "content_type": "transcripts",
+      "total_ground_truth_facts": 14,
+      "open_set_memories": 46,
+      "schema_properties": 29,
+      "captured_by_both": 4,
+      "captured_by_open_only": 6,
+      "captured_by_schema_only": 3,
+      "missed_by_both": 1,
+      "open_set_recall": 0.714,
+      "schema_recall": 0.5,
+      "combined_recall": 0.929,
+      "properties_extracted_count": 29,
+      "expected_properties_count": 11,
+      "per_fact_classification": [
+        {
+          "fact": "Tom Singh has been at ContentHQ for 6 years",
+          "category": "open_only",
+          "key_terms": [
+            "singh",
+            "contenthq",
+            "6",
+            "years"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "IT budget was increased by 20% this fiscal year",
+          "category": "open_only",
+          "key_terms": [
+            "budget",
+            "increased",
+            "20%",
+            "fiscal"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Annual revenue is around $165M",
+          "category": "open_only",
+          "key_terms": [
+            "annual",
+            "revenue",
+            "around",
+            "$165m"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Their tech stack includes Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+          "category": "missed",
+          "key_terms": [
+            "tech",
+            "stack",
+            "includes",
+            "ruby",
+            "rails,",
+            "heroku,"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        },
+        {
+          "fact": "They're dealing with integration complexity with legacy systems",
+          "category": "schema_only",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "integration",
+            "complexity",
+            "legacy",
+            "systems"
+          ],
+          "in_open_set": false,
+          "in_schema": true
+        },
+        {
+          "fact": "Currently evaluating 3 vendors including us",
+          "category": "both",
+          "key_terms": [
+            "currently",
+            "evaluating",
+            "3",
+            "vendors",
+            "including"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Security audit is coming up in Q3",
+          "category": "both",
+          "key_terms": [
+            "security",
+            "audit",
+            "coming",
+            "q3"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Engineering team is growing \u2014 hired 20 people this quarter",
+          "category": "open_only",
+          "key_terms": [
+            "engineering",
+            "team",
+            "growing",
+            "hired",
+            "20",
+            "people"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Currently using Salesforce with custom Apex triggers",
+          "category": "schema_only",
+          "key_terms": [
+            "currently",
+            "salesforce",
+            "custom",
+            "apex",
+            "triggers"
+          ],
+          "in_open_set": false,
+          "in_schema": true
+        },
+        {
+          "fact": "ContentHQ is a Digital Media company with about 3647 employees",
+          "category": "open_only",
+          "key_terms": [
+            "contenthq",
+            "digital",
+            "media",
+            "company",
+            "3647",
+            "employees"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Their main office is in Austin",
+          "category": "open_only",
+          "key_terms": [
+            "main",
+            "office",
+            "austin"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They're dealing with technical debt from rapid early growth",
+          "category": "schema_only",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "technical",
+            "debt",
+            "rapid",
+            "early"
+          ],
+          "in_open_set": false,
+          "in_schema": true
+        },
+        {
+          "fact": "They're planning a migration off legacy systems by end of year",
+          "category": "both",
+          "key_terms": [
+            "they're",
+            "planning",
+            "migration",
+            "legacy",
+            "systems"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "They lost a major customer last quarter due to onboarding issues",
+          "category": "both",
+          "key_terms": [
+            "lost",
+            "major",
+            "customer",
+            "quarter",
+            "onboarding",
+            "issues"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        }
+      ],
+      "_timestamp": "2026-02-25T21:12:58.704119"
+    },
+    {
+      "sample_id": "call_note_008",
+      "content_type": "call_notes",
+      "total_ground_truth_facts": 7,
+      "open_set_memories": 32,
+      "schema_properties": 12,
+      "captured_by_both": 2,
+      "captured_by_open_only": 3,
+      "captured_by_schema_only": 1,
+      "missed_by_both": 1,
+      "open_set_recall": 0.714,
+      "schema_recall": 0.429,
+      "combined_recall": 0.857,
+      "properties_extracted_count": 12,
+      "expected_properties_count": 12,
+      "per_fact_classification": [
+        {
+          "fact": "They're dealing with fragmented tooling across departments",
+          "category": "schema_only",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "fragmented",
+            "tooling",
+            "across",
+            "departments"
+          ],
+          "in_open_set": false,
+          "in_schema": true
+        },
+        {
+          "fact": "CourseForge is a EdTech company with about 135 employees",
+          "category": "open_only",
+          "key_terms": [
+            "courseforge",
+            "edtech",
+            "company",
+            "135",
+            "employees"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Currently using combination of Notion and Airtable",
+          "category": "both",
+          "key_terms": [
+            "currently",
+            "combination",
+            "notion",
+            "airtable"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Budget allocated is approximately $350,000",
+          "category": "open_only",
+          "key_terms": [
+            "budget",
+            "allocated",
+            "approximately",
+            "$350,000"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Priya Patel has been at CourseForge for 3 years",
+          "category": "both",
+          "key_terms": [
+            "priya",
+            "patel",
+            "courseforge",
+            "3",
+            "years"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "They're dealing with slow deployment cycles taking 2-3 weeks per release",
+          "category": "missed",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "slow",
+            "deployment",
+            "cycles",
+            "taking"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        },
+        {
+          "fact": "They've also been evaluating custom internal tool, Outreach, Clari",
+          "category": "open_only",
+          "key_terms": [
+            "they've",
+            "evaluating",
+            "custom",
+            "internal",
+            "tool,",
+            "outreach,"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        }
+      ],
+      "_timestamp": "2026-02-25T21:13:20.273596"
+    },
+    {
+      "sample_id": "call_note_001",
+      "content_type": "call_notes",
+      "total_ground_truth_facts": 7,
+      "open_set_memories": 13,
+      "schema_properties": 11,
+      "captured_by_both": 3,
+      "captured_by_open_only": 2,
+      "captured_by_schema_only": 1,
+      "missed_by_both": 1,
+      "open_set_recall": 0.714,
+      "schema_recall": 0.571,
+      "combined_recall": 0.857,
+      "properties_extracted_count": 11,
+      "expected_properties_count": 11,
+      "per_fact_classification": [
+        {
+          "fact": "TechFlow Inc is a B2B SaaS company with about 705 employees",
+          "category": "open_only",
+          "key_terms": [
+            "techflow",
+            "b2b",
+            "saas",
+            "company",
+            "705",
+            "employees"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They're planning a migration off legacy systems by end of year",
+          "category": "both",
+          "key_terms": [
+            "they're",
+            "planning",
+            "migration",
+            "legacy",
+            "systems"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "They lost a major customer last quarter due to onboarding issues",
+          "category": "both",
+          "key_terms": [
+            "lost",
+            "major",
+            "customer",
+            "quarter",
+            "onboarding",
+            "issues"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "They're dealing with security concerns with current architecture",
+          "category": "schema_only",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "security",
+            "concerns",
+            "current",
+            "architecture"
+          ],
+          "in_open_set": false,
+          "in_schema": true
+        },
+        {
+          "fact": "Their tech stack includes TypeScript, React, Node.js, GCP, MongoDB",
+          "category": "missed",
+          "key_terms": [
+            "tech",
+            "stack",
+            "includes",
+            "typescript,",
+            "react,",
+            "node.js,"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        },
+        {
+          "fact": "They're dealing with vendor lock-in with current cloud provider",
+          "category": "both",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "vendor",
+            "lock-in",
+            "current",
+            "cloud"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Marcus Novak has been at TechFlow Inc for 3 years",
+          "category": "open_only",
+          "key_terms": [
+            "marcus",
+            "novak",
+            "techflow",
+            "3",
+            "years"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        }
+      ],
+      "_timestamp": "2026-02-25T21:13:32.632572"
+    },
+    {
+      "sample_id": "call_note_004",
+      "content_type": "call_notes",
+      "total_ground_truth_facts": 7,
+      "open_set_memories": 17,
+      "schema_properties": 13,
+      "captured_by_both": 1,
+      "captured_by_open_only": 4,
+      "captured_by_schema_only": 0,
+      "missed_by_both": 2,
+      "open_set_recall": 0.714,
+      "schema_recall": 0.143,
+      "combined_recall": 0.714,
+      "properties_extracted_count": 13,
+      "expected_properties_count": 11,
+      "per_fact_classification": [
+        {
+          "fact": "They've also been evaluating Chorus.ai, building in-house",
+          "category": "open_only",
+          "key_terms": [
+            "they've",
+            "evaluating",
+            "chorus.ai,",
+            "building",
+            "in-house"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Currently evaluating 3 vendors including us",
+          "category": "open_only",
+          "key_terms": [
+            "currently",
+            "evaluating",
+            "3",
+            "vendors",
+            "including"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "ChannelBridge is a E-commerce company with about 2865 employees",
+          "category": "open_only",
+          "key_terms": [
+            "channelbridge",
+            "e-commerce",
+            "company",
+            "2865",
+            "employees"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Budget allocated is approximately $1,800,000",
+          "category": "missed",
+          "key_terms": [
+            "budget",
+            "allocated",
+            "approximately",
+            "$1,800,000"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        },
+        {
+          "fact": "Jennifer reports to the CEO directly",
+          "category": "open_only",
+          "key_terms": [
+            "jennifer",
+            "reports",
+            "directly"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Jennifer Costa has been at ChannelBridge for 7 years",
+          "category": "both",
+          "key_terms": [
+            "jennifer",
+            "costa",
+            "channelbridge",
+            "7",
+            "years"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Their tech stack includes Java, Micronaut, GCP, Spanner, Pub/Sub",
+          "category": "missed",
+          "key_terms": [
+            "tech",
+            "stack",
+            "includes",
+            "java,",
+            "micronaut,",
+            "gcp,"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        }
+      ],
+      "_timestamp": "2026-02-25T21:13:48.411071"
+    },
+    {
+      "sample_id": "call_note_010",
+      "content_type": "call_notes",
+      "total_ground_truth_facts": 5,
+      "open_set_memories": 20,
+      "schema_properties": 12,
+      "captured_by_both": 0,
+      "captured_by_open_only": 1,
+      "captured_by_schema_only": 2,
+      "missed_by_both": 2,
+      "open_set_recall": 0.2,
+      "schema_recall": 0.4,
+      "combined_recall": 0.6,
+      "properties_extracted_count": 12,
+      "expected_properties_count": 11,
+      "per_fact_classification": [
+        {
+          "fact": "Their tech stack includes TypeScript, React, Node.js, GCP, MongoDB",
+          "category": "missed",
+          "key_terms": [
+            "tech",
+            "stack",
+            "includes",
+            "typescript,",
+            "react,",
+            "node.js,"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        },
+        {
+          "fact": "They're dealing with technical debt from rapid early growth",
+          "category": "schema_only",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "technical",
+            "debt",
+            "rapid",
+            "early"
+          ],
+          "in_open_set": false,
+          "in_schema": true
+        },
+        {
+          "fact": "They've also been evaluating Gong",
+          "category": "missed",
+          "key_terms": [
+            "they've",
+            "evaluating",
+            "gong"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        },
+        {
+          "fact": "VaultEdge is a Fintech company with about 47 employees",
+          "category": "open_only",
+          "key_terms": [
+            "vaultedge",
+            "fintech",
+            "company",
+            "47",
+            "employees"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They're dealing with security concerns with current architecture",
+          "category": "schema_only",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "security",
+            "concerns",
+            "current",
+            "architecture"
+          ],
+          "in_open_set": false,
+          "in_schema": true
+        }
+      ],
+      "_timestamp": "2026-02-25T21:14:13.011225"
+    },
+    {
+      "sample_id": "call_note_002",
+      "content_type": "call_notes",
+      "total_ground_truth_facts": 6,
+      "open_set_memories": 17,
+      "schema_properties": 11,
+      "captured_by_both": 2,
+      "captured_by_open_only": 2,
+      "captured_by_schema_only": 1,
+      "missed_by_both": 1,
+      "open_set_recall": 0.667,
+      "schema_recall": 0.5,
+      "combined_recall": 0.833,
+      "properties_extracted_count": 11,
+      "expected_properties_count": 9,
+      "per_fact_classification": [
+        {
+          "fact": "They're dealing with inconsistent messaging across sales team",
+          "category": "schema_only",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "inconsistent",
+            "messaging",
+            "across",
+            "sales"
+          ],
+          "in_open_set": false,
+          "in_schema": true
+        },
+        {
+          "fact": "They've also been evaluating Gong",
+          "category": "open_only",
+          "key_terms": [
+            "they've",
+            "evaluating",
+            "gong"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They're dealing with manual processes for customer onboarding",
+          "category": "both",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "manual",
+            "processes",
+            "customer",
+            "onboarding"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "LedgerPoint is a Fintech company with about 49 employees",
+          "category": "both",
+          "key_terms": [
+            "ledgerpoint",
+            "fintech",
+            "company",
+            "49",
+            "employees"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Budget allocated is approximately $120,000",
+          "category": "missed",
+          "key_terms": [
+            "budget",
+            "allocated",
+            "approximately",
+            "$120,000"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        },
+        {
+          "fact": "Rachel Williams has been at LedgerPoint for 6 years",
+          "category": "open_only",
+          "key_terms": [
+            "rachel",
+            "williams",
+            "ledgerpoint",
+            "6",
+            "years"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        }
+      ],
+      "_timestamp": "2026-02-25T21:14:32.151598"
+    },
+    {
+      "sample_id": "email_002",
+      "content_type": "emails",
+      "total_ground_truth_facts": 10,
+      "open_set_memories": 29,
+      "schema_properties": 16,
+      "captured_by_both": 2,
+      "captured_by_open_only": 3,
+      "captured_by_schema_only": 3,
+      "missed_by_both": 2,
+      "open_set_recall": 0.5,
+      "schema_recall": 0.5,
+      "combined_recall": 0.8,
+      "properties_extracted_count": 16,
+      "expected_properties_count": 13,
+      "per_fact_classification": [
+        {
+          "fact": "Security audit is coming up in Q2",
+          "category": "both",
+          "key_terms": [
+            "security",
+            "audit",
+            "coming",
+            "q2"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Fatima Okonkwo has been at LedgerPoint for 8 years",
+          "category": "both",
+          "key_terms": [
+            "fatima",
+            "okonkwo",
+            "ledgerpoint",
+            "8",
+            "years"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Budget allocated is approximately $1,200,000",
+          "category": "open_only",
+          "key_terms": [
+            "budget",
+            "allocated",
+            "approximately",
+            "$1,200,000"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They're dealing with poor developer experience slowing feature velocity",
+          "category": "schema_only",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "poor",
+            "developer",
+            "experience",
+            "slowing"
+          ],
+          "in_open_set": false,
+          "in_schema": true
+        },
+        {
+          "fact": "LedgerPoint is a Fintech company with about 35 employees",
+          "category": "open_only",
+          "key_terms": [
+            "ledgerpoint",
+            "fintech",
+            "company",
+            "35",
+            "employees"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They're planning a migration off legacy systems by end of year",
+          "category": "open_only",
+          "key_terms": [
+            "they're",
+            "planning",
+            "migration",
+            "legacy",
+            "systems"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Their tech stack includes TypeScript, React, Node.js, GCP, MongoDB",
+          "category": "missed",
+          "key_terms": [
+            "tech",
+            "stack",
+            "includes",
+            "typescript,",
+            "react,",
+            "node.js,"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        },
+        {
+          "fact": "They've also been evaluating Microsoft Copilot, Outreach, Gong",
+          "category": "missed",
+          "key_terms": [
+            "they've",
+            "evaluating",
+            "microsoft",
+            "copilot,",
+            "outreach,",
+            "gong"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        },
+        {
+          "fact": "They're dealing with vendor lock-in with current cloud provider",
+          "category": "schema_only",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "vendor",
+            "lock-in",
+            "current",
+            "cloud"
+          ],
+          "in_open_set": false,
+          "in_schema": true
+        },
+        {
+          "fact": "Currently using a mix of Google Sheets and custom dashboards",
+          "category": "schema_only",
+          "key_terms": [
+            "currently",
+            "google",
+            "sheets",
+            "custom",
+            "dashboards"
+          ],
+          "in_open_set": false,
+          "in_schema": true
+        }
+      ],
+      "_timestamp": "2026-02-25T21:15:04.616633"
+    },
+    {
+      "sample_id": "email_006",
+      "content_type": "emails",
+      "total_ground_truth_facts": 10,
+      "open_set_memories": 30,
+      "schema_properties": 9,
+      "captured_by_both": 3,
+      "captured_by_open_only": 5,
+      "captured_by_schema_only": 1,
+      "missed_by_both": 1,
+      "open_set_recall": 0.8,
+      "schema_recall": 0.4,
+      "combined_recall": 0.9,
+      "properties_extracted_count": 9,
+      "expected_properties_count": 10,
+      "per_fact_classification": [
+        {
+          "fact": "Security audit is coming up in Q3",
+          "category": "open_only",
+          "key_terms": [
+            "security",
+            "audit",
+            "coming",
+            "q3"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They lost a major customer last quarter due to onboarding issues",
+          "category": "both",
+          "key_terms": [
+            "lost",
+            "major",
+            "customer",
+            "quarter",
+            "onboarding",
+            "issues"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Their tech stack includes C#, .NET, Azure, SQL Server, RabbitMQ",
+          "category": "missed",
+          "key_terms": [
+            "tech",
+            "stack",
+            "includes",
+            ".net,",
+            "azure,",
+            "server,"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        },
+        {
+          "fact": "They're planning a migration off legacy systems by end of year",
+          "category": "open_only",
+          "key_terms": [
+            "they're",
+            "planning",
+            "migration",
+            "legacy",
+            "systems"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They've also been evaluating building in-house",
+          "category": "both",
+          "key_terms": [
+            "they've",
+            "evaluating",
+            "building",
+            "in-house"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Annual revenue is around $108M",
+          "category": "open_only",
+          "key_terms": [
+            "annual",
+            "revenue",
+            "around",
+            "$108m"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They're dealing with slow deployment cycles taking 2-3 weeks per release",
+          "category": "schema_only",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "slow",
+            "deployment",
+            "cycles",
+            "taking"
+          ],
+          "in_open_set": false,
+          "in_schema": true
+        },
+        {
+          "fact": "They're dealing with scaling issues during peak traffic periods",
+          "category": "both",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "scaling",
+            "issues",
+            "peak",
+            "traffic"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Maria Williams has been at RouteWise for 5 years",
+          "category": "open_only",
+          "key_terms": [
+            "maria",
+            "williams",
+            "routewise",
+            "5",
+            "years"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "RouteWise is a Logistics company with about 639 employees",
+          "category": "open_only",
+          "key_terms": [
+            "routewise",
+            "logistics",
+            "company",
+            "639",
+            "employees"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        }
+      ],
+      "_timestamp": "2026-02-25T21:15:30.879284"
+    },
+    {
+      "sample_id": "email_001",
+      "content_type": "emails",
+      "total_ground_truth_facts": 8,
+      "open_set_memories": 23,
+      "schema_properties": 11,
+      "captured_by_both": 2,
+      "captured_by_open_only": 2,
+      "captured_by_schema_only": 1,
+      "missed_by_both": 3,
+      "open_set_recall": 0.5,
+      "schema_recall": 0.375,
+      "combined_recall": 0.625,
+      "properties_extracted_count": 11,
+      "expected_properties_count": 11,
+      "per_fact_classification": [
+        {
+          "fact": "They're dealing with high infrastructure costs eating into margins",
+          "category": "both",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "high",
+            "infrastructure",
+            "costs",
+            "eating"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Their main office is in San Francisco",
+          "category": "missed",
+          "key_terms": [
+            "main",
+            "office",
+            "francisco"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        },
+        {
+          "fact": "Currently using HubSpot CRM with Zapier automations",
+          "category": "both",
+          "key_terms": [
+            "currently",
+            "hubspot",
+            "zapier",
+            "automations"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "TechFlow Inc is a B2B SaaS company with about 1877 employees",
+          "category": "missed",
+          "key_terms": [
+            "techflow",
+            "b2b",
+            "saas",
+            "company",
+            "1877",
+            "employees"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        },
+        {
+          "fact": "They had a board meeting last month that shifted priorities",
+          "category": "open_only",
+          "key_terms": [
+            "board",
+            "meeting",
+            "month",
+            "shifted",
+            "priorities"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Their tech stack includes Java, Micronaut, GCP, Spanner, Pub/Sub",
+          "category": "missed",
+          "key_terms": [
+            "tech",
+            "stack",
+            "includes",
+            "java,",
+            "micronaut,",
+            "gcp,"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        },
+        {
+          "fact": "Tom Singh has been at TechFlow Inc for 5 years",
+          "category": "open_only",
+          "key_terms": [
+            "singh",
+            "techflow",
+            "5",
+            "years"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They're dealing with security concerns with current architecture",
+          "category": "schema_only",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "security",
+            "concerns",
+            "current",
+            "architecture"
+          ],
+          "in_open_set": false,
+          "in_schema": true
+        }
+      ],
+      "_timestamp": "2026-02-25T21:15:52.821045"
+    },
+    {
+      "sample_id": "email_003",
+      "content_type": "emails",
+      "total_ground_truth_facts": 8,
+      "open_set_memories": 64,
+      "schema_properties": 29,
+      "captured_by_both": 5,
+      "captured_by_open_only": 2,
+      "captured_by_schema_only": 0,
+      "missed_by_both": 1,
+      "open_set_recall": 0.875,
+      "schema_recall": 0.625,
+      "combined_recall": 0.875,
+      "properties_extracted_count": 29,
+      "expected_properties_count": 11,
+      "per_fact_classification": [
+        {
+          "fact": "They've also been evaluating ZoomInfo, Clari, Intercom",
+          "category": "missed",
+          "key_terms": [
+            "they've",
+            "evaluating",
+            "zoominfo,",
+            "clari,",
+            "intercom"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        },
+        {
+          "fact": "They're dealing with manual processes for customer onboarding",
+          "category": "both",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "manual",
+            "processes",
+            "customer",
+            "onboarding"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "CareStack is a Healthcare Tech company with about 95 employees",
+          "category": "open_only",
+          "key_terms": [
+            "carestack",
+            "healthcare",
+            "tech",
+            "company",
+            "95",
+            "employees"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They're dealing with fragmented tooling across departments",
+          "category": "both",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "fragmented",
+            "tooling",
+            "across",
+            "departments"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "They lost a major customer last quarter due to onboarding issues",
+          "category": "both",
+          "key_terms": [
+            "lost",
+            "major",
+            "customer",
+            "quarter",
+            "onboarding",
+            "issues"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "They're planning a migration off legacy systems by end of year",
+          "category": "both",
+          "key_terms": [
+            "they're",
+            "planning",
+            "migration",
+            "legacy",
+            "systems"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Jennifer Chen has been at CareStack for 1 years",
+          "category": "both",
+          "key_terms": [
+            "jennifer",
+            "chen",
+            "carestack",
+            "1",
+            "years"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Their tech stack includes Java, Micronaut, GCP, Spanner, Pub/Sub",
+          "category": "open_only",
+          "key_terms": [
+            "tech",
+            "stack",
+            "includes",
+            "java,",
+            "micronaut,",
+            "gcp,"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        }
+      ],
+      "_timestamp": "2026-02-25T21:16:47.672625"
+    },
+    {
+      "sample_id": "email_004",
+      "content_type": "emails",
+      "total_ground_truth_facts": 8,
+      "open_set_memories": 31,
+      "schema_properties": 20,
+      "captured_by_both": 3,
+      "captured_by_open_only": 0,
+      "captured_by_schema_only": 2,
+      "missed_by_both": 3,
+      "open_set_recall": 0.375,
+      "schema_recall": 0.625,
+      "combined_recall": 0.625,
+      "properties_extracted_count": 20,
+      "expected_properties_count": 11,
+      "per_fact_classification": [
+        {
+          "fact": "Their tech stack includes Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+          "category": "missed",
+          "key_terms": [
+            "tech",
+            "stack",
+            "includes",
+            "python,",
+            "fastapi,",
+            "lambda,"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        },
+        {
+          "fact": "They're dealing with inconsistent messaging across sales team",
+          "category": "schema_only",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "inconsistent",
+            "messaging",
+            "across",
+            "sales"
+          ],
+          "in_open_set": false,
+          "in_schema": true
+        },
+        {
+          "fact": "They're dealing with difficulty measuring ROI on AI initiatives",
+          "category": "schema_only",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "difficulty",
+            "measuring",
+            "initiatives"
+          ],
+          "in_open_set": false,
+          "in_schema": true
+        },
+        {
+          "fact": "Currently using Pipedrive with Slack notifications",
+          "category": "both",
+          "key_terms": [
+            "currently",
+            "pipedrive",
+            "slack",
+            "notifications"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Jennifer Garcia has been at ChannelBridge for 1 years",
+          "category": "both",
+          "key_terms": [
+            "jennifer",
+            "garcia",
+            "channelbridge",
+            "1",
+            "years"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "ChannelBridge is a E-commerce company with about 174 employees",
+          "category": "both",
+          "key_terms": [
+            "channelbridge",
+            "e-commerce",
+            "company",
+            "174",
+            "employees"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Budget allocated is approximately $1,800,000",
+          "category": "missed",
+          "key_terms": [
+            "budget",
+            "allocated",
+            "approximately",
+            "$1,800,000"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        },
+        {
+          "fact": "They've also been evaluating Apollo.io",
+          "category": "missed",
+          "key_terms": [
+            "they've",
+            "evaluating",
+            "apollo.io"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        }
+      ],
+      "_timestamp": "2026-02-25T21:17:30.866355"
+    },
+    {
+      "sample_id": "document_009",
+      "content_type": "documents",
+      "total_ground_truth_facts": 10,
+      "open_set_memories": 46,
+      "schema_properties": 23,
+      "captured_by_both": 2,
+      "captured_by_open_only": 4,
+      "captured_by_schema_only": 2,
+      "missed_by_both": 2,
+      "open_set_recall": 0.6,
+      "schema_recall": 0.4,
+      "combined_recall": 0.8,
+      "properties_extracted_count": 23,
+      "expected_properties_count": 13,
+      "per_fact_classification": [
+        {
+          "fact": "IT budget was increased by 21% this fiscal year",
+          "category": "open_only",
+          "key_terms": [
+            "budget",
+            "increased",
+            "21%",
+            "fiscal"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Budget allocated is approximately $600,000",
+          "category": "open_only",
+          "key_terms": [
+            "budget",
+            "allocated",
+            "approximately",
+            "$600,000"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "SyncWave is a B2B SaaS company with about 37 employees",
+          "category": "open_only",
+          "key_terms": [
+            "syncwave",
+            "b2b",
+            "saas",
+            "company",
+            "37",
+            "employees"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Their tech stack includes Java, Micronaut, GCP, Spanner, Pub/Sub",
+          "category": "missed",
+          "key_terms": [
+            "tech",
+            "stack",
+            "includes",
+            "java,",
+            "micronaut,",
+            "gcp,"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        },
+        {
+          "fact": "Amanda Lee has been at SyncWave for 3 years",
+          "category": "both",
+          "key_terms": [
+            "amanda",
+            "syncwave",
+            "3",
+            "years"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "They've also been evaluating Clari, Salesforce Einstein, custom internal tool",
+          "category": "missed",
+          "key_terms": [
+            "they've",
+            "evaluating",
+            "clari,",
+            "salesforce",
+            "einstein,",
+            "custom"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        },
+        {
+          "fact": "They're dealing with integration complexity with legacy systems",
+          "category": "both",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "integration",
+            "complexity",
+            "legacy",
+            "systems"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "They're dealing with poor visibility into pipeline health",
+          "category": "schema_only",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "poor",
+            "visibility",
+            "pipeline",
+            "health"
+          ],
+          "in_open_set": false,
+          "in_schema": true
+        },
+        {
+          "fact": "Currently using HubSpot CRM with Zapier automations",
+          "category": "schema_only",
+          "key_terms": [
+            "currently",
+            "hubspot",
+            "zapier",
+            "automations"
+          ],
+          "in_open_set": false,
+          "in_schema": true
+        },
+        {
+          "fact": "Their main office is in Chicago",
+          "category": "open_only",
+          "key_terms": [
+            "main",
+            "office",
+            "chicago"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        }
+      ],
+      "_timestamp": "2026-02-25T21:18:19.097137"
+    },
+    {
+      "sample_id": "document_010",
+      "content_type": "documents",
+      "total_ground_truth_facts": 9,
+      "open_set_memories": 52,
+      "schema_properties": 27,
+      "captured_by_both": 3,
+      "captured_by_open_only": 3,
+      "captured_by_schema_only": 2,
+      "missed_by_both": 1,
+      "open_set_recall": 0.667,
+      "schema_recall": 0.556,
+      "combined_recall": 0.889,
+      "properties_extracted_count": 27,
+      "expected_properties_count": 14,
+      "per_fact_classification": [
+        {
+          "fact": "VaultEdge is a Fintech company with about 100 employees",
+          "category": "both",
+          "key_terms": [
+            "vaultedge",
+            "fintech",
+            "company",
+            "100",
+            "employees"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "They're dealing with compliance audit failures on data handling",
+          "category": "both",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "compliance",
+            "audit",
+            "failures",
+            "data"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "They're planning a migration off legacy systems by end of year",
+          "category": "open_only",
+          "key_terms": [
+            "they're",
+            "planning",
+            "migration",
+            "legacy",
+            "systems"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They're dealing with poor visibility into pipeline health",
+          "category": "schema_only",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "poor",
+            "visibility",
+            "pipeline",
+            "health"
+          ],
+          "in_open_set": false,
+          "in_schema": true
+        },
+        {
+          "fact": "Michael Anderson has been at VaultEdge for 7 years",
+          "category": "both",
+          "key_terms": [
+            "michael",
+            "anderson",
+            "vaultedge",
+            "7",
+            "years"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Their tech stack includes Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+          "category": "missed",
+          "key_terms": [
+            "tech",
+            "stack",
+            "includes",
+            "python,",
+            "fastapi,",
+            "lambda,"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        },
+        {
+          "fact": "Budget allocated is approximately $120,000",
+          "category": "open_only",
+          "key_terms": [
+            "budget",
+            "allocated",
+            "approximately",
+            "$120,000"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They've also been evaluating Outreach, Intercom",
+          "category": "open_only",
+          "key_terms": [
+            "they've",
+            "evaluating",
+            "outreach,",
+            "intercom"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Currently using HubSpot CRM with Zapier automations",
+          "category": "schema_only",
+          "key_terms": [
+            "currently",
+            "hubspot",
+            "zapier",
+            "automations"
+          ],
+          "in_open_set": false,
+          "in_schema": true
+        }
+      ],
+      "_timestamp": "2026-02-25T21:19:07.635550"
+    },
+    {
+      "sample_id": "document_001",
+      "content_type": "documents",
+      "total_ground_truth_facts": 10,
+      "open_set_memories": 60,
+      "schema_properties": 28,
+      "captured_by_both": 4,
+      "captured_by_open_only": 3,
+      "captured_by_schema_only": 1,
+      "missed_by_both": 2,
+      "open_set_recall": 0.7,
+      "schema_recall": 0.5,
+      "combined_recall": 0.8,
+      "properties_extracted_count": 28,
+      "expected_properties_count": 12,
+      "per_fact_classification": [
+        {
+          "fact": "They had a board meeting last month that shifted priorities",
+          "category": "both",
+          "key_terms": [
+            "board",
+            "meeting",
+            "month",
+            "shifted",
+            "priorities"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Their tech stack includes C#, .NET, Azure, SQL Server, RabbitMQ",
+          "category": "missed",
+          "key_terms": [
+            "tech",
+            "stack",
+            "includes",
+            ".net,",
+            "azure,",
+            "server,"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        },
+        {
+          "fact": "Budget allocated is approximately $1,800,000",
+          "category": "open_only",
+          "key_terms": [
+            "budget",
+            "allocated",
+            "approximately",
+            "$1,800,000"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They're dealing with difficulty hiring specialized engineers",
+          "category": "both",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "difficulty",
+            "hiring",
+            "specialized",
+            "engineers"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "They're dealing with slow deployment cycles taking 2-3 weeks per release",
+          "category": "schema_only",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "slow",
+            "deployment",
+            "cycles",
+            "taking"
+          ],
+          "in_open_set": false,
+          "in_schema": true
+        },
+        {
+          "fact": "Security audit is coming up in Q3",
+          "category": "both",
+          "key_terms": [
+            "security",
+            "audit",
+            "coming",
+            "q3"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Their main office is in Seattle",
+          "category": "open_only",
+          "key_terms": [
+            "main",
+            "office",
+            "seattle"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They've also been evaluating Intercom, building in-house",
+          "category": "missed",
+          "key_terms": [
+            "they've",
+            "evaluating",
+            "intercom,",
+            "building",
+            "in-house"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        },
+        {
+          "fact": "TechFlow Inc is a B2B SaaS company with about 26 employees",
+          "category": "open_only",
+          "key_terms": [
+            "techflow",
+            "b2b",
+            "saas",
+            "company",
+            "26",
+            "employees"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Emily Patel has been at TechFlow Inc for 3 years",
+          "category": "both",
+          "key_terms": [
+            "emily",
+            "patel",
+            "techflow",
+            "3",
+            "years"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        }
+      ],
+      "_timestamp": "2026-02-25T21:20:01.129952"
+    },
+    {
+      "sample_id": "document_002",
+      "content_type": "documents",
+      "total_ground_truth_facts": 10,
+      "open_set_memories": 47,
+      "schema_properties": 19,
+      "captured_by_both": 8,
+      "captured_by_open_only": 2,
+      "captured_by_schema_only": 0,
+      "missed_by_both": 0,
+      "open_set_recall": 1.0,
+      "schema_recall": 0.8,
+      "combined_recall": 1.0,
+      "properties_extracted_count": 19,
+      "expected_properties_count": 12,
+      "per_fact_classification": [
+        {
+          "fact": "Engineering team is growing \u2014 hired 7 people this quarter",
+          "category": "open_only",
+          "key_terms": [
+            "engineering",
+            "team",
+            "growing",
+            "hired",
+            "7",
+            "people"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They're dealing with high infrastructure costs eating into margins",
+          "category": "both",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "high",
+            "infrastructure",
+            "costs",
+            "eating"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Budget allocated is approximately $1,200,000",
+          "category": "open_only",
+          "key_terms": [
+            "budget",
+            "allocated",
+            "approximately",
+            "$1,200,000"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "LedgerPoint is a Fintech company with about 34 employees",
+          "category": "both",
+          "key_terms": [
+            "ledgerpoint",
+            "fintech",
+            "company",
+            "34",
+            "employees"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Currently evaluating 2 vendors including us",
+          "category": "both",
+          "key_terms": [
+            "currently",
+            "evaluating",
+            "2",
+            "vendors",
+            "including"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "They're planning a migration off legacy systems by end of year",
+          "category": "both",
+          "key_terms": [
+            "they're",
+            "planning",
+            "migration",
+            "legacy",
+            "systems"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Currently using internal Python scripts pulling from multiple APIs",
+          "category": "both",
+          "key_terms": [
+            "currently",
+            "internal",
+            "python",
+            "scripts",
+            "pulling",
+            "multiple"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Marcus Alvarez has been at LedgerPoint for 3 years",
+          "category": "both",
+          "key_terms": [
+            "marcus",
+            "alvarez",
+            "ledgerpoint",
+            "3",
+            "years"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Security audit is coming up in Q3",
+          "category": "both",
+          "key_terms": [
+            "security",
+            "audit",
+            "coming",
+            "q3"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "They're dealing with vendor lock-in with current cloud provider",
+          "category": "both",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "vendor",
+            "lock-in",
+            "current",
+            "cloud"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        }
+      ],
+      "_timestamp": "2026-02-25T21:20:40.748965"
+    },
+    {
+      "sample_id": "document_004",
+      "content_type": "documents",
+      "total_ground_truth_facts": 9,
+      "open_set_memories": 59,
+      "schema_properties": 20,
+      "captured_by_both": 4,
+      "captured_by_open_only": 4,
+      "captured_by_schema_only": 0,
+      "missed_by_both": 1,
+      "open_set_recall": 0.889,
+      "schema_recall": 0.444,
+      "combined_recall": 0.889,
+      "properties_extracted_count": 20,
+      "expected_properties_count": 11,
+      "per_fact_classification": [
+        {
+          "fact": "Budget allocated is approximately $450,000",
+          "category": "open_only",
+          "key_terms": [
+            "budget",
+            "allocated",
+            "approximately",
+            "$450,000"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They're dealing with scaling issues during peak traffic periods",
+          "category": "both",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "scaling",
+            "issues",
+            "peak",
+            "traffic"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "They're dealing with high infrastructure costs eating into margins",
+          "category": "both",
+          "key_terms": [
+            "they're",
+            "dealing",
+            "high",
+            "infrastructure",
+            "costs",
+            "eating"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "Engineering team is growing \u2014 hired 12 people this quarter",
+          "category": "open_only",
+          "key_terms": [
+            "engineering",
+            "team",
+            "growing",
+            "hired",
+            "12",
+            "people"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Marcus Chen has been at ChannelBridge for 3 years",
+          "category": "both",
+          "key_terms": [
+            "marcus",
+            "chen",
+            "channelbridge",
+            "3",
+            "years"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "They're planning a migration off legacy systems by end of year",
+          "category": "both",
+          "key_terms": [
+            "they're",
+            "planning",
+            "migration",
+            "legacy",
+            "systems"
+          ],
+          "in_open_set": true,
+          "in_schema": true
+        },
+        {
+          "fact": "ChannelBridge is a E-commerce company with about 333 employees",
+          "category": "open_only",
+          "key_terms": [
+            "channelbridge",
+            "e-commerce",
+            "company",
+            "333",
+            "employees"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "They've also been evaluating ZoomInfo, Clari",
+          "category": "open_only",
+          "key_terms": [
+            "they've",
+            "evaluating",
+            "zoominfo,",
+            "clari"
+          ],
+          "in_open_set": true,
+          "in_schema": false
+        },
+        {
+          "fact": "Their tech stack includes Java, Micronaut, GCP, Spanner, Pub/Sub",
+          "category": "missed",
+          "key_terms": [
+            "tech",
+            "stack",
+            "includes",
+            "java,",
+            "micronaut,",
+            "gcp,"
+          ],
+          "in_open_set": false,
+          "in_schema": false
+        }
+      ],
+      "_timestamp": "2026-02-25T21:21:22.206177"
+    }
+  ]
+}

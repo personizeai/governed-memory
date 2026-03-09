@@ -1,0 +1,98 @@
+{
+  "experiment_id": "e06_dedup_effectiveness",
+  "started_at": "2026-02-25T21:07:35.361705",
+  "completed_at": "2026-02-25T21:12:46.788138",
+  "metadata": {
+    "entity": {
+      "name": "Sarah Chen",
+      "title": "VP of Engineering",
+      "company": "TechFlow Inc",
+      "industry": "B2B SaaS",
+      "employee_count": 280,
+      "size_bucket": "201-1000",
+      "entity_id": "sarah-chen-techflow-inc",
+      "email": "sarah.chen@techflow.io",
+      "website": "https://techflow.io"
+    },
+    "expected_unique_facts": 36,
+    "expected_overlaps": 10
+  },
+  "record_count": 5,
+  "records": [
+    {
+      "source_id": "source_1_discovery_call",
+      "word_count": 1342,
+      "chunks_sent": 3,
+      "chunk_errors": 0,
+      "memories_extracted": 17,
+      "duplicates_skipped": 21,
+      "properties_extracted": 12,
+      "cumulative_store_size": 17,
+      "duration_ms": 78033,
+      "input_tokens": 7703,
+      "output_tokens": 5943,
+      "estimated_cost_usd": 0.0,
+      "_timestamp": "2026-02-25T21:08:53.396124"
+    },
+    {
+      "source_id": "source_2_followup_call",
+      "word_count": 983,
+      "chunks_sent": 2,
+      "chunk_errors": 0,
+      "memories_extracted": 5,
+      "duplicates_skipped": 20,
+      "properties_extracted": 21,
+      "cumulative_store_size": 22,
+      "duration_ms": 74178,
+      "input_tokens": 8151,
+      "output_tokens": 5578,
+      "estimated_cost_usd": 0.0,
+      "_timestamp": "2026-02-25T21:10:07.575352"
+    },
+    {
+      "source_id": "source_3_email_thread",
+      "word_count": 998,
+      "chunks_sent": 2,
+      "chunk_errors": 0,
+      "memories_extracted": 0,
+      "duplicates_skipped": 35,
+      "properties_extracted": 9,
+      "cumulative_store_size": 22,
+      "duration_ms": 66855,
+      "input_tokens": 7724,
+      "output_tokens": 5678,
+      "estimated_cost_usd": 0.0,
+      "_timestamp": "2026-02-25T21:11:14.431075"
+    },
+    {
+      "source_id": "source_4_crm_notes",
+      "word_count": 449,
+      "chunks_sent": 1,
+      "chunk_errors": 0,
+      "memories_extracted": 7,
+      "duplicates_skipped": 21,
+      "properties_extracted": 11,
+      "cumulative_store_size": 29,
+      "duration_ms": 33679,
+      "input_tokens": 3914,
+      "output_tokens": 4946,
+      "estimated_cost_usd": 0.0,
+      "_timestamp": "2026-02-25T21:11:48.111115"
+    },
+    {
+      "source_id": "source_5_research",
+      "word_count": 797,
+      "chunks_sent": 2,
+      "chunk_errors": 0,
+      "memories_extracted": 4,
+      "duplicates_skipped": 65,
+      "properties_extracted": 4,
+      "cumulative_store_size": 33,
+      "duration_ms": 58675,
+      "input_tokens": 6749,
+      "output_tokens": 8639,
+      "estimated_cost_usd": 0.0,
+      "_timestamp": "2026-02-25T21:12:46.787327"
+    }
+  ]
+}

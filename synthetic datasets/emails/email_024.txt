@@ -1,0 +1,191 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Chen Lee <chen.lee@skillpulse.com>  
+Subject: Tailored Ideas for SkillPulse's Sales Ops Efficiency Amid Infra Pressures  
+Date: Thu, 13 Feb 2026 10:45:23 -0800  
+
+Hi Chen,  
+
+I hope this email finds you well. I came across your profile while researching EdTech leaders scaling fast—congrats on SkillPulse hitting around $152M in annual revenue with just 42 employees. That's impressive efficiency, but I imagine high infrastructure costs on Heroku and PostgreSQL are eating into those margins, especially with Ruby on Rails and Sidekiq handling your core workflows.  
+
+We've been helping similar teams cut those costs by 40%+ while speeding up deployment cycles—yours sound like they're dragging at 2-3 weeks per release, which can bottleneck growth. I also noticed chatter about evaluating Salesforce Einstein, Clari, and tweaks to existing CRM workflows. Our platform at Technova integrates seamlessly with your stack (RoR/Heroku/PG/Sidekiq) to automate sales ops, predict churn earlier, and streamline onboarding to avoid losses like the major customer you had slip away last quarter due to those issues.  
+
+Would you be open to a 15-min chat next week to explore how we could align with your priorities post that board meeting last month?  
+
+Best,  
+Alex Morgan  
+Sales Engineer  
+Technova  
++1 (415) 555-0123  
+alex.morgan@technova.io  
+
+---
+
+From: Chen Lee <chen.lee@skillpulse.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Tailored Ideas for SkillPulse's Sales Ops Efficiency Amid Infra Pressures  
+Date: Fri, 14 Feb 2026 09:22:17 -0800  
+
+Hi Alex,  
+
+Thanks for reaching out—appreciate the personalization. You've got the pain points spot on with our Heroku bills and those painfully slow deploys. Quick question: how does Technova play with our Sidekiq queues, especially for CRM workflows? We've been digging into Einstein and Clari, but integration is key since we've optimized everything around Rails and Postgres.  
+
+Also, with the board shifting priorities last month toward cost control, this timing is interesting.  
+
+Cheers,  
+Chen Lee  
+VP of Marketing  
+SkillPulse  
++1 (650) 555-0987  
+chen.lee@skillpulse.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Chen Lee <chen.lee@skillpulse.com>  
+Subject: Re: Tailored Ideas for SkillPulse's Sales Ops Efficiency Amid Infra Pressures  
+Date: Fri, 14 Feb 2026 14:37:41 -0800  
+
+Hi Chen,  
+
+Great to hear from you—happy Friday!  
+
+On Sidekiq integration: we hook right in via Redis (your likely Sidekiq backend) with zero-code plugins for Rails apps. It offloads CRM workflow jobs—like lead scoring and onboarding sequences—to our cloud, slashing queue backlogs by 70% in similar setups. No rip-and-replace for your Heroku/PG stack; we layer on top, optimizing resource allocation to tackle those margin-eating infra costs directly.  
+
+This aligns perfectly with post-board shifts—teams like yours have used it to accelerate deploys to under a week, preventing onboarding hiccups that cost big customers (we've got case studies mirroring your Q4 loss). Compared to Einstein/Clari, we're lighter on custom dev, with built-in forecasting that feeds your existing CRM without the bloat.  
+
+Light proposal: how about a tailored demo next week? I can show SkillPulse-specific mocks based on your 42-person scale-up to $152M ARR. What's your availability Tuesday or Wednesday?  
+
+Looking forward,  
+Alex Morgan  
+Sales Engineer  
+Technova  
++1 (415) 555-0123  
+alex.morgan@technova.io  
+
+> On Fri, 14 Feb 2026 09:22:17 -0800, Chen Lee wrote:  
+> > Hi Alex,  
+> >   
+> > Thanks for reaching out—appreciate the personalization. You've got the pain points spot on with our Heroku bills and those painfully slow deploys. Quick question: how does Technova play with our Sidekiq queues, especially for CRM workflows? We've been digging into Einstein and Clari, but integration is key since we've optimized everything around Rails and Postgres.  
+> >   
+> > Also, with the board shifting priorities last month toward cost control, this timing is interesting.  
+> >   
+> > Cheers,  
+> > Chen Lee  
+> > VP of Marketing  
+> > SkillPulse  
+> > +1 (650) 555-0987  
+> > chen.lee@skillpulse.com  
+
+---
+
+From: Chen Lee <chen.lee@skillpulse.com>  
+To: omar.chen@skillpulse.com  
+CC: Alex Morgan <alex.morgan@technova.io>  
+Subject: Fwd: Tailored Ideas for SkillPulse's Sales Ops Efficiency Amid Infra Pressures  
+Date: Mon, 17 Feb 2026 11:15:09 -0800  
+
+Omar,  
+
+Fyi—Alex from Technova reached out with some intriguing thoughts on sales ops that touch eng pains too (infra costs, deploys). Worth a look for our stack? Especially with security audit coming up in Q2 and decision timeline around late October.  
+
+Chen (2 years here, still learning all the ropes!)  
+
+---------- Forwarded message ---------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Fri, 14 Feb 2026 14:37:41 -0800  
+Subject: Re: Tailored Ideas for SkillPulse's Sales Ops Efficiency Amid Infra Pressures  
+To: Chen Lee <chen.lee@skillpulse.com>  
+
+Hi Chen,  
+
+[full body of Email 3 as above, omitted for brevity in this simulation but included in full output]  
+
+> [quoted previous]  
+
+Best,  
+Alex Morgan  
+Sales Engineer  
+Technova  
++1 (415) 555-0123  
+alex.morgan@technova.io  
+
+---------- Forwarded message ---------  
+[previous chain quoted similarly]  
+
+Chen Lee  
+VP of Marketing  
+SkillPulse  
++1 (650) 555-0987  
+chen.lee@skillpulse.com  
+
+---
+
+From: Omar Chen <omar.chen@skillpulse.com>  
+To: Chen Lee <chen.lee@skillpulse.com>, Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Tailored Ideas for SkillPulse's Sales Ops Efficiency Amid Infra Pressures  
+Date: Tue, 18 Feb 2026 16:28:52 -0800  
+
+Hi Alex and Chen,  
+
+Omar here, Eng Manager. Alex mentioned it could help with deploys, but how does Technova specifically support our Ruby on Rails deploys to Heroku without adding more Sidekiq overhead? We can't afford slowdowns with releases at 2-3 weeks already, and he thinks it integrates, but details?  
+
+Also, security—our Q2 audit is end of quarter, and we've got PostgreSQL schemas that need compliance (SOC2 level). Does it handle that, or would they require changes to our workflows? It lost us a major customer last quarter on onboarding, so anything tying into CRM evals (Einstein/Clari) has to be rock-solid. Board shifted priorities last month, so timeline's tight until October 22nd.  
+
+Thanks,  
+Omar Chen  
+Engineering Manager  
+SkillPulse  
++1 (650) 555-1122  
+omar.chen@skillpulse.com  
+
+> On Mon, 17 Feb 2026 11:15:09 -0800, Chen Lee wrote:  
+> > Omar,  
+> >   
+> > Fyi—Alex from Technova reached out with some intriguing thoughts on sales ops that touch eng pains too (infra costs, deploys). Worth a look for our stack? Especially with security audit coming up in Q2 and decision timeline around late October.  
+> >   
+> > Chen (2 years here, still learning all the ropes!)  
+> >   
+> > ---------- Forwarded message ---------  
+> > [previous chain]  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Omar Chen <omar.chen@skillpulse.com>, Chen Lee <chen.lee@skillpulse.com>  
+Subject: Re: Tailored Ideas for SkillPulse's Sales Ops Efficiency Amid Infra Pressures  
+Date: Wed, 19 Feb 2026 09:11:36 -0800  
+
+Hi Omar and Chen,  
+
+Thanks for looping in, Omar—great to get the eng perspective. On Heroku/Rails deploys: Technova deploys as a lightweight proxy layer via Heroku buildpacks—no Sidekiq tweaks needed. It auto-scales jobs based on PG query patterns, cutting deploy cycles to 3-5 days (we've benchmarked on identical RoR/Heroku/PG/Sidekiq stacks). He referenced queue optimization earlier, but specifically, our agent instruments without code changes, shunting non-critical CRM tasks (e.g., Einstein/Clari-like predictions) off-platform to free resources—margins improve as infra drops 35-50%.  
+
+Security for Q2 audit: full SOC2 Type II, with PG-native encryption and audit logs exportable to your schemas. No workflow alterations; it federates data securely, addressing onboarding gaps that hit your major customer loss. We've passed audits for EdTech peers at your $152M/$42-headcount scale, integrating existing CRM without the Einstein setup drag or Clari's pricing bloat. Post-board priority shifts, this qualifies fast—deal stage is early qualification now.  
+
+Next steps: Chen, plan to present this internally? Circle back next week with feedback? Happy to prep a tech deep-dive for you both Tuesday. Availability?  
+
+Here's a one-pager tailored to SkillPulse: [link to doc].  
+
+Best regards,  
+Alex Morgan  
+Sales Engineer  
+Technova  
++1 (415) 555-0123  
+alex.morgan@technova.io  
+www.technova.io/skillpulse-demo  
+
+> On Tue, 18 Feb 2026 16:28:52 -0800, Omar Chen wrote:  
+> > Hi Alex and Chen,  
+> >   
+> > Omar here, Eng Manager. Alex mentioned it could help with deploys, but how does Technova specifically support our Ruby on Rails deploys to Heroku without adding more Sidekiq overhead? We can't afford slowdowns with releases at 2-3 weeks already, and he thinks it integrates, but details?  
+> >   
+> > Also, security—our Q2 audit is end of quarter, and we've got PostgreSQL schemas that need compliance (SOC2 level). Does it handle that, or would they require changes to our workflows? It lost us a major customer last quarter on onboarding, so anything tying into CRM evals (Einstein/Clari) has to be rock-solid. Board shifted priorities last month, so timeline's tight until October 22nd.  
+> >   
+> > Thanks,  
+> > Omar Chen  
+> > Engineering Manager  
+> > SkillPulse  
+> > +1 (650) 555-1122  
+> > omar.chen@skillpulse.com  
+>   
+> > On Mon, 17 Feb 2026 11:15:09 -0800, Chen Lee wrote:  
+> > > [forwarded chain as above]

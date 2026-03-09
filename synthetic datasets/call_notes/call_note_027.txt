@@ -1,0 +1,31 @@
+Call with: Priya Lindgren, Head of Product at HealthSync
+Date: February 06, 2026
+Duration: 45 min
+
+Key Points:
+- HS healthcare tech, ~115 emp (51-200 sz)
+- Priya 3yrs @ HS
+- Pains: data silos eng/sales teams, tech debt rapid early growth
+- Stack: Python, FastAPI, AWS Lambda, DynamoDB, SQS
+- Budget alloc ~1.2M
+- Deal stage: proposal, val 1.2M
+- Timeline: dec 11/20/26
+- Buying proc: CFO appr needed >100k
+- Sec audit Q3 upcmg
+- Not DM
+- POC eval for her team
+- She's pushing hard
+- Tech debt killing them bc silos
+- He mentioned audit risks
+- Def interested, but budget locked post-audit
+
+Action Items:
+- [ ] Me: spin up POC env for Priya team by EOW
+- [ ] Me: f/u call next week re: CFO intro
+- [ ] Priya: share eng leads for POC access
+- [ ] Schedule demo w/ her + eng by EOQ
+
+Notes:
+Priya super engaged, walked thru silos—eng hoarding data, sales blind. She's been fighting it 3yrs, tech debt from 2x growth last yr. Not dec maker but influencers eng leads. He (eng side?) flagged Lambda/SQS bottlenecks tying into our fix. Budget solid 1.2M but CFO gatekeep >100k, timeline tight to 11/20.
+
+Good vibe, she wants POC asap to demo vs debt. Quick mtg next week, prob intro CFO if POC shines. Stack aligns perfect—FastAPI/Dynamo screams our integration. Audit Q3 pressure cooker, they're scrambling. Deal hot, stage proposal locked.

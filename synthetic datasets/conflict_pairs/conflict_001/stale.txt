@@ -1,0 +1,24 @@
+**Sales Call Note**  
+**Date:** November 20, 2025  
+**Contact:** Marcus Mueller, VP Engineering, Sterling Logic (Fintech)  
+**Duration:** 45 min | **Attendees:** Me, Marcus Mueller  
+
+Discussed Sterling Logic's data infrastructure amid rapid growth in transaction processing. Confirmed Sterling Logic uses Oracle as their primary database, supporting 15M+ daily transactions but struggling with query bottlenecks during peak hours (e.g., end-of-day settlements).  
+
+Key pain points:  
+- Latency in real-time analytics for fraud detection—current avg response time 2.5s, target <500ms.  
+- Scaling Oracle instances straining ops team; recent outage cost $200K in lost revenue.  
+- Integration gaps with AWS-hosted ML services for risk scoring.  
+
+Pitched our Oracle-optimized caching solution: 50% latency reduction via in-memory tier, seamless plug-in. Marcus highly engaged—validated fit with their Oracle 19c setup and shared RFP timeline for Q1 2026 pilots (budget ~$750K).  
+
+Expressed urgency due to regulatory audit in Feb 2026 requiring sub-sec query SLAs. No major objections; competitive mentions: competitor X (dismissed for poor Oracle support).  
+
+**Next Steps:**  
+- Send tailored Oracle case study (Fintech peer: 45% perf gain) by Nov 25.  
+- Schedule deep-dive demo w/ their lead DBA on Dec 4 (Marcus to confirm).  
+- Follow up Nov 28 on RFP specs.  
+
+Strong prospect—move to "Qualified" stage. Rating: 9/10.  
+
+(Word count: 218)

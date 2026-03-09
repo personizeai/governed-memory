@@ -1,0 +1,17 @@
+**Sales Meeting Note**  
+**Date:** June 02, 2025  
+**Contact:** Aisha Oduya, VP Engineering, Keystone Labs (E-commerce)  
+**Duration:** 45 min | **Attendees:** Aisha Oduya, Eng Lead Jamal K., [My Name]  
+
+Discussed Keystone's tech stack and CRM challenges amid 40% YoY order volume surge. Confirmed they use a custom-built CRM on Rails, built in-house 3 yrs ago. Pain points: High dev overhead (2 FTEs dedicated), scalability limits at 500k monthly users, frequent outages during peak sales (Black Friday).  
+
+Aisha open to modernizing; seeks plug-and-play e-comm integrations (Stripe, Klaviyo) without Rails rewrite. Budget: $200-300k/yr for enterprise SaaS, decision Q3. Strong fit—demoed our API-first platform; she noted 50% faster query times vs their setup.  
+
+**Next Steps:**  
+- Send Rails migration POC by 6/5.  
+- Schedule tech deep-dive w/ their team 6/12.  
+- Follow up on RFP timeline.  
+
+Opportunity: High. Qualified lead, tech buy-in from VP level.  
+
+(178 words)

@@ -1,0 +1,61 @@
+{
+  "sample_id": "call_note_045",
+  "content_type": "call_notes",
+  "company": "CastPoint",
+  "industry": "Manufacturing",
+  "duration_minutes": 45,
+  "target_word_count": 441,
+  "actual_word_count": 246,
+  "expected_facts": [
+    {
+      "text": "They're dealing with vendor lock-in with current cloud provider",
+      "type": "explicit"
+    },
+    {
+      "text": "CastPoint is a Manufacturing company with about 147 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with poor developer experience slowing feature velocity",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $600,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Emily Garcia has been at CastPoint for 7 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Salesforce Einstein",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using spreadsheets and manual data entry",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Customer Success",
+    "company_name": "CastPoint",
+    "company_size": "51-200",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "poor developer experience slowing feature velocity",
+      "vendor lock-in with current cloud provider"
+    ],
+    "deal_value": 600000,
+    "decision_timeline": "2026-11-30",
+    "competitors_mentioned": [
+      "Salesforce Einstein"
+    ],
+    "decision_maker": false,
+    "current_solution": "spreadsheets and manual data entry"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2
+  },
+  "property_coverage": 0.71
+}

@@ -1,0 +1,51 @@
+# StreamOps — Account Overview
+
+## Company Background
+StreamOps is a prominent digital media company headquartered in their main office in London, employing around 2009 people globally, which places them firmly in the 1000+ employee category. Specializing in real-time content distribution platforms for video streaming and interactive media experiences, they power everything from live sports broadcasts to on-demand entertainment services for major broadcasters and content creators. Founded in 2015 by a trio of former BBC engineers who identified gaps in scalable media processing pipelines, StreamOps quickly scaled from a bootstrapped startup to a key player in the industry by leveraging agile development practices and cloud-native architectures; their growth trajectory has been fueled by strategic partnerships with European telcos and a focus on low-latency delivery. Today, their tech stack revolves around TypeScript for frontend robustness, React for dynamic UIs, Node.js for backend services, Google Cloud Platform (GCP) for hosting, and MongoDB for flexible data storage, enabling them to handle petabytes of media data annually. Maria Rivera, the Head of Data who reports directly to the CEO, has been instrumental in this evolution during her 4 years at the company, championing data-driven decisions amid their shift away from legacy systems.
+
+## Key Contacts
+
+| Name          | Title                  | Role in Deal              |
+|---------------|------------------------|---------------------------|
+| Maria Rivera | Head of Data           | Primary Contact           |
+| Brian Xu     | Chief Product Officer  | Technical Evaluator       |
+| Derek Oduya  | Head of Product        | Budget Owner              |
+| Brandon Costa| Head of Infrastructure | End User                  |
+| Kevin Reyes  | VP of Engineering      | Technical Evaluator       |
+
+Maria Rivera, with her direct line to the CEO, has been at StreamOps for 4 years and serves as our primary touchpoint; note that none of these contacts are the ultimate decision maker, as the buying process involves leadership approval post-POC.
+
+## Meeting History
+
+### Meeting 1: Discovery Call (February 14, 2026)
+During the initial discovery call held on February 14, 2026, Maria Rivera outlined StreamOps' core challenges with their current reliance on spreadsheets and manual data entry for pipeline monitoring and analytics, which has led to frequent errors and scalability issues as their digital media operations expand. They emphasized the need for automated stream processing to align with their upcoming security audit in Q2, and we discussed how our solution could integrate seamlessly with their existing tech stack of TypeScript, React, Node.js, GCP, and MongoDB. Brian Xu probed our scalability claims, while Derek Oduya hinted at budget allocations; it was clear they appreciated the two-phase buying process we proposed—technical POC first, followed by a business case to leadership—but they mentioned evaluating five vendors total, including us. Maria shared that her team had been frustrated with similar tools before, and they hoped ours wouldn't repeat those pitfalls. We scheduled the technical deep dive shortly after, building momentum from this conversation last month.
+
+### Meeting 2: Technical Deep Dive (February 12, 2026)
+In the technical deep dive on February 12, 2026—a session that ran longer than anticipated due to in-depth questions from Kevin Reyes and Brandon Costa—we demonstrated our platform's compatibility with StreamOps' TypeScript/React/Node.js/GCP/MongoDB environment, showcasing real-time data ingestion that directly addresses their manual data entry woes. They expressed enthusiasm for our POC approach in the first phase of their buying process, but raised concerns about integration timelines ahead of the Q2 security audit; Maria noted that it reports straight to her from the CEO, underscoring the urgency. The team grilled us on edge cases, like handling peak loads during live events, and we clarified how our solution outperforms competitors like Clari in predictive analytics. Brian Xu appreciated the demo's interactivity, though he mentioned their evaluation of five vendors, including ZoomInfo and Outreach, might extend the timeline. It was agreed that we'd prepare a formal proposal next week, as their current spreadsheets can't keep pace with growth; they said it would help if we could reference past integrations more specifically, but we pivoted smoothly to their needs.
+
+## Technical Requirements
+- **Real-time Stream Processing**: Must handle high-volume media streams with sub-second latency, integrating natively with GCP and Node.js backends to replace spreadsheets and manual data entry.
+- **Data Analytics Dashboard**: Customizable UI built on React/TypeScript, supporting MongoDB queries for operational insights, with role-based access compliant for the upcoming Q2 security audit.
+- **Scalability and Reliability**: Auto-scaling on GCP to support 2009-employee operations from London HQ, including failover mechanisms tested in POC phase.
+- **Security and Compliance**: Features for audit logging and encryption, essential given Maria Rivera's direct reporting to the CEO on data governance after her 4 years stabilizing their stack.
+- **API Integrations**: RESTful endpoints compatible with existing Node.js services, enabling two-way sync without disrupting current workflows.
+- **Monitoring and Alerts**: Proactive notifications for pipeline anomalies, far beyond their manual processes, with historical data retention for forensic analysis.
+- **Customization**: Low-code configuration for media-specific metrics, aligning with their digital media focus and evaluation of tools like Outreach for sales alignment.
+- **Performance Benchmarks**: Must demonstrate 99.99% uptime in POC, outperforming Clari/ZoomInfo in real-time capabilities during the technical phase before business case presentation.
+- **Deployment Simplicity**: Kubernetes-ready on GCP, minimizing DevOps overhead for Brandon Costa's infrastructure team.
+- **Cost Efficiency**: Usage-based pricing to fit Derek Oduya's budget, with ROI projections tied to reduced manual entry errors.
+
+## Deal Status
+StreamOps is currently in the Proposal stage of our sales pipeline, with a targeted decision timeline of 2026-12-07, positioning us well for closure by year-end following their two-phase buying process: a technical POC first to validate fit, then a business case escalated to leadership for approval. The potential deal value is estimated at $750K ACV over three years, driven by enterprise-wide deployment across their 2009 London-based employees to modernize from spreadsheets and manual data entry. No true decision maker has emerged yet among contacts like Maria Rivera (Head of Data, reporting to CEO), but momentum is strong post-deep dive two weeks ago; we've submitted the POC scope and await feedback. Key blockers include aligning on security features for their Q2 audit and differentiating from the other four vendors in play. Their tech stack—TypeScript, React, Node.js, GCP, MongoDB—ensures smooth integration, and early indicators suggest we're leading, though the process could stretch if POC reveals gaps. Overall, optimism is high as they seek a long-term partner for digital media ops.
+
+## Competitive Landscape
+- **Clari**: Strong in revenue forecasting but weaker on real-time stream analytics; StreamOps noted integration friction with their GCP/MongoDB setup during discovery.
+- **ZoomInfo**: Evaluated for data enrichment, yet lacks media-specific processing; Maria highlighted it as a sales intel play, not core to their pipeline needs.
+- **Outreach**: Sales engagement focus, with some overlap in automation, but insufficient for their scale— they've been testing it alongside us in the five-vendor bake-off.
+- **Two Unnamed Vendors**: Believed to be internal tools and a legacy on-prem solution; no specifics shared, but they're trailing due to modernization push.
+StreamOps is rigorously evaluating five vendors total, including us, with a clear preference for POC-proven scalability amid their shift from manual processes; competitors like Clari, ZoomInfo, and Outreach are in the mix but falter on media ops depth.
+
+## Risk Factors
+- **Security Audit Timing**: With the Q2 audit looming next quarter, any perceived gaps in compliance could halt the POC phase, as Maria's team prioritizes this amid her direct CEO reporting.
+- **Budget Scrutiny**: Derek Oduya's ownership introduces variability; if economic pressures hit their 2009-employee operations, the $750K value might get slashed, especially post-two-phase validation.
+- **Vendor Proliferation**: Among the five options, a surprise win by Clari or Outreach could derail us if their demos resonate more in the coming weeks— they've repeated concerns about integration that "it" didn't solve before, leaving pronouns ambiguous in notes.

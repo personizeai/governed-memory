@@ -1,0 +1,19 @@
+{
+  "entity_index": 2,
+  "name": "Chloe Park",
+  "company": "Axiom Digital",
+  "industry": "Fintech",
+  "email": "chloe.park@axiomdigital.com",
+  "title": "VP of Operations",
+  "facts": [
+    "Chloe Park is VP of Operations at Axiom Digital",
+    "Axiom Digital is a Fintech company with 2638 employees",
+    "Tech stack: Python, Django, AWS, PostgreSQL, Redis",
+    "Deal value: $650,000",
+    "Pain points: compliance audit failures on data handling; vendor lock-in with current cloud provider; integration complexity with legacy systems",
+    "Competitors: Apollo.io, Microsoft Copilot",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$213M"
+  ],
+  "actual_word_count": 326
+}

@@ -1,0 +1,65 @@
+# RetailNova — Account Overview
+
+## Company Background
+
+RetailNova is a dynamic e-commerce platform specializing in omnichannel retail solutions for mid-sized fashion and lifestyle brands, operating with approximately 863 employees across its headquarters in San Francisco and regional offices in New York and Austin. Founded in 2012 by former Amazon executives frustrated with the rigidity of existing retail tech stacks, the company bootstrapped its way to profitability by focusing on customizable storefronts that integrate seamlessly with inventory management systems. Today, RetailNova powers online sales for over 500 merchants, handling peak traffic during holiday seasons with a robust backend built primarily on Ruby on Rails, deployed on Heroku, and supported by PostgreSQL for data persistence and Sidekiq for background job processing. The firm's growth has been steady, but it faced a setback last quarter when it lost a major customer due to prolonged onboarding issues, prompting an internal push to modernize their CRM and sales operations tools. Classified as a mid-market player in the 201-1000 employee range, RetailNova continues to innovate in personalized shopping experiences while navigating competitive pressures in the fast-evolving e-commerce landscape. Their commitment to scalability is evident in ongoing plans for a full migration off legacy systems by the end of the year, ensuring they remain agile amid rising customer expectations.
+
+## Key Contacts
+
+| Name | Title | Role in Deal | Notes |
+|---|---|---|---|
+| Brandon Alvarez | VP of Sales | Primary Contact | With RetailNova for 5 years; reports directly to the CEO; not the decision maker |
+| Brian Thompson | Head of Product | Budget Owner | Oversees product roadmap and allocation of the ~$850,000 budget |
+| Kevin Reyes | Head of Data | Champion | Advocates internally for data integration solutions |
+| Anita Petrov | VP of Customer Success | Budget Owner | Focuses on post-sale implementation and retention strategies |
+
+These contacts represent a cross-functional team driving the evaluation process. Brandon has been instrumental in coordinating communications, leveraging his long tenure to align stakeholders.
+
+## Meeting History
+
+### Meeting 1: Discovery Call (January 14, 2026)
+
+The initial discovery call with RetailNova's team, led by Brandon Alvarez, provided a high-level overview of their operational challenges and strategic goals. They detailed their current reliance on Salesforce with custom Apex triggers for sales automation, which has become increasingly cumbersome as their e-commerce platform scales to support 863 employees and thousands of daily transactions. Brandon highlighted the recent loss of a major customer last quarter due to onboarding delays, emphasizing the need for a more streamlined solution. The team expressed interest in our platform's ability to integrate with their existing Ruby on Rails application running on Heroku, alongside PostgreSQL databases and Sidekiq queues. Budget discussions surfaced an allocated figure of approximately $850,000 for this initiative, with Brian Thompson confirming his role as a budget owner. He mentioned that they were planning a migration off their legacy systems by year's end, and it seemed urgent given the competitive pressures. The call ended positively, with agreement on next steps, though it was unclear if everyone was aligned on the timeline since some references to "it" overlapped between speakers.
+
+### Meeting 2: Technical Deep Dive (February 10, 2026)
+
+This session delved into RetailNova's technical architecture, with Kevin Reyes leading the discussion on data flows and integration points. They walked through their stack, including Ruby on Rails for the core e-commerce backend, Heroku for hosting, PostgreSQL as the primary database, and Sidekiq for handling asynchronous tasks like order processing and email notifications. The team stressed upcoming challenges, such as a security audit scheduled for Q3, which requires enhanced compliance features in any new CRM tool. Anita Petrov raised concerns about their current Salesforce setup with custom Apex triggers, noting that maintenance has diverted engineering resources from core product development. Brandon reinforced the migration timeline off legacy systems by the end of this year, tying it back to the $850,000 budget under his and Brian's oversight. Kevin championed our data syncing capabilities, but there was some ambiguity in the notes about who exactly would handle the initial POC— he said "we'll get back to them on that," leaving it unclear. The meeting advanced the conversation significantly, positioning us well for the RFP, which Brandon promised to share by the end of this week.
+
+## Technical Requirements
+
+RetailNova's requirements are centered on replacing their aging Salesforce implementation while preserving compatibility with their e-commerce infrastructure. Key needs include:
+
+- **CRM Modernization**: Seamless replacement for Salesforce with custom Apex triggers, supporting sales pipelines for a 201-1000 employee organization handling high-volume e-commerce transactions.
+- **Integration with Existing Stack**: Native compatibility with Ruby on Rails applications deployed on Heroku, PostgreSQL for scalable data storage, and Sidekiq for reliable background processing to avoid disruptions during peak retail seasons.
+- **Migration Support**: Tools and services to facilitate a complete migration from legacy systems by the end of the year, minimizing downtime for their 863-employee operations.
+- **Security and Compliance**: Advanced auditing features to prepare for their Q3 security audit, including role-based access controls, data encryption, and audit logging tailored to e-commerce PCI compliance.
+- **Scalability for Growth**: Handling increased loads post their recent customer loss, with analytics dashboards for sales teams led by Brandon Alvarez to monitor performance metrics.
+- **Customization and Extensibility**: Low-code options for custom workflows, reducing reliance on engineering for the VP of Sales and Head of Product teams.
+- **Onboarding Efficiency**: Accelerated setup processes to prevent repeats of last quarter's major customer churn due to onboarding issues.
+- **Reporting and Analytics**: Real-time insights into sales funnels, integrated with their PostgreSQL data warehouse for the Head of Data's team.
+- **Budget Alignment**: Solutions fitting within the ~$850k allocation, with phased rollout to match medium urgency levels.
+
+These requirements reflect a strategic shift toward agility, with the tech stack reiterated as a non-negotiable foundation.
+
+## Deal Status
+
+The RetailNova account is currently in the Discovery stage, with a potential deal value of $850,000 representing a multi-year commitment for CRM modernization. Timeline targets RFP submission by end of this week from Brandon Alvarez, followed by a POC in Q2 and close by Q3 ahead of their security audit. Urgency is rated medium, driven by year-end migration goals but tempered by internal prioritization after last quarter's customer loss. Blockers include finalizing stakeholder alignment—none of the key contacts are flagged as the ultimate decision maker—and securing executive buy-in from Brandon's CEO reports. Next steps: Await RFP, schedule demo incorporating their Ruby on Rails/Heroku/PostgreSQL/Sidekiq environment, and address any custom Apex migration concerns from Salesforce. Overall progress is steady, with champions like Kevin Reyes providing internal momentum, though the company's mid-market scale (201-1000 employees, precisely 863) means procurement processes could extend slightly. This positions us favorably if we deliver tailored value props soon.
+
+## Competitive Landscape
+
+RetailNova is evaluating several alternatives in parallel to our solution, reflecting a thorough procurement approach typical for their e-commerce scale:
+
+- **HubSpot**: Strong contender for inbound sales alignment, but concerns over deep Ruby on Rails integrations and Heroku deployment compatibility have been voiced.
+- **Pipedrive**: Attractive for its simplicity and sales focus, appealing to Brandon's team; however, lacks robust data handling for PostgreSQL/Sidekiq workflows.
+- **Zoho CRM**: Budget-friendly option under their $850k cap, but customization falls short of Salesforce Apex replacements and migration support.
+- **Freshsales**: Gaining traction for AI features, yet their Q3 security audit readiness is unproven in RetailNova's stack.
+
+We differentiate through precise e-commerce integrations and onboarding speed, critical after their recent churn. No single competitor dominates, giving us an edge in technical deep dives.
+
+## Risk Factors
+
+- **Onboarding Delays Echoing Past Issues**: Having lost a major customer last quarter to similar problems, any perceived slowness in our implementation could derail trust, especially with Anita Petrov's customer success focus.
+- **Budget and Timeline Pressures**: The ~$850k allocation is firm, but end-of-year legacy migration and Q3 audit create squeezes; unclear pronoun in notes ("they'll need to confirm it") risks misaligned expectations.
+- **Internal Alignment Gaps**: Brandon's direct CEO reporting helps, but lack of a clear decision maker among contacts, combined with medium urgency, could stall RFP progress if champions like Kevin wane. 
+
+Relative to last quarter's setbacks, proactive demos addressing their Heroku/PostgreSQL setup will mitigate these.

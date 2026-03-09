@@ -1,0 +1,19 @@
+### Account Overview
+Orion Platforms is a dynamic FoodTech company specializing in innovative platforms for food supply chain management and processing. With approximately 1,548 employees and ~$53M in annual revenue, they are scaling rapidly in a competitive market. Our primary point of contact is Yusuf Hassan, VP of Operations at Orion Platforms (yusuf.hassan@orionplatforms.com). Yusuf oversees operational efficiency, including technology integrations and infrastructure management, making him a key decision-maker for tools that streamline developer workflows and reduce costs.
+
+### Key Details
+Orion Platforms runs a modern yet challenged tech stack powered by PHP, Laravel, DigitalOcean, MySQL, and Redis. Their operations are hampered by significant pain points: integration complexity with legacy systems, high infrastructure costs eating into margins, and poor developer experience slowing feature velocity. These issues are critical as they push to accelerate product development in the fast-paced FoodTech space.
+
+Currently, they rely on competitors like Chorus.ai, a custom internal tool, and Outreach for similar functionalities. Yusuf has expressed frustration with these solutions' limitations in handling their scale and legacy dependencies, opening a strong opportunity for our platform to differentiate through seamless integrations and cost efficiencies.
+
+### Deal Status
+This is a high-potential B2B prospect with an estimated deal value of $650,000. Discussions have progressed to the evaluation stage, with Yusuf confirming interest in piloting our solution to address their infrastructure and developer pain points. Decision timeline is targeted for Q3 2026, aligned with their fiscal planning cycle. No major roadblocks identified, but budget approval from ops leadership is pending.
+
+### Next Steps
+- Schedule follow-up demo with Yusuf Hassan by end of next week to showcase integrations with PHP/Laravel and DigitalOcean.
+- Prepare customized ROI analysis highlighting margin improvements from reduced infrastructure costs (aim for 20-30% savings based on their stack).
+- Engage technical team for proof-of-concept addressing legacy system integration and developer velocity.
+- Set internal reminder to track competitors (Chorus.ai, Outreach, custom tool) and counter with case studies from similar FoodTech clients.
+- Confirm Q3 2026 timeline in next call and identify additional stakeholders if needed.
+
+(Word count: 378)

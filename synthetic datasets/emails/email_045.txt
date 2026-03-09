@@ -1,0 +1,144 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Elena Cho <elena.cho@castpoint.com>  
+Subject: Helping CastPoint streamline data pipelines ahead of your EOY migration  
+Date: Friday, February 6, 2026 at 9:45 AM PST  
+
+Hi Elena,  
+
+I hope this email finds you well. As Chief Product Officer at CastPoint, with your team tackling a complex tech stack including Scala, Spark, Databricks, Snowflake, and Airflow, I imagine the upcoming migration off those legacy systems by end of year is top of mind—especially after losing a major customer last quarter due to onboarding delays.  
+
+At Technova, our NovaData platform has helped similar manufacturing firms (51-200 employees, just like yours) modernize their data workflows, cutting onboarding time by 40% and prepping for security audits like the one you have coming up in Q2. We've got seamless integrations ready for your stack, and I'd love to share how we can support your goals.  
+
+Are you open to a quick 15-minute call next week?  
+
+Best regards,  
+Alex Morgan  
+Account Executive  
+Technova  
+(415) 555-0123  
+alex.morgan@technova.io  
+
+---
+
+From: Elena Cho <elena.cho@castpoint.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Helping CastPoint streamline data pipelines ahead of your EOY migration  
+Date: Saturday, February 7, 2026 at 11:20 AM PST  
+
+Hi Alex,  
+
+Thanks for reaching out—I've been at CastPoint for 3 years now, reporting directly to our CEO, and yes, the migration off legacy systems by end of year is a priority, particularly with our security audit looming in Q2. We lost a big customer last quarter over onboarding issues, so efficiency is key.  
+
+Quick question: How does NovaData handle integrations with our current setup of Scala, Spark, Databricks, Snowflake, and Airflow? Any case studies from manufacturing companies our size (about 163 employees)?  
+
+Best,  
+Elena Cho  
+Chief Product Officer  
+CastPoint  
+(510) 555-0198  
+elena.cho@castpoint.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Elena Cho <elena.cho@castpoint.com>  
+Subject: Re: Helping CastPoint streamline data pipelines ahead of your EOY migration  
+Date: Monday, February 9, 2026 at 2:15 PM PST  
+
+Hi Elena,  
+
+Great to hear from you—thanks for the quick reply and for sharing more about CastPoint's priorities.  
+
+> Quick question: How does NovaData handle integrations with our current setup of Scala, Spark, Databricks, Snowflake, and Airflow? Any case studies from manufacturing companies our size (about 163 employees)?  
+
+NovaData plugs right into your stack with native connectors for Spark and Airflow orchestration, Scala compatibility via our JVM bridge, and zero-ETL syncing to Snowflake/Databricks. We've seen 30-50% faster pipelines in similar setups. Here's a case study from a 150-employee manufacturer who cut onboarding from weeks to days: [link to case study]. They were migrating legacy systems too and prepped effortlessly for their Q2 audit.  
+
+As a light next step, what if we scoped a tailored proposal for your ~$850k budget? It could align with your May 6 decision timeline and get you to proposal stage quickly. Open to hopping on a call this week?  
+
+Best,  
+Alex Morgan  
+Account Executive  
+Technova  
+(415) 555-0123  
+alex.morgan@technova.io  
+
+---
+
+From: Elena Cho <elena.cho@castpoint.com>  
+To: Tom Xu <tom.xu@castpoint.com>  
+CC: Alex Morgan <alex.morgan@technova.io>  
+Subject: Fwd: Helping CastPoint streamline data pipelines ahead of your EOY migration  
+Date: Tuesday, February 10, 2026 at 8:30 AM PST  
+
+Tom,  
+
+FYI on this outreach from Technova. We're planning the legacy migration by end of year, security audit in Q2, and this seems to fit our stack (Scala/Spark/etc.). They mentioned a proposal around our $850k budget and May 6 timeline—what are your thoughts from an engineering angle?  
+
+Thanks,  
+Elena  
+
+---------- Forwarded message ----------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Mon, Feb 9, 2026 at 2:15 PM PST  
+Subject: Re: Helping CastPoint streamline data pipelines ahead of your EOY migration  
+To: Elena Cho <elena.cho@castpoint.com>  
+
+Hi Elena,  
+
+[full body of Alex's previous email quoted above, including signature]  
+
+Elena Cho  
+Chief Product Officer  
+CastPoint  
+(510) 555-0198  
+elena.cho@castpoint.com  
+
+---
+
+From: Tom Xu <tom.xu@castpoint.com>  
+To: Elena Cho <elena.cho@castpoint.com>, Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Helping CastPoint streamline data pipelines ahead of your EOY migration  
+Date: Wednesday, February 11, 2026 at 4:05 PM PST  
+
+Hi Elena and Alex,  
+
+Thanks for looping me in, Elena. As Engineering Manager here at CastPoint (163 employees strong in manufacturing), I'm intrigued by NovaData for our EOY migration and Q2 audit prep—especially after that customer loss tied to onboarding. The stack match sounds good, but technically:  
+
+> NovaData plugs right into your stack with native connectors for Spark and Airflow orchestration, Scala compatibility via our JVM bridge, and zero-ETL syncing to Snowflake/Databricks.  
+
+How does the JVM bridge specifically handle Scala 2.13+ versions with Spark 3.5? Any benchmarks on Airflow DAG performance post-integration? We're at proposal stage consideration now, with $850k allocated and a firm May 6 decision date.  
+
+Looking forward to details.  
+
+Best,  
+Tom Xu  
+Engineering Manager  
+CastPoint  
+(510) 555-0201  
+tom.xu@castpoint.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Tom Xu <tom.xu@castpoint.com>, Elena Cho <elena.cho@castpoint.com>  
+Subject: Re: Helping CastPoint streamline data pipelines ahead of your EOY migration  
+Date: Thursday, February 12, 2026 at 10:45 AM PST  
+
+Hi Tom and Elena,  
+
+Tom, great questions—thanks for the engineering perspective. Elena, appreciate the forward.  
+
+> How does the JVM bridge specifically handle Scala 2.13+ versions with Spark 3.5? Any benchmarks on Airflow DAG performance post-integration?  
+
+Our JVM bridge is fully compatible with Scala 2.13+ and Spark 3.5 via dynamic bytecode generation—no recompiles needed, and it supports lazy evaluation patterns common in your workloads. Benchmarks from a similar manufacturing client (150+ employees): Airflow DAGs ran 45% faster post-integration, with Snowflake query times down 35% on Databricks clusters. We can share full POC scripts tailored to CastPoint's setup.  
+
+This positions you perfectly for end-of-year migration, Q2 security audit compliance (SOC2/ISO baked in), and avoiding future onboarding hiccups like last quarter's. With your $850k budget and May 6 timeline, our proposal would deliver a deal value of exactly $850,000 for full deployment—ROI in under 6 months. Shall we schedule a technical demo next week to move to formal proposal?  
+
+Let me know your availability.  
+
+Best regards,  
+Alex Morgan  
+Account Executive  
+Technova  
+(415) 555-0123  
+alex.morgan@technova.io

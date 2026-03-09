@@ -1,0 +1,20 @@
+### Account Overview
+Radiant AI is a prominent GovTech company specializing in AI-driven solutions for government operations. With approximately 631 employees and annual revenue of ~$175M, the company is scaling rapidly to meet demands in public sector efficiency and data management. Victor Thompson serves as CTO, overseeing technology strategy and engineering teams. Contact: victor.thompson@radiantai.com. Radiant AI faces challenges common in high-growth GovTech firms, particularly around internal data flows and developer productivity, positioning them as a strong fit for our CRM enhancements.
+
+### Key Details
+**Tech Stack:** Radiant AI's engineering relies heavily on Java and Micronaut frameworks, deployed on Google Cloud Platform (GCP) with Spanner for database management and Pub/Sub for event-driven architecture. This modern stack highlights their commitment to scalable, cloud-native development.
+
+**Pain Points:** Significant data silos exist between engineering and sales teams, hindering cross-functional collaboration and insights. Additionally, poor developer experience is slowing feature velocity, causing delays in product iterations and go-to-market timelines.
+
+**Competitors Considered:** Victor Thompson mentioned evaluating ZoomInfo for external data enrichment, building in-house tools as a custom alternative, and Salesforce Einstein for AI-powered CRM features. Our solution differentiates by addressing their specific GCP-integrated needs without the overhead of these options.
+
+### Deal Status
+Prospect stage: Qualified Opportunity. Estimated deal value: $50,000 for an enterprise license covering engineering and sales alignment. Decision timeline: Q2 2026, aligned with their fiscal planning cycle. Victor has expressed strong interest post-demo, citing our seamless integration with their Java/Micronaut ecosystem as a key advantage. No blockers identified yet, but internal buy-in from sales leadership is pending.
+
+### Next Steps
+- Schedule follow-up call with Victor Thompson by end of next week to demo GCP/Spanner-specific integrations.
+- Share tailored ROI case study highlighting data silo resolution and developer velocity gains (target: 20-30% improvement based on similar GovTech clients).
+- Request intro to sales VP for pain point validation.
+- Update pipeline with Q2 2026 close probability at 65%; monitor for competitive updates from ZoomInfo or Salesforce Einstein.
+
+(Word count: 378)

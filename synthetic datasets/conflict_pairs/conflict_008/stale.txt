@@ -1,0 +1,19 @@
+**Call Note: Sales Meeting Follow-Up**  
+**Date:** June 26, 2025  
+**Contact:** Chloe Anderson, VP of Engineering, Tempest Software (Healthcare Tech)  
+**Duration:** 45 minutes via Zoom  
+
+Discussed Tempest's current CRM challenges with legacy systems lacking AI capabilities for patient data analytics. Chloe highlighted scalability issues in handling HIPAA-compliant workflows amid 30% YoY growth in telehealth services.  
+
+Key insight: Tempest is evaluating Salesforce Einstein as an alternative to our platform, citing its native integration with their Salesforce org. They're in early POC stage with Einstein but concerned about customization costs and vendor lock-in.  
+
+Explored our AI features: Emphasized superior predictive modeling for readmission risks (95% accuracy in benchmarks) and seamless API integrations with EHR systems like Epic. Chloe interested in edge over Einstein in multi-tenant security.  
+
+Pain points: Current tool slow on real-time querying; need for no-code ML pipelines. Budget approved for $500K annual spend; decision timeline end of Q3 2025.  
+
+**Next Steps:**  
+- Schedule custom demo (AI predictive demo + Einstein comparison) for July 10.  
+- Send HIPAA case study and ROI calculator by EOD tomorrow.  
+- Follow up with CTO intro request.  
+
+Opportunity strong; positioned as flexible alternative to Einstein. Rating: High. (198 words)

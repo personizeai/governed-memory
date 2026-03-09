@@ -1,0 +1,19 @@
+{
+  "entity_index": 65,
+  "name": "Fatima Reyes",
+  "company": "Cedar Systems",
+  "industry": "Manufacturing",
+  "email": "fatima.reyes@cedarsystems.com",
+  "title": "VP of Engineering",
+  "facts": [
+    "Fatima Reyes is VP of Engineering at Cedar Systems",
+    "Cedar Systems is a Manufacturing company with 644 employees",
+    "Tech stack: Rust, Actix, AWS, PostgreSQL, NATS",
+    "Deal value: $400,000",
+    "Pain points: slow deployment cycles taking 2-3 weeks per release; security concerns with current architecture; customer churn from slow support response times; high infrastructure costs eating into margins",
+    "Competitors: Gong",
+    "Decision timeline: Q4 2026",
+    "Annual revenue: ~$225M"
+  ],
+  "actual_word_count": 301
+}

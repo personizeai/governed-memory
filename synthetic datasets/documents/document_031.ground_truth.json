@@ -1,0 +1,87 @@
+{
+  "sample_id": "document_031",
+  "content_type": "wiki_document",
+  "company": "ContentHQ",
+  "industry": "Digital Media",
+  "target_word_count": 1716,
+  "actual_word_count": 1127,
+  "expected_facts": [
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "Priya reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 2 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "ContentHQ is a Digital Media company with about 440 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in London",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes PHP, Laravel, DigitalOcean, MySQL, Redis",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $1,800,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "Priya Petrov has been at ContentHQ for 7 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Gong",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Sales",
+    "company_name": "ContentHQ",
+    "company_size": "201-1000",
+    "technology_stack": "PHP, Laravel, DigitalOcean, MySQL, Redis",
+    "deal_stage": "Qualification",
+    "deal_value": 1800000,
+    "decision_timeline": "2026-06-24",
+    "competitors_mentioned": [
+      "Gong"
+    ],
+    "decision_maker": true,
+    "next_steps": "Send pricing proposal to Priya by Friday"
+  },
+  "planted_issues": {
+    "pronoun_issues": 1,
+    "temporal_issues": 1,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Emily Tanaka",
+      "title": "VP of Marketing",
+      "role": "Budget Owner"
+    },
+    {
+      "name": "Yusuf Tanaka",
+      "title": "VP of Operations",
+      "role": "End User"
+    },
+    {
+      "name": "Victor Lee",
+      "title": "Director of Engineering",
+      "role": "Technical Evaluator"
+    }
+  ],
+  "property_coverage": 0.71
+}

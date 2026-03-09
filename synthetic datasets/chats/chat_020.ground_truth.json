@@ -1,0 +1,68 @@
+{
+  "sample_id": "chat_020",
+  "content_type": "chat_log",
+  "company": "PriceMatrix",
+  "industry": "E-commerce",
+  "message_count_target": 58,
+  "actual_word_count": 676,
+  "expected_facts": [
+    {
+      "text": "Their tech stack includes TypeScript, React, Node.js, GCP, MongoDB",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Gong, building in-house",
+      "type": "explicit"
+    },
+    {
+      "text": "PriceMatrix is a E-commerce company with about 4972 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using a mix of Google Sheets and custom dashboards",
+      "type": "explicit"
+    },
+    {
+      "text": "Fatima Johnson has been at PriceMatrix for 8 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 17 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $120,000",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Chief Revenue Officer",
+    "company_name": "PriceMatrix",
+    "technology_stack": "TypeScript, React, Node.js, GCP, MongoDB",
+    "deal_stage": "Discovery",
+    "deal_value": 120000,
+    "decision_timeline": "2026-10-25",
+    "competitors_mentioned": [
+      "Gong",
+      "building in-house"
+    ],
+    "decision_maker": false,
+    "current_solution": "a mix of Google Sheets and custom dashboards"
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 3,
+    "duplicate_facts": 2
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@marcus.e"
+  ],
+  "property_coverage": 0.64
+}

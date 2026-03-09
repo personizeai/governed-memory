@@ -1,0 +1,161 @@
+[09:15] @alex.m: Quick update @channel - just hopped off call with Nina from MedCore Analytics. She's VP Sales, been there 7 years. Deal stage now Proposal. [🔥]
+
+[09:16] @sarah.k: Nice! What's their headcount? [👍 from @sarah.k]
+
+  ↳ [09:17] @alex.m: Around 36, healthcare tech co. Fits 11-50 bucket.
+
+[09:18] @mike.r: Budget? lmk
+
+[09:19] @alex.m: They allocated ~350k. Solid.
+
+[09:20] @anita.c: Who's Nina again? She the decision maker?
+
+[09:21] @alex.m: Nah, Decision Maker: False. But she's key influencer.
+
+[09:22] @sarah.k: Pains? [🤔 from @mike.r]
+
+[09:23] @alex.m: Data silos between eng and sales big one. Also integration complexity with legacy systems.
+
+[09:24] @mike.r: And churn? She mentioned slow support responses?
+
+  ↳ [09:25] @alex.m: Yup, customer churn from slow support response times. Nailed it.
+
+[09:26] @anita.c: Tech stack? We good fit?
+
+[09:27] @alex.m: Rust, Actix, AWS, PostgreSQL, NATS. Perfect match imo.
+
+[09:28] @sarah.k: [shared link: MedCore Analytics pricing page] Fyi their current setup costs.
+
+[09:29] @mike.r: Competitors?
+
+[09:30] @alex.m: Evaluating Chorus.ai and Outreach. We're ahead tbh.
+
+[09:31] @anita.c: Got it. Next steps?
+
+[09:32] @alex.m: Nina to present internally and circle back next week.
+
+[09:33] @sarah.k: Makes sense. Proposal sent? 👍
+
+[09:34] @alex.m: Yep, Deal Value 350000 locked in.
+
+  ↳ [09:35] @mike.r: Sweet. She say when exactly next week?
+
+[09:36] @anita.c: Company size 11-50 right? Nina been there 7 years solid.
+
+[09:37] @sarah.k: Yeah heard that. Healthcare tech, 36 employees or so.
+
+[09:38] @mike.r: @here anyone talk pricing pushback?
+
+[09:39] @alex.m: Not yet, but she hinted budget's firm at 350k.
+
+[09:40] @anita.c: He said what about Chorus? They like it?
+
+[09:41] @sarah.k: Which he? Mike you mean?
+
+  ↳ [09:42] @anita.c: Ngl idk, just noted they evaluating it.
+
+[09:43] @mike.r: Tech stack repeat: Rust Actix etc. We integrate easy?
+
+[09:44] @alex.m: 100%. Legacy pains they hate.
+
+[09:45] @sarah.k: Data silos killing them fwiw.
+
+[09:46] @anita.c: She confirm churn issue last Friday?
+
+[09:47] @mike.r: Probably Nina. Slow support yeah.
+
+[09:48] @alex.m: Proposal has our fixes highlighted. Lmk feedback.
+
+[09:49] @sarah.k: Looks good. 👍 [👍 from @anita.c]
+
+  ↳ [09:50] @mike.r: Thx. Next sprint we follow up?
+
+[09:51] @anita.c: Tomorrow check in with her?
+
+[09:52] @alex.m: Nah, she said next week after internal present.
+
+[09:53] @sarah.k: Got it. Competitors wise, Outreach weak on their stack.
+
+[09:54] @mike.r: True. Chorus.ai too sales heavy, not eng.
+
+[09:55] @anita.c: Pain points nailed: silos, legacy, churn.
+
+[09:56] @alex.m: Yep. Nina loves our demo.
+
+[09:57] @sarah.k: Who doesn't? lol
+
+[09:58] @mike.r: Budget 350k - push for upsell?
+
+  ↳ [09:59] @alex.m: Later, stage is Proposal.
+
+[10:00] @anita.c: Company Name MedCore Analytics, size 36ish. Confirmed.
+
+[10:01] @sarah.k: Tech stack: Rust, Actix, AWS, Postgres, NATS. Repeated for log.
+
+[10:02] @mike.r: She mention any timeline shifts?
+
+[10:03] @alex.m: No, next week solid.
+
+[10:04] @anita.c: He on eng side complained silos bad.
+
+[10:05] @sarah.k: Eng or sales? Unclear but yeah pains.
+
+[10:06] @mike.r: Makes sense. 👍
+
+[10:07] @alex.m: @channel all good? Close loop.
+
+[10:08] @sarah.k: All set.
+
+[10:09] @anita.c: Yep.
+
+[10:10] @mike.r: Good to go. [🚀 from @alex.m]
+
+[14:22] @alex.m: Nina emailed quick note. Internal mtg tomorrow.
+
+[14:23] @sarah.k: Nice! Progress.
+
+  ↳ [14:24] @mike.r: She circle back next week still?
+
+[14:25] @anita.c: Budget holds at 350k?
+
+[14:26] @alex.m: Affirmative.
+
+[14:27] @sarah.k: Competitors update? Chorus push?
+
+[14:28] @mike.r: They said Outreach demo was meh.
+
+[14:29] @anita.c: Her take on our integration?
+
+[14:30] @alex.m: Loved it for legacy stuff.
+
+[14:31] @sarah.k: Data silos fix sold her.
+
+[14:32] @mike.r: Churn pain too. Slow support killer.
+
+[14:33] @anita.c: Nina 7 years tenure means she knows pains deep.
+
+[14:34] @alex.m: Exactly.
+
+[14:35] @sarah.k: Tech stack match perfect. Rust etc.
+
+[14:36] @mike.r: 36 employees, agile team.
+
+[14:37] @anita.c: Proposal stage, next steps clear.
+
+[14:38] @alex.m: Got it. Thx team.
+
+[14:39] @sarah.k: Np. 👍 [👍 from @mike.r]
+
+  ↳ [14:40] @anita.c: Lmk if she pings early.
+
+[16:45] @mike.r: Quick q - decision maker false, but Nina pushes?
+
+[16:46] @alex.m: Yup, she presents to real DMs.
+
+[16:47] @sarah.k: Smart.
+
+[16:48] @anita.c: Last Friday she said silos worst.
+
+[16:49] @mike.r: Yeah heard that.
+
+[16:50] @alex.m: All aligned. Deal Value 350000. [💰]

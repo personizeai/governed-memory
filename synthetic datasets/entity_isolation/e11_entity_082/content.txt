@@ -1,0 +1,16 @@
+### Account Overview
+Moss Digital is a prominent Fintech company with 1836 employees and approximately $294M in annual revenue. As a key player in the financial technology space, they specialize in innovative digital solutions for banking and payments. Primary contact is Daniel Tanaka, CTO, reachable at daniel.tanaka@mossdigital.com. Daniel oversees engineering and product development, making him a critical decision-maker for technology infrastructure investments.
+
+### Key Details
+Moss Digital's current tech stack includes Python, FastAPI, AWS Lambda, DynamoDB, and SQS, supporting their scalable, serverless architecture. However, they face significant pain points: manual processes for customer onboarding that create bottlenecks, poor developer experience slowing feature velocity, lack of real-time analytics for decision making, and difficulty hiring specialized engineers in a competitive market. These challenges are hindering their ability to innovate quickly and scale operations efficiently. Currently, they're evaluating alternatives including building solutions in-house or leveraging competitors like ZoomInfo.
+
+### Deal Status
+This represents a high-value opportunity with a potential deal value of $1,000,000. Moss Digital is in the early evaluation stage, with a decision timeline targeted for Q2 2026. Daniel Tanaka has expressed strong interest in addressing their developer productivity and analytics gaps through our platform, which aligns seamlessly with their Python/FastAPI/AWS ecosystem. No formal proposal has been submitted yet, but initial discussions indicate good fit and urgency around onboarding automation and real-time insights.
+
+### Next Steps
+- Schedule a 30-minute discovery call with Daniel Tanaka by end of next week to demo integration with their AWS Lambda/DynamoDB/SQS stack.
+- Prepare customized materials highlighting case studies in Fintech onboarding automation and developer tools.
+- Follow up on pain points by sharing benchmarks on hiring efficiency and feature velocity improvements.
+- Set internal reminder to track progress toward Q2 2026 timeline and nurture with quarterly check-ins.
+
+(Word count: 347)

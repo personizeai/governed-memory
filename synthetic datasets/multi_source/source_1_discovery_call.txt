@@ -1,0 +1,140 @@
+---
+type: Contact
+record_id: crm-sarah-chen-techflow-inc
+email: sarah.chen@techflow.io
+website_url: https://techflow.io
+company: TechFlow Inc
+industry: B2B SaaS
+contact_name: Sarah Chen
+job_title: VP of Engineering
+---
+
+**Alex:** Hey Sarah, thanks so much for hopping on this call. This is Alex Morgan from TechNova. How's your day going so far?
+
+**Sarah:** Hi Alex, good to meet you. Yeah, it's been pretty steady—morning standups and a quick sync with the team. Yours?
+
+**Alex:** Same here, just wrapped up a demo. Appreciate you carving out time. So, I know we connected through LinkedIn after that webinar on data pipelines. Before we dive in, mind if I record this for my notes? Helps me follow up accurately.
+
+**Sarah:** Sure, go ahead. No problem.
+
+**Alex:** Awesome, thanks. Okay, let's kick this off. Tell me a bit about TechFlow—what's the big picture there? I see you're VP of Engineering, right?
+
+**Sarah:** Yeah, I've been in this role for about three years now. TechFlow's a B2B SaaS company—we build an analytics dashboard mainly for mid-market companies. Helps them visualize and act on their business data, you know, KPIs, trends, that sort of thing. We were founded back in 2018 here in San Francisco, so we're coming up on our sixth anniversary soon.
+
+**Alex:** Nice, SF roots—love that. Congrats on the growth too. How big's the team these days?
+
+**Sarah:** We've scaled up a lot. Right now, about 280 employees total, which is a huge jump from 150 just last year. Engineering's at 85 folks, organized into 12 squads. Keeps things agile, or at least that's the goal.
+
+**Alex:** That's impressive growth. Sounds like you're in hyper-growth mode. What's your squad structure like? Are they product-focused or...?
+
+**Sarah:** Mostly product-aligned. Each squad owns a slice of the dashboard—some on core analytics, others on integrations, data ingestion, that pipeline stuff. We report directly to our CEO, Mark Thompson—he's hands-on with engineering priorities.
+
+**Alex:** Got it. And background-wise, I saw on your profile you were at Stripe for five years before this. What drew you to TechFlow?
+
+**Sarah:** Stripe was amazing—scaled some massive payment systems there. But I wanted to build something from closer to the ground. TechFlow was smaller then, but the analytics space felt ripe, especially for mid-market where tools are either too basic or enterprise-overkill. Been a wild ride scaling it up.
+
+**Alex:** Totally get that. Alright, shifting gears a bit—curious about your tech stack. What's powering the backend these days?
+
+**Sarah:** We're heavy on Java and Spring Boot for our services. Solid choice for us—reliable, scales well. Database is primarily Oracle right now, but we've got plans to migrate to PostgreSQL over the next year or so. Cost savings and better open-source ecosystem.
+
+**Alex:** Oracle to Postgres—classic move. We've seen that a ton with growing SaaS folks. Any specific pain points in the stack or ops side?
+
+**Sarah:** Oh yeah, deployment velocity is killing us. Releases take about three weeks end-to-end. Testing, staging, compliance checks—it's a slog. With 12 squads pushing code, we're bottlenecking hard.
+
+**Alex:** Three weeks? Oof, that's rough for an agile team. What parts slow it down most? CI/CD pipeline? Or more infra?
+
+**Sarah:** Mix of both. Our CI/CD is Jenkins-based, but it's flaky. And infra-wise, we're on AWS, but provisioning environments per squad is manual-ish. Plus, data pipelines are getting hairy with customer data volumes spiking.
+
+**Alex:** Data pipelines—yeah, that's where we play a lot at TechNova. Our governed memory solution is built for that: secure, scalable in-memory processing with governance baked in. Controls access, auditing, all that without killing perf. What kind of volumes are you handling there?
+
+**Sarah:** Customer data pipeline is core—ingesting from various sources into the dashboard. We're talking terabytes monthly now, and it needs to be real-time-ish for the analytics. Governance is a big deal; we're under SOC2 and eyeing GDPR for EU expansion.
+
+**Alex:** SOC2—standard stuff. So, governed memory caught your eye from the webinar? Walk me through what's top of mind for that pipeline.
+
+**Sarah:** Exactly. We need something that lets us cache and query customer data fast without the full database hit every time. But with compliance, we can't just throw it in Redis willy-nilly. Your governed memory talk about fine-grained access policies and auto-eviction based on sensitivity levels—that sounds perfect. We've got PII flowing through, so yeah.
+
+**Alex:** Spot on. Our thing enforces row-level security in memory, integrates with your auth stack—Spring Security in your case, right? No vendor lock-in. Have you tried anything like Hazelcast or Apache Ignite before?
+
+**Sarah:** We poked at Ignite a bit last year, but it was too hands-off for governance. We need audit trails for every access, tied to user sessions. Plus, with squads owning pipelines, we want self-service without central ops babysitting.
+
+**Alex:** Self-service is huge. Let me pull up a quick one-pager here—sorry, screen share? Just to show a pipeline diagram.
+
+**Sarah:** Yeah, sure—let me accept that.
+
+**Alex:** Cool. See here: ingestion from Kafka, into governed memory layer, then fan out to Postgres for persistence. Deployment velocity tie-in too—we've cut release times for customers using this from weeks to days by reducing data sync waits.
+
+**Sarah:** Hmm, interesting. Our Kafka setup is similar. But three weeks to release—mostly data validation holding us back. With Oracle, queries are slow on large sets.
+
+**Alex:** Yeah, that's why Postgres migration helps, but in-memory accelerates it now. What's your IT budget look like? Ballpark for tools like this?
+
+**Sarah:** Annually, about $2M across the board—infra, tools, all that. Engineering gets a good chunk, maybe 60%.
+
+**Alex:** Solid budget. With 85 engineers, that's workable. Any current eval for memory solutions?
+
+**Sarah:** Not formally, but I've got it on the roadmap for Q3. Squad leads are asking for it—dashboard perf is customer-facing, so lags hit churn.
+
+**Alex:** Churn's the killer. Quick detour—speaking of SF, how's the weather treating you today? I hear it's foggy again.
+
+**Sarah:** Ha, yeah, classic June gloom. Burned off by noon though. You in the Bay too?
+
+**Alex:** Nah, remote from Austin now. Miss the fog sometimes. Anyway, back to it—what's the biggest blocker for pipeline right now? Scale, security, or velocity?
+
+**Sarah:** Velocity tied to security. We govern data tightly—customer analytics can't leak. But processing in Oracle takes forever; memory would offload that.
+
+**Alex:** Nailed it. We've got case studies—similar SaaS, Java/Spring, went from 2-week releases to daily. Want me to send those over?
+
+**Sarah:** Definitely. Also, integration with Spring Boot—how native is it?
+
+**Alex:** Drop-in client library. Annotate your services, and it handles the rest. No code rewrite. Oracle mig too—we've partnered on those.
+
+**Sarah:** Good, because squads are Java-heavy. No Kotlin or anything fancy yet.
+
+**Alex:** Keeps it simple. Team size per squad? 7-ish?
+
+**Sarah:** Yeah, around 6-8. Pods with devs, QA, one data eng.
+
+**Alex:** Perfect for our sizing. Mark—your CEO—he involved in tech buys?
+
+**Sarah:** Very. Reports directly to him, so yeah. He'll want ROI calcs.
+
+**Alex:** We can model that. Say, 30% faster queries = X fewer support tickets. Budget-wise, our starter tier fits under $100K/year.
+
+**Sarah:** Noted. Growth from 150 to 280—hiring's been nuts. Attrition low, but velocity pains are burning people out.
+
+**Alex:** Burnout's real. Governed memory frees devs from data plumbing. What's next for TechFlow? New features?
+
+**Sarah:** AI-driven insights on the dashboard. Needs fast data access—memory layer would enable that.
+
+**Alex:** AI boom. We support vector embeddings in-memory too. Early?
+
+**Sarah:** POC stage.
+
+**Alex:** Let's sync on that. Any org chart changes coming?
+
+**Sarah:** Stabilizing now. Post-growth, focusing on efficiency.
+
+**Alex:** Smart. Competitor-wise, who else you're looking at for this?
+
+**Sarah:** Redis Enterprise, maybe VoltDB. But governance lacks.
+
+**Alex:** We're niche there. TechNova's all-in on governed, compliant memory.
+
+**Sarah:** That's the hook.
+
+**Alex:** Cool. Timeline for eval?
+
+**Sarah:** Q3 kickoff, pilot by Q4.
+
+**Alex:** Aligns perfect. Next steps: send case studies, ROI sheet, schedule tech deep-dive with your lead?
+
+**Sarah:** Yes. CC my data eng, Priya Singh.
+
+**Alex:** Done. 30 mins fly by—anything else?
+
+**Sarah:** Oh, Stripe days—we had similar pains pre-scale. This feels familiar.
+
+**Alex:** History repeats. Thanks Sarah—great chat. Talk soon.
+
+**Sarah:** You too, Alex. Bye.
+
+*(Call ends at 45:00)*

@@ -1,0 +1,22 @@
+**Call Note: Sales Meeting**  
+**Date:** August 13, 2025  
+**Contact:** Tariq Ibrahim, VP of Engineering, Cortex Systems (Digital Media)  
+**Duration:** 45 min (Zoom)  
+
+Met with Tariq to discuss Cortex Systems' content delivery challenges amid rapid user growth. Cortex Systems, headquartered in San Francisco, operates a leading streaming platform serving 5M+ monthly active users across North America.  
+
+Key discussion points:  
+- Current legacy CDN causing 20-30% latency spikes during peak hours, impacting viewer retention.  
+- Tariq seeking scalable, AI-optimized solution for personalized video recommendations and edge caching. Expressed urgency due to Q4 product launch targeting 2x traffic increase.  
+- Demoed our platform's adaptive bitrate streaming and ML-based prefetching; Tariq noted 40% potential latency reduction aligns with their SLAs. Budget approved up to $250K annually; procurement cycle ~45 days.  
+
+Strong fit—positioned us ahead of competitors like Akamai. Tariq confirmed engineering buy-in pending POC.  
+
+**Next Steps:**  
+- Send customized proposal and ROI calculator by EOD Aug 15.  
+- Schedule 90-min technical POC demo for week of Aug 25 (Tariq + 2 engineers).  
+- Follow up call Aug 20 to review proposal.  
+
+**Rating:** Hot lead. Assigned to self.  
+
+(Word count: 198)

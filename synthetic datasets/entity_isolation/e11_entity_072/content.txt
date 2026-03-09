@@ -1,0 +1,23 @@
+### Account Overview
+Aspen Logic is a prominent LegalTech company with 2873 employees and approximately $9M in annual revenue. The organization specializes in innovative software solutions for legal operations, streamlining case management, compliance, and document automation for law firms and corporate legal departments. Maria Bhandari serves as Chief Revenue Officer (CRO), overseeing all revenue-generating functions including sales, customer success, and partnerships. Contact: maria.bhandari@aspenlogic.com. Aspen Logic has experienced rapid growth, but this has introduced challenges like technical debt and scaling pains, making them a high-potential prospect for revenue intelligence and pipeline optimization tools.
+
+### Key Details
+- **Tech Stack**: Heavily reliant on Java and Spring Boot for backend development, Azure for cloud infrastructure, Oracle for database management, and Kafka for event streaming. This stack supports their high-volume data processing needs in legal workflows.
+- **Pain Points**: 
+  - Poor visibility into pipeline health, leading to inaccurate forecasting and missed opportunities.
+  - Technical debt accumulated from rapid early growth, hindering agility and innovation.
+  - High infrastructure costs on Azure eating into margins, with growing frustration over vendor lock-in limiting flexibility.
+- **Competitors Evaluated**: Microsoft Copilot for AI-driven insights, Salesforce Einstein for predictive analytics, and Clari for revenue operations.
+
+Maria has been vocal about these issues in recent industry discussions, emphasizing the need for better revenue orchestration without disrupting their existing stack.
+
+### Deal Status
+This is a high-value opportunity with an estimated deal value of $1,000,000. Aspen Logic is in the evaluation stage, actively assessing solutions to address pipeline visibility and cost inefficiencies ahead of their Q2 2026 decision timeline. Initial discovery calls with Maria confirmed strong alignment with our platform's capabilities in real-time pipeline analytics and cloud-agnostic integrations. They've shortlisted us alongside competitors, with positive feedback on our Kafka and Azure compatibility demos. Current stage: Proposal Sent. Win probability: 65%.
+
+### Next Steps
+- Schedule follow-up demo with Maria and her VP of Sales (Q1 2026) to showcase custom Java/Spring Boot integrations and ROI modeling for infrastructure cost savings.
+- Share case studies contrasting outcomes vs. Clari and Salesforce Einstein.
+- Request intro to engineering lead for technical debt assessment.
+- Target POC kickoff by end of Q1 2026 to align with decision timeline.
+
+(Word count: 378)

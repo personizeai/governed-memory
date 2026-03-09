@@ -1,0 +1,198 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Jennifer Mueller <jennifer.mueller@cartlogic.com>  
+Subject: Accelerating deployment cycles and real-time analytics at CartLogic  
+Date: Fri, Feb 14, 2026, 10:15 AM PST  
+
+Hi Jennifer,  
+
+I hope this email finds you well. As VP of Operations at CartLogic, with your 3 years leading ops for the 149-person e-commerce team, you're likely dealing with the frustrations of your custom-built CRM on Rails—slow deployment cycles taking 2-3 weeks per release and a lack of real-time analytics for quick decision-making.  
+
+Technova's platform integrates seamlessly with your Java, Micronaut, GCP, Spanner, and Pub/Sub stack to cut deployments to hours, deliver live analytics dashboards, and even simplify compliance to avoid those audit failures you've faced. We've helped similar teams reduce hiring needs for specialized engineers by automating key workflows.  
+
+Would you be open to a 15-minute chat next week to explore how we stack up against options like Chorus.ai that you're evaluating?  
+
+Best,  
+Alex Morgan  
+Sales Representative  
+Technova.io  
+(415) 555-0123  
+
+---
+
+From: Jennifer Mueller <jennifer.mueller@cartlogic.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Accelerating deployment cycles and real-time analytics at CartLogic  
+Date: Sat, Feb 15, 2026, 9:45 AM PST  
+
+Hi Alex,  
+
+Thanks for reaching out—your points on our deployment pains hit home. We've been struggling with those 2-3 week cycles indeed.  
+
+How would Technova handle integration specifically with our Spanner database and Pub/Sub messaging? Any case studies from e-comm firms our size (51-200 employees)?  
+
+Best,  
+Jennifer Mueller  
+VP of Operations  
+CartLogic  
+(650) 555-0198  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Jennifer Mueller <jennifer.mueller@cartlogic.com>  
+Subject: Re: Accelerating deployment cycles and real-time analytics at CartLogic  
+Date: Sat, Feb 15, 2026, 2:30 PM PST  
+
+Hi Jennifer,  
+
+Great question—happy to dive in.  
+
+> Thanks for reaching out—your points on our deployment pains hit home. We've been struggling with those 2-3 week cycles indeed.  
+
+Technova deploys as a lightweight sidecar to your existing GCP setup, with native Spanner connectors for zero-downtime syncing and Pub/Sub hooks for event-driven analytics. We have a case study from a 180-employee retailer (similar to CartLogic's e-comm focus) that went from Rails bottlenecks to daily releases, plus real-time dashboards cutting decision latency by 70%. It also baked in compliance controls that passed audits on first try, easing the specialized engineer hunt.  
+
+As a light proposal: Our discovery package is $25K (well under your $200K direct sign-off threshold), scaling to full implementation around your $1.2M budget envelope. Unlike Chorus.ai's call-focused tools, we optimize your full ops stack. Open to a demo?  
+
+Best,  
+Alex Morgan  
+Sales Representative  
+Technova.io  
+(415) 555-0123  
+
+---
+
+From: Jennifer Mueller <jennifer.mueller@cartlogic.com>  
+To: ivan.rivera@cartlogic.com  
+CC: Alex Morgan <alex.morgan@technova.io>  
+Subject: Fwd: Accelerating deployment cycles and real-time analytics at CartLogic  
+Date: Mon, Feb 17, 2026, 11:20 AM PST  
+
+Ivan,  
+
+Checking this out—thoughts on their Spanner/Pub/Sub claims? It addresses our slow deploys and analytics gaps, plus compliance stuff we've had issues with. Might help with hiring too since they automate a lot.  
+
+Forwarding the thread for you.  
+
+Jennifer  
+
+---------- Forwarded message ---------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Sat, Feb 15, 2026, 2:30 PM PST  
+Subject: Re: Accelerating deployment cycles and real-time analytics at CartLogic  
+To: Jennifer Mueller <jennifer.mueller@cartlogic.com>  
+
+Hi Jennifer,  
+
+Great question—happy to dive in.  
+
+> Thanks for reaching out—your points on our deployment pains hit home. We've been struggling with those 2-3 week cycles indeed.  
+
+Technova deploys as a lightweight sidecar... [full body as above]  
+
+Best,  
+Alex Morgan  
+...  
+
+---------- Forwarded message ---------  
+[Previous emails quoted similarly]  
+
+Jennifer Mueller  
+VP of Operations  
+CartLogic  
+(650) 555-0198  
+
+---
+
+From: Ivan Rivera <ivan.rivera@cartlogic.com>  
+To: Jennifer Mueller <jennifer.mueller@cartlogic.com>, Alex Morgan <alex.morgan@technova.io>  
+CC:  
+Subject: Re: Accelerating deployment cycles and real-time analytics at CartLogic  
+Date: Tue, Feb 18, 2026, 3:15 PM PST  
+
+Hi Alex, Jennifer,  
+
+Ivan here, Solutions Architect at CartLogic. Jennifer forwarded this as it touches our tech pains.  
+
+> Technova deploys as a lightweight sidecar to your existing GCP setup, with native Spanner connectors for zero-downtime syncing and Pub/Sub hooks for event-driven analytics.  
+
+On the technical side, how does it ensure data consistency during high-volume Pub/Sub bursts (we peak at 10k events/sec)? Does it support Micronaut's reactive streams out-of-box, or require custom wrappers? Also, any impact on our current Java monoliths during rollout?  
+
+We're in discovery stage now, timeline to decision around Oct 21, low urgency but board approves above $200K toward our $1.2M allocation.  
+
+Thanks,  
+Ivan Rivera  
+Solutions Architect  
+CartLogic  
+(650) 555-0291  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Ivan Rivera <ivan.rivera@cartlogic.com>, Jennifer Mueller <jennifer.mueller@cartlogic.com>  
+CC:  
+Subject: Re: Accelerating deployment cycles and real-time analytics at CartLogic  
+Date: Wed, Feb 19, 2026, 10:05 AM PST  
+
+Hi Ivan and Jennifer,  
+
+Thanks for looping in, Ivan—appreciate the Solutions Architect perspective on these details.  
+
+> On the technical side, how does it ensure data consistency during high-volume Pub/Sub bursts (we peak at 10k events/sec)? Does it support Micronaut's reactive streams out-of-box, or require custom wrappers? Also, any impact on our current Java monoliths during rollout?  
+
+Technova uses Spanner's built-in transactions with Pub/Sub at-least-once semantics, buffered via our GCP-native queue for bursts up to 50k/sec (scalable), ensuring 99.99% consistency without backpressure. Full Micronaut reactive support via annotations—no wrappers needed; just add our dependency to your pom.xml. Rollout is blue-green on GCP, zero impact to Java monoliths (we've done 20+ similar with Rails-to-modern migrations). This directly tackles compliance audit failures by logging all data flows immutably.  
+
+Their hiring pains? We cut specialized eng needs by 40% in that retailer case. Happy to share RFP response template—Jennifer, you'll share yours end of week?  
+
+Best,  
+Alex Morgan  
+Sales Representative  
+Technova.io  
+(415) 555-0123  
+
+---
+
+From: Jennifer Mueller <jennifer.mueller@cartlogic.com>  
+To: Alex Morgan <alex.morgan@technova.io>, Ivan Rivera <ivan.rivera@cartlogic.com>  
+CC:  
+Subject: Re: Accelerating deployment cycles and real-time analytics at CartLogic  
+Date: Thu, Feb 20, 2026, 4:40 PM PST  
+
+Hi Alex, Ivan,  
+
+This looks promising—integrates well without disrupting our stack. Ivan, you buy the Pub/Sub handling? Alex, their sidecar approach seems low-risk for our monoliths.  
+
+Let's schedule a 30-min discovery call next week to review the RFP I'll share by end of this week. Our buying process: I can sign off to $200K, board for the full $1.2M by end of quarter if it fits. (They mentioned Chorus.ai too, but this feels broader.)  
+
+How's Tue 2pm PST?  
+
+Jennifer  
+
+> [Quoted previous from Alex]  
+> Technova uses Spanner's built-in transactions...  
+
+Jennifer Mueller  
+VP of Operations  
+CartLogic  
+(650) 555-0198  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Jennifer Mueller <jennifer.mueller@cartlogic.com>, Ivan Rivera <ivan.rivera@cartlogic.com>  
+CC:  
+Subject: Re: Accelerating deployment cycles and real-time analytics at CartLogic  
+Date: Thu, Feb 20, 2026, 5:25 PM PST  
+
+Hi Jennifer, Ivan,  
+
+Perfect—Tue Feb 25 at 2pm PST works great for the discovery call. I'll send calendar invite and prep a tailored deck on your pains (deploys, analytics, compliance, hiring). Looking forward to it!  
+
+(Quick note: "They" in Ivan's note was spot-on; our platform unifies it all beyond Chorus.ai.)  
+
+Best,  
+Alex Morgan  
+Sales Representative  
+Technova.io  
+(415) 555-0123  
+
+---

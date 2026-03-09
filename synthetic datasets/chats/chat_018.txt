@@ -1,0 +1,117 @@
+[14:02] alex.m: @channel quick recap from today's discovery call with FinStack Labs. They're a fintech with ~1900 employees, massive scale. [🔥 from @mike.r]
+
+[14:03] sarah.k: Nice! What pains did they mention?
+
+[14:04] alex.m: Fragmented tooling across depts is killing them tbh. Spreadsheets and manual data entry everywhere right now.
+
+[14:05]  ↳ mike.r: Yeah spreadsheets suck for that size company. Got it.
+
+[14:06] raj.h: Customer churn from slow support response times? They said that too?
+
+[14:07] alex.m: Yep, ngl it's bad. She mentioned technical debt from rapid early growth as well.
+
+[14:08] sarah.k: Who's "she"? The Head of Data?
+
+[14:09] alex.m: Marcus Johansson, been there 2 years. Not the decision maker tho.
+
+[14:10]  ↳ raj.h: Marcus is a dude lol. Makes sense.
+
+[14:11] mike.r: Tech stack? TypeScript, React, Node.js, GCP, MongoDB fwiw.
+
+[14:12] alex.m: Spot on. Matches what we do. Deal stage: Discovery.
+
+[14:13] sarah.k: Budget? [👍 from @alex.m]
+
+[14:14] alex.m: ~850k allocated. High urgency imo.
+
+[14:15] raj.h: Whoa that's solid. Competitors?
+
+[14:16] mike.r: They're eval'ing Clari and HubSpot AI.
+
+[14:17] sarah.k: Got it. Timeline?
+
+[14:18] alex.m: Decision by 2026-12-06. Long but high urgency.
+
+[14:19]  ↳ mike.r: Tomorrow we follow up?
+
+[14:20] raj.h: Company size 1000+ right? Fintech beast.
+
+[14:21] sarah.k: Yeah ~1936 employees. [shared link: FinStack Labs pricing page]
+
+[14:22] alex.m: Pricing page looks good. He wants a demo next sprint.
+
+[14:23] mike.r: Who's "he"?
+
+[14:24]  ↳ sarah.k: Marcus probably. Lmk if not.
+
+[14:25] raj.h: Pains repeat: fragmented tools, churn from slow support.
+
+[14:26] alex.m: And manual entry. They're drowning.
+
+[14:27] sarah.k: @here let's align on next steps.
+
+[14:28] mike.r: 👍
+
+[14:29] raj.h: Makes sense.
+
+[14:30] alex.m: Last Friday they said urgency is high despite timeline.
+
+[14:31]  ↳ sarah.k: Last Friday was the intro call?
+
+[14:32] mike.r: Yeah. Current solution is just spreadsheets.
+
+[14:33] raj.h: Repeated: tech stack TypeScript etc. We integrate easy.
+
+[14:34] sarah.k: Pain point: customer churn slow responses. They lose deals.
+
+[14:35] alex.m: She confirmed budget 850k. Wait who?
+
+[14:36]  ↳ mike.r: Unclear lol but solid number.
+
+[14:37] raj.h: Marcus isn't decision maker, but influential.
+
+[14:38] sarah.k: Got it. Tech debt from growth too.
+
+[14:39] mike.r: Competitors Clari, HubSpot AI again.
+
+[14:40] alex.m: Fwiw we beat them on integration.
+
+[14:41]  ↳ raj.h: Tomorrow's agenda: pains deep dive.
+
+[14:42] sarah.k: Perfect. High urgency, push it.
+
+[14:43] mike.r: Company ~1936 emps repeated for emphasis.
+
+[14:44] alex.m: Yeah massive. Deal value 850000 locked.
+
+[14:45] raj.h: Not decision maker but Head of Data.
+
+[14:46] sarah.k: Timeline end of 2026. Patient play.
+
+[14:47] mike.r: He said fragmented tooling yesterday.
+
+[14:48]  ↳ alex.m: Who's he? Marcus?
+
+[14:49] raj.h: Probably. Churn killing them.
+
+[14:50] sarah.k: Manual data entry pain #1 imo.
+
+[14:51] alex.m: Agreed. Next sprint demo.
+
+[14:52] mike.r: 👍 [👍 from @sarah.k]
+
+[14:53] raj.h: Got it all.
+
+[14:54] sarah.k: Tech stack GCP MongoDB etc. No issue.
+
+[14:55] alex.m: Closing thread. Action: follow up tomorrow.
+
+[14:56]  ↳ mike.r: On it.
+
+[14:57] raj.h: Makes sense. High urgency wins.
+
+[14:58] sarah.k: They eval'd Clari last week.
+
+[14:59] mike.r: HubSpot AI too. We got this.
+
+[15:00] alex.m: Boom. Deal stage Discovery solid. [🚀 from @raj.h]

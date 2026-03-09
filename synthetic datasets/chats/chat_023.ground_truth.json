@@ -1,0 +1,74 @@
+{
+  "sample_id": "chat_023",
+  "content_type": "chat_log",
+  "company": "MediaForge",
+  "industry": "Digital Media",
+  "message_count_target": 55,
+  "actual_word_count": 585,
+  "expected_facts": [
+    {
+      "text": "Budget allocated is approximately $1,200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using Pipedrive with Slack notifications",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with technical debt from rapid early growth",
+      "type": "explicit"
+    },
+    {
+      "text": "Raj Williams has been at MediaForge for 5 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with fragmented tooling across departments",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Chorus.ai, Apollo.io, Gong",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+      "type": "explicit"
+    },
+    {
+      "text": "MediaForge is a Digital Media company with about 2101 employees",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Chief Product Officer",
+    "company_name": "MediaForge",
+    "company_size": "1000+",
+    "technology_stack": "Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "technical debt from rapid early growth",
+      "fragmented tooling across departments"
+    ],
+    "deal_value": 1200000,
+    "competitors_mentioned": [
+      "Chorus.ai",
+      "Apollo.io",
+      "Gong"
+    ],
+    "decision_maker": true,
+    "next_steps": "Schedule a technical deep-dive with Raj's engineering team",
+    "current_solution": "Pipedrive with Slack notifications"
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 3,
+    "duplicate_facts": 2
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@tom.b"
+  ],
+  "property_coverage": 0.79
+}

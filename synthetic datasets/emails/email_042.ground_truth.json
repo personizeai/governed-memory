@@ -1,0 +1,71 @@
+{
+  "sample_id": "email_042",
+  "content_type": "email_thread",
+  "company": "LedgerPoint",
+  "industry": "Fintech",
+  "email_count": 7,
+  "actual_word_count": 1246,
+  "expected_facts": [
+    {
+      "text": "LedgerPoint is a Fintech company with about 2244 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes C#, .NET, Azure, SQL Server, RabbitMQ",
+      "type": "explicit"
+    },
+    {
+      "text": "Derek Petrov has been at LedgerPoint for 3 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with vendor lock-in with current cloud provider",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Drift",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with slow deployment cycles taking 2-3 weeks per release",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $1,200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $113M",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "company_name": "LedgerPoint",
+    "company_size": "1000+",
+    "technology_stack": "C#, .NET, Azure, SQL Server, RabbitMQ",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "slow deployment cycles taking 2-3 weeks per release",
+      "vendor lock-in with current cloud provider"
+    ],
+    "deal_value": 1200000,
+    "decision_timeline": "2026-04-17",
+    "competitors_mentioned": [
+      "Drift"
+    ],
+    "decision_maker": false,
+    "next_steps": "Schedule a technical deep-dive with Derek's engineering team",
+    "urgency_level": "Critical"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1
+  },
+  "introduces_new_person": true,
+  "colleague": "Nina Mueller, Director of IT",
+  "property_coverage": 0.79
+}

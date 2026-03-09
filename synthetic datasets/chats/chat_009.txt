@@ -1,0 +1,86 @@
+[09:15] @alex.m: @channel quick update on SyncWave - proposal out to Sarah Petrov, their Director of Analytics. She's been there 8 years, real decision maker. Deal stage is Proposal now. 
+[👍 from @sarah.k]
+[09:17] @mike.r: nice, what's their stack? heard it's C# heavy
+[09:18] @alex.m: yeah C#, .NET, Azure, SQL Server, RabbitMQ. perfect fit imo
+[09:19]  ↳ @james.g: rabbitmq? solid for their scaling issues tbh
+[09:20] @sarah.k: they mentioned compliance audit failures on data handling last week. big pain
+[09:21] @alex.m: exactly, and scaling during peak traffic periods. their current setup is internal Python scripts pulling from multiple APIs - nightmare
+[09:22]  ↳ @mike.r: python scripts? no wonder they're failing audits
+[09:23] @james.g: budget? lmk
+[09:24] @alex.m: ~1.8M allocated. huge for a 33 emp B2B SaaS shop (11-50 range)
+[09:25] @sarah.k: Chorus.ai is in the mix too. they love the call analysis but hate the price
+[09:26] @mike.r: fwiw our pricing crushes Chorus imo
+[09:27]  ↳ @alex.m: [shared link: SyncWave pricing page] check this for deets
+[09:28] @james.g: got it. urgency low tho?
+[09:29] @alex.m: yeah low urgency. decision timeline 2026-05-06 lol
+[09:30] @sarah.k: standard procurement: demo, security review, legal, VP Finance sign-off
+[09:31] @mike.r: makes sense. we good on security?
+[09:32]  ↳ @james.g: yeah azure native helps
+[09:33] @alex.m: she said they're evaluating Chorus.ai seriously
+[09:34] @sarah.k: who? sarah petrov?
+[09:35] @mike.r: ngl scaling pains sound bad - peaks killing them
+[09:36] @james.g: repeat: budget 1.8M right alex?
+[09:37] @alex.m: yep confirmed 1,800,000
+[09:38] @sarah.k: their stack is C#, .NET etc - we integrate seamless?
+[09:39] @mike.r: 100% rabbitmq queues will handle peaks no prob
+[09:40]  ↳ @alex.m: 👍
+[09:42] @james.g: @here anyone talk Chorus head on?
+[09:43] @alex.m: not yet, but she mentioned it Friday
+[09:44] @sarah.k: last Friday call? they said audits failing hard
+[09:45] @mike.r: python scripts from apis - total hack job
+[09:46]  ↳ @sarah.k: yeah repeated that pain twice
+[09:47] @james.g: demo next?
+[09:48] @alex.m: she wants one tomorrow imo
+[09:49] @sarah.k: which she? petrov?
+[09:50] @mike.r: timeline to 2026? low urgency for sure
+[09:51] @alex.m: yeah but 1.8M deal value pushes it
+[09:52] @james.g: compliance fixes top priority for them
+[09:53]  ↳ @mike.r: scaling too during peaks
+[09:54] @sarah.k: Chorus.ai eval ongoing - they pulling ahead?
+[09:55] @alex.m: nah we got edge on stack fit
+[09:56] @mike.r: got it
+[09:57] @james.g: syncwave 33 emps, small but budget baller
+[09:58] @sarah.k: Petrov 8 yrs tenure - she calls shots
+[09:59]  ↳ @alex.m: decision maker confirmed
+[10:01] @mike.r: next sprint they test integrations?
+[10:02] @alex.m: possibly, lmk if we need prep
+[10:03] @james.g: makes sense
+[10:04] @sarah.k: they said no to Chorus pricing i think
+[10:05] @mike.r: who said?
+[10:06] @alex.m: Sarah P probably
+[10:07] @james.g: pains: scaling peaks and compliance audits
+[10:08]  ↳ @sarah.k: yep data handling fails
+[10:09] @mike.r: our azure play wins
+[10:10] @alex.m: proposal feedback tomorrow?
+[10:11] @sarah.k: low urgency but let's push demo
+[10:12] @james.g: 👍
+[10:13] @mike.r: current python mess - they'll ditch fast
+[10:14] @alex.m: Chorus still lurking tho
+[10:15] @sarah.k: fwiw we beat on compliance
+[10:16]  ↳ @james.g: true
+[10:17] @mike.r: deal value 1.8M - worth the wait
+[10:18] @alex.m: timeline end of May 2026
+[10:19] @james.g: Petrov loves our rabbitmq angle
+[10:20] @sarah.k: she been there 8 years, knows pains deep
+[10:21] @mike.r: stack match perfect: C# .NET etc
+[10:22]  ↳ @alex.m: 100%
+[10:23] @james.g: security review next after demo
+[10:24] @sarah.k: then legal and VP finance
+[10:25] @alex.m: standard process
+[10:26] @mike.r: gotcha
+[10:27] @james.g: scaling issues during peaks - we solve
+[10:28] @sarah.k: and audits on data
+[10:29] @alex.m: Chorus.ai cheaper? nah they think
+[10:30]  ↳ @mike.r: our value higher
+[10:31] @james.g: small co 11-50 emps big swing
+[10:32] @sarah.k: budget locked 1.8M
+[10:33] @mike.r: urgency low but steady
+[10:34] @alex.m: last Friday she hinted interest
+[10:35] @sarah.k: tomorrow follow up?
+[10:36] @james.g: yes ping her
+[10:37] @mike.r: python scripts killing them
+[10:38]  ↳ @alex.m: apis everywhere
+[10:39] @sarah.k: makes sense
+[10:40] @james.g: deal on track
+[👍 from @alex.m]
+[10:41] @alex.m: thx team

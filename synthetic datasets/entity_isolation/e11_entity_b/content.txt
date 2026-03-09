@@ -1,0 +1,24 @@
+Meeting Transcript — Discovery Call with DataPulse Systems
+Date: February 5, 2026 | Duration: 40 minutes
+
+Alex: Sarah, great to connect. Tell me about DataPulse Systems.
+
+Sarah: Thanks Alex. So DataPulse is a B2B SaaS company focused on data analytics. We have about 310 employees. I've been VP of Engineering here for 2 years now. Our engineering org is 15 teams strong.
+
+Alex: Sounds like a solid operation. What's your current technology setup?
+
+Sarah: Our stack is Python and Django on the backend, PostgreSQL for the database, running on Azure. We're actually planning a major Azure migration — consolidating our infrastructure — targeting Q3 2026.
+
+Alex: What's the main challenge you're facing?
+
+Sarah: Data pipeline reliability. We're running at about a 2% failure rate on our pipelines, which sounds small but at our scale it's significant. We process massive amounts of customer data daily. Our CTO James Park is really pushing to get this solved.
+
+Alex: Who's involved in the evaluation?
+
+Sarah: I report to James Park, our CTO. We're looking at 4 vendors total, including Salesforce Einstein. Our budget for this initiative is approximately $500K. We raised $60M in our Series B from Andreessen Horowitz.
+
+Alex: Any compliance considerations?
+
+Sarah: Yes — we have a compliance review coming up in Q2 that requires HIPAA certification. That's a hard deadline for us. Our revenue is about $42M annually, and DataPulse has been growing fast.
+
+Alex: Makes sense. Let me walk you through our approach...

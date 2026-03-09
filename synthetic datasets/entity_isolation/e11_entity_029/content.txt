@@ -1,0 +1,16 @@
+### Account Overview
+Tidal Solutions is a leading Cybersecurity company with 2065 employees and approximately $88M in annual revenue. As a high-growth firm, they've faced challenges from rapid early expansion, leading to significant technical debt. Primary contact is Sarah Dubois, Chief Revenue Officer (sarah.dubois@tidalsolutions.com). Sarah oversees revenue operations and is key to addressing inefficiencies in sales and engineering alignment. Their tech stack includes Java, Micronaut, GCP, Spanner, and Pub/Sub, which supports scalable cloud-native security solutions but highlights integration gaps.
+
+### Key Details
+Tidal Solutions struggles with data silos between engineering and sales teams, manual processes for customer onboarding, and customer churn driven by slow support response times. These pain points stem from legacy systems and custom internal tools that no longer scale. Competitors in their evaluation include Microsoft Copilot for AI-assisted workflows, existing CRM workflows, and their custom internal tool. Sarah has emphasized the need for a unified platform to streamline operations, reduce churn, and accelerate onboarding without disrupting their GCP-centric infrastructure.
+
+### Deal Status
+Opportunity valued at $650,000, targeting enterprise-wide deployment. Sarah confirmed strong alignment with our solution's ability to integrate seamlessly with Java/Micronaut and GCP services like Spanner and Pub/Sub. They've shortlisted us against Microsoft Copilot and internal alternatives. Decision timeline is Q4 2026, aligned with their fiscal planning cycle. Current stage: Proposal review, with positive feedback on addressing technical debt and data silos. Risks include budget scrutiny amid churn pressures, but revenue growth supports investment.
+
+### Next Steps
+- Schedule demo with Sarah and engineering leads (Week of 10/14) to showcase Spanner/Pub/Sub integrations and onboarding automation.
+- Send customized ROI analysis highlighting $650K value against churn reduction (by EOW).
+- Follow up on competitor comparison matrix, positioning against Microsoft Copilot's limitations in custom cybersecurity workflows.
+- Secure intro to procurement for Q4 budgeting discussion.
+
+(Word count: 348)

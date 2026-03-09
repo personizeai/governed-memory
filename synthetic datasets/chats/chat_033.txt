@@ -1,0 +1,69 @@
+#deals-datapulse-systems
+[09:15] @alex.m: Quick update @channel - just off call with Fatima at DataPulse Systems. She's Director of Analytics, been there 8 years, total decision maker. Deal stage is proposal now.
+[👍 from @sarah.k]
+[09:16] @sarah.k: Nice! What's their stack? Heard they're heavy Python shop.
+[09:17] @alex.m: Yeah, Python, Django, AWS, Postgres, Redis. Fits us perfectly imo.
+[09:17]  ↳ @mike.r: Postgres or PostgreSQL? Lmk if they use Redis for caching.
+[09:18] @sarah.k: Got it. Currently on HubSpot CRM w/ Zapier automations, they're itching to upgrade.
+[09:19] @alex.m: Exactly, HubSpot + Zapier is clunky for their scale. DataPulse is B2B SaaS, ~151 employees.
+[09:20] @amanda.c: 51-200 size, makes sense. Budget allocated ~$450k?
+[👍 from @mike.r]
+[09:21] @alex.m: Spot on, deal value targeting 450k. She confirmed budget yesterday.
+[09:22] @sarah.k: Who's "she"? Fatima?
+[09:22]  ↳ @alex.m: Yep, Fatima Singh. Ngl, she's pushing hard.
+[09:23] @mike.r: Competitors? They shopping around?
+[09:24] @alex.m: Evaluating Intercom and Chorus.ai too. But we win on analytics integration.
+[09:25] @sarah.k: Chorus.ai is call analytics? We crush that tbh.
+[09:26] @mike.r: Fwiw, their tech stack Python/Django/AWS/Postgres/Redis screams our sweet spot. [repeated fact vibe]
+[09:27] @amanda.c: Agreed on stack. What's next steps?
+[09:28] @alex.m: Send pricing proposal to her by Friday. Urgency is critical.
+[09:29] @sarah.k: Friday? Tomorrow right? Got it.
+[09:30] @mike.r: @here - let's align on proposal tweaks. Decision timeline is 2026-05-14, plenty runway but critical urgency.
+[09:31] @amanda.c: Makes sense. Fatima been there 8 years, she knows the pain points. [repeat fact]
+[09:32] @alex.m: Yup. They mentioned Intercom last week, but pricing scared em off.
+[09:33] @sarah.k: "Em" who? DataPulse team?
+[09:33]  ↳ @alex.m: Yeah, Fatima's crew. Chorus.ai demo flopped too.
+[09:34] @mike.r: Budget ~450k again? Solid. [repeat]
+[09:35] @amanda.c: HubSpot w/ Zapier is their current mess, right? We fix that.
+[09:36] @alex.m: 100%. Here's our pricing page for ref: [shared link: DataPulse Systems pricing page]
+[👍 from @sarah.k][👀 from @mike.r]
+[09:37] @sarah.k: Looking good. She ok'd the stack match?
+[09:38] @mike.r: Unclear on "she", but assuming Fatima. Next sprint we customize?
+[09:39] @amanda.c: Last Friday's call notes say urgency critical, yeah.
+[09:40] @alex.m: Proposal out tomorrow. Lmk any changes.
+[09:41] @sarah.k: 👍
+[09:42] @mike.r: Got it.
+[10:05] @amanda.c: Quick thread on competitors - Intercom too sales-focused for their analytics needs.
+[10:06]  ↳ @alex.m: Chorus.ai is voice only, they need full stack like ours.
+[10:07]  ↳ @sarah.k: True, and their Python/Django setup loves us. [repeat stack]
+[10:08] @mike.r: Fatima said they're scaling to 151+ emp, HubSpot can't keep up.
+[10:09] @alex.m: Deal value 450k locked if we hit Friday send.
+[10:10] @sarah.k: Timeline to 2026-05-14? That's Q2 next year.
+[10:11] @amanda.c: Critical tho, she stressed no delays.
+[10:12] @mike.r: "She" again? Haha Fatima obv.
+[10:13] @alex.m: Lol yep. Zapier automations breaking weekly.
+[10:14] @sarah.k: Poor them. AWS/Redis perf issues too?
+[10:15] @amanda.c: Makes sense. Proposal ready?
+[10:16] @alex.m: Polishing now. Ping me.
+[👍 from @mike.r]
+[14:22] @sarah.k: @alex.m any word from her post-call?
+[14:23] @alex.m: She loves the Postgres integration idea.
+[14:24] @mike.r: Again "her"? Fatima I guess. Good.
+[14:25] @amanda.c: Budget 450k covers our enterprise tier easy.
+[14:26] @sarah.k: Chorus.ai out, Intercom meh. We're in.
+[14:27] @alex.m: Friday send confirmed. Urgency critical, next sprint demo.
+[14:28] @mike.r: Got it. DataPulse B2B SaaS perfection.
+[14:29] @amanda.c: 👍 Timeline locked 2026-05-14.
+[15:03] @alex.m: Proposal draft shared in drive. Thoughts?
+[15:04] @sarah.k: Skimmed, solid. Matches their stack.
+[15:05] @mike.r: +1, pricing spot on for 450k.
+[15:06] @amanda.c: She'll dig the Zapier migration plan.
+[15:07] @alex.m: Sending EOD today actually, ahead of Friday.
+[15:08] @sarah.k: Boom. Critical win incoming.
+[👍 from @amanda.c]
+[15:09] @mike.r: Last Friday she mentioned Redis bottlenecks - we address?
+[15:10] @alex.m: Yep, in proposal.
+[15:11] @sarah.k: Perfect. Fatima 8yr vet knows her stuff. [repeat]
+[15:12] @amanda.c: Deal stage proposal, decision maker greenlit.
+[15:13] @mike.r: Fwiw Intercom eval ended bad for them.
+[15:14] @alex.m: All good. Closing strong.

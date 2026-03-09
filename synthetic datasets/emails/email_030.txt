@@ -1,0 +1,161 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Chloe Alvarez <chloe.alvarez@docksmart.com>  
+Subject: Quick intro - AI automation tailored for DockSmart's logistics stack  
+Date: Fri, February 13, 2026 at 10:15 AM PST  
+
+Hi Chloe,  
+
+I hope this email finds you well. Congratulations on marking your first year at DockSmart—impressive growth for a logistics leader with 818 employees and around $83M in annual revenue. I've been following your team's progress, especially with the recent 32% increase in IT budget this fiscal year and the planned migration off legacy systems by the end of the year.  
+
+At Technova, we specialize in an AI-powered automation platform that slots right into modern serverless stacks like yours: Python, FastAPI, AWS Lambda, DynamoDB, and SQS. It helps streamline logistics ops, predict supply chain disruptions, and scale effortlessly without the headaches of building in-house. With your security audit coming up in Q3, our solution's compliance features (SOC 2, GDPR-ready) could be a game-changer.  
+
+Are you open to a 15-minute call next week to discuss how we can support your goals?  
+
+Best regards,  
+Alex Morgan  
+Sales Executive  
+Technova.io  
+(415) 555-0100  
+alex.morgan@technova.io  
+
+---
+
+From: Chloe Alvarez <chloe.alvarez@docksmart.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Quick intro - AI automation tailored for DockSmart's logistics stack  
+Date: Sat, February 14, 2026 at 9:45 AM EST  
+
+Hi Alex,  
+
+Thanks for reaching out and the congrats—it's been a whirlwind year here at DockSmart. Your timing is spot on with our migration plans and the IT budget bump.  
+
+We've been evaluating options like Microsoft Copilot for some dev productivity boosts, Drift for customer interactions, and even considering more in-house development. How does Technova stack up in terms of integration depth with our Python/FastAPI setup on AWS Lambda? Any case studies from similar logistics firms?  
+
+Best,  
+Chloe Alvarez  
+CTO  
+DockSmart  
+(212) 555-0200  
+chloe.alvarez@docksmart.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Chloe Alvarez <chloe.alvarez@docksmart.com>  
+Subject: Re: Quick intro - AI automation tailored for DockSmart's logistics stack  
+Date: Mon, February 16, 2026 at 2:30 PM PST  
+
+Hi Chloe,  
+
+Great to hear from you—happy to dive into the details.  
+
+> We've been evaluating options like Microsoft Copilot for some dev productivity boosts, Drift for customer interactions, and even considering more in-house development. How does Technova stack up in terms of integration depth with our Python/FastAPI setup on AWS Lambda? Any case studies from similar logistics firms?  
+
+Technova outperforms Copilot in custom logistics workflows (no generic MSFT wrappers) and Drift in real-time supply chain handoffs, with full serverless compatibility—no vendor lock-in like in-house builds. We deploy via AWS Lambda triggers on SQS queues, querying DynamoDB natively through FastAPI endpoints. Here's a quick case study from LogiFlow (similar scale, $75M revenue): they cut ops delays by 40% post-integration during their legacy migration.  
+
+As a light next step, I propose a no-cost POC tailored to your stack, scoped to your ~$450K allocated budget. It aligns perfectly ahead of the Q3 security audit and your end-of-year timeline. Thoughts on hopping on a call end of this week?  
+
+Looking forward to your take,  
+Alex Morgan  
+Sales Executive  
+Technova.io  
+(415) 555-0100  
+alex.morgan@technova.io  
+
+---
+
+From: Chloe Alvarez <chloe.alvarez@docksmart.com>  
+To: Ivan Volkov <ivan.volkov@docksmart.com>  
+CC:  
+Subject: Fwd: Quick intro - AI automation tailored for DockSmart's logistics stack  
+Date: Tue, February 17, 2026 at 11:20 AM EST  
+
+Ivan,  
+
+Alex from Technova reached out—looks promising for our AI eval, especially with the $450K budget we have ringfenced and the 32% IT increase. We're eyeing a decision by September 8 to hit the legacy migration by EOY, and this could beat out Copilot/Drift/in-house on integration. Can you review the tech details below and share thoughts? They mention seamless fit with our Python/FastAPI/Lambda/DynamoDB/SQS stack.  
+
+Thanks,  
+Chloe  
+
+---------- Forwarded message ---------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Mon, February 16, 2026 at 2:30 PM PST  
+Subject: Re: Quick intro - AI automation tailored for DockSmart's logistics stack  
+To: Chloe Alvarez <chloe.alvarez@docksmart.com>  
+
+Hi Chloe,  
+
+Great to hear from you—happy to dive into the details.  
+
+> We've been evaluating options like Microsoft Copilot for some dev productivity boosts, Drift for customer interactions, and even considering more in-house development. How does Technova stack up in terms of integration depth with our Python/FastAPI setup on AWS Lambda? Any case studies from similar logistics firms?  
+
+Technova outperforms Copilot in custom logistics workflows (no generic MSFT wrappers) and Drift in real-time supply chain handoffs, with full serverless compatibility—no vendor lock-in like in-house builds. We deploy via AWS Lambda triggers on SQS queues, querying DynamoDB natively through FastAPI endpoints. Here's a quick case study from LogiFlow (similar scale, $75M revenue): they cut ops delays by 40% post-integration during their legacy migration.  
+
+As a light next step, I propose a no-cost POC tailored to your stack, scoped to your ~$450K allocated budget. It aligns perfectly ahead of the Q3 security audit and your end-of-year timeline. Thoughts on hopping on a call end of this week?  
+
+Looking forward to your take,  
+Alex Morgan  
+Sales Executive  
+Technova.io  
+(415) 555-0100  
+alex.morgan@technova.io  
+
+[Previous message quoted above for context]  
+
+Chloe Alvarez  
+CTO  
+DockSmart  
+(212) 555-0200  
+chloe.alvarez@docksmart.com  
+
+---
+
+From: Ivan Volkov <ivan.volkov@docksmart.com>  
+To: Chloe Alvarez <chloe.alvarez@docksmart.com>, Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Quick intro - AI automation tailored for DockSmart's logistics stack  
+Date: Wed, February 18, 2026 at 3:15 PM EST  
+
+Chloe/Alex,  
+
+Thanks for looping me in. I skimmed the thread—it aligns with our 818-employee scale and $83M revenue ops, plus the migration push. The stack match (Python/FastAPI/AWS Lambda/DynamoDB/SQS) sounds good on paper, but we need specifics before end of quarter for the audit prep.  
+
+Technically, how does it handle high-throughput SQS message processing during peak logistics surges? Does it support DynamoDB global tables for our multi-region setup, or will it require custom sharding that could snag the $450K budget? They've been evaluating Copilot too, but this might edge it out if secure.  
+
+He thinks the POC could work, but let's clarify these first. Available next week?  
+
+Best,  
+Ivan Volkov  
+Engineering Manager  
+DockSmart  
+(212) 555-0300  
+ivan.volkov@docksmart.com  
+
+> [Quoted previous thread from Chloe's forward and Alex's response]  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Ivan Volkov <ivan.volkov@docksmart.com>, Chloe Alvarez <chloe.alvarez@docksmart.com>  
+Subject: Re: Quick intro - AI automation tailored for DockSmart's logistics stack  
+Date: Thu, February 19, 2026 at 1:45 PM PST  
+
+Hi Ivan and Chloe,  
+
+Thanks for the intro, Chloe, and great questions, Ivan—this is exactly the eng depth we love discussing. Your setup at DockSmart is a perfect fit for what we've optimized.  
+
+> Technically, how does it handle high-throughput SQS message processing during peak logistics surges? Does it support DynamoDB global tables for our multi-region setup, or will it require custom sharding that could snag the $450K budget?  
+
+On SQS: We use FIFO queues with Lambda concurrency scaling, auto-batching up to 10K msg/sec (tested at LogiFlow during Black Friday surges—zero drops). For DynamoDB global tables, native support via our Python SDK—no sharding needed; it streams changes cross-region with <100ms latency, fully compliant for Q3 audits (we provide audit logs exportable to S3). This keeps everything within your $450K envelope, unlike Copilot's add-ons or Drift's limits. No impact on your in-house evals either.  
+
+He raised solid points that our POC (free, 2-week deploy) will demo live—integrates via FastAPI in hours. How's next week for a 30-min deep-dive? Propose Wed 25th at 11 AM EST?  
+
+Excited to move this forward before your September 8 decision target.  
+
+Cheers,  
+Alex Morgan  
+Sales Executive  
+Technova.io  
+(415) 555-0100  
+alex.morgan@technova.io  
+
+> [Full previous thread quoted for reference, including Ivan's questions and Chloe's forward]

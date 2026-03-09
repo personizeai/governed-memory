@@ -1,0 +1,91 @@
+{
+  "sample_id": "document_032",
+  "content_type": "wiki_document",
+  "company": "EduFlow",
+  "industry": "EdTech",
+  "target_word_count": 1526,
+  "actual_word_count": 1231,
+  "expected_facts": [
+    {
+      "text": "Budget allocated is approximately $350,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with security concerns with current architecture",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in San Francisco",
+      "type": "explicit"
+    },
+    {
+      "text": "Anita Okonkwo has been at EduFlow for 2 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with customer churn from slow support response times",
+      "type": "explicit"
+    },
+    {
+      "text": "EduFlow is a EdTech company with about 138 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating ZoomInfo, Outreach",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes TypeScript, React, Node.js, GCP, MongoDB",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Engineering",
+    "company_name": "EduFlow",
+    "company_size": "51-200",
+    "technology_stack": "TypeScript, React, Node.js, GCP, MongoDB",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "security concerns with current architecture",
+      "customer churn from slow support response times",
+      "integration complexity with legacy systems"
+    ],
+    "deal_value": 350000,
+    "decision_timeline": "2026-10-25",
+    "competitors_mentioned": [
+      "ZoomInfo",
+      "Outreach"
+    ],
+    "decision_maker": true,
+    "next_steps": "Send pricing proposal to Anita by Friday",
+    "buying_process": "IT committee evaluates quarterly, next window is Q3 2026"
+  },
+  "planted_issues": {
+    "pronoun_issues": 1,
+    "temporal_issues": 2,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Victor Patel",
+      "title": "VP of Operations",
+      "role": "Champion"
+    },
+    {
+      "name": "Raj Okonkwo",
+      "title": "VP of Operations",
+      "role": "End User"
+    },
+    {
+      "name": "Rachel Fernandez",
+      "title": "Head of Product",
+      "role": "Budget Owner"
+    },
+    {
+      "name": "Aisha Singh",
+      "title": "VP of Operations",
+      "role": "Technical Evaluator"
+    }
+  ],
+  "property_coverage": 0.86
+}

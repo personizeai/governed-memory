@@ -1,0 +1,52 @@
+[09:15] alex.m: @channel quick update on VaultEdge. Spoke with Elena yesterday, they're in discovery stage rn. Pain points around compliance audits failing on data handling.  
+[👍 from @sarah.k]  
+[09:16] sarah.k: Nice! What's their current setup?  
+[09:17] alex.m: Spreadsheets and manual data entry tbh. Total nightmare for a fintech like them.  
+[09:18] mike.r: VaultEdge right? ~579 employees?  
+[09:19] alex.m: Yeah 201-1000 size. Elena's VP of Customer Success, been there 1 year.  
+[09:20] brandon.a: She mention hiring issues?  
+  ↳ [09:21] alex.m: Yup difficulty hiring specialized engineers. They're struggling bad.  
+[09:22] sarah.k: Got it. Tech stack?  
+[09:23] alex.m: Java, Spring Boot, Azure, Oracle, Kafka. Perfect fit imo.  
+[👍 from @mike.r]  
+[09:24] mike.r: We've seen that stack before. Makes sense.  
+[09:25] brandon.a: Competitors?  
+  ↳ [09:26] alex.m: They've been evaluating Clari. But she said they're not impressed.  
+[09:27] sarah.k: Who said? Elena?  
+[09:28] alex.m: Yeah. Ngl Clari's too sales-focused for their ops team.  
+[09:29] mike.r: Fwiw we beat Clari on compliance features.  
+[09:30] brandon.a: Link to their pricing? [shared link: VaultEdge pricing page]  
+[👍 from @alex.m] [👀 from @sarah.k]  
+[09:31] sarah.k: Thx. Next steps?  
+[09:32] alex.m: Set up POC env for Elena's team to evaluate. Tomorrow?  
+[09:33] mike.r: Last Friday she mentioned urgency on audits.  
+[09:34] sarah.k: Makes sense. They're a fintech with 579 employees right?  
+[09:35] alex.m: Yep repeated that. Compliance failures killing them.  
+[09:36] brandon.a: @here who can spin up the POC?  
+[09:37] mike.r: I can, lmk timeline.  
+  ↳ [09:38] alex.m: Next sprint start? Elena's team needs it asap.  
+[09:39] sarah.k: She push back on pricing?  
+[09:40] brandon.a: No clue, he didn't say.  
+[09:41] alex.m: Wait she was positive tbh. Just hiring woes holding them back.  
+[09:42] mike.r: Engineers tough everywhere. Got it.  
+[👍 from @brandon.a]  
+[09:43] sarah.k: Spreadsheets sound painful for that stack.  
+[09:44] alex.m: Totally. Manual entry + audits = fail.  
+[09:45] brandon.a: Clari eval still active?  
+  ↳ [09:46] mike.r: She said they're pausing it.  
+[09:47] sarah.k: Who?  
+[09:48] alex.m: Elena. Discovery with us now.  
+[09:49] mike.r: Tech stack confirmed: Java/Spring Boot etc?  
+[09:50] brandon.a: Yes he said earlier. Azure, Oracle, Kafka too.  
+[09:51] sarah.k: Cool. POC next week?  
+[09:52] alex.m: Tomorrow if possible. Last Friday call was key.  
+[09:53] mike.r: On it. Elena been there 1 year?  
+[09:54] sarah.k: Yeah Alex mentioned. VP CS.  
+[09:55] brandon.a: Pain points: audits and hiring. Nailed it.  
+[👍 from @alex.m]  
+[09:56] alex.m: @team let's loop eng for POC setup.  
+[09:57] sarah.k: Makes sense.  
+[09:58] mike.r: Difficulty hiring specialized engineers is huge for them.  
+[09:59] brandon.a: Repeated that yeah. Spreadsheets won't cut it.  
+[10:00] alex.m: Exactly. Pushing for POC.  
+[👍 from @sarah.k] [🔥 from @mike.r]

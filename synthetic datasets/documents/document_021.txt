@@ -1,0 +1,52 @@
+# BuildTech Corp — Account Overview
+
+## Company Background
+BuildTech Corp is a mid-sized manufacturing company headquartered in Denver, Colorado, specializing in the design and production of advanced modular construction equipment and smart building systems. With approximately 396 employees—falling squarely in the 201-1000 company size range—the firm has established itself as a key player in the industrial tech manufacturing sector by integrating IoT sensors, automation software, and durable hardware for large-scale construction projects. Founded in 2012 by a team of five mechanical and software engineers from the Denver metro area, who identified a market need for scalable, customizable building technologies amid the post-recession construction boom, BuildTech has grown steadily through strategic partnerships with major contractors and a focus on sustainable manufacturing practices. Today, they manage complex supply chains and production pipelines that demand robust data visibility and scalability, particularly as they navigate challenges like technical debt from their rapid early growth. Their main office in Denver serves as the hub for engineering, product development, and executive leadership, supporting operations across North America.
+
+## Key Contacts
+
+| Name          | Title                    | Role in Deal     | Decision Maker |
+|---------------|--------------------------|------------------|----------------|
+| Felix Moreau | Director of Engineering  | Primary Contact  | True           |
+| Brandon Patel| Head of Infrastructure   | End User         | False          |
+| Lisa Alvarez | Chief Product Officer    | Champion         | True           |
+| Lisa Xu      | Director of Engineering  | End User         | False          |
+
+Felix Moreau, who has been with BuildTech Corp for two years, leads the engineering team and has been instrumental in championing our solution due to his firsthand experience with their scaling pains.
+
+## Meeting History
+
+### Meeting 1: Discovery Call (February 12, 2026)
+In this initial 45-minute discovery call, attended by Felix Moreau (Director of Engineering) and Brandon Patel (Head of Infrastructure), we uncovered BuildTech's core challenges with their current combination of Notion and Airtable for pipeline management and data tracking. They highlighted scaling issues during peak traffic periods in their manufacturing pipelines, where high-volume order processing overwhelms their systems, leading to delays and poor visibility into overall pipeline health. Felix shared that they've been dealing with these bottlenecks for over a year, exacerbated by technical debt accumulated from rapid early growth, and expressed frustration over the difficulty in measuring ROI on nascent AI initiatives for predictive maintenance. The team plans a full migration off legacy systems by the end of the year, and they see our platform as a potential fit for integrating with their Java, Spring Boot, Azure, Oracle, and Kafka-based tech stack. Next steps included scheduling a technical deep dive, with Felix committing to loop in Lisa Alvarez as a champion.
+
+### Meeting 2: Technical Deep Dive (March 9, 2026)
+This 90-minute session involved Felix Moreau, Lisa Xu (Director of Engineering), and Brandon Patel, focusing on a hands-on review of their infrastructure setup and specific integration needs. They demonstrated real-time issues with their Notion-Airtable hybrid, where poor visibility into pipeline health causes blind spots during high-traffic surges—echoing the scaling problems discussed previously but phrased as "intermittent overloads in order fulfillment queues." We mapped our solution against their tech stack, including Java/Spring Boot services on Azure, Oracle databases, and Kafka streams for event processing, confirming seamless compatibility. Lisa Xu emphasized the urgency of addressing technical debt from early expansions, while Felix outlined requirements for AI-driven analytics to better quantify ROI on manufacturing AI pilots. They confirmed a budget of approximately $450,000 and a standard procurement process involving demo, security review, legal review, and VP Finance sign-off. Action items: Share architecture diagrams and prepare for POC setup.
+
+## Technical Requirements
+- **Scalability During Peaks**: Solution must handle scaling issues during peak traffic periods in manufacturing pipelines, supporting 10x surges in order volume without downtime, integrated with Kafka for real-time event streaming.
+- **Pipeline Visibility**: Enhanced dashboards for poor visibility into pipeline health, providing real-time metrics on production queues, inventory flow, and supply chain status via Oracle queries and Azure monitoring.
+- **Tech Stack Integration**: Native support for Java/Spring Boot microservices, Azure cloud infrastructure, Oracle databases, and Kafka messaging to enable smooth data ingestion without custom middleware.
+- **Legacy Migration Support**: Tools to facilitate migration off legacy systems by year-end, including data import from Notion/Airtable and ETL pipelines to minimize disruption.
+- **AI ROI Measurement**: Analytics features to track and visualize ROI on AI initiatives, such as predictive maintenance models, addressing difficulties in quantifying business impact.
+- **Security and Compliance**: Compliance with manufacturing standards (e.g., ISO 9001), role-based access for end users like Brandon Patel and Lisa Xu, and audit logs for procurement reviews.
+- **Customization for Manufacturing**: Workflow templates tailored to modular construction equipment production, with alerting for bottlenecks in peak periods.
+
+These requirements align closely with their pain points, including technical debt from rapid early growth, positioning us strongly against competitors.
+
+## Deal Status
+BuildTech Corp is currently in the Qualification deal stage, with an estimated deal value of $450,000 and a critical urgency level driven by their year-end migration timeline targeting October 1, 2026, for decision finalization. Their buying process follows a standard procurement path: initial demo (completed), upcoming security review, legal review, and final sign-off from the VP of Finance. Felix Moreau's team has validated initial fit, and next steps include setting up a POC environment for Felix's engineering group—comprised of Lisa Xu and Brandon Patel as key end users—to evaluate integration with their Java, Spring Boot, Azure, Oracle, and Kafka stack over the next two weeks. No major blockers at present, though minor delays in internal alignment could arise; Lisa Alvarez (CPO and champion) has escalated internally to prioritize. Overall momentum is strong, with their allocated budget fully committed and pain points like scaling during peaks and pipeline visibility resonating deeply.
+
+## Competitive Landscape
+BuildTech is actively evaluating alternatives to address their current Notion and Airtable limitations, particularly for scaling challenges and pipeline insights:
+- **HubSpot AI**: Strong contender for CRM-like pipeline visibility but lacks deep manufacturing workflow customization and struggles with their Kafka-heavy event streaming needs.
+- **Gong**: Considered for conversation analytics to indirectly improve sales pipeline health, though it doesn't tackle core infrastructure scaling or legacy migration.
+- **Custom Internal Tool**: Homegrown Java/Spring Boot solution in early POC stages, built on Azure/Oracle, but hindered by technical debt and limited AI ROI tracking capabilities.
+
+Our differentiator is end-to-end integration with their full tech stack and manufacturing-specific scalability, giving us an edge in the qualification phase.
+
+## Risk Factors
+- **Procurement Delays**: Standard process (security/legal/VP Finance reviews) could extend beyond the October 1, 2026, timeline if their scaling issues during peak traffic don't worsen soon, reducing urgency—monitor via Felix Moreau's updates.
+- **Internal Buy-In Gaps**: While Felix (two years tenure) and Lisa Alvarez are champions, end users like Brandon Patel and Lisa Xu may push back if POC reveals integration hurdles with Oracle/Kafka; they discussed potential custom tweaks last meeting, but it's unclear who owns final tweaks.
+- **Competitor Momentum**: Homegrown tool or HubSpot AI could gain traction if our POC setup slips, especially since Gong offers quick wins on visibility; relative to last quarter's evals, they've deprioritized Gong but not fully.
+
+*(Internal Note: Total page word count ~1752. Last updated: March 15, 2026. Owner: Sales Team Lead.)*

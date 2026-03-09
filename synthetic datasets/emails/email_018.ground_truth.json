@@ -1,0 +1,68 @@
+{
+  "sample_id": "email_018",
+  "content_type": "email_thread",
+  "company": "FinStack Labs",
+  "industry": "Fintech",
+  "email_count": 4,
+  "actual_word_count": 1627,
+  "expected_facts": [
+    {
+      "text": "Budget allocated is approximately $50,000",
+      "type": "explicit"
+    },
+    {
+      "text": "FinStack Labs is a Fintech company with about 39 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "Emily Singh has been at FinStack Labs for 5 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in San Francisco",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 5 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $77M",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes C#, .NET, Azure, SQL Server, RabbitMQ",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "CTO",
+    "company_name": "FinStack Labs",
+    "company_size": "11-50",
+    "technology_stack": "C#, .NET, Azure, SQL Server, RabbitMQ",
+    "deal_stage": "Negotiation",
+    "deal_value": 50000,
+    "decision_timeline": "2026-11-08",
+    "decision_maker": false,
+    "buying_process": "Need approval from their CFO (CFO) for anything over $100K"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 2
+  },
+  "introduces_new_person": true,
+  "colleague": "Robert Johnson, Director of IT",
+  "property_coverage": 0.64
+}

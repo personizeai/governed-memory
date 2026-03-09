@@ -1,0 +1,127 @@
+[09:15] alex.m: @channel quick update on CartLogic - had intro call yesterday, they're e-comm with ~40 employees [👍 from @sarah.k]
+[09:17] sarah.k: nice! what's their stack?
+[09:17]   ↳ alex.m: Rust, Actix, AWS, Postgres, NATS - solid tbh
+[09:18] mike.r: who led the call?
+[09:19] alex.m: Victor Okonkwo, he's been there 2 years
+[09:20] jennifer.d: pain points? 
+[09:21] alex.m: integration complexity with legacy systems, security concerns with current arch, churn from slow support, high infra costs eating margins
+[09:22] sarah.k: ngl security stuff is huge for them [👍 from @mike.r]
+[09:23] mike.r: yeah they've been evaluating existing CRM workflows too
+[09:24] alex.m: exactly, competitors mentioned
+[09:25] jennifer.d: budget?
+[09:26] alex.m: ~850k allocated, deal value lines up at 850000
+[09:27] sarah.k: sweet, discovery stage right?
+[09:28] alex.m: yep, not decision maker tho
+[09:29] mike.r: makes sense, procurement needs 3 bids
+[09:30] jennifer.d: got it
+[09:31] alex.m: next steps: schedule tech deep-dive with Victor's eng team
+[09:32] sarah.k: lmk when you book it
+[09:33] mike.r: fwiw their security concerns are legit with that arch
+[09:34]   ↳ alex.m: for sure, he mentioned breaches last quarter
+[09:35] jennifer.d: who? Victor?
+[09:36] alex.m: yeah
+[09:37] sarah.k: shared their pricing page for ref [shared link: CartLogic pricing page]
+[09:38] mike.r: thx, checking it
+[09:39] alex.m: imo we crush on integration
+[09:40] jennifer.d: they said slow support killing churn?
+[09:41] sarah.k: yep she mentioned it twice
+[09:42] mike.r: who did?
+[09:43] alex.m: Victor's team i think
+[09:44] jennifer.d: high infra costs too right?
+[09:45] sarah.k: yeah AWS bills killing margins
+[09:46] mike.r: CartLogic ~40 emp, small but growing
+[09:47] alex.m: exactly, Victor been there 2 yrs fwiw
+[09:48] sarah.k: repeated that already alex lol
+[09:49] jennifer.d: @here anyone free tomorrow for prep?
+[09:50] mike.r: i am
+[09:51] alex.m: cool, last Friday's notes say same pains
+[09:52] sarah.k: got it
+[09:53] jennifer.d: security concerns with current architecture still top?
+[09:54] mike.r: they are, he stressed it
+[09:55] alex.m: unclear who but yeah
+[09:56] sarah.k: evaluating CRM workflows too, noted
+[09:57] mike.r: budget 850k confirmed?
+[09:58] alex.m: approx yeah, she said
+[09:59] jennifer.d: who she?
+[10:00] sarah.k: probably Victor's boss [👍 from @alex.m]
+[10:01] mike.r: next sprint deep dive?
+[10:02] alex.m: nah sooner, tomorrow ish
+[10:03] jennifer.d: procurement 3 bids slows it
+[10:04] sarah.k: true, but we're in discovery
+[10:05] mike.r: stack again: Rust Actix AWS Postgres NATS?
+[10:06] alex.m: yep
+[10:07] jennifer.d: integration legacy is killer pain
+[10:08] sarah.k: tbh churn from support too
+[10:09] mike.r: high costs eating margins ngl
+[10:10] alex.m: all of em
+[10:11] sarah.k: Victor's eng team for deep dive?
+[10:12] jennifer.d: yes pls schedule
+[10:13] mike.r: gotcha
+[10:14] alex.m: on it
+[10:15] sarah.k: cool [👍 from @jennifer.d]
+[10:16] mike.r: any other competitors?
+[10:17] alex.m: just existing CRM workflows
+[10:18] jennifer.d: makes sense
+[10:19] sarah.k: not decision maker, so loop in procurement?
+[10:20] alex.m: yeah eventually
+[10:21] mike.r: budget ~850k solid
+[10:22] sarah.k: repeated budget mike haha
+[10:23] jennifer.d: lol ok
+[10:24] alex.m: security concerns main blocker imo
+[10:25] sarah.k: he said that?
+[10:26] mike.r: they did
+[10:27] alex.m: unclear pronoun but yeah
+[10:28] jennifer.d: CartLogic e-comm 40 emp fyi
+[10:29] sarah.k: knew that
+[10:30] mike.r: Victor 2 yrs there
+[10:31] alex.m: yup
+[10:32] jennifer.d: pains: legacy integration, security, churn, costs
+[10:33] sarah.k: nailed it
+[10:34] mike.r: @here ping for deep dive prep?
+[10:35] alex.m: tomorrow works?
+[10:36] sarah.k: yes!
+[10:37] jennifer.d: i'm out next sprint tho
+[10:38] mike.r: ok
+[10:39] alex.m: deal stage discovery locked
+[10:40] sarah.k: procurement bids hurdle
+[10:41] jennifer.d: 3 needed
+[10:42] mike.r: we got this
+[10:43] alex.m: thx team
+[10:44] sarah.k: np [👍 from @mike.r]
+[10:45] jennifer.d: lmk updates
+[10:46] alex.m: will do
+[14:20] mike.r: update: emailed Victor for deep dive
+[14:21] sarah.k: nice when?
+[14:22]   ↳ mike.r: proposing tomorrow
+[14:23] alex.m: perfect
+[14:24] jennifer.d: he reply yet?
+[14:25] mike.r: not yet
+[14:26] sarah.k: their stack fits us well imo
+[14:27] alex.m: Rust etc yeah
+[14:28] jennifer.d: security concerns still?
+[14:29] mike.r: always
+[14:30] sarah.k: she worried about arch
+[14:31] alex.m: who she?
+[14:32] jennifer.d: probably eng lead
+[14:33] mike.r: budget 850k good
+[14:34] sarah.k: yep
+[14:35] alex.m: CartLogic small team 40
+[14:36] jennifer.d: Victor key contact
+[14:37] mike.r: 2 yrs tenure
+[14:38] sarah.k: churn pain big
+[14:39] alex.m: slow support yeah
+[14:40] jennifer.d: infra costs too
+[14:41] mike.r: all pains align
+[14:42] sarah.k: discovery progressing [👍 from @alex.m]
+[14:43] alex.m: next: bids process
+[14:44] jennifer.d: 3 req'd
+[14:45] mike.r: got it
+[14:46] sarah.k: crm workflows competitor noted
+[14:47] alex.m: thx
+[14:48] jennifer.d: makes sense
+[15:10] alex.m: Victor replied! Deep dive thurs
+[15:11] sarah.k: awesome
+[15:12] mike.r: with his eng team?
+[15:13]   ↳ alex.m: yes!
+[15:14] jennifer.d: great
+[15:15] sarah.k: prep security demo?

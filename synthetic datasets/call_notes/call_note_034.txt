@@ -1,0 +1,30 @@
+Call with: Omar Mueller, Director of Sales Engineering at CoinTrail
+Date: February 23, 2026
+Duration: 30 min
+
+Key Points:
+- Omar @ CoinTrail 8 yrs, Dir SE, def DM
+- Curr sol: internal Python scripts pull mult APIs — hacky
+- Stack: Rust/Actix/AWS/PG/NATS — solid but scalin probs peak traffic
+- Pains: scaling peaks, sec concerns arch, high infra costs eatin margins
+- Eval'ing Intercom, custom int tool, HubSpot AI — none stickin
+- Budget alloc ~$600k, deal stage negot, urgency low
+- Co size 11-50, lean team
+- He's pushin Q2 close but team slow
+- Wants POC w/ our Rust integ — def fit
+- Mentioned NATS bottleneck peaks
+- Sec audit flagged API pulls
+- High costs killin margins, prob switch by EOQ
+- Demo'd basics, liked UI over HubSpot
+- He noted our AWS sync beats custom
+
+Action Items:
+- [ ] Send POC proposal w/ Rust/Actix specs — me by EOD Fri
+- [ ] Schd tech mtg w/ his eng next week — me
+- [ ] F/u budget details from finance — Omar
+- [ ] Share sec whitepaper re: arch concerns — me
+
+Notes:
+Omar solid guy, been there 8 yrs knows pains inside out. Curr Python mess can't scale peaks, they're burnin cash on AWS overprov. He's DM pushin but urgency low bc team eval'ing comps like Intercom/HubSpot — our edge on stack match (Rust etc). Deal $600k pot, negot stage, he'll loop eng leads next wk.
+
+He's hesit on timeline, wants Q2 but prob drag to EOQ w/ sec review. Small co 11-50 so budget real but cautious. Def chase POC, fits perf. He? Wait, Omar said his lead eng flag NATS but our tool fixes. Quick win if f/u fast.

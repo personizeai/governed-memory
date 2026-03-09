@@ -1,0 +1,23 @@
+**Follow-up Sales Call Note**  
+**Date:** February 02, 2026  
+**Contact:** Alex Costa, VP of Engineering, Cortex Systems (Digital Media)  
+**Duration:** 45 minutes  
+**Called by:** [Your Name], Sales Rep  
+
+**Key Discussion Points:**  
+- Alex provided update on team growth: Cortex Systems has expanded engineering team to 85 people (supersedes prior info of 65; driven by new adtech platform launch). This change accelerates their need for scalable CI/CD tools.  
+- Reviewed pain points with current Jenkins setup: Frequent pipeline failures amid 30% YoY traffic spike in streaming services.  
+- Expressed strong interest in our DevOps suite for container orchestration; demo requested to address Kubernetes migration.  
+- Budget update: Q2 allocation approved at $750K for engineering tools, pending stakeholder buy-in. No competitor mentions (previously evaluated GitLab).  
+
+**Objections/Concerns:**  
+- Integration timeline must align with March sprint cycle.  
+
+**Next Steps:**  
+- Send tailored demo link and ROI calculator by EOD Feb 3.  
+- Schedule 60-min demo for Feb 10 with Alex + 2 engineers.  
+- Follow up via email on budget details.  
+
+**Deal Stage:** Qualified Opportunity | Probability: 65% | Projected Close: Q2 2026  
+
+(Word count: 178)

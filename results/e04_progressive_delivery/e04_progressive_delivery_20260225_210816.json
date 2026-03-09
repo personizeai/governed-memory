@@ -1,0 +1,114 @@
+{
+  "experiment_id": "e04_progressive_delivery",
+  "started_at": "2026-02-25T21:07:53.163656",
+  "completed_at": "2026-02-25T21:08:16.560906",
+  "metadata": {},
+  "record_count": 10,
+  "records": [
+    {
+      "mode": "A_no_progressive",
+      "step": 1,
+      "step_text": "Draft a personalized cold outreach email to a VP of Sales at a mid-market SaaS company",
+      "context_chars": 37250,
+      "context_tokens_approx": 9312,
+      "selections_count": 10,
+      "duration_ms": 952,
+      "_timestamp": "2026-02-25T21:07:55.945832"
+    },
+    {
+      "mode": "A_no_progressive",
+      "step": 2,
+      "step_text": "Write a follow-up email for the same prospect after a discovery call, including pricing options",
+      "context_chars": 27210,
+      "context_tokens_approx": 6802,
+      "selections_count": 7,
+      "duration_ms": 727,
+      "_timestamp": "2026-02-25T21:07:57.999760"
+    },
+    {
+      "mode": "A_no_progressive",
+      "step": 3,
+      "step_text": "Handle a support escalation from an Enterprise Tier 1 account with SLA breach",
+      "context_chars": 11492,
+      "context_tokens_approx": 2873,
+      "selections_count": 3,
+      "duration_ms": 1042,
+      "_timestamp": "2026-02-25T21:08:00.438101"
+    },
+    {
+      "mode": "A_no_progressive",
+      "step": 4,
+      "step_text": "Prepare a troubleshooting guide response for the same support ticket with technical API errors",
+      "context_chars": 10795,
+      "context_tokens_approx": 2698,
+      "selections_count": 2,
+      "duration_ms": 585,
+      "_timestamp": "2026-02-25T21:08:02.491517"
+    },
+    {
+      "mode": "A_no_progressive",
+      "step": 5,
+      "step_text": "Create a closing proposal email for the VP of Sales prospect, referencing our competitive advantages",
+      "context_chars": 37931,
+      "context_tokens_approx": 9482,
+      "selections_count": 10,
+      "duration_ms": 870,
+      "_timestamp": "2026-02-25T21:08:04.818093"
+    },
+    {
+      "mode": "B_progressive",
+      "step": 1,
+      "step_text": "Draft a personalized cold outreach email to a VP of Sales at a mid-market SaaS company",
+      "session_id": "68d0b8f2-6729-4862-b95e-08299573295c",
+      "context_chars": 37250,
+      "context_tokens_approx": 9312,
+      "selections_count": 10,
+      "duration_ms": 717,
+      "_timestamp": "2026-02-25T21:08:06.971285"
+    },
+    {
+      "mode": "B_progressive",
+      "step": 2,
+      "step_text": "Write a follow-up email for the same prospect after a discovery call, including pricing options",
+      "session_id": "68d0b8f2-6729-4862-b95e-08299573295c",
+      "context_chars": 3839,
+      "context_tokens_approx": 959,
+      "selections_count": 1,
+      "duration_ms": 1463,
+      "_timestamp": "2026-02-25T21:08:09.828150"
+    },
+    {
+      "mode": "B_progressive",
+      "step": 3,
+      "step_text": "Handle a support escalation from an Enterprise Tier 1 account with SLA breach",
+      "session_id": "68d0b8f2-6729-4862-b95e-08299573295c",
+      "context_chars": 11492,
+      "context_tokens_approx": 2873,
+      "selections_count": 3,
+      "duration_ms": 1013,
+      "_timestamp": "2026-02-25T21:08:12.294199"
+    },
+    {
+      "mode": "B_progressive",
+      "step": 4,
+      "step_text": "Prepare a troubleshooting guide response for the same support ticket with technical API errors",
+      "session_id": "68d0b8f2-6729-4862-b95e-08299573295c",
+      "context_chars": 5434,
+      "context_tokens_approx": 1358,
+      "selections_count": 1,
+      "duration_ms": 706,
+      "_timestamp": "2026-02-25T21:08:14.462987"
+    },
+    {
+      "mode": "B_progressive",
+      "step": 5,
+      "step_text": "Create a closing proposal email for the VP of Sales prospect, referencing our competitive advantages",
+      "session_id": "68d0b8f2-6729-4862-b95e-08299573295c",
+      "context_chars": 3928,
+      "context_tokens_approx": 982,
+      "selections_count": 1,
+      "duration_ms": 631,
+      "_timestamp": "2026-02-25T21:08:16.560634"
+    }
+  ]
+}

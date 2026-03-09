@@ -1,0 +1,56 @@
+# CartLogic — Account Overview
+
+## Company Background
+
+CartLogic is a prominent e-commerce company specializing in scalable online shopping cart solutions for mid-to-large retailers worldwide. With approximately 1272 employees spread across offices in San Francisco, London, and Bangalore, the company has grown rapidly since its founding in 2015 by former Amazon engineers who identified a gap in flexible, high-performance cart management systems. They provide a comprehensive platform that handles everything from inventory synchronization to personalized checkout experiences, powering over 5,000 active merchant sites. Their core business revolves around enabling seamless transaction processing during high-volume sales events like Black Friday, where they've historically faced scaling issues during peak traffic periods that strain their infrastructure. CartLogic's tech stack is heavily invested in modern serverless architectures, including Python for backend logic, FastAPI for API gateways, AWS Lambda for event-driven compute, DynamoDB for NoSQL storage, and SQS for message queuing, which supports their distributed operations but has led to concerns about vendor lock-in with their current cloud provider. Currently, much of their workflow orchestration relies on internal Python scripts pulling from multiple APIs, which has become a patchwork solution prone to failures under load. The company has navigated several funding rounds, raising over $150 million in Series C financing last year, positioning them for aggressive expansion into AI-enhanced personalization features. Lucia Ibrahim, their Head of Infrastructure who has been with CartLogic for four years, has been instrumental in modernizing this stack amid growing pains like inconsistent messaging across the sales team, which hampers coordinated customer outreach during peak seasons.
+
+## Key Contacts
+
+| Name | Title | Role in Deal |
+|---|---|---|
+| Lucia Ibrahim | Head of Infrastructure | Primary Contact |
+| Brian Nakamura | VP of Engineering | Technical Evaluator |
+| Tom Dubois | VP of Sales | Budget Owner |
+| Emily Thompson | Director of IT | End User |
+| Marcus Costa | Chief Product Officer | Technical Evaluator |
+
+## Meeting History
+
+### Meeting 1: Discovery Call (January 7, 2026)
+
+The initial discovery call with Lucia Ibrahim and Tom Dubois uncovered CartLogic's core challenges in managing e-commerce workflows at scale. They described how scaling issues during peak traffic periods, such as holiday surges, overwhelm their AWS Lambda and SQS-based systems, leading to delayed order processing and lost revenue. Inconsistent messaging across the sales team was highlighted as a major pain point; reps were pulling data from disparate sources, resulting in mismatched promotions sent to customers. They mentioned their reliance on internal Python scripts pulling from multiple APIs as the current solution, which lacks robustness and requires constant manual tweaks. Lucia emphasized the need to evaluate alternatives to mitigate vendor lock-in risks with AWS, while Tom outlined the budget parameters—approximately $350,000 allocated for this initiative, with direct sign-off possible up to $200K but board approval required above that threshold. The team expressed interest in our platform's potential to unify these workflows. Brian Nakamura joined midway and probed our integration capabilities with their FastAPI endpoints. They agreed it was critical; he nodded in approval but pushed for more details on cost savings. Next steps included scheduling a technical deep dive, which we set for early February.
+
+### Meeting 2: Technical Deep Dive (February 2, 2026)
+
+In the technical deep dive, Brian Nakamura and Marcus Costa led the discussion, diving into CartLogic's tech stack details: Python for core logic, FastAPI for high-throughput APIs, AWS Lambda for serverless execution, DynamoDB for real-time data handling, and SQS for decoupling services. Emily Thompson from IT shared end-user perspectives on how current internal Python scripts pulling data from multiple APIs cause inconsistencies, especially in sales messaging during peaks. They demonstrated a live scenario where peak traffic scaling issues caused SQS queues to backlog, delaying DynamoDB updates and frustrating sales reps with outdated info. Our demo resonated, particularly the serverless logic orchestration that integrates natively with their stack. Lucia reiterated her four years of experience scaling infrastructure at CartLogic, noting over 1,200 staff now depend on reliable systems amid growth. Marcus asked about handling vendor lock-in; we positioned our multi-cloud compatibility as a differentiator. The group was enthusiastic, but they referenced ongoing evaluations of competitors. It showed promise for their needs; she confirmed alignment with budget goals around $350k. We committed to a pricing proposal by the end of the week, targeting Friday delivery to Lucia.
+
+## Technical Requirements
+
+- **Scalable Workflow Orchestration**: Need a serverless-compatible solution that handles peak traffic spikes without Lambda/SQS backlogs, integrating seamlessly with Python/FastAPI for e-commerce cart logic processing.
+- **Unified Data Aggregation**: Replace internal Python scripts pulling from multiple APIs with a centralized engine to ensure consistent, real-time data flows across sales, inventory, and customer touchpoints.
+- **AI-Driven Messaging Consistency**: Tools to standardize sales team communications, reducing inconsistencies by auto-generating context-aware messages based on DynamoDB customer profiles.
+- **Multi-Cloud Flexibility**: Escape vendor lock-in from AWS by supporting hybrid deployments, with easy migration paths for existing Lambda functions and SQS queues.
+- **High Availability During Peaks**: Zero-downtime scaling for Black Friday-level events, with monitoring dashboards tailored to their 1272-employee operation's visibility needs.
+- **FastAPI-Native Integrations**: Plug-and-play endpoints for real-time order syncing, personalization logic, and promo distribution without custom scripting.
+- **Budget-Aligned Implementation**: Phased rollout fitting ~$350,000 envelope, with quick wins in qualification stage to demonstrate ROI before board approval for full deployment.
+- **Security and Compliance**: E-commerce PCI-DSS compliance, role-based access for IT/sales users like Emily Thompson, and audit trails for sales messaging.
+
+## Deal Status
+
+CartLogic is currently in the Qualification deal stage, with a potential value of $350,000 for the first-year implementation covering their core workflow needs. The timeline aims for POC completion by end of Q1 2026, followed by full rollout post-board approval, given the amount exceeds their $200K direct sign-off limit—Lucia can greenlight smaller pilots, but Tom as Budget Owner will shepherd the larger commitment. Key blockers include finalizing competitive comparisons, where they've been evaluating Microsoft Copilot for AI messaging, existing CRM workflows for basic scripting, and HubSpot AI for sales automation. Pain points like scaling issues during peak traffic periods and inconsistent messaging across the sales team are acutely felt in their 1000+ employee organization, exacerbated by vendor lock-in fears with AWS. Their current solution of internal Python scripts pulling from multiple APIs is brittle, as evidenced in meetings. Next steps: Send pricing proposal to Lucia by Friday to maintain momentum. Overall progress is positive, with strong technical alignment from Brian and Marcus, but we need to differentiate sharply on multi-cloud scalability to advance.
+
+## Competitive Landscape
+
+CartLogic's evaluation process includes several alternatives that could sway the deal:
+
+- **Microsoft Copilot**: Strong contender for AI-enhanced messaging and integration with their Python ecosystem, but concerns over Azure lock-in mirror their AWS issues; they've tested it in sales pilots.
+- **Existing CRM Workflows**: Internal tweaks to current Salesforce/CRM setups using basic scripting, which addresses inconsistent messaging short-term but fails on peak scaling—still the default "do-nothing" option favored by budget hawks.
+- **HubSpot AI**: Appealing for sales team consistency with out-of-box personalization, integrates with FastAPI via APIs, but lacks deep serverless support for DynamoDB/SQS-heavy loads; Emily Thompson likes its UI but questions enterprise scale.
+
+These were explicitly mentioned in both the discovery call and deep dive, positioning us to win on technical depth for their e-commerce specifics.
+
+## Risk Factors
+
+- **Board Approval Delay**: At $350k, exceeding the $200K direct threshold means Tom Dubois needs C-suite buy-in; any economic jitters from e-commerce slowdowns could stall this, especially with their scaling pains unaddressed.
+- **Competitor Traction**: Microsoft Copilot or HubSpot AI could pull ahead if they demo faster ROI on messaging consistency; their current CRM workflows inertia is sticky, as reps resist change despite peak traffic failures.
+- **Internal Alignment Gaps**: While Lucia champions infrastructure upgrades after four years of growth pains, sales team buy-in for new tools is uncertain—Emily's end-user feedback is key, but inconsistent messaging history breeds skepticism; it might require more hands-on pilots.

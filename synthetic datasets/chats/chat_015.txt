@@ -1,0 +1,95 @@
+#deals-adstack
+
+[14:32] @alex.m: @channel quick update on AdStack - just off discovery call w/ Lucia Kim, their CRO. Been there 3 yrs, they're a digital media shop ~84 employees. Deal stage discovery, potential $600k. [👍 from @sarah.k]
+
+[14:33] @sarah.k: Nice! What pains did she mention? Scaling issues?
+
+[14:34] @alex.m: Yeah, big time - scaling during peak traffic periods is killing them. Also vendor lock-in w/ current cloud provider (DigitalOcean). And high infra costs eating margins.
+
+  ↳ [14:35] @mike.r: DO? Makes sense, they're on PHP/Laravel/MySQL/Redis stack. Got it.
+
+[14:36] @brandon.d: Budget? She confirm the $600k allocated?
+
+[14:37] @alex.m: Approx $600k yeah. But buying process needs CFO approval for anything over $100k.
+
+[14:38] @sarah.k: Who's she? Lucia? Smart, CROs usually loop in finance early.
+
+[14:39] @alex.m: Yep Lucia. Timeline is 2026-05-04 for decision fwiw.
+
+[14:40] @mike.r: Tech deets? They mentioned current solution?
+
+  ↳ [14:41] @alex.m: Internal Python scripts pulling from multiple APIs. Ngl, messy.
+
+[14:42] @brandon.d: Competitors? Apollo.io, Gong in play?
+
+[14:43] @alex.m: Spot on, evaluating those too. But our scaling story should win.
+
+[14:44] @sarah.k: [shared link: AdStack pricing page] Check this - tailored proposal draft. Lmk tweaks.
+
+[👍 from @mike.r] [👀 from @brandon.d]
+
+[14:45] @mike.r: Pain points also customer churn from slow support response times? She say that?
+
+[14:46] @alex.m: Yeah she did. They're hurting on that during peaks.
+
+[14:47] @brandon.d: Company size 51-200, fits our sweet spot imo.
+
+[14:48] @sarah.k: Lucia been at AdStack 3 years right? Solid tenure.
+
+[14:49] @alex.m: Correct, decision maker for sure.
+
+  ↳ [14:50] @mike.r: Makes sense. Next steps?
+
+[14:51] @brandon.d: Send pricing proposal to her by Friday?
+
+[14:52] @alex.m: Exactly. @here who can own that?
+
+[14:53] @sarah.k: I got it. Will polish and send EOD tomorrow.
+
+[14:54] @mike.r: Their stack: PHP, Laravel, DigitalOcean, MySQL, Redis. We integrate seamless.
+
+[👍 from @alex.m]
+
+[14:55] @brandon.d: Vendor lock-in w/ DO is huge - we fix that.
+
+[14:56] @alex.m: Last Friday she mentioned Gong demo was meh.
+
+[14:57] @sarah.k: Haha perfect. High infra costs too?
+
+[14:58] @alex.m: Yup, eating into margins bad.
+
+  ↳ [14:59] @mike.r: Got it. We slash those.
+
+[15:00] @brandon.d: Budget $600k repeated? Solid.
+
+[15:01] @sarah.k: Yeah Alex mentioned twice. Deal value matches.
+
+[15:02] @alex.m: Apollo.io pricing scared them off imo.
+
+[15:03] @mike.r: Next sprint we demo our scaling?
+
+[15:04] @brandon.d: They need CFO nod, so proposal key.
+
+[15:05] @sarah.k: Sending now? Wait for her reply first?
+
+[15:06] @alex.m: By Friday lmk. She's the one pushing internally.
+
+[15:07] @mike.r: Unclear who "she" is here? CFO?
+
+  ↳ [15:08] @alex.m: Nah Lucia.
+
+[15:09] @brandon.d: Peak traffic scaling + churn = our wheelhouse tbh.
+
+[👍 from @sarah.k]
+
+[15:10] @sarah.k: Updated proposal [shared link: AdStack pricing page] - costs 40% lower than DO.
+
+[15:11] @alex.m: Love it. CFO approval over $100k confirmed?
+
+[15:12] @brandon.d: Yes, she said they're not interested without it. Wait who?
+
+[15:13] @mike.r: Makes sense. Python scripts sound hacky.
+
+[15:14] @sarah.k: All good? 👍
+
+[👍 from @alex.m] [👍 from @brandon.d] [👍 from @mike.r]

@@ -1,0 +1,24 @@
+Call with: Emily Petrov, CTO at MediaForge
+Date: February 12, 2026
+Duration: 45 min
+
+Key Points:
+- MediaForge dig media co, ~45 emps (11-50 range)
+- Scaling probs peak traffic — Node/GCP choking
+- Stack: TS/React/Node/GCP/MongoDB
+- Emily 7yrs there, knows pain deep
+- Churn spiking — slow supp resp times killing custs
+- Eval'ing Intercom, but not sold
+- Budget ~75k alloc'd
+- Med urgency, timeline 9/5/26 dec
+- She's pushing internally
+- Pain: churn + scaling def core
+- Deal val 75k fits
+
+Action Items:
+- [ ] Send POC demo link + stack compat doc (me, EOD today)
+- [ ] F/u mtg w/ Emily next week — her to present internally first
+- [ ] Ping eng re: GCP/Mongo scaling benchmarks (me by Fri)
+
+Notes:
+Emily solid lead, def interested bc Intercom lagging on scale. She's been grinding 7yrs, gets tech debt real. Mentioned peak traffic kills resp times, custs bailing — prob 20% churn last qtr. He'll loop in CEO post-internal, but she's driving. Next week f/u critical, med urgency but by EOQ push? Sent vibes good, probing budget nailed at 75k. She's eyeing our TS/Node edge over Intercom. Quick win if we nail POC. He's hesitating on timeline but 9/5 doable. F/u aggressive.

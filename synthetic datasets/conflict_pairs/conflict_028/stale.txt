@@ -1,0 +1,23 @@
+**Sales Meeting Note**  
+**Date:** November 24, 2025  
+**Contact:** Alex Ito, VP Engineering, Drift Analytics (Manufacturing)  
+**Duration:** 45 min via Zoom  
+
+Met with Alex to discuss scaling their analytics platform for manufacturing IoT data. Drift Analytics uses Django as their primary web framework, which is handling current loads but straining under 2x growth in sensor data volume.  
+
+Key pain points:  
+- Legacy Django apps bottlenecked on real-time processing for 500+ factory lines.  
+- Need seamless integration with our API for predictive maintenance ML models.  
+
+Opportunity: Alex confirmed Q1 budget approval for $150K tech stack refresh. Expressed strong interest in our Django-compatible middleware—POC demo requested. Competitive: Evaluated Flask alternatives but sticking with Django ecosystem.  
+
+Alex shared org chart: Reports to CTO; influences 3 eng leads. Timeline: RFP by Dec 15; decision Jan.  
+
+**Next Steps:**  
+- Send Django integration whitepaper and POC scope by Nov 28.  
+- Schedule follow-up w/ CTO on Dec 5.  
+- Alex to intro eng lead for tech deep-dive.  
+
+High potential; qualified as MO. Follow up promptly.  
+
+(Word count: 178)

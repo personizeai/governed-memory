@@ -1,0 +1,111 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Sarah Park <sarah.park@streamops.com>, Alex Volkov <alex.volkov@streamops.com>  
+CC:  
+Subject: Re: Exploring Technova for StreamOps' Dev Tooling Challenges  
+Date: Fri, Feb 06, 2026, 10:32 AM PST  
+
+Hi Sarah and Alex,  
+
+Thanks for looping in Sarah—great to get her engineering perspective early. To address your question on Rust and Actix integration: Technova's platform has first-class support for Rust-based services, including seamless Actix-web framework compatibility. We've optimized our agents to hook directly into Actix actors and middleware without requiring code changes, and they natively stream telemetry over NATS for real-time observability.  
+
+This ties into your PostgreSQL setups too—we can ingest query metrics and replication lag directly, all while running on AWS without vendor lock-in. Teams like yours at digital media companies (with ~2,247 employees like StreamOps) have cut deployment times by 40% after unifying fragmented tooling across departments.  
+
+Regarding the poor developer experience slowing feature velocity, our platform accelerates onboarding for specialized engineers, which helps with your hiring difficulties. We've seen similar setups reduce customer churn from slow support response times by providing instant context in AWS environments.  
+
+Light proposal attached: a $120,000 annual commitment tailored to your stack (Rust, Actix, AWS, PostgreSQL, NATS), with a quick POC next week to hit your May 6th decision timeline. This positions us ahead of Gong and Apollo.io evaluations, focusing on engineering productivity rather than just sales calls.  
+
+What's the best time for a 15-min call to demo this?  
+
+Best,  
+Alex Morgan  
+Account Executive  
+Technova  
+(415) 555-0123  
+alex.morgan@technova.io  
+
+On Thu, Feb 05, 2026 at 3:45 PM PST, Sarah Park wrote:  
+> From: Sarah Park <sarah.park@streamops.com>  
+> To: Alex Morgan <alex.morgan@technova.io>, Alex Volkov <alex.volkov@streamops.com>  
+> CC:  
+> Subject: Re: Fwd: Re: Exploring Technova for StreamOps' Dev Tooling Challenges  
+> Date: Thu, Feb 05, 2026, 3:45 PM PST  
+>  
+> Hi Alex (Morgan),  
+>  
+> Alex Volkov forwarded this to me as Engineering Manager. Quick technical question: How does Technova handle Rust and Actix-web services? We run a lot on AWS with PostgreSQL backends and NATS for messaging—does it integrate without heavy refactoring? Our fragmented tooling is killing us post-board meeting last month when priorities shifted to faster feature velocity.  
+>  
+> Also, with difficulty hiring specialized engineers, anything on improving dev experience?  
+>  
+> Thanks,  
+> Sarah Park  
+> Engineering Manager  
+> StreamOps  
+> (415) 555-0198  
+> sarah.park@streamops.com  
+>  
+> ---------- Forwarded message ----------  
+> From: Alex Volkov <alex.volkov@streamops.com>  
+> Date: Wed, Feb 04, 2026, 2:15 PM PST  
+> Subject: Fwd: Re: Exploring Technova for StreamOps' Dev Tooling Challenges  
+> To: Sarah Park <sarah.park@streamops.com>  
+>  
+> Sarah—thoughts on this? They've got some good points on our pain points. Forwarding the thread.  
+>  
+> Alex  
+>  
+> ---------- Forwarded message ----------  
+> From: *Alex Morgan* <alex.morgan@technova.io>  
+> Date: Tue, Feb 03, 2026, 11:20 AM PST  
+> Subject: Re: Exploring Technova for StreamOps' Dev Tooling Challenges  
+> To: *Alex Volkov* <alex.volkov@streamops.com>  
+>  
+> Hi Alex,  
+>  
+> Quick answer: Yes, we've helped similar Digital Media companies like yours (mid-size at ~2,247 employees) unify fragmented tooling post-board meeting priority shifts. Technova's platform overlays your existing stack—Rust, Actix, AWS, PostgreSQL, NATS—without rip-and-replace.  
+>  
+> It directly tackles difficulty hiring specialized engineers by accelerating onboarding and improving developer experience, which boosts feature velocity and cuts customer churn from slow support times. Light proposal: $120k/year gets you into negotiation stage quickly, beating out Gong/Apollo.io on eng-focused metrics. RFP from you by end of week? Decision by May 6th works with critical urgency.  
+>  
+> Thoughts?  
+>  
+> Best,  
+> Alex Morgan  
+> Account Executive  
+> Technova  
+> (415) 555-0123  
+
+> On Mon, Feb 02, 2026 at 9:15 AM PST, Alex Volkov wrote:  
+>> From: Alex Volkov <alex.volkov@streamops.com>  
+>> To: Alex Morgan <alex.morgan@technova.io>  
+>> CC:  
+>> Subject: Re: Exploring Technova for StreamOps' Dev Tooling Challenges  
+>> Date: Mon, Feb 02, 2026, 9:15 AM PST  
+>>  
+>> Hi Alex,  
+>>  
+>> I've been at StreamOps for 7 years as Director of Engineering. Our board meeting last month shifted priorities big time—now fragmented tooling across departments is top pain, plus difficulty hiring specialized engineers. Worth exploring?  
+>>  
+>> Alex Volkov  
+>> Director of Engineering  
+>> StreamOps  
+>> (415) 555-0176  
+>> alex.volkov@streamops.com  
+>>  
+>> On Sat, Feb 01, 2026 at 8:45 AM PST, Alex Morgan wrote:  
+>>> From: Alex Morgan <alex.morgan@technova.io>  
+>>> To: Alex Volkov <alex.volkov@streamops.com>  
+>>> CC:  
+>>> Subject: Exploring Technova for StreamOps' Dev Tooling Challenges  
+>>> Date: Sat, Feb 01, 2026, 8:45 AM PST  
+>>>  
+>>> Hi Alex,  
+>>>  
+>>> Director of Engineering at StreamOps caught my eye—congrats on the role. With your Rust/Actix stack on AWS, PostgreSQL, and NATS, I suspect fragmented tooling is slowing things down across teams.  
+>>>  
+>>> Technova unifies it all, improving dev experience to speed feature velocity and reduce churn from slow support. We've got $120k deals closing fast for critical needs like yours. Interested?  
+>>>  
+>>> Best,  
+>>> Alex Morgan  
+>>> Account Executive  
+>>> Technova  
+>>> (415) 555-0123  
+>>> alex.morgan@technova.io

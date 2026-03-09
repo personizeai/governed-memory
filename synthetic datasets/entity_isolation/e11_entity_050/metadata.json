@@ -1,0 +1,19 @@
+{
+  "entity_index": 50,
+  "name": "Chloe Nakamura",
+  "company": "Zephyr Labs",
+  "industry": "CleanTech",
+  "email": "chloe.nakamura@zephyrlabs.com",
+  "title": "Chief Revenue Officer",
+  "facts": [
+    "Chloe Nakamura is Chief Revenue Officer at Zephyr Labs",
+    "Zephyr Labs is a CleanTech company with 1216 employees",
+    "Tech stack: Rust, Actix, AWS, PostgreSQL, NATS",
+    "Deal value: $120,000",
+    "Pain points: lack of real-time analytics for decision making; manual processes for customer onboarding",
+    "Competitors: Apollo.io",
+    "Decision timeline: Q4 2026",
+    "Annual revenue: ~$159M"
+  ],
+  "actual_word_count": 361
+}

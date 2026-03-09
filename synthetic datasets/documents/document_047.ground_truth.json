@@ -1,0 +1,84 @@
+{
+  "sample_id": "document_047",
+  "content_type": "wiki_document",
+  "company": "StreamOps",
+  "industry": "Digital Media",
+  "target_word_count": 1651,
+  "actual_word_count": 1305,
+  "expected_facts": [
+    {
+      "text": "Nadia reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Intercom, existing CRM workflows, custom internal tool",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Chicago",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 2 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "StreamOps is a Digital Media company with about 2811 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "Nadia Lee has been at StreamOps for 1 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 12 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Java, Spring Boot, Azure, Oracle, Kafka",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "CTO",
+    "company_name": "StreamOps",
+    "company_size": "1000+",
+    "technology_stack": "Java, Spring Boot, Azure, Oracle, Kafka",
+    "deal_stage": "Qualification",
+    "deal_value": 200000,
+    "decision_timeline": "2026-04-23",
+    "competitors_mentioned": [
+      "Intercom",
+      "existing CRM workflows",
+      "custom internal tool"
+    ],
+    "decision_maker": true,
+    "buying_process": "Standard procurement: demo, security review, legal review, sign-off from VP Finance"
+  },
+  "planted_issues": {
+    "pronoun_issues": 1,
+    "temporal_issues": 1,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Yusuf Anderson",
+      "title": "VP of Operations",
+      "role": "End User"
+    },
+    {
+      "name": "Maya Hassan",
+      "title": "CTO",
+      "role": "Technical Evaluator"
+    }
+  ],
+  "property_coverage": 0.71
+}

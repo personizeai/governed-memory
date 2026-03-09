@@ -1,0 +1,72 @@
+{
+  "sample_id": "chat_031",
+  "content_type": "chat_log",
+  "company": "ContentHQ",
+  "industry": "Digital Media",
+  "message_count_target": 48,
+  "actual_word_count": 493,
+  "expected_facts": [
+    {
+      "text": "Amanda Wright has been at ContentHQ for 3 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with data silos between engineering and sales teams",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating custom internal tool, Clari",
+      "type": "explicit"
+    },
+    {
+      "text": "ContentHQ is a Digital Media company with about 4801 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes TypeScript, React, Node.js, GCP, MongoDB",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $120,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Chicago",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with technical debt from rapid early growth",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Sales Engineering",
+    "company_name": "ContentHQ",
+    "company_size": "1000+",
+    "technology_stack": "TypeScript, React, Node.js, GCP, MongoDB",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "data silos between engineering and sales teams",
+      "technical debt from rapid early growth"
+    ],
+    "deal_value": 120000,
+    "decision_timeline": "2026-09-12",
+    "competitors_mentioned": [
+      "custom internal tool",
+      "Clari"
+    ],
+    "next_steps": "Schedule a technical deep-dive with Amanda's engineering team"
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 2,
+    "duplicate_facts": 2
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@anita.c"
+  ],
+  "property_coverage": 0.71
+}

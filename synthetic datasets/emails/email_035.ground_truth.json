@@ -1,0 +1,69 @@
+{
+  "sample_id": "email_035",
+  "content_type": "email_thread",
+  "company": "PharmaPipe",
+  "industry": "Healthcare Tech",
+  "email_count": 5,
+  "actual_word_count": 1145,
+  "expected_facts": [
+    {
+      "text": "Their tech stack includes PHP, Laravel, DigitalOcean, MySQL, Redis",
+      "type": "explicit"
+    },
+    {
+      "text": "Amanda Williams has been at PharmaPipe for 7 years",
+      "type": "explicit"
+    },
+    {
+      "text": "PharmaPipe is a Healthcare Tech company with about 115 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $350,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with security concerns with current architecture",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Salesforce Einstein, HubSpot AI",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using legacy Java application maintained by one person",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with integration complexity with legacy systems",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Engineering",
+    "company_name": "PharmaPipe",
+    "company_size": "51-200",
+    "technology_stack": "PHP, Laravel, DigitalOcean, MySQL, Redis",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "security concerns with current architecture",
+      "integration complexity with legacy systems",
+      "manual processes for customer onboarding"
+    ],
+    "deal_value": 350000,
+    "decision_timeline": "2026-06-26",
+    "competitors_mentioned": [
+      "Salesforce Einstein",
+      "HubSpot AI"
+    ],
+    "decision_maker": false,
+    "current_solution": "legacy Java application maintained by one person"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 1
+  },
+  "introduces_new_person": true,
+  "colleague": "Rachel Singh, Director of IT",
+  "property_coverage": 0.79
+}

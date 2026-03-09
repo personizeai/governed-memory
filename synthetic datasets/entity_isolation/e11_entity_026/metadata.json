@@ -1,0 +1,19 @@
+{
+  "entity_index": 26,
+  "name": "Heather Volkov",
+  "company": "Mosaic Data",
+  "industry": "Logistics",
+  "email": "heather.volkov@mosaicdata.com",
+  "title": "Head of Product",
+  "facts": [
+    "Heather Volkov is Head of Product at Mosaic Data",
+    "Mosaic Data is a Logistics company with 2482 employees",
+    "Tech stack: Python, Django, AWS, PostgreSQL, Redis",
+    "Deal value: $1,000,000",
+    "Pain points: vendor lock-in with current cloud provider; data silos between engineering and sales teams; security concerns with current architecture; poor developer experience slowing feature velocity",
+    "Competitors: Chorus.ai, Salesforce Einstein, Apollo.io",
+    "Decision timeline: Q4 2026",
+    "Annual revenue: ~$188M"
+  ],
+  "actual_word_count": 308
+}

@@ -1,0 +1,19 @@
+{
+  "entity_index": 8,
+  "name": "Brian Fernandez",
+  "company": "Vertex Cloud",
+  "industry": "EdTech",
+  "email": "brian.fernandez@vertexcloud.com",
+  "title": "Director of Engineering",
+  "facts": [
+    "Brian Fernandez is Director of Engineering at Vertex Cloud",
+    "Vertex Cloud is a EdTech company with 322 employees",
+    "Tech stack: Scala, Spark, Databricks, Snowflake, Airflow",
+    "Deal value: $50,000",
+    "Pain points: inconsistent messaging across sales team; customer churn from slow support response times; technical debt from rapid early growth",
+    "Competitors: existing CRM workflows, Outreach, Gong",
+    "Decision timeline: Q4 2026",
+    "Annual revenue: ~$109M"
+  ],
+  "actual_word_count": 337
+}

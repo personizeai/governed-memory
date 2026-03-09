@@ -1,0 +1,101 @@
+[09:15] alex.m: @here quick update on PriceMatrix deal. Spoke with Fatima Johnson yesterday, she's CRO there.
+[09:16] alex.m: E-commerce giant, about 4972 employees. Deal stage is Discovery right now.
+[👍 from @sarah.k]
+[09:17] sarah.k: Nice, what's their tech stack?
+[09:18] alex.m: TypeScript, React, Node.js on GCP with MongoDB. Perfect fit tbh.
+[09:19] mike.r: Got it. Current solution?
+[09:20] alex.m: Mix of Google Sheets and custom dashboards. Painful af.
+[09:21] marcus.e: They lost a major customer last quarter due to onboarding issues, right? [shared link: PriceMatrix pricing page]
+[👍 from @alex.m]
+[09:22] alex.m: Yep, Fatima mentioned that. She's been there 8 years.
+[09:23] sarah.k: Budget? Deal value around 120k?
+[09:24] alex.m: Budget allocated ~120k. Deal value 120000 exactly.
+[09:25] mike.r: Competitors?
+[09:26] alex.m: Evaluating Gong, building in-house too.
+[09:27] sarah.k:  ↳ [09:27] sarah.k: Gong? Oof, we can crush that imo.
+[09:28] alex.m: Decision timeline 2026-10-25. Long way out.
+[09:29] marcus.e: Eng team growing, hired 17 this quarter. Good sign.
+[09:30] mike.r: Fatima the decision maker?
+[09:31] alex.m: Nah, Decision Maker: False. She's influencer tho.
+[09:32] sarah.k: Makes sense. Next steps?
+[09:33] alex.m: Demo scheduled for tomorrow.
+[09:34] mike.r:  ↳ [09:34] mike.r: Tomorrow? With who?
+[09:35] alex.m:  ↳ [09:35] alex.m: Her team.
+[09:36] sarah.k: She said they're excited about our onboarding.
+[👍 from @marcus.e]
+[09:37] marcus.e: Who said that? Fatima?
+[09:38] alex.m: Yeah. Lost that customer cuz of onboarding issues.
+[09:39] mike.r: Repeated for emphasis lol. Budget 120k solid.
+[09:40] sarah.k: Tech stack again: React/Node/GCP? Yep.
+[09:41] alex.m: Fwiw, they're scaling eng hires.
+[09:42] marcus.e: 17 this quarter, ngl that's huge.
+[09:43] sarah.k: @channel anyone talk Gong objection yet?
+[09:44] mike.r: Not yet. They building in-house too.
+[09:45] alex.m: Fatima been at PriceMatrix 8 years, knows pains well.
+[09:46] sarah.k: He mentioned sheets are killing them.
+[09:47] marcus.e: Who he? Alex you?
+[09:48] mike.r: Custom dashboards suck for real-time.
+[09:49] alex.m: Exactly. Discovery stage, let's prep demo.
+[09:50] sarah.k: Lmk if need slides.
+[09:51] mike.r: 👍
+[09:52] marcus.e: Got it.
+[10:05] alex.m: Quick follow-up: she wants to loop in eng leads next sprint.
+[10:06] sarah.k: Unclear who "she" is but assuming Fatima.
+[10:07] mike.r: Last Friday's call notes shared?
+[10:08] alex.m: Yeah in drive.
+[10:09] marcus.e: Gong eval ongoing?
+[10:10] alex.m: Yep, but our pricing edges them imo.
+[👍 from @sarah.k]
+[10:11] sarah.k: Deal value 120k, budget matches.
+[10:12] mike.r: CRO title gives her weight even if not DM.
+[10:13] alex.m: 4972 employees, enterprise scale.
+[10:14] marcus.e: Hired 17 eng, repeating cuz bullish.
+[10:15] sarah.k: TypeScript everywhere, our lib works.
+[10:16] mike.r: MongoDB quirks? They got it.
+[10:17] alex.m: Onboarding story hit home.
+[10:18] sarah.k: Tomorrow demo: focus competitors?
+[10:19] mike.r: Yes, Gong weak on GCP.
+[10:20] marcus.e: In-house half-baked tbh.
+[10:21] alex.m: Timeline to 2026-10-25, plenty ramp time.
+[10:22] sarah.k: He said budget locked.
+[10:23] mike.r: Who he now?
+[10:24] marcus.e: Fatima's team probs.
+[10:25] alex.m: Sheets to us = quick win.
+[10:26] sarah.k: 👍
+[10:27] mike.r: Makes sense.
+[11:30] alex.m: @here demo prep mtg at 2?
+[11:31] sarah.k: Yes.
+[11:32] marcus.e: In.
+[11:33] mike.r: Got it.
+[14:00] alex.m: Post-demo: they loved React integration.
+[14:01] sarah.k: Nice! What about Gong?
+[14:02] mike.r: She dismissed in-house option.
+[14:03] marcus.e: Unclear she, but progress.
+[14:04] alex.m: Budget convos positive, 120k.
+[14:05] sarah.k: Eng hires mean urgency.
+[14:06] mike.r: 17 this quarter yeah.
+[14:07] alex.m: Next call next week?
+[14:08] marcus.e: Lmk.
+[14:09] sarah.k: Timeline still 2026?
+[14:10] alex.m: 2026-10-25 target.
+[14:11] mike.r: CRO pushing internally.
+[14:12] marcus.e: Fatima 8 yrs tenure = trust.
+[14:13] sarah.k: Current sol sheets/dash sucks.
+[14:14] alex.m: Repeated pains.
+[14:15] mike.r: Discovery advancing.
+[14:16] sarah.k: 👍
+[14:17] marcus.e: Fwiw, pricing page they shared impressed.
+[15:45] alex.m: One more: lost customer deets - onboarding delays.
+[15:46] sarah.k: We fix that.
+[15:47] mike.r: Ngl, deal feels warm.
+[15:48] marcus.e: Tech stack align 100%.
+[15:49] alex.m: Node.js perf boost sells.
+[15:50] sarah.k: GCP native too.
+[15:51] mike.r: Mongo scaling pains? Covered.
+[15:52] marcus.e: All good.
+[15:53] alex.m: Closing thoughts?
+[15:54] sarah.k: Push demo follow-up tomorrow.
+[15:55] mike.r: Agreed.
+[15:56] marcus.e: 👍
+[15:57] alex.m: Thanks team.
+[15:58] sarah.k: Np.

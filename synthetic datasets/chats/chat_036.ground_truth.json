@@ -1,0 +1,67 @@
+{
+  "sample_id": "chat_036",
+  "content_type": "chat_log",
+  "company": "ShopFront Digital",
+  "industry": "E-commerce",
+  "message_count_target": 47,
+  "actual_word_count": 695,
+  "expected_facts": [
+    {
+      "text": "Brian reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "Brian Santos has been at ShopFront Digital for 6 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with inconsistent messaging across sales team",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q3",
+      "type": "explicit"
+    },
+    {
+      "text": "ShopFront Digital is a E-commerce company with about 1347 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $1,200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes C#, .NET, Azure, SQL Server, RabbitMQ",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with data silos between engineering and sales teams",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Chief Revenue Officer",
+    "company_size": "1000+",
+    "technology_stack": "C#, .NET, Azure, SQL Server, RabbitMQ",
+    "pain_points": [
+      "inconsistent messaging across sales team",
+      "data silos between engineering and sales teams",
+      "scaling issues during peak traffic periods",
+      "compliance audit failures on data handling"
+    ],
+    "deal_value": 1200000,
+    "urgency_level": "Critical"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 3,
+    "duplicate_facts": 2
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@chloe.a"
+  ],
+  "property_coverage": 0.43
+}

@@ -1,0 +1,161 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Maya Costa <maya.costa@metalgrid.com>  
+Subject: Tailored Real-Time Analytics Solution for MetalGrid's Data Challenges  
+Date: Fri, Feb 06, 2026 10:15 AM PST  
+
+Hi Maya,  
+
+I hope this email finds you well. I'm Alex Morgan with Technova, and I came across MetalGrid while researching manufacturing leaders pushing the boundaries in data-driven operations with stacks like Scala, Spark, Databricks, Snowflake, and Airflow.  
+
+With your 4 years at MetalGrid as Head of Product, I imagine you're at the forefront of addressing pain points like security concerns in your current architecture and integration complexities with legacy systems—especially after losing a major customer last quarter due to onboarding issues. Our platform delivers seamless, secure real-time analytics that integrates natively with your tech stack, empowering faster decision-making without the headaches.  
+
+I'd love to hop on a quick 15-minute call to discuss how we've helped similar 1000+ employee firms like yours regain control. Are you available next week?  
+
+Best regards,  
+Alex Morgan  
+Sales Executive  
+Technova  
+(415) 555-0123  
+alex.morgan@technova.io  
+
+---
+
+From: Maya Costa <maya.costa@metalgrid.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Tailored Real-Time Analytics Solution for MetalGrid's Data Challenges  
+Date: Sat, Feb 07, 2026 9:30 AM PST  
+
+Hi Alex,  
+
+Thanks for reaching out. We've been evaluating options like Drift for real-time capabilities, but security is a big concern here, especially post our board meeting last month that shifted priorities toward better architecture protection. Our budget is around $450,000 for this initiative, and integration with legacy systems is proving complex.  
+
+What kind of ROI have you seen for manufacturing companies in our space dealing with similar onboarding delays?  
+
+Best,  
+Maya Costa  
+Head of Product  
+MetalGrid  
+(510) 555-0198  
+maya.costa@metalgrid.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Maya Costa <maya.costa@metalgrid.com>  
+Subject: Re: Tailored Real-Time Analytics Solution for MetalGrid's Data Challenges  
+Date: Mon, Feb 09, 2026 2:45 PM PST  
+
+Hi Maya,  
+
+Great to hear from you—thanks for the quick reply.  
+
+> We've been evaluating options like Drift for real-time capabilities, but security is a big concern here, especially post our board meeting last month that shifted priorities toward better architecture protection. Our budget is around $450,000 for this initiative, and integration with legacy systems is proving complex.  
+
+Spot on with Drift; we've won head-to-head against them by offering zero-trust security baked into real-time analytics pipelines. For a manufacturing peer with 4779 employees like MetalGrid, we cut onboarding time by 40%, directly addressing the customer loss you mentioned—ROI averaged 3x in the first year via reduced churn and faster decisions on Spark/Databricks workflows. With your $450k allocation, we can scope a deployment hitting your April 26th timeline.  
+
+Light proposal attached: a discovery POC tailored to your Scala/Snowflake/Airflow stack. How does a 30-min demo sound this week?  
+
+Cheers,  
+Alex Morgan  
+Sales Executive  
+Technova  
+(415) 555-0123  
+alex.morgan@technova.io  
+
+[Attachment: Technova_MetalGrid_Discovery_Proposal.pdf]  
+
+---
+
+From: Maya Costa <maya.costa@metalgrid.com>  
+To: Jennifer Anderson <jennifer.anderson@metalgrid.com>, Alex Morgan <alex.morgan@technova.io>  
+CC:  
+Subject: Fwd: Re: Tailored Real-Time Analytics Solution for MetalGrid's Data Challenges  
+Date: Tue, Feb 10, 2026 11:20 AM PST  
+
+Jennifer,  
+
+Fyi—checking this out for our security and integration priorities. Alex from Technova has some promising real-time analytics that play nice with our stack. I report directly to the CEO, so this could move fast if it fits. Thoughts?  
+
+Thanks,  
+Maya  
+
+---------- Forwarded message ----------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Mon, Feb 09, 2026 2:45 PM PST  
+Subject: Re: Tailored Real-Time Analytics Solution for MetalGrid's Data Challenges  
+To: Maya Costa <maya.costa@metalgrid.com>  
+
+Hi Maya,  
+
+Great to hear from you—thanks for the quick reply.  
+
+> We've been evaluating options like Drift for real-time capabilities, but security is a big concern here, especially post our board meeting last month that shifted priorities toward better architecture protection. Our budget is around $450,000 for this initiative, and integration with legacy systems is proving complex.  
+
+Spot on with Drift; we've won head-to-head against them by offering zero-trust security baked into real-time analytics pipelines. For a manufacturing peer with 4779 employees like MetalGrid, we cut onboarding time by 40%, directly addressing the customer loss you mentioned—ROI averaged 3x in the first year via reduced churn and faster decisions on Spark/Databricks workflows. With your $450k allocation, we can scope a deployment hitting your April 26th timeline.  
+
+Light proposal attached: a discovery POC tailored to your Scala/Snowflake/Airflow stack. How does a 30-min demo sound this week?  
+
+Cheers,  
+Alex Morgan  
+Sales Executive  
+Technova  
+(415) 555-0123  
+alex.morgan@technova.io  
+
+Maya Costa  
+Head of Product  
+MetalGrid  
+(510) 555-0198  
+maya.costa@metalgrid.com  
+
+---
+
+From: Jennifer Anderson <jennifer.anderson@metalgrid.com>  
+To: Maya Costa <maya.costa@metalgrid.com>, Alex Morgan <alex.morgan@technova.io>  
+CC:  
+Subject: Re: Tailored Real-Time Analytics Solution for MetalGrid's Data Challenges  
+Date: Tue, Feb 10, 2026 4:10 PM PST  
+
+Hi Alex and Maya,  
+
+Maya looped me in as Director of IT. This looks interesting for our high-urgency discovery stage—especially with pains around security and legacy integrations. We've got end-of-quarter pressures too.  
+
+> Light proposal attached: a discovery POC tailored to your Scala/Snowflake/Airflow stack.  
+
+On the technical side, how does Technova handle Spark job orchestration alongside Airflow DAGs without introducing new latency in real-time pipelines? They lost that customer partly because of it. And with our board's shift, we need guarantees on Databricks compatibility for Snowflake queries.  
+
+Can we schedule a technical deep-dive with my engineering team next?  
+
+Thanks,  
+Jennifer Anderson  
+Director of IT  
+MetalGrid  
+(510) 555-0201  
+jennifer.anderson@metalgrid.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Jennifer Anderson <jennifer.anderson@metalgrid.com>, Maya Costa <maya.costa@metalgrid.com>  
+CC:  
+Subject: Re: Tailored Real-Time Analytics Solution for MetalGrid's Data Challenges  
+Date: Wed, Feb 11, 2026 9:05 AM PST  
+
+Hi Jennifer and Maya,  
+
+Thanks for the intro, Jennifer—excited to bring IT into the loop at this discovery stage. Your high urgency aligns perfectly with our quick-deploy model for $450k deals like this.  
+
+> On the technical side, how does Technova handle Spark job orchestration alongside Airflow DAGs without introducing new latency in real-time pipelines? They lost that customer partly because of it. And with our board's shift, we need guarantees on Databricks compatibility for Snowflake queries.  
+
+We use a hybrid orchestrator that proxies Airflow DAGs directly into Spark sessions via our Scala-native agent, ensuring sub-100ms latency even on legacy integrations—no new bottlenecks, as proven in 20+ manufacturing deploys. For Databricks/Snowflake, we have certified connectors that federate queries in real-time, addressing those security concerns head-on with zero-trust encryption. This setup recovered a similar onboarding issue for a competitor eval (they switched from Drift).  
+
+It integrates cleanly without refactoring your stack, and we've got case studies showing 40% faster decisions. Let's schedule that technical deep-dive with your engineering team next week—propose Thu Feb 19 at 2pm PT? Calendar link below.  
+
+Looking forward,  
+Alex Morgan  
+Sales Executive  
+Technova  
+(415) 555-0123  
+alex.morgan@technova.io  
+
+[Calendar Invite: Technova Technical Deep-Dive]

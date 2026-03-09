@@ -1,0 +1,42 @@
+# DataPulse Systems — Account Overview
+
+## Company Background
+DataPulse Systems is a B2B SaaS company specializing in real-time data analytics platforms for mid-market enterprises, particularly in the fintech and e-commerce sectors. With approximately 174 employees, fitting squarely into the 51-200 company size bracket, they provide scalable solutions that help businesses process and visualize streaming data for operational insights. Founded in 2015 by a team of former Oracle engineers frustrated with legacy database limitations, the company bootstrapped its way to profitability by focusing on Kafka-integrated tools that addressed gaps in event-driven architectures. Today, DataPulse powers feature velocity for dozens of clients, but internally, they're grappling with outdated processes like spreadsheets and manual data entry that hinder their own growth. Their journey from a Seattle garage startup to a key player in data orchestration underscores a commitment to innovation, though recent scaling challenges have exposed vulnerabilities in developer workflows.
+
+## Key Contacts
+| Name | Title | Role in Deal | Email | Phone | Notes |
+|---|---|---|---|---|---|
+| Robert Reyes | VP of Customer Success | Primary Contact | robert.reyes@datapulse.com | (206) 555-0123 | 8 years at DataPulse; champions real-time analytics needs |
+| Sarah Nakamura | Head of Infrastructure | Budget Owner | sarah.nakamura@datapulse.com | (206) 555-0145 | Controls $120,000 allocation; Azure expert |
+| Lucia Moreau | Chief Product Officer | Budget Owner | lucia.moreau@datapulse.com | (206) 555-0178 | Strategic decision-maker; focused on dev experience |
+
+## Meeting History
+### Meeting 1: Discovery Call (February 19, 2026)
+In this initial 45-minute Zoom discovery call, Robert Reyes outlined DataPulse Systems' core challenges, emphasizing how their reliance on spreadsheets and manual data entry for tracking developer metrics is creating bottlenecks. He highlighted the lack of real-time analytics for decision-making, which is exacerbating poor developer experience and slowing feature velocity across their Java and Spring Boot applications. Sarah Nakamura joined midway, providing context on their Azure-hosted Oracle and Kafka environments, and expressed interest in solutions that could integrate seamlessly without disrupting current pipelines. The team agreed it was a strong fit, scheduling a deep dive, though they noted competitors like Clari were also in play. Robert promised to loop in Lucia Moreau for the next session.
+
+### Meeting 2: Technical Deep Dive (March 5, 2026)
+This two-hour session, held virtually with screen shares, dove into technical specifics where Sarah Nakamura demoed their tech stack: Java backends on Spring Boot, orchestrated via Kafka streams on Azure, with Oracle as the primary data store. They reiterated pains around manual data entry in spreadsheets, which delays insights, and the absence of real-time analytics that's stalling executive decisions on resource allocation. Robert Reyes pushed for clarity on integration timelines, mentioning Gong and Chorus.ai as alternatives they'd trialed last quarter. We walked through a proof-of-concept architecture, addressing their poor developer experience by proposing API hooks into Kafka topics. Lucia Moreau approved advancing to proposal, but flagged budget scrutiny around the $120,000 mark. Follow-up actions included sharing environment specs, due two weeks ago—still pending.
+
+## Technical Requirements
+- **Real-Time Analytics Integration**: Need dashboards pulling live data from Kafka streams to replace spreadsheets and manual data entry, enabling sub-minute latency for decision-making across fintech clients.
+- **Tech Stack Compatibility**: Full support for Java/Spring Boot applications deployed on Azure, with native connectors to Oracle databases; must handle high-throughput event processing without custom coding.
+- **Developer Experience Enhancements**: Tools to monitor and optimize workflows, addressing poor developer experience that's currently slowing feature velocity by 30-40% per sprint, including IDE plugins and automated metrics.
+- **Scalability for 174-Employee Org**: Handle 50+ devs generating 1M+ events daily; low-latency queries on historical Oracle data blended with real-time Kafka feeds.
+- **Security and Compliance**: Azure AD integration, SOC 2 compliance, and role-based access for CPO-level oversight like Lucia Moreau's.
+- **Budget-Aligned Deployment**: On-prem hybrid option initially, scaling to full SaaS; total allocated approximately $120k annually.
+- **Ease of Migration**: Phased rollout from current manual processes, with training for infrastructure team led by Sarah Nakamura.
+
+## Deal Status
+The deal is currently in the Proposal stage, with a targeted value of $120,000 for the first-year commitment, covering standard enterprise licensing plus custom Kafka integrations. Timeline aims for contract signature by end of Q2 2026, aligning with their fiscal refresh next month, though urgency remains low due to no immediate crises. Robert Reyes has verbally committed to championing internally, but blockers include pending environment specs from Sarah Nakamura (overdue by a week) and final buy-in from Lucia Moreau on ROI projections. We've submitted a tailored proposal last Friday, incorporating their tech stack details, and scheduled a review call for next Tuesday. Competitive pressures from Clari, Gong, and Chorus.ai are noted, but our Azure-native edge positions us favorably. Overall progression is steady, with 70% confidence in close.
+
+## Competitive Landscape
+DataPulse Systems is actively evaluating several revenue intelligence and analytics platforms:
+- **Clari**: Leading contender for forecasting; they like its pipeline visibility but find integration with Oracle clunky.
+- **Gong**: Strong in call analytics, trialed for sales insights; however, lacks depth in Kafka real-time streaming.
+- **Chorus.ai (ZoomInfo)**: Considered for conversation intelligence; budget fits, but dev experience tools are underdeveloped compared to our offerings.
+Our differentiation lies in seamless Java/Spring Boot and Azure support, directly tackling their manual data entry woes—something competitors gloss over.
+
+## Risk Factors
+- **Budget Reallocation**: With $120k earmarked but low urgency, Q2 priorities could shift if fintech market softens, as Sarah Nakamura hinted last week.
+- **Technical Integration Delays**: Overdue specs from their infra team risk pushing timeline; their Kafka setup might require more customization than scoped, echoing poor dev experience complaints.
+- **Competitor Momentum**: Clari's recent Azure updates could sway Robert Reyes, who's been there 8 years and values stability—needs reinforcement on our real-time analytics superiority over spreadsheets.

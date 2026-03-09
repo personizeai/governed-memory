@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_014",
+  "category": "funding",
+  "company": "Tidal Solutions",
+  "contact": "Tom O'Brien",
+  "industry": "Fintech",
+  "stale_date": "2025-10-04",
+  "fresh_date": "2026-02-14",
+  "stale_claim": "Tidal Solutions raised a $20M Series A",
+  "fresh_claim": "Tidal Solutions closed a $60M Series B led by Andreessen Horowitz",
+  "expected_query": "What is Tidal Solutions's latest funding round?",
+  "expected_answer": "closed a $60M Series B led by Andreessen Horowitz",
+  "stale_word_count": 195,
+  "fresh_word_count": 207
+}

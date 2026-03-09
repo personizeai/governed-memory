@@ -1,0 +1,28 @@
+### Account Overview
+Fern Analytics is a FoodTech company specializing in data-driven solutions for the food industry, with approximately 465 employees and annual revenue of ~$159M. Our primary contact is Derek Cho, Director of IT (derek.cho@fernanalytics.com), who oversees their technology infrastructure and is key to evaluating sales enablement tools. Fern Analytics faces challenges with inconsistent messaging across their sales team, which hampers deal closure rates, and high infrastructure costs that are eating into margins. Their current tech stack includes Java, Micronaut on GCP, with Spanner for database management and Pub/Sub for messaging—making them a strong fit for our platform's integration capabilities. They're actively exploring alternatives to competitors like Gong to streamline sales processes.
+
+### Key Details
+- **Contact**: Derek Cho, Director of IT
+- **Company**: Fern Analytics (FoodTech, 465 employees, ~$159M ARR)
+- **Tech Stack**: Java, Micronaut, GCP, Spanner, Pub/Sub
+- **Pain Points**:
+  - Inconsistent messaging across sales team leading to lost opportunities.
+  - Escalating infrastructure costs impacting profitability.
+- **Competitors in Play**: Gong (primary incumbent; seeking differentiation in analytics and cost efficiency).
+
+Derek has expressed frustration with Gong's limitations in handling their GCP-heavy environment and the need for better call coaching to align sales narratives. Their scale positions them as a high-value prospect with significant expansion potential post-initial deployment.
+
+### Deal Status
+- **Deal Value**: $650,000 (multi-year commitment for enterprise sales platform).
+- **Stage**: Discovery/Qualification – Initial meetings completed; Derek confirmed budget alignment and urgency.
+- **Decision Timeline**: Q2 2026 (aligned with their fiscal planning cycle).
+- **Pipeline Confidence**: High (75%) – Strong champion in Derek; pains map directly to our value prop. No major blockers identified yet.
+
+### Next Steps
+1. Schedule technical demo tailored to Java/Micronaut/GCP stack (target: week of [insert date]).
+2. Share ROI calculator addressing infrastructure cost savings (send by EOD tomorrow).
+3. Engage Derek's sales counterpart for pain validation call (propose Thursday).
+4. Follow up on competitor displacement strategy vs. Gong.
+5. Internal: Update forecasting with $650K opportunity; loop in exec sponsor for Q1 push.
+
+This prospect represents a marquee FoodTech win—prioritize to hit pipeline goals. Total note word count: 378.

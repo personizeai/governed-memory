@@ -1,0 +1,44 @@
+# ShipGrid — Account Overview
+
+## Company Background
+ShipGrid is a Chicago-based logistics technology company specializing in supply chain optimization software for mid-sized e-commerce and retail businesses. With approximately 93 employees, primarily operating out of their main office in Chicago, the company helps clients streamline shipping operations, predict demand fluctuations, and reduce fulfillment costs through an integrated platform. Founded in 2018 by former UPS executives who identified gaps in real-time visibility for last-mile delivery during the e-commerce boom, ShipGrid quickly scaled from a bootstrapped startup to a key player in the logistics SaaS space. Their growth has been fueled by partnerships with major carriers and a focus on data-driven routing algorithms, but recent expansion has highlighted internal challenges like scaling issues during peak traffic periods when their platform handles surges from holiday shopping rushes. Today, as a company in the 51-200 employee range, ShipGrid continues to innovate in a competitive logistics market, serving clients across North America.
+
+## Key Contacts
+| Name | Title | Role in Deal | Decision Maker | Notes |
+|---|---|---|---|---|
+| Amanda Rivera | Head of Data | Primary Contact | True | With ShipGrid for 4 years; champions data unification efforts |
+| Rachel Fernandez | VP of Marketing | Budget Owner | True | Oversees $850,000 allocation for analytics tools |
+| Maria Chen | Director of Analytics | Budget Owner | True | Focuses on pipeline health visibility |
+| Priya Singh | Director of Engineering | Technical Evaluator | False | Leads tech stack integration reviews |
+
+## Meeting History
+### Meeting 1: Discovery Call (January 10, 2026)
+In the initial discovery call, Amanda Rivera outlined ShipGrid's core challenges, emphasizing how data silos between their engineering and sales teams are hindering cross-functional collaboration. She mentioned that during peak traffic periods last quarter, their systems struggled to scale, leading to delayed insights that impacted decision-making. The team discussed high-level requirements, including integration with their existing tech stack of TypeScript, React, Node.js, GCP, and MongoDB. Rachel Fernandez joined midway and confirmed the budget of approximately $850,000, expressing high urgency to resolve poor visibility into pipeline health before the next fiscal quarter. They agreed it was critical, and we scheduled a follow-up; her enthusiasm was evident throughout.
+
+### Meeting 2: Technical Deep Dive (February 3, 2026)
+Two weeks after the discovery call, Priya Singh led the technical deep dive, demonstrating prototypes tailored to ShipGrid's logistics workflows. They dove into specifics on scaling issues during peak traffic, where their Node.js backend on GCP experiences latency spikes, and Maria Chen highlighted how data silos exacerbate poor visibility into pipeline health metrics. Amanda reiterated her four years at the company and frustration with siloed datasets that prevent engineering from accessing real-time sales data. We reviewed compatibility with their TypeScript/React frontend and MongoDB schemas, addressing potential migration paths. Rachel confirmed the $850k budget remains intact, but procurement noted the need for three competitive bids. The session ended positively, with them committing to internal demos next month; it showed real momentum.
+
+## Technical Requirements
+- **Scalability During Peaks**: Solution must handle 10x traffic surges during holiday seasons without latency >500ms, integrating seamlessly with GCP autoscaling groups currently strained by Node.js workloads.
+- **Data Silo Integration**: Unify datasets from engineering (MongoDB-stored operational logs) and sales (React dashboard exports), enabling real-time querying to eliminate silos that currently delay pipeline health reporting.
+- **Pipeline Visibility Dashboards**: Custom React-based UI components for visualizing sales funnel metrics, with TypeScript type safety to match their frontend stack and drill-downs into logistics-specific KPIs like delivery ETAs.
+- **GCP-Native Deployment**: Full support for Google Cloud Platform services, including Kubernetes orchestration for Node.js microservices, to avoid vendor lock-in while enhancing peak-period resilience.
+- **MongoDB Compatibility**: Native connectors for schema migrations and aggregations, addressing current issues where sales queries overload engineering databases during high-volume periods.
+- **API-First Architecture**: RESTful endpoints with WebSocket support for live updates on shipping pipelines, reducing the poor visibility that plagues their current setup.
+- **Security and Compliance**: SOC 2 Type II alignment for logistics data handling, with role-based access to prevent unauthorized cross-team data exposure from silos.
+- **Custom Analytics Layer**: ML-driven forecasting for peak traffic prediction, layered atop their existing stack to provide actionable insights into pipeline bottlenecks.
+
+## Deal Status
+ShipGrid is currently in the Qualification deal stage, with a projected value of $850,000 over the first year, driven by their high urgency to address scaling issues during peak traffic periods and entrenched data silos between engineering and sales teams. Key contacts, including budget owners Rachel Fernandez and Maria Chen, have confirmed the allocation, but the buying process requires procurement approval via three competitive bids before final decision, targeted for August 16, 2026. No major blockers yet, though internal alignment on technical evaluators like Priya Singh is progressing slower than anticipated; last week's check-in reaffirmed commitment. With 93 employees pushing for rapid resolution to poor visibility into pipeline health, momentum is strong, positioning us well if we differentiate on their TypeScript/React/Node.js/GCP/MongoDB stack integration.
+
+## Competitive Landscape
+- **ZoomInfo**: Primary competitor they're evaluating; ShipGrid has been in talks with them for B2B data enrichment, but lacks deep logistics scaling support for peak traffic—our edge in GCP-native tools gives us leverage.
+- **Internal Tools/Custom Builds**: Engineering team under Priya Singh is prototyping in-house Node.js solutions, but data silos persist, making a unified platform more appealing.
+- **Procurement Mandates**: Requires three bids total; they've shortlisted us alongside ZoomInfo and one other (undisclosed), with demos scheduled soon to compare pipeline visibility features.
+
+ShipGrid's evaluation of ZoomInfo focuses on contact data, but it doesn't address their core pain of scaling during peaks or silo unification, where our solution aligns perfectly with their Chicago-based operations.
+
+## Risk Factors
+- **Procurement Delays**: Their process demands three competitive bids, and if ZoomInfo undercuts on pricing or accelerates demos, it could push the August 16, 2026 timeline; they've mentioned this requirement twice.
+- **Internal Buy-In Gaps**: Data silos have created tension—engineering (Priya) prioritizes scalability, while sales wants visibility; unclear if Amanda can fully align them before qualification closes. It might stall if they don't.
+- **Budget Reallocation**: With about 93 employees, fiscal pressures from recent Chicago office expansions could shift the $850k if peak-season costs overrun, despite high urgency signaled in meetings.

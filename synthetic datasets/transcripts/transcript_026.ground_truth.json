@@ -1,0 +1,75 @@
+{
+  "sample_id": "transcript_026",
+  "content_type": "meeting_transcript",
+  "company": "PayGrid Financial",
+  "industry": "Fintech",
+  "duration_minutes": 45,
+  "target_word_count": 2505,
+  "actual_word_count": 1898,
+  "expected_facts": [
+    {
+      "text": "Lisa Hassan has been at PayGrid Financial for 2 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q3",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with lack of real-time analytics for decision making",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in London",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with high infrastructure costs eating into margins",
+      "type": "explicit"
+    },
+    {
+      "text": "Lisa reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "PayGrid Financial is a Fintech company with about 733 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes C#, .NET, Azure, SQL Server, RabbitMQ",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $1,800,000",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "company_name": "PayGrid Financial",
+    "company_size": "201-1000",
+    "technology_stack": "C#, .NET, Azure, SQL Server, RabbitMQ",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "lack of real-time analytics for decision making",
+      "high infrastructure costs eating into margins"
+    ],
+    "deal_value": 1800000,
+    "decision_timeline": "2026-07-29",
+    "decision_maker": true,
+    "next_steps": "Lisa will share the RFP by end of week",
+    "buying_process": "Procurement requires three competitive bids before decision",
+    "urgency_level": "High"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2,
+    "duplicate_facts": 3
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.79,
+  "entity_id": "lisa-paygrid-financial",
+  "entity_email": "lisa@paygrid.com",
+  "entity_website": "https://paygrid.com",
+  "contact_name": "Lisa",
+  "record_id": "crm-lisa-paygrid-financial"
+}

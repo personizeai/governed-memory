@@ -1,0 +1,50 @@
+# SyncWave — Account Overview
+
+## Company Background
+SyncWave is a B2B SaaS company specializing in real-time data synchronization solutions for distributed sales teams, helping enterprises streamline pipeline forecasting and revenue operations across global operations. Founded in 2019 by a group of former sales executives from Chicago's fintech scene who identified gaps in legacy CRM tools during their time at larger firms, the company has grown to approximately 37 employees, fitting squarely within the 11-50 employee size bracket that positions it as an agile mid-stage startup. Headquartered in Chicago, SyncWave focuses on delivering lightweight, scalable sync engines that integrate seamlessly with modern cloud infrastructures, enabling sales organizations to achieve hyper-accurate visibility into deal progression without the overhead of heavy custom builds. Their rapid ascent is fueled by a 21% increase in IT budget this fiscal year, allowing them to invest aggressively in tools that address core pain points like poor visibility into pipeline health. Today, they serve a niche of mid-market B2B clients in the software and services sectors, emphasizing low-latency data flows that have become mission-critical in volatile economic climates.
+
+## Key Contacts
+| Name | Title | Role in Deal |
+|---|---|---|
+| Heather Reyes | VP of Sales | Primary Contact |
+| Emily Bhandari | Head of Product | Champion |
+| Victor Bhandari | Director of IT | Budget Owner |
+| Daniel Kim | Chief Revenue Officer | Technical Evaluator |
+| Keiko Novak | Director of IT | Budget Owner |
+
+Heather Reyes, who has been at SyncWave for 3 years as VP of Sales, remains our primary point of contact and has been instrumental in championing our solution internally. None of these contacts are ultimate decision makers, but their influence carries significant weight given their seniority.
+
+## Meeting History
+### Meeting 1: Discovery Call (January 12, 2026)
+In this initial discovery call, the SyncWave team outlined their core challenges, including poor visibility into pipeline health stemming from their current HubSpot CRM setup augmented by Zapier automations, which they described as brittle and prone to data silos. Heather Reyes led the discussion, emphasizing how integration complexity with legacy systems was exacerbating high infrastructure costs that were eating into their margins, a point echoed by Victor Bhandari from IT. They highlighted their tech stack—built on Java with Micronaut frameworks hosted on GCP, leveraging Spanner for database needs and Pub/Sub for messaging—which provides a solid foundation but lacks the predictive sync capabilities they crave. The conversation wrapped with enthusiasm for a POC, and they noted their IT budget had seen a healthy 21% uplift this year, signaling strong internal buy-in. It was clear from their tone that urgency was critical, as pipeline blind spots were directly impacting quarterly forecasts.
+
+### Meeting 2: Technical Deep Dive (March 10, 2026)
+Building on the discovery insights, this session dove into architectural alignments, where Daniel Kim and Keiko Novak grilled our engineering leads on compatibility with SyncWave's Java/Micronaut/GCP ecosystem, including Spanner and Pub/Sub integrations. They reiterated frustrations with their HubSpot CRM and Zapier reliance, which fails to deliver real-time pipeline health metrics, and stressed integration hurdles with legacy on-prem systems that we've promised to mitigate. Emily Bhandari positioned herself as a strong champion, pushing back on concerns about infrastructure costs by referencing their recent budget expansion—around $600,000 earmarked for revenue ops tools. We demoed custom sync flows tailored to their stack, addressing the high costs eating margins through our efficient, serverless architecture. Last quarter's relative uptick in deal velocity made this timing perfect, though they mentioned evaluating alternatives like Clari in parallel. The call ended with consensus on next steps: setting up a POC environment for Heather's sales team to stress-test in their Chicago office environment.
+
+## Technical Requirements
+- **Real-time Pipeline Visibility**: Must provide granular, AI-driven insights into deal stages and health scores, surpassing limitations of current HubSpot CRM with Zapier automations that result in delayed or incomplete data syncing.
+- **Seamless Legacy Integration**: Support for bridging complex integrations with on-prem legacy systems without requiring full rip-and-replace, addressing their primary pain point of integration complexity.
+- **Cloud-Native Compatibility**: Full alignment with Java/Micronaut frameworks on GCP, including native support for Spanner databases and Pub/Sub messaging to minimize custom dev work.
+- **Cost Optimization**: Reduce high infrastructure costs eating into margins via lightweight, scalable sync agents that avoid the bloat of heavier platforms.
+- **Custom Forecasting Models**: Ability to ingest and synchronize sales data for predictive pipeline health scoring, tailored to SyncWave's 37-person team's forecasting cadences.
+- **POC Environment Setup**: Sandbox for Heather Reyes' sales team to evaluate sync performance with live Chicago-based data feeds within two weeks.
+- **Security and Compliance**: SOC 2 Type II compliance with fine-grained access controls for multi-tenant GCP environments.
+- **Scalability for Growth**: Handle projected 2x pipeline volume increase without proportional cost spikes, leveraging their boosted IT budget.
+- **Reporting Dashboards**: Intuitive, embeddable dashboards for CRO-level visibility into revenue risks.
+- **Automation Workflows**: Replace Zapier hacks with native, no-code automations for trigger-based syncing across sales and ops tools.
+
+## Deal Status
+The deal is currently in the Proposal stage, with an allocated budget of approximately $600,000 drawn from SyncWave's IT spend, which received a 21% increase this fiscal year to fuel strategic hires in revenue intelligence. Valued at $600,000 annually, this opportunity carries critical urgency due to Q3 pipeline pressures in their Chicago headquarters, targeting a decision timeline of September 7, 2026. Key next steps include setting up a POC environment for Heather Reyes' team to evaluate hands-on, which we've committed to provisioning by end of next week. Blockers remain minimal, primarily around internal alignment on vendor selection, but momentum is strong post-technical deep dive. Their 11-50 employee scale means decisions move quickly once championed, and pain points like poor visibility into pipeline health, integration complexity with legacy systems, and high infrastructure costs eating into margins align perfectly with our value prop. We've positioned ahead of competitors by demoing direct GCP/Spanner synergies that others can't match natively.
+
+## Competitive Landscape
+SyncWave is actively evaluating a mix of established players and in-house options:
+- **Clari**: Strong contender for revenue intelligence, but they've flagged it as too expensive for their margins and lacking Micronaut/GCP depth.
+- **Salesforce Einstein**: Integrated with HubSpot via Zapier currently, but customization for legacy systems proves cumbersome and cost-prohibitive.
+- **Custom Internal Tool**: A Java-based prototype they're iterating on, which offers flexibility but suffers scalability issues with Spanner/Pub/Sub at volume—our POC aims to de-risk switching.
+
+This field is narrowing, with our proposal emphasizing lower TCO and faster time-to-value.
+
+## Risk Factors
+- **Budget Reallocation Pressures**: Despite the 21% IT budget increase yielding about $600k for this initiative, economic headwinds in Chicago's SaaS scene could prompt shifts toward headcount over tools, especially if Q2 forecasts slip—monitored via Heather's monthly check-ins.
+- **POC Integration Delays**: Their legacy system complexity might extend eval beyond the September 7 timeline; they've noted similar snags with Clari trials, and it could erode champion Emily's enthusiasm if unresolved.
+- **Competitor Momentum**: Salesforce Einstein's ecosystem lock-in, combined with the familiarity of Zapier automations, poses a status quo risk; unclear internal sway from Daniel Kim as technical evaluator could tip toward incumbents if our Spanner demos underperform.

@@ -1,0 +1,26 @@
+Call with: Lucia Ibrahim, Director of Engineering at FinStack Labs
+Date: February 17, 2026
+Duration: 15 min
+
+Key Points:
+- 11-50 emp co, Scala/Spark/Databricks/Snowflake/Airflow stack
+- Frag tooling x depts — devs hate it, slowing velocity bad
+- Hiring tough, spec engs scarce prob
+- Eval in-house build, Intercom, curr CRM wfks — none stick
+- Poor DX killing feat speed, compl audits failing data hdlg
+- L w/ FinStack 1yr, not DM — reports up
+- She's pushing discvry, they're eyeing Q2 pilot?
+- He mentioned budget freeze but def interest
+- Pain: frag tools + hire issues = backlog hell
+- They want unify, we fit stack perf
+
+Action Items:
+- [ ] Send deck re: Databricks integ + hiring ease (me by EOW)
+- [ ] F/u w/ her on VP Eng intro (me next week)
+- [ ] Log to Discvry stage, tag pains (me)
+- [ ] Share Intercom teardown case (team)
+
+Notes:
+Quick discvry call, Lucia solid tech lead but not decider — she looped in her 1yr tenure pains fast. They're 11-50, bleeding on hires for Scala/Spark whizzes, frag tools (CRM wfks + Intercom eval flops) killing DX, audits bombing data compl. In-house build tempting but res crunch. She likes our stack play (Snowflake/Airflow sync), they're slow feat vel bc of it. He's internal champ? Pushing for next mtg w/ boss by EOQ.
+
+Probed pains — def match: hiring drought + tooling mess = no velocity. Not closing fast, but hot lead. F/U deck shows 30% faster dev post-impl, tag competitors. She's optimistic Q2 if budget thaws. Notes rushed, more deets in CRM.

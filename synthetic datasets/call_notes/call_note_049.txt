@@ -1,0 +1,31 @@
+Call with: Simone Johnson, Director of Sales Engineering at SyncWave  
+Date: February 14, 2026  
+Duration: 45 min  
+
+Key Points:  
+- SyncWave B2B SaaS, 1000+ emp (prob ~5k)  
+- Manual onboarding processes killing them — all hands on deck rn  
+- Legacy Java app, one guy maintaining — def bottleneck  
+- Struggling w/ ROI meas on AI inits — no clear metrics  
+- Evaluating Apollo.io, MS Copilot, Intercom — likes our diff on ROI tracking  
+- Tech stk: Python/FastAPI, AWS Lambda/DynamoDB/SQS — wanna integrate  
+- She's 6yrs @ SyncWave, knows pain deep  
+- Budget ~450k allocated  
+- Deal stage: Proposal  
+- Not DM — procurement needs 3 bids b4 decision  
+- Timeline: by 5/31/26, med urgency  
+- He's pushing Q2 close (ops lead?)  
+- Pain: manual cust onboard + AI ROI haze  
+- Deal val 450k  
+- Theyre slow bc legacy maint guy overloaded  
+
+Action Items:  
+- [ ] Send revised proposal w/ ROI dashboard demo (me, by Fri)  
+- [ ] F/u mtg w/ her + procurement next week (me)  
+- [ ] Get 3rd bid template from legal (Sarah)  
+- [ ] Ping ops lead on Q2 push (me)  
+
+Notes:  
+Simone solid contact but not final DM — defers to procurement who wants 3 comp bids. She's frustrated w/ manual onboard (takes weeks, error-prone) and legacy Java that's creaking under 5k user load, one dev holding it together. Mentioned our Python/AWS stack fits perfect, easier than Apollo/Intercom hacks. Budget locked at 450k, but they're eyeing by EOQ if we show ROI quick.  
+
+Pushed on AI meas pain — no dashboards now, just gut feel. She's been there 6yrs, seen it worsen. Med urgency, but he's internal champ for Q2 (not clear who yet). Competitors weak on integration; we'll diff there. F/U critical next week b4 they stall. Deal feels warm, proposal out Fri.

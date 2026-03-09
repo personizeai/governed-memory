@@ -1,0 +1,171 @@
+[09:32] @alex.m: Quick update @channel - just off the call with Raj from MetalGrid. They're a manufacturing shop, about 41 folks, CPO there for 8 years. Deal stage proposal now. [👍 from @sarah.k]
+
+[09:33] @sarah.k: Nice! Pain points? 
+
+[09:34] @alex.m: Yeah, technical debt from rapid early growth, and customer churn cuz slow support times. Ngl, sounds perfect for us.
+
+[09:35]  ↳ @mike.r: Churn from support? They on Dynamics?
+
+[09:36] @alex.m: Yep, Microsoft Dynamics w/ Power Automate rn.
+
+[09:37] @tariq.a: Budget?
+
+[09:38] @alex.m: ~50k allocated. Urgency medium tho.
+
+[09:39] @sarah.k: Got it. Tech stack deets?
+
+  ↳ [09:40] @alex.m: Scala, Spark, Databricks, Snowflake, Airflow. We fit great imo.
+
+[09:41] @mike.r: Spark and Airflow? Solid, but they'll have debt migrating from Dynamics.
+
+[09:42]  ↳ @sarah.k: Makes sense [👍]
+
+[09:43] @tariq.a: Next steps?
+
+[09:44] @alex.m: Raj presents internally, circles back next week.
+
+[09:45] @sarah.k: Decision timeline?
+
+[09:46] @alex.m: 2026-11-09, IT committee quarterly, next Q3 2026.
+
+[09:47] @mike.r: That's forever out. Medium urgency checks out.
+
+[09:48] @tariq.a: He's not the decision maker?
+
+[09:49] @alex.m: Nah, false on that. Just influencer.
+
+[09:50] @sarah.k: Fwiw, company size 11-50 employees, manufacturing.
+
+[09:51]  ↳ @alex.m: Yep 41ish [thumbs up from @tariq.a]
+
+[09:52] @mike.r: Lmk if we need to tweak proposal for their stack.
+
+[09:53] @alex.m: [shared link: MetalGrid pricing page] Check this, matches our 50k sweet spot.
+
+[09:54] @sarah.k: Looking good. She mention any timelines beyond that?
+
+[09:55] @alex.m: Who, Raj? Nah, just next week callback.
+
+[09:56] @tariq.a: He said they're evaluating options tomorrow?
+
+[09:57] @mike.r: Dynamics debt is killing them tbh.
+
+[09:58]  ↳ @sarah.k: Yeah from growth spurt early on.
+
+[09:59] @alex.m: @here - let's log this in CRM, deal value 50k.
+
+[10:00] @sarah.k: On it 👍
+
+[10:01] @mike.r: Their Airflow setup probably bogged down support.
+
+[10:02] @tariq.a: Repeated their stack? Scala Spark etc right?
+
+[10:03]  ↳ @alex.m: Yep, and Snowflake Databricks.
+
+[10:04] @sarah.k: Churn issue - he blamed slow responses directly?
+
+[10:05] @alex.m: Pretty much, they grew fast, debt piled up.
+
+[10:06] @mike.r: Last Friday I saw similar w/ another mfg client.
+
+[10:07] @sarah.k: Gotcha. Proposal sent?
+
+[10:08] @alex.m: Yup, tailored for Dynamics migrate.
+
+[10:09] @tariq.a: Budget confirmed at 50k by him?
+
+[10:10]  ↳ @mike.r: Yeah approx, he nodded.
+
+[10:11] @sarah.k: Cool, next sprint we follow up?
+
+[10:12] @alex.m: Raj circles back next week, perfect.
+
+[10:13] @mike.r: IT committee Q3 2026 tho, long game.
+
+[10:14] @tariq.a: Urgency medium, don't push hard.
+
+[10:15] @sarah.k: Makes sense. He's been there 8 years, knows the pain.
+
+[10:16]  ↳ @alex.m: Raj Williams yeah.
+
+[10:17] @mike.r: Tech debt from growth - they said rapid early?
+
+[10:18] @alex.m: Exactly.
+
+[10:19] @tariq.a: Decision maker false, so who is?
+
+[10:20] @sarah.k: He didn't say, but IT leads prob.
+
+[10:21] @mike.r: She mention Power Automate limits?
+
+[10:22] @alex.m: Yeah, slow for support tickets.
+
+[10:23] @sarah.k: Customer churn tied to that.
+
+[10:24]  ↳ @tariq.a: Ngl brutal [👍 from @mike.r]
+
+[10:25] @alex.m: Proposal stage locked.
+
+[10:26] @mike.r: Stack repeat: Spark Databricks Airflow etc.
+
+[10:27] @sarah.k: Confirmed manufacturing, 41 emps.
+
+[10:28] @tariq.a: Got it.
+
+[10:29] @alex.m: Timeline 2026-11-09 firm?
+
+[10:30]  ↳ @sarah.k: He thinks so.
+
+[10:31] @mike.r: Next window Q3, buying process slow.
+
+[10:32] @tariq.a: Medium urgency fwiw.
+
+[10:33] @sarah.k: 👍
+
+[10:34] @alex.m: Anyone else on call notes?
+
+[10:35] @mike.r: Just that they hate Dynamics flows now.
+
+[10:36]  ↳ @alex.m: Power Automate yeah.
+
+[10:37] @sarah.k: He present internally tomorrow?
+
+[10:38] @tariq.a: Next week callback lmk.
+
+[10:39] @alex.m: Will do.
+
+[10:40] @mike.r: Tech fit A+ imo.
+
+[10:41] @sarah.k: Agreed [👍 from @tariq.a]
+
+[10:42] @alex.m: Current solution Dynamics confirmed.
+
+[10:43]  ↳ @mike.r: With Automate, painful.
+
+[10:44] @tariq.a: Budget 50k, deal value set.
+
+[10:45] @sarah.k: Company size 11-50, fits us.
+
+[10:46] @alex.m: Pain points logged: debt and churn.
+
+[10:47] @mike.r: From slow support yeah.
+
+[10:48] @sarah.k: Got it.
+
+[10:49] @tariq.a: He's CPO right?
+
+[10:50]  ↳ @alex.m: Yep Raj.
+
+[10:51] @mike.r: 8 years tenure solid.
+
+[10:52] @sarah.k: Next steps clear.
+
+[10:53] @alex.m: Thanks team 👍
+
+[10:54] @tariq.a: No prob.
+
+[10:55] @mike.r: Last Friday vibes, this one better.
+
+[10:56] @sarah.k: Fingers crossed for next week.
+
+[10:57] @alex.m: Will update @channel then.

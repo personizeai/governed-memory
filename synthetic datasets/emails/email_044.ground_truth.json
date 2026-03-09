@@ -1,0 +1,77 @@
+{
+  "sample_id": "email_044",
+  "content_type": "email_thread",
+  "company": "ChannelBridge",
+  "industry": "E-commerce",
+  "email_count": 6,
+  "actual_word_count": 1161,
+  "expected_facts": [
+    {
+      "text": "They've also been evaluating Intercom, existing CRM workflows",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Boston",
+      "type": "explicit"
+    },
+    {
+      "text": "Jennifer Moreau has been at ChannelBridge for 6 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q3",
+      "type": "explicit"
+    },
+    {
+      "text": "ChannelBridge is a E-commerce company with about 4241 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with poor visibility into pipeline health",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with scaling issues during peak traffic periods",
+      "type": "explicit"
+    },
+    {
+      "text": "Jennifer reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Engineering",
+    "company_name": "ChannelBridge",
+    "company_size": "1000+",
+    "technology_stack": "Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "poor visibility into pipeline health",
+      "scaling issues during peak traffic periods",
+      "difficulty hiring specialized engineers"
+    ],
+    "competitors_mentioned": [
+      "Intercom",
+      "existing CRM workflows"
+    ],
+    "decision_maker": false,
+    "next_steps": "Send pricing proposal to Jennifer by Friday",
+    "buying_process": "Can sign off directly up to $200K, board approval above that",
+    "urgency_level": "High"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2
+  },
+  "introduces_new_person": true,
+  "colleague": "Maya Williams, Director of IT",
+  "property_coverage": 0.79
+}

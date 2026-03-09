@@ -1,0 +1,74 @@
+{
+  "sample_id": "transcript_024",
+  "content_type": "meeting_transcript",
+  "company": "SkillPulse",
+  "industry": "EdTech",
+  "duration_minutes": 60,
+  "target_word_count": 3676,
+  "actual_word_count": 2193,
+  "expected_facts": [
+    {
+      "text": "They're dealing with customer churn from slow support response times",
+      "type": "explicit"
+    },
+    {
+      "text": "Fatima Patel has been at SkillPulse for 6 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $1,800,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with security concerns with current architecture",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating building in-house",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Seattle",
+      "type": "explicit"
+    },
+    {
+      "text": "SkillPulse is a EdTech company with about 45 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes PHP, Laravel, DigitalOcean, MySQL, Redis",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of IT",
+    "company_name": "SkillPulse",
+    "company_size": "11-50",
+    "technology_stack": "PHP, Laravel, DigitalOcean, MySQL, Redis",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "customer churn from slow support response times",
+      "security concerns with current architecture",
+      "manual processes for customer onboarding"
+    ],
+    "deal_value": 1800000,
+    "decision_timeline": "2026-10-12",
+    "competitors_mentioned": [
+      "building in-house"
+    ],
+    "next_steps": "Set up POC environment for Fatima's team to evaluate",
+    "urgency_level": "Critical"
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 2,
+    "duplicate_facts": 2
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.79,
+  "entity_id": "fatima-skillpulse",
+  "entity_email": "fatima@skillpulse.io",
+  "entity_website": "https://skillpulse.io",
+  "contact_name": "Fatima",
+  "record_id": "crm-fatima-skillpulse"
+}

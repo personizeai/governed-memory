@@ -1,0 +1,83 @@
+[10:15] alex.m: @channel quick update on RetailNova - just got off call with Nadia Park, their Head of Product. She's been there 2 years and they're hurting on pipeline visibility tbh.  
+[👍 from @sarah.k]  
+[10:17] sarah.k: Nice! What's their stack? Heard they use Python and Django.  
+[10:18] mike.r: Yeah E-commerce co, about 158 employees. Makes sense for that size.  
+[10:19] alex.m: Stack is Python, Django, AWS, Postgres, Redis. They're on legacy stuff planning migration EOY.  
+[10:20] keiko.e: Got it. Pains?  
+  ↳ [10:21] alex.m: Security concerns with current arch and poor visibility into pipeline health. She said they're evaluating Gong too.  
+[10:22] sarah.k: Gong? Oof, competitor. And building in-house?  
+[10:23] alex.m: Yup, both. Deal stage proposal now, value ~1.8M budget allocated.  
+[👍 from @mike.r]  
+[10:24] mike.r: Solid budget. Timeline?  
+[10:25] alex.m: Decision by 2026-08-27, medium urgency ngl.  
+[10:26] sarah.k: Whoa that's far out. She mention next steps?  
+[10:27] alex.m: Set up POC env for her team to eval. Lmk if I should loop IT.  
+[10:28] keiko.e: Makes sense. Company size 51-200 fits our sweet spot.  
+[10:29] mike.r: Nadia said they're RetailNova right? E-comm with 158 heads.  
+[10:30] sarah.k: Yep repeated that. Tech stack Python Django AWS etc confirmed?  
+  ↳ [10:31] alex.m: Confirmed twice lol.  
+[👍 from @keiko.e]  
+[10:32] alex.m: [shared link: RetailNova pricing page] Check this for their plans.  
+[10:33] keiko.e: Looking. She wants POC tomorrow?  
+[10:34] mike.r: Tomorrow? Nah he said next sprint I think. Unclear.  
+[10:35] sarah.k: Who is "he"? Alex you mean Nadia?  
+[10:36] alex.m: Haha yeah her. Poor visibility is killing them tbh.  
+[10:37] keiko.e: Security too. They mentioned it last Friday on the demo.  
+[10:38] mike.r: Got it. Budget 1.8M allocated, fwiw.  
+[10:39] sarah.k: Repeated fact there Mike. She's evaluating Gong and in-house build.  
+[10:40] alex.m: True. Migration off legacy by end of year.  
+[10:41] keiko.e: imo we nail POC and win.  
+  ↳ [10:42] sarah.k: +1  
+[10:43] mike.r: Who else on her team?  
+[10:44] alex.m: Just her for now. Pipeline health is big tho.  
+[👍 from @sarah.k]  
+[10:45] sarah.k: @here thoughts on POC setup? Need to move fast medium urgency.  
+[10:46] keiko.e: I can help with AWS side since their stack.  
+[10:47] alex.m: Perfect. She said they're 158 employees, growing.  
+[10:48] mike.r: Yeah E-comm RetailNova. Nadia Head of Product.  
+[10:49] sarah.k: Unclear on who "they" are sometimes lol.  
+[10:50] alex.m: Her team obv. Security concerns top pain.  
+[10:51] keiko.e: And visibility. Set POC for next week?  
+[10:52] mike.r: Tomorrow too soon imo.  
+[10:53] sarah.k: Lmk timeline. 2026-08-27 decision date.  
+[10:54] alex.m: Yeah far. But budget locked 1.8M.  
+[👍 from @mike.r]  
+[10:55] keiko.e: Gong won't deliver fast.  
+[10:56] mike.r: In-house build risky for them.  
+[10:57] sarah.k: True. Shared the pricing link btw.  
+[10:58] alex.m: Thx. She approve POC env?  
+[10:59] keiko.e: Assume yes. Pipeline poor visibility repeated pain.  
+[11:00] mike.r: Got it. Django Redis setup for POC?  
+  ↳ [11:01] alex.m: Yep their stack.  
+[11:02] sarah.k: Makes sense.  
+[👍 from @keiko.e]  
+[11:03] alex.m: @channel approve POC spin up?  
+[11:04] keiko.e: 👍  
+[11:05] mike.r: Yes.  
+[11:06] sarah.k: Greenlight.  
+[11:07] alex.m: Cool. Nadia been there 2 years, knows pains well.  
+[11:08] keiko.e: Security arch issues big.  
+[11:09] mike.r: And migration EOY.  
+[11:10] sarah.k: Who said EOY? Her?  
+[11:11] alex.m: Yeah she did.  
+[11:12] keiko.e: Fwiw competitors Gong in-house.  
+[11:13] mike.r: Ngl we got edge.  
+[11:14] sarah.k: Deal value 1800000 locked.  
+[👍 from @alex.m]  
+[11:15] alex.m: Proposal stage solid.  
+[11:16] keiko.e: Next sprint POC?  
+[11:17] mike.r: Last Friday she sounded keen.  
+[11:18] sarah.k: Unclear "she" but yeah.  
+[11:19] alex.m: Nadia obv. Tech stack Python etc.  
+[11:20] keiko.e: Repeated stack fact. Got it.  
+[11:21] mike.r: 51-200 size perfect.  
+[11:22] sarah.k: 158 employees yeah.  
+[11:23] alex.m: Pain poor visibility pipeline.  
+[11:24] keiko.e: Security too.  
+[11:25] mike.r: POC env today?  
+  ↳ [11:26] sarah.k: Tomorrow maybe.  
+[👍 from @mike.r]  
+[11:27] alex.m: Lmk when ready.  
+[11:28] keiko.e: On it.  
+[11:29] sarah.k: Thx team.  
+[11:30] mike.r: Np.

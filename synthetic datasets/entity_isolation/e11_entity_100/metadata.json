@@ -1,0 +1,19 @@
+{
+  "entity_index": 100,
+  "name": "David Alvarez",
+  "company": "Frost Computing",
+  "industry": "FoodTech",
+  "email": "david.alvarez@frostcomputing.com",
+  "title": "VP of Sales",
+  "facts": [
+    "David Alvarez is VP of Sales at Frost Computing",
+    "Frost Computing is a FoodTech company with 2213 employees",
+    "Tech stack: Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "Deal value: $250,000",
+    "Pain points: inconsistent messaging across sales team; difficulty hiring specialized engineers; data silos between engineering and sales teams; customer churn from slow support response times",
+    "Competitors: HubSpot AI, Microsoft Copilot, existing CRM workflows",
+    "Decision timeline: Q3 2026",
+    "Annual revenue: ~$88M"
+  ],
+  "actual_word_count": 339
+}

@@ -1,0 +1,24 @@
+### Account Overview
+NovaCrest Solutions is a B2B SaaS company specializing in enterprise software solutions, with approximately 2985 employees and annual revenue of ~$74M. Primary contact is Anita Cho, Director of IT (anita.cho@novacrestsolutions.com). Anita oversees the company's IT infrastructure and technology integrations, playing a pivotal role in evaluating tools that address operational scalability and team efficiency. The organization faces challenges in maintaining consistent messaging across its sales team and handling scaling issues during peak traffic periods, which have impacted customer engagement and performance reliability.
+
+### Key Details
+**Tech Stack:** NovaCrest Solutions relies on PHP and Laravel for backend development, DigitalOcean for cloud hosting, MySQL for database management, and Redis for caching and session storage. This stack supports their high-volume SaaS operations but highlights vulnerabilities during traffic surges.
+
+**Pain Points:** 
+- Inconsistent messaging across the sales team, leading to fragmented customer experiences and lower conversion rates.
+- Scaling issues during peak traffic periods, causing downtime and performance bottlenecks that strain their current infrastructure.
+
+**Competitors:** Currently evaluating alternatives to Drift and Intercom for customer communication and support tools, seeking a more robust solution to unify sales efforts and ensure seamless scalability.
+
+Anita has expressed strong interest in solutions that integrate natively with their Laravel/PHP ecosystem and provide real-time analytics to mitigate these issues.
+
+### Deal Status
+This is a high-potential opportunity with an estimated deal value of $400,000. NovaCrest is in the early discovery phase, with Anita confirming budget alignment and internal buy-in from IT and sales leadership. Decision timeline is targeted for Q3 2026, pending a technical proof-of-concept (POC) and ROI demonstration. Competitive landscape includes Drift and Intercom, but our differentiated scaling capabilities position us favorably. Pipeline stage: Qualified Opportunity.
+
+### Next Steps
+- Schedule a 30-minute demo call with Anita by end of next week to showcase integration with PHP/Laravel, DigitalOcean, MySQL, and Redis.
+- Prepare customized POC addressing peak traffic scaling and sales messaging consistency, delivering within 2 weeks post-demo.
+- Follow up with sales enablement resources (case studies from similar B2B SaaS clients) and request intro to VP of Sales for cross-team validation.
+- Set calendar reminder for Q2 2026 check-in to align on decision progress.
+
+(Word count: 378)

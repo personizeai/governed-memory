@@ -1,0 +1,17 @@
+### Account Overview
+Rachel Okonkwo, Head of Infrastructure at Cirrus Cloud, is our primary contact for this PropTech prospect. Cirrus Cloud is a PropTech company with 2226 employees and annual revenue of ~$94M. They specialize in cloud-based property management solutions, leveraging a tech stack that includes PHP, Laravel, DigitalOcean, MySQL, and Redis. Rachel oversees infrastructure reliability and scalability, making her a key decision-maker for tools addressing operational inefficiencies.
+
+### Key Details
+Rachel's email is rachel.okonkwo@cirruscloud.com. The company faces significant pain points: compliance audit failures on data handling, poor visibility into pipeline health, customer churn from slow support response times, and data silos between engineering and sales teams. These issues are exacerbated by their current setup with competitors Outreach and a custom internal tool, which lack integration and real-time insights. Cirrus Cloud's growth trajectory positions them as a high-value opportunity in the PropTech space.
+
+### Deal Status
+Potential deal value: $120,000. We've identified strong alignment with their pain points through initial discovery calls. Rachel has expressed frustration with existing tools' limitations on compliance and visibility. Competitors Outreach and the custom internal tool are in play, but our solution offers superior pipeline health monitoring and cross-team data unification. Decision timeline: Q3 2026, aligned with their fiscal planning cycle. Current stage: Qualified opportunity post-demo interest.
+
+### Next Steps
+- Schedule follow-up demo with Rachel to showcase compliance features and pipeline visibility (target: end of next week).
+- Share case study on PropTech client reducing churn by 25% via faster support integrations.
+- Engage engineering lead for tech stack compatibility validation (PHP/Laravel/Redis focus).
+- Prepare ROI analysis highlighting $120,000 value against ~$94M revenue base.
+- Monitor for Q3 2026 timeline shifts; set internal review in 30 days.
+
+(Word count: 348)

@@ -1,0 +1,80 @@
+{
+  "sample_id": "document_023",
+  "content_type": "wiki_document",
+  "company": "MediaForge",
+  "industry": "Digital Media",
+  "target_word_count": 1608,
+  "actual_word_count": 1310,
+  "expected_facts": [
+    {
+      "text": "MediaForge is a Digital Media company with about 189 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $1,800,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 10 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using internal Python scripts pulling from multiple APIs",
+      "type": "explicit"
+    },
+    {
+      "text": "David Anderson has been at MediaForge for 2 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 2 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Scala, Spark, Databricks, Snowflake, Airflow",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in San Francisco",
+      "type": "explicit"
+    },
+    {
+      "text": "David reports to the CEO directly",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Marketing",
+    "company_name": "MediaForge",
+    "company_size": "51-200",
+    "technology_stack": "Scala, Spark, Databricks, Snowflake, Airflow",
+    "deal_stage": "Qualification",
+    "deal_value": 1800000,
+    "decision_maker": false,
+    "buying_process": "Two-phase: technical POC first, then business case to leadership",
+    "current_solution": "internal Python scripts pulling from multiple APIs",
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 1,
+    "temporal_issues": 2,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Yusuf Tanaka",
+      "title": "VP of Sales",
+      "role": "Technical Evaluator"
+    },
+    {
+      "name": "Elena Lee",
+      "title": "Director of Engineering",
+      "role": "Budget Owner"
+    }
+  ],
+  "property_coverage": 0.71
+}

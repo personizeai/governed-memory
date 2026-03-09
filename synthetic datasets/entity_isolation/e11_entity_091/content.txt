@@ -1,0 +1,16 @@
+### Account Overview
+Azure Digital is a prominent InsurTech company specializing in innovative insurance solutions, boasting 927 employees and generating approximately $38M in annual revenue. The primary contact is Tariq Hassan, Head of Data at Azure Digital (tariq.hassan@azuredigital.com). As Head of Data, Tariq oversees critical data infrastructure and analytics initiatives, making him a key decision-maker for technology upgrades aimed at enhancing scalability and compliance in their operations.
+
+### Key Details
+Azure Digital's current tech stack includes Ruby on Rails for application development, Heroku for hosting, PostgreSQL as the primary database, and Sidekiq for background job processing. They face significant pain points, including security concerns with their existing architecture, repeated compliance audit failures on data handling, scaling issues during peak traffic periods, and challenges in measuring ROI on AI initiatives. Competitors in their evaluation include Microsoft Copilot, a custom internal tool, and Intercom, highlighting their focus on AI-driven customer support and data analytics tools.
+
+### Deal Status
+This represents a high-value opportunity with a potential deal value of $1,000,000. Tariq has expressed strong interest in solutions addressing their security, compliance, and scaling challenges. The decision timeline is targeted for Q3 2026, aligning with their upcoming fiscal planning and audit cycles. Initial discussions have uncovered alignment with our platform's capabilities in secure data management and AI ROI tracking, positioning us favorably against competitors.
+
+### Next Steps
+- Schedule a technical deep-dive demo with Tariq Hassan by end of Q1 2025 to showcase integration with Ruby on Rails, PostgreSQL, and Sidekiq.
+- Prepare customized ROI case studies addressing InsurTech compliance and peak scaling pain points.
+- Follow up via email to tariq.hassan@azuredigital.com next week to confirm availability and share competitor benchmarking data.
+- Engage internal sales engineering to model a $1M deployment POC, ensuring Q3 2026 timeline feasibility.
+
+(Word count: 347)

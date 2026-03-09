@@ -1,0 +1,85 @@
+{
+  "sample_id": "transcript_046",
+  "content_type": "meeting_transcript",
+  "company": "RouteWise",
+  "industry": "Logistics",
+  "duration_minutes": 30,
+  "target_word_count": 1895,
+  "actual_word_count": 1490,
+  "expected_facts": [
+    {
+      "text": "Budget allocated is approximately $600,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Java, Spring Boot, Azure, Oracle, Kafka",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Microsoft Copilot, HubSpot AI, existing CRM workflows",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 9 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with fragmented tooling across departments",
+      "type": "explicit"
+    },
+    {
+      "text": "RouteWise is a Logistics company with about 93 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 3 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "Alex reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "Alex Garcia has been at RouteWise for 5 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with manual processes for customer onboarding",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Marketing",
+    "company_name": "RouteWise",
+    "company_size": "51-200",
+    "technology_stack": "Java, Spring Boot, Azure, Oracle, Kafka",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "manual processes for customer onboarding",
+      "fragmented tooling across departments",
+      "vendor lock-in with current cloud provider",
+      "compliance audit failures on data handling"
+    ],
+    "deal_value": 600000,
+    "decision_timeline": "2026-05-06",
+    "competitors_mentioned": [
+      "Microsoft Copilot",
+      "HubSpot AI",
+      "existing CRM workflows"
+    ],
+    "decision_maker": false,
+    "buying_process": "Need approval from their CFO (CFO) for anything over $100K"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1,
+    "duplicate_facts": 3
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.79,
+  "entity_id": "alex-garcia-routewise",
+  "entity_email": "alex.garcia@routewise.com",
+  "entity_website": "https://routewise.com",
+  "contact_name": "Alex Garcia",
+  "record_id": "crm-alex-garcia-routewise"
+}

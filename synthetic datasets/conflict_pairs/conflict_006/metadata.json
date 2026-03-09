@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_006",
+  "category": "decision_maker",
+  "company": "Nimbus Networks",
+  "contact": "Alex Singh",
+  "industry": "Fintech",
+  "stale_date": "2025-10-21",
+  "fresh_date": "2026-02-16",
+  "stale_claim": "Nimbus Networks said their CTO makes the final decision",
+  "fresh_claim": "Nimbus Networks clarified that the VP of Engineering now owns the decision",
+  "expected_query": "Who is the decision maker at Nimbus Networks?",
+  "expected_answer": "clarified that the VP of Engineering now owns the decision",
+  "stale_word_count": 151,
+  "fresh_word_count": 175
+}

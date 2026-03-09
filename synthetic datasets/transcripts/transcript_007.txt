@@ -1,0 +1,162 @@
+---
+type: Contact
+record_id: crm-priya-streamops
+email: priya@streamops.io
+website_url: https://streamops.io
+company: StreamOps
+industry: Digital Media
+contact_name: Priya
+job_title: Chief Revenue Officer
+---
+
+Alex: Hi Priya, great to see you. Thanks for hopping on this call. How's your day going so far?
+
+Priya: Hey Alex, good to see you too. Yeah, it's been busy but manageable. Just wrapped up a team huddle. You?
+
+Alex: Same here, you know, the usual sales grind. Anyway, before we dive in, I saw on LinkedIn you've been at StreamOps for two years now—congrats on that milestone. How's it treating you?
+
+Priya: Oh, thanks! Yeah, hitting the two-year mark last month. It's been a wild ride in digital media, especially with our growth. StreamOps has about 41 folks now, so we're still nimble but feeling those scaling pains, you know?
+
+Alex: Totally get that. Small teams like yours—11 to 50 employees—move fast but hit walls quick. Alright, so for today's discovery call, I figured we'd chat about your current setup, the challenges you're facing, and how TechNova might fit. Sound good? Maybe 30 minutes to cover the basics and see if there's alignment.
+
+Priya: Perfect. Yeah, we're in discovery mode right now, evaluating solutions across the board. We've got five vendors on the shortlist, including you guys, and even kicking the tires on a custom internal tool. Urgency is high though— we need something solid soon.
+
+Alex: Noted on the five vendors and that custom option. High urgency makes sense. Let's start with where you are today. Walk me through your current revenue ops workflow. I hear you're using a mix of Google Sheets and custom dashboards?
+
+Priya: Spot on. It's Google Sheets for most pipeline tracking and some homegrown dashboards cobbled together. Works okay for day-to-day, but it's a mess for visibility into pipeline health. We can't see real-time pipeline health without manual refreshes, and it's killing our forecasting.
+
+Alex: Ouch, yeah, spreadsheets are fine for startups but scale terribly. And with 41 employees in digital media, peak traffic periods must amplify that. Tell me more about scaling issues during those peaks.
+
+Priya: Exactly. During high-traffic events—like live streams or viral campaigns—our systems just choke. Scaling issues pop up everywhere, from data lags to outright crashes. And deployments? They're taking 2-3 weeks per release right now because of all the manual steps and integration headaches with our legacy stuff.
+
+Alex: Two to three weeks per release—that's brutal for an agile team. Integration complexity with legacy systems is a classic pain. What's your tech stack look like? Helps me tailor how we integrate.
+
+Priya: We're heavy on C#, .NET for the backend, all hosted on Azure. SQL Server for databases, RabbitMQ for messaging. Solid stack, but tying it all to our revenue tools is where it falls apart. We've got poor visibility into pipeline health on top of that, so decisions are guesswork half the time.
+
+Alex: Got it—C#, .NET, Azure, SQL Server, RabbitMQ. That's right in our wheelhouse; we plug right into those without a hitch. No rip-and-replace needed. Speaking of pains, any other big ones? Like, how's that affecting your revenue goals as CRO?
+
+Priya: As Chief Revenue Officer here, it's my neck on the line. Slow deployment cycles—yeah, 2-3 weeks each time—mean we're reactive, not proactive. And that scaling during peaks? Last quarter, we lost a ton of potential revenue because pipelines weren't visible in real-time. Oh, and a security audit's looming in Q3, next quarter, which has everyone on edge.
+
+Alex: Q3 security audit— that's coming up fast. Next quarter's no joke. We just nailed a similar audit for a client last month, fully compliant out of the box. But back to deployments: 2-3 weeks is industry average for manual processes, but we cut that to days. Have you quantified the revenue drag from poor pipeline visibility?
+
+Priya: Not exactly, but it's significant. A few weeks ago, we had a peak event where traffic spiked 300%, and our dashboards froze—custom ones, you know? Team was scrambling with Sheets. Integration with legacy systems is another nightmare; every tweak takes forever.
+
+Alex: Yeah, legacy integration complexity is killer. He mentioned that in our prep call—wait, our solutions architect did. Said it's a top blocker for teams like yours. Let's dig into that custom internal tool you're evaluating. What's the story there?
+
+Priya: The custom tool? Our dev team prototyped it a couple months back, thinking it'd solve the visibility issue. But it's already showing cracks—scaling problems during peaks, same as everything else. And maintaining it internally with our 40-ish headcount? Not sustainable.
+
+Alex: About 40-50 employees, right? Makes sense—custom builds eat engineering time. You're looking at five options total, including that one. What's your decision timeline? I know urgency's high.
+
+Priya: Aiming for a decision by August 2nd, 2026—gives us time for pilots, but we want to move fast. End of this month, we're narrowing to two or three. High urgency because Q3 audit and peaks are right around the corner.
+
+Alex: August 2nd, 2026—solid runway for discovery. By end of month narrowing it down? Perfect timing for a POC with us. We've done quick wins with similar stacks. Let me share a quick screen—mind if I pull up a demo tailored to C# and Azure?
+
+Priya: Go for it. Um, just a sec—got a notification. Okay, shoot.
+
+Alex: Alright, here we go. So, this dashboard gives real-time pipeline health, no Sheets needed. Integrates seamlessly with RabbitMQ for events, SQL Server queries are sub-second. Watch this scaling sim—handles 10x peak traffic without breaking a sweat.
+
+Priya: Hmm, looks clean. How does it handle our .NET apps specifically? We've got some legacy endpoints that are finicky.
+
+Alex: Great question. Our SDK drops right into your .NET codebase—zero-config for Azure. Clients with similar stacks saw deployment cycles drop from weeks to hours. She said it was a game-changer— one of our digital media refs.
+
+Priya: Interesting. And visibility? Right now, it's poor—can't trust forecasts. Your demo shows pipeline stages color-coded?
+
+Alex: Yep, predictive analytics baked in. Spots risks early. During peaks, it auto-scales queries. No more 2-3 week deploys either; CI/CD pipeline we provide shaves that down massively.
+
+Priya: Deployment cycles of 2 to 3 weeks are the worst. We've said that in every vendor call. Okay, but security—Q3 audit next quarter. What compliances do you cover?
+
+Alex: SOC 2, GDPR, full audit trails. We prepped a client for their Q3 audit just like yours a few weeks ago—passed with flying colors. He mentioned the reports were plug-and-play.
+
+Priya: Good to hear. We're a digital media shop, 41 strong, so data sensitivity is huge during peaks. Scaling issues have cost us deals already.
+
+Alex: Totally. Let's talk numbers. Any budget ballpark? We've allocated solutions around your size.
+
+Priya: Budget's around 400K for the year. Roughly four hundred thousand, yeah. But ROI has to be clear—fix scaling, deployments, visibility.
+
+Alex: 400K range— we've landed deals there with 3x ROI in year one. For StreamOps at 41 employees, it's scalable. Quick digression: how's the digital media scene? I saw your latest campaign went viral—congrats!
+
+Priya: Haha, thanks! Yeah, that was last week. Blew up on social, but our pipelines couldn't keep up. Back to it—competitors? You're one of five, plus custom. What sets you apart from, say, the big names?
+
+Alex: Fair. Unlike custom tools that balloon maintenance, we handle scaling natively. No integration complexity. And unlike others, real-time RabbitMQ sync. Priya, as CRO, what's your ideal next step?
+
+Priya: Pilot for sure. By end of month? And loop in our CTO—he's the real decision maker, not me fully. Decision maker false for me, ha.
+
+Alex: Noted—you're influencer, CTO decides. She's been pushing for faster deploys too. Let's schedule a CTO intro next week. A few weeks ago, we did this with another CRO—nailed it.
+
+Priya: Sounds good. Q3 audit prep is priority one. Scaling during peaks is issue two. Poor visibility three. Integration four.
+
+Alex: Echo that. We've fixed all for similar teams. Deployment times—those 2-3 weeks? Gone. Pipeline health crystal clear.
+
+Priya: Yeah, you've hit the nail. We've got about 41 people, but feeling like 100 with these pains. Tech stack—C#, .NET, Azure, SQL, Rabbit—any gotchas?
+
+Alex: None. SDKs for all. He ran a test last month—flawless.
+
+Priya: Cool. Urgency high, so let's move. Five vendors, but your demo stood out.
+
+Alex: Awesome. Next quarter's audit— we'll arm you. Decision by August 2nd, 2026? We can POC by then easy.
+
+Priya: Yep. End of month shortlist.
+
+Alex: Perfect. Any other pains? Legacy integration?
+
+Priya: Huge. Custom dashboards fail there. Google Sheets? Forget it.
+
+Alex: We bridge that. Real quick—weekend plans? Weather here's brutal.
+
+Priya: Ha, small talk! Family BBQ. Yours?
+
+Alex: Hiking, hopefully. Back on track: scaling peaks—our auto-scale feature.
+
+Priya: Demo more?
+
+Alex: Sure, here's peak sim again. See? Handles it.
+
+[They discuss demo for several minutes, back-and-forth on features.]
+
+Priya: Okay, visibility looks good. Forecasts accurate?
+
+Alex: 95% hit rate for clients. No more guesswork.
+
+Priya: We need that. Slow cycles killing us—2-3 weeks too long.
+
+Alex: Agreed, twice over. We've cut it everywhere.
+
+Priya: Budget roughly 400 grand—fits?
+
+Alex: Spot on. Around four hundred K.
+
+[More Q&A on pricing, ROI, with interruptions.]
+
+Alex: One more: security audit Q3. Reports ready?
+
+Priya: Critical. Next quarter.
+
+Alex: We got you. She prepped theirs flawlessly.
+
+Priya: Who's she?
+
+Alex: Our compliance lead. Anyway, thoughts on pilot?
+
+Priya: Yes. CTO next.
+
+[Extended discussion on next steps, timelines, objections.]
+
+Alex: With your stack—C#, .NET, Azure, SQL Server, RabbitMQ—we're golden.
+
+Priya: StreamOps specific tweaks?
+
+Alex: All customizable. 41 employees—perfect fit.
+
+Priya: Evaluating custom too, but scaling sucks there.
+
+Alex: As expected. Five total—why us?
+
+Priya: Demo, integration ease.
+
+[They wrap up after deep dives.]
+
+Alex: Great call. Send calendar for CTO?
+
+Priya: Will do. Thanks, Alex.
+
+Alex: Cheers, Priya. Talk soon.

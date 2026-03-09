@@ -1,0 +1,94 @@
+{
+  "sample_id": "document_039",
+  "content_type": "wiki_document",
+  "company": "PixelGrid",
+  "industry": "Digital Media",
+  "target_word_count": 1541,
+  "actual_word_count": 1218,
+  "expected_facts": [
+    {
+      "text": "Budget allocated is approximately $450,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Scala, Spark, Databricks, Snowflake, Airflow",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with scaling issues during peak traffic periods",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating building in-house, Drift, Microsoft Copilot",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with technical debt from rapid early growth",
+      "type": "explicit"
+    },
+    {
+      "text": "PixelGrid is a Digital Media company with about 45 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Elena Okonkwo has been at PixelGrid for 1 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using Pipedrive with Slack notifications",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 17 people this quarter",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Product",
+    "company_size": "11-50",
+    "technology_stack": "Scala, Spark, Databricks, Snowflake, Airflow",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "technical debt from rapid early growth",
+      "scaling issues during peak traffic periods",
+      "vendor lock-in with current cloud provider"
+    ],
+    "deal_value": 450000,
+    "decision_timeline": "2026-11-18",
+    "competitors_mentioned": [
+      "building in-house",
+      "Drift",
+      "Microsoft Copilot"
+    ],
+    "decision_maker": true,
+    "buying_process": "Two-phase: technical POC first, then business case to leadership",
+    "current_solution": "Pipedrive with Slack notifications"
+  },
+  "planted_issues": {
+    "pronoun_issues": 1,
+    "temporal_issues": 2,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Aisha Lee",
+      "title": "VP of Sales",
+      "role": "Champion"
+    },
+    {
+      "name": "Michael Petrov",
+      "title": "VP of Operations",
+      "role": "Budget Owner"
+    },
+    {
+      "name": "Tom Petrov",
+      "title": "Chief Product Officer",
+      "role": "Champion"
+    }
+  ],
+  "property_coverage": 0.79
+}

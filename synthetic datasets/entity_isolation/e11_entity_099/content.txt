@@ -1,0 +1,16 @@
+### Account Overview
+Slate Solutions is a prominent SpaceTech company specializing in advanced satellite data processing and orbital analytics. With 2371 employees and an annual revenue of approximately $84M, they are experiencing rapid growth but face operational hurdles. Primary contact is Emily Okonkwo, Chief Revenue Officer, who oversees all revenue-generating functions including sales, partnerships, and customer success. Emily has been instrumental in driving Slate's expansion into new markets, making her the key decision-maker for enterprise software solutions that can support their high-stakes operations.
+
+### Key Details
+Slate Solutions' tech stack is modern and performance-oriented, built on Elixir, Phoenix, Fly.io, PostgreSQL, and LiveView, enabling real-time data handling critical for SpaceTech applications. However, they are grappling with scaling issues during peak traffic periods, which cause latency in mission-critical dashboards, and integration complexity with legacy systems from acquired firms. These pain points are hindering their ability to handle surging data volumes from satellite constellations. Competitors like ZoomInfo have been evaluated but fell short on customization for SpaceTech workflows, positioning our solution as a strong fit for seamless scalability and legacy compatibility.
+
+### Deal Status
+This is a high-potential opportunity with a projected deal value of $250,000. Emily Okonkwo has expressed strong interest following our initial discovery call, validating our alignment with their scaling and integration needs. The decision timeline is targeted for Q3 2026, aligned with their fiscal planning cycle. Current stage: Qualification complete; moving into solution validation. No major blockers identified, though budget approval from the CRO's team is pending.
+
+### Next Steps
+- Schedule a technical demo with Emily Okonkwo and her engineering leads by end of next week to showcase scaling under peak loads using our Elixir-compatible architecture.
+- Send customized ROI analysis addressing integration with PostgreSQL/LiveView stacks and contrast vs. ZoomInfo.
+- Follow up via email to emily.okonkwo@slatesolutions.com confirming availability and attaching case studies from similar SpaceTech clients.
+- Internal: Prep sales engineering for pain point deep-dive on legacy system migrations.
+
+Overall, Slate Solutions represents a strategic win in the SpaceTech vertical—prioritize to accelerate toward close. (Word count: 378)

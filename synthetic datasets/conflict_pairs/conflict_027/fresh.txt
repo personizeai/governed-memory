@@ -1,0 +1,22 @@
+**Call Note: Follow-up Sales Meeting**  
+**Date:** February 20, 2026  
+**Contact:** Keiko O'Brien, VP of Engineering, Aether IO (EdTech)  
+**Attendees:** Keiko O'Brien, [Your Name] (Sales Rep)  
+
+Follow-up call post-demo review. **Key UPDATE:** Aether IO's main concern has shifted—previously scalability; now explicitly data silos between engineering, product, and sales teams. Keiko emphasized fragmented data hindering cross-team collaboration on student analytics and curriculum updates, superseding prior discussions.  
+
+Demo recap: Highlighted our unified data platform's role in breaking silos via API-driven integrations, providing real-time dashboards for all teams. Keiko receptive; noted it aligns with their Canvas LMS stack and recent Google Workspace migration.  
+
+Additional details:  
+- Q2 budget locked at $75K for core implementation; procurement greenlit pending POC.  
+- Timeline pressure: Target go-live by June for fall semester rollout.  
+- No competitor mentions, but Keiko flagged need for SOC 2 compliance verification (confirmed ours is current).  
+
+Action items:  
+- Send tailored POC demo focused on silo-busting integrations by EOW (2/28).  
+- Schedule engineering deep-dive with their lead dev on 3/5.  
+- Follow up via email tomorrow with compliance docs.  
+
+Opportunity strong; shift positions us ideally. Next touchpoint: 3/1 status check.  
+
+(Word count: 198)

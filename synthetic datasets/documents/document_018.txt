@@ -1,0 +1,50 @@
+# FinStack Labs — Account Overview
+
+## Company Background
+FinStack Labs is a prominent fintech company specializing in scalable digital banking solutions, payment processing platforms, and real-time financial analytics tools designed for mid-sized enterprises and growing startups in the financial services sector. With approximately 614 employees, the company falls squarely within the 201-1000 employee size bracket, enabling it to maintain agility while investing heavily in innovative technologies to handle complex financial workflows. Founded in 2015 by a trio of former Goldman Sachs engineers—led by CEO Elena Vasquez—who identified a gap in affordable, cloud-native banking infrastructure for emerging markets, FinStack Labs quickly scaled from a bootstrapped operation in San Francisco to a GCP-powered powerhouse serving over 150 clients across North America and Europe. Their journey included a pivotal Series B funding round in 2019 that accelerated product development, particularly around event-driven architectures using Pub/Sub, and they've since navigated challenges like regulatory compliance in multiple jurisdictions while building a reputation for robust, low-latency systems. Today, they process billions in transactions annually, but as they push boundaries in high-volume fintech applications, issues like scaling during peak traffic periods have become prominent pain points that their current tools struggle to address.
+
+## Key Contacts
+| Name | Title | Role in Deal |
+|---|---|---|
+| Chen Volkov | Director of Sales Engineering | Primary Contact |
+| Robert Patel | VP of Operations | Champion |
+| Omar Oduya | VP of Customer Success | Technical Evaluator |
+| David Anderson | VP of Sales | End User |
+| Brian Alvarez | VP of Operations | End User |
+
+Chen Volkov, who has been with FinStack Labs for seven years, stands out as our primary point of contact due to his deep technical expertise and long tenure, having joined shortly after the company's early growth phase.
+
+## Meeting History
+### Meeting 1: Discovery Call (January 14, 2026)
+During this initial discovery call, which lasted about 45 minutes via Zoom, the FinStack team outlined their core operational challenges, emphasizing scaling issues during peak traffic periods that have led to noticeable downtime in their transaction processing pipelines. Chen Volkov led the discussion, explaining how their existing setup—a combination of Notion for documentation and Airtable for lightweight CRM workflows—falls short when handling surges in user activity, often requiring manual interventions that slow down customer onboarding. Robert Patel chimed in as the champion, highlighting the frustration with manual processes for customer onboarding, which they estimated costs the team dozens of hours weekly; he noted that they've been evaluating alternatives like Apollo.io to automate lead management, but integration complexity with legacy systems remains a blocker. We aligned on their tech stack, including Java with Micronaut frameworks running on GCP, Spanner for database needs, and Pub/Sub for messaging, and they expressed interest in how our solution could slot in without disrupting these. The call ended with agreement to schedule a technical deep dive, and they shared that no formal decision maker has been identified yet, keeping things at an exploratory stage.
+
+### Meeting 2: Technical Deep Dive (February 12, 2026)
+Two weeks after our discovery call, we held a more hands-on technical deep dive session with Omar Oduya and David Anderson joining Chen, focusing on a live demo of our platform tailored to their Java/Micronaut environment on GCP. They demonstrated their current workflows using Notion and Airtable, revealing how integration complexity with legacy systems exacerbates scaling problems during peak hours, such as Black Friday-like spikes in fintech transactions that overwhelm Pub/Sub queues and Spanner queries. Omar, as the technical evaluator, probed deeply into our scalability features, asking about horizontal scaling and auto-tuning for event-driven loads; he mentioned they'd been looking at HubSpot AI for predictive analytics but found it too sales-focused for their ops needs. Robert Patel reiterated the manual onboarding pains from the previous meeting, stressing that their around 600-person team can't sustain these inefficiencies much longer. We walked through a proof-of-concept integration, which excited them, though Brian Alvarez raised concerns about legacy compatibility that we'll need to address next time. The session wrapped with them committing internal resources for a POC trial, signaling low urgency but genuine interest.
+
+## Technical Requirements
+- **Scalability for Peak Traffic**: Must handle massive spikes in transaction volumes without downtime, integrating seamlessly with their GCP/Spanner/Pub/Sub stack to auto-scale Java/Micronaut services during high-demand periods like end-of-month processing.
+- **Legacy System Integration**: Robust APIs and middleware support to bridge integration complexity with older on-prem financial systems, minimizing custom development while ensuring data consistency across hybrid environments.
+- **Automated Customer Onboarding**: End-to-end workflows to eliminate manual processes currently managed via Notion and Airtable, including KYC verification, document handling, and compliance checks with real-time status updates.
+- **Event-Driven Architecture Compatibility**: Native support for Pub/Sub messaging patterns, enabling reactive processing of financial events in a low-latency manner aligned with their Micronaut-based microservices.
+- **Analytics and Monitoring**: Built-in dashboards for real-time insights into scaling performance and onboarding metrics, with AI-driven anomaly detection to preempt peak traffic issues.
+- **Security and Compliance**: SOC 2 Type II, PCI DSS compliance out-of-the-box, with fine-grained access controls suitable for fintech regulations in multiple regions.
+- **Customization for Fintech Workflows**: Flexible no-code/low-code builders to adapt to their specific payment and analytics needs, reducing reliance on engineering for iterative changes.
+- **Multi-Tenant Support**: Isolation for their 150+ clients while optimizing costs on Spanner, ensuring per-tenant scaling without over-provisioning resources.
+
+These requirements stem directly from their pain points, with a strong emphasis on fitting into their existing Java, Micronaut, GCP, Spanner, and Pub/Sub technology stack.
+
+## Deal Status
+The deal with FinStack Labs is currently in the Qualification stage, with an allocated budget of approximately $200,000 for the annual subscription covering up to 50 users and custom integrations. We've qualified initial interest through two meetings, but urgency remains low, as they prioritize internal POC validation before advancing; no decision maker has been looped in yet, which is typical for their deliberate ops-driven process at a company of their size—around 614 strong. Timeline-wise, they're aiming for a pilot launch by Q3 2026, pending resolution of blockers like detailed legacy integration specs, which Chen Volkov promised to deliver soon after our last deep dive last month. The projected deal value sits at $200,000, representing a strong win given their scaling woes during peaks and manual onboarding drags, but progress hinges on demonstrating quick ROI in the upcoming POC. Overall, momentum is building steadily, though their evaluation of competitors means we must differentiate sharply on tech stack alignment.
+
+## Competitive Landscape
+FinStack Labs is actively evaluating several alternatives to their current combination of Notion and Airtable:
+- **Apollo.io**: Strong contender for sales automation and lead enrichment, but they've noted limitations in handling complex fintech scaling during peak traffic.
+- **HubSpot AI**: Attractive for its AI-powered CRM features, yet concerns around overkill for ops teams and poor fit with their Java/Micronaut/GCP ecosystem.
+- **Custom Internal Tool**: A homegrown solution in development, leveraging Spanner and Pub/Sub, but stalled due to integration complexity with legacy systems and resource constraints in their 600-employee engineering org.
+
+Our edge lies in seamless GCP-native integration and targeted onboarding automation, which addresses their pains more directly than these options.
+
+## Risk Factors
+- **Low Urgency and Prolonged Evaluation**: With urgency rated low and a multi-quarter timeline, competing priorities or shifting budgets at their mid-sized fintech could delay or derail commitment, especially since last month's deep dive enthusiasm might wane without quick wins.
+- **Unidentified Decision Maker**: No executive sponsor identified yet; if Chen or Robert can't elevate this internally, it risks stalling in technical eval, as they've done with past tools where it lacked C-suite buy-in.
+- **Competitive Pressure and Internal Build**: Heavy scouting of Apollo.io, HubSpot AI, and their custom tool—phrased slightly differently in meetings as "in-house prototypes"—could sway them if we don't nail the POC on legacy integration and peak scaling demos soon.

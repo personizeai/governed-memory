@@ -1,0 +1,61 @@
+{
+  "sample_id": "call_note_041",
+  "content_type": "call_notes",
+  "company": "TechFlow Inc",
+  "industry": "B2B SaaS",
+  "duration_minutes": 15,
+  "target_word_count": 487,
+  "actual_word_count": 289,
+  "expected_facts": [
+    {
+      "text": "Their tech stack includes Java, Micronaut, GCP, Spanner, Pub/Sub",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with fragmented tooling across departments",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Intercom, Apollo.io, Drift",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $1,200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Brian Kaur has been at TechFlow Inc for 2 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using legacy Java application maintained by one person",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "CTO",
+    "company_name": "TechFlow Inc",
+    "company_size": "1000+",
+    "technology_stack": "Java, Micronaut, GCP, Spanner, Pub/Sub",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "poor developer experience slowing feature velocity",
+      "fragmented tooling across departments"
+    ],
+    "deal_value": 1200000,
+    "competitors_mentioned": [
+      "Intercom",
+      "Apollo.io",
+      "Drift"
+    ],
+    "decision_maker": true,
+    "buying_process": "Procurement requires three competitive bids before decision",
+    "current_solution": "legacy Java application maintained by one person",
+    "urgency_level": "High"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2
+  },
+  "property_coverage": 0.86
+}

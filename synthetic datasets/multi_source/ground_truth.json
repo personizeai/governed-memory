@@ -1,0 +1,131 @@
+{
+  "entity": {
+    "name": "Sarah Chen",
+    "title": "VP of Engineering",
+    "company": "TechFlow Inc",
+    "industry": "B2B SaaS",
+    "employee_count": 280,
+    "size_bucket": "201-1000",
+    "entity_id": "sarah-chen-techflow-inc",
+    "email": "sarah.chen@techflow.io",
+    "website": "https://techflow.io"
+  },
+  "total_unique_facts": 36,
+  "total_overlapping_facts": 10,
+  "similar_but_distinct": [
+    [
+      "source_1: 'AWS migration planned for Q2'",
+      "source_4: 'AWS migration facing procurement delays' \u2014 different status"
+    ],
+    [
+      "source_1: 'Team of 85 engineers'",
+      "source_5: 'Engineering team grew to ~90 after recent hiring' \u2014 different count"
+    ],
+    [
+      "source_2: 'Board meeting in March to present options'",
+      "source_4: 'CFO wants to delay all new spend until Q3 pending board review' \u2014 related but different facts"
+    ],
+    [
+      "source_1: 'Releases take 3 weeks'",
+      "source_3: 'Response time requirement: <200ms' \u2014 different performance aspects"
+    ]
+  ],
+  "expected_dedup_count": 10,
+  "sources": {
+    "source_1_discovery_call": {
+      "source_id": "source_1_discovery_call",
+      "content_type": "meeting_transcript",
+      "label": "Discovery Call Transcript",
+      "unique_facts": [
+        "Sarah has been VP of Engineering at TechFlow for 3 years",
+        "TechFlow was founded in 2018 in San Francisco",
+        "They currently have 280 employees, up from 150 last year",
+        "Engineering team is 85 people across 12 squads",
+        "They use Java and Spring Boot for backend services",
+        "Primary database is Oracle with plans to migrate to PostgreSQL",
+        "Sarah reports directly to CEO Mark Thompson",
+        "They have a $2M annual IT budget",
+        "Main product is an analytics dashboard for mid-market companies",
+        "They struggle with deployment velocity \u2014 releases take 3 weeks",
+        "Sarah was previously at Stripe for 5 years",
+        "Interested in governed memory for their customer data pipeline"
+      ],
+      "overlap_facts": [],
+      "actual_word_count": 1319
+    },
+    "source_2_followup_call": {
+      "source_id": "source_2_followup_call",
+      "content_type": "meeting_transcript",
+      "label": "Follow-up Call Transcript",
+      "unique_facts": [
+        "Sarah's team is evaluating 3 vendors including us",
+        "They had a failed POC with competitor Gong last quarter",
+        "Their security team requires SOC 2 compliance for all vendors",
+        "They want to integrate with their existing Snowflake data warehouse",
+        "Sarah mentioned a board meeting in March where she'll present options",
+        "They need API-first architecture \u2014 no UI-only solutions",
+        "Budget for this initiative is allocated at $450K"
+      ],
+      "overlap_facts": [
+        "Their infrastructure runs on AWS",
+        "Budget is around $450K for the project",
+        "Targeting Q2 2026 for migration"
+      ],
+      "actual_word_count": 960
+    },
+    "source_3_email_thread": {
+      "source_id": "source_3_email_thread",
+      "content_type": "email_thread",
+      "label": "Email Thread",
+      "unique_facts": [
+        "Sarah's colleague Mike Rivera (Director of Data) is the technical evaluator",
+        "Their legal team needs a DPA signed before any POC",
+        "They process ~50M customer events per day through their pipeline",
+        "Email thread confirms they want a phased rollout starting with sales team",
+        "Sarah asked for customer references in healthcare and fintech verticals",
+        "Response time requirement: <200ms for memory retrieval at scale"
+      ],
+      "overlap_facts": [
+        "AWS migration is a key initiative this year",
+        "Project budget is confirmed at four hundred fifty thousand"
+      ],
+      "actual_word_count": 975
+    },
+    "source_4_crm_notes": {
+      "source_id": "source_4_crm_notes",
+      "content_type": "call_notes",
+      "label": "CRM Notes by Sales Rep",
+      "unique_facts": [
+        "CRM notes: Champion confidence HIGH \u2014 Sarah driving this internally",
+        "Next call scheduled for Feb 20 to review POC requirements",
+        "Competitor in play: they're also talking to Microsoft Copilot team",
+        "Risk: CFO wants to delay all new spend until Q3 pending board review"
+      ],
+      "overlap_facts": [
+        "Company on AWS, planning PostgreSQL migration",
+        "Deal value ~$450K",
+        "Timeline: Q2 2026",
+        "Team of ~85 engineers"
+      ],
+      "actual_word_count": 426
+    },
+    "source_5_research": {
+      "source_id": "source_5_research",
+      "content_type": "wiki_document",
+      "label": "LinkedIn + Company Research",
+      "unique_facts": [
+        "TechFlow raised $45M Series C in September 2024 led by Sequoia",
+        "LinkedIn shows TechFlow has 312 employees (280 per Sarah, LinkedIn may be stale)",
+        "Glassdoor reviews mention high engineering velocity but tooling gaps",
+        "Company tech blog mentions microservices migration initiative",
+        "Their GitHub org shows heavy TypeScript and Java usage",
+        "Recent press release: partnership with Snowflake announced in January 2026",
+        "CrunchBase: $68M total funding across 3 rounds"
+      ],
+      "overlap_facts": [
+        "About 280-310 employees"
+      ],
+      "actual_word_count": 774
+    }
+  }
+}

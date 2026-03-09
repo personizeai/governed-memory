@@ -1,0 +1,54 @@
+{
+  "sample_id": "call_note_016",
+  "content_type": "call_notes",
+  "company": "LearnStack",
+  "industry": "EdTech",
+  "duration_minutes": 30,
+  "target_word_count": 578,
+  "actual_word_count": 208,
+  "expected_facts": [
+    {
+      "text": "They're dealing with lack of real-time analytics for decision making",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Python, Django, AWS, PostgreSQL, Redis",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with high infrastructure costs eating into margins",
+      "type": "explicit"
+    },
+    {
+      "text": "Simone Tanaka has been at LearnStack for 1 years",
+      "type": "explicit"
+    },
+    {
+      "text": "LearnStack is a EdTech company with about 41 employees",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Sales Engineering",
+    "company_name": "LearnStack",
+    "company_size": "11-50",
+    "technology_stack": "Python, Django, AWS, PostgreSQL, Redis",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "high infrastructure costs eating into margins",
+      "lack of real-time analytics for decision making",
+      "customer churn from slow support response times",
+      "data silos between engineering and sales teams"
+    ],
+    "decision_timeline": "2026-04-27",
+    "decision_maker": true,
+    "next_steps": "Set up POC environment for Simone's team to evaluate",
+    "buying_process": "Need approval from their CFO (CFO) for anything over $100K",
+    "current_solution": "Salesforce with custom Apex triggers"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2
+  },
+  "property_coverage": 0.79
+}

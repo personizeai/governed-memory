@@ -1,0 +1,76 @@
+[09:15] @alex.m: @channel quick update on CourseForge - we're in negotiation stage, deal value around $600k. Rachel Reyes (Dir of IT) is our main contact, been there 2 years.  
+[👍 from @sarah.k]  
+[09:16] @sarah.k: Nice, what's their pain? Data silos between eng and sales?  
+[09:17] @alex.m: Yep, exactly. Plus customer churn from slow support responses. EdTech co with 4821 employees.  
+[09:18] @mike.r: Got it. Tech stack?  
+  ↳ [09:19] @alex.m: Python, FastAPI, AWS Lambda, DynamoDB, SQS. Matches ours perfectly imo.  
+[09:20] @aisha.g: They're evaluating 4 vendors incl us? Who's leading that?  
+[09:21] @sarah.k: Rachel is decision maker. She mentioned board meeting last month shifted priorities to integration stuff.  
+[09:22] @alex.m: Urgency low tbh, but budget allocated ~600k.  
+[👍 from @mike.r]  
+[09:23] @mike.r: Makes sense. Next steps?  
+[09:24] @alex.m: Set up POC env for her team to eval. Lmk if eng needs anything.  
+[09:25] @sarah.k: She said they're not interested in full deploy yet.  
+[09:26] @aisha.g: Who said? Rachel?  
+[09:27] @alex.m: Yeah her. Ngl, data silos killing their sales pipeline.  
+[09:28] @mike.r: Fwiw, churn from slow support is huge in EdTech.  
+  ↳ [09:29] @sarah.k: Totally, they lose users fast.  
+[09:30] @alex.m: [shared link: CourseForge pricing page] Check this, confirms 1000+ size but we know it's 4821.  
+[09:31] @aisha.g: Thx. She's been there 2 years, right? Knows the silos issue inside out.  
+[09:32] @sarah.k: Yep. Board mtg last month made them prioritize this.  
+[09:33] @mike.r: He mentioned urgency low, so no rush?  
+[09:34] @alex.m: Exactly, low urgency. Tomorrow we ping for POC details?  
+[09:35] @aisha.g: Got it. Who handles POC setup?  
+[09:36] @sarah.k: I can loop eng. They want it on their stack.  
+[👍 from @alex.m]  
+[09:37] @mike.r: She ok'd the budget?  
+[09:38] @alex.m: Rachel did, decision maker.  
+[09:39] @aisha.g: Cool. Data silos between eng/sales - classic.  
+[09:40] @sarah.k: And churn sucks for them. Slow support responses killing retention.  
+[09:41] @mike.r: Last Friday she said evaluating 4 vendors.  
+[09:42] @alex.m: Yep. We're top?  
+  ↳ [09:43] @aisha.g: Imo yes, stack fit.  
+[09:44] @sarah.k: @here anyone free next sprint for POC demo?  
+[09:45] @mike.r: I am.  
+[👍 from @sarah.k]  
+[09:46] @alex.m: Perfect. Rachel Reyes, Dir IT at CourseForge.  
+[09:47] @aisha.g: Thx reminder. 4821 employees, big deal.  
+[09:48] @sarah.k: Board shifted prios last month, now silos top.  
+[09:49] @mike.r: Got it. Budget 600k solid.  
+[09:50] @alex.m: Yep. He confirm tech stack?  
+[09:51] @aisha.g: She did - Python etc.  
+[09:52] @sarah.k: Churn from support delays real pain.  
+[09:53] @mike.r: Makes sense. POC first.  
+[09:54] @alex.m: Agreed. Low urgency tho.  
+[09:55] @aisha.g: Who follows up tomorrow?  
+[09:56] @sarah.k: Me. Lmk changes.  
+[👍 from @mike.r]  
+[09:57] @alex.m: Thx team.  
+[09:58] @mike.r: Np.  
+  ↳ [09:59] @aisha.g: She's key, don't forget.  
+[10:00] @sarah.k: Will share POC timeline soon.  
+[10:01] @alex.m: Sounds good. Evaluating 4, we stand out on stack.  
+[10:02] @aisha.g: Fwiw, yeah.  
+[10:03] @mike.r: Data silos fixed could save them big.  
+[10:04] @sarah.k: Totally.  
+[👍 from @alex.m]  
+[10:05] @alex.m: Deal stage negotiation locked.  
+[10:06] @aisha.g: Got it.  
+[10:07] @mike.r: Budget approx 600k?  
+[10:08] @sarah.k: Yes, allocated.  
+[10:09] @alex.m: Rachel been there 2 years, per LinkedIn.  
+[10:10] @aisha.g: Confirmed. EdTech giant.  
+[10:11] @sarah.k: Support churn bad, they admitted.  
+[10:12] @mike.r: Next sprint POC?  
+[10:13] @alex.m: Yes.  
+[👍 from @sarah.k]  
+[10:14] @aisha.g: She wants env ready soonish.  
+[10:15] @mike.r: Who?  
+[10:16] @sarah.k: Rachel obv. Low urgency still.  
+[10:17] @alex.m: Board mtg last month key.  
+[10:18] @aisha.g: Makes sense.  
+[10:19] @mike.r: Stack: DynamoDB etc fits.  
+[10:20] @sarah.k: Yep.  
+[10:21] @alex.m: Thx all.  
+[10:22] @aisha.g: Np. Deal on!  
+[👍 from @mike.r]

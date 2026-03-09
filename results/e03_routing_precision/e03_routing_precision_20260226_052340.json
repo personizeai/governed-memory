@@ -1,0 +1,933 @@
+{
+  "experiment_id": "e03_routing_precision",
+  "started_at": "2026-02-26T05:23:08.653134",
+  "completed_at": "2026-02-26T05:23:40.568109",
+  "metadata": {},
+  "record_count": 20,
+  "records": [
+    {
+      "task_label": "cold_outbound_fintech",
+      "task_text": "Write a cold outbound email to a VP of Sales at a fintech company",
+      "expected_tags": [
+        "Sales",
+        "Brand"
+      ],
+      "inferred_tags": [
+        "Sales",
+        "Brand"
+      ],
+      "min_score_applied": 0.45,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "prefilter_reduction_pct": 0,
+      "critical_count": 4,
+      "supplementary_count": 2,
+      "selected_variables": [
+        {
+          "id": "423ed717-40e1-49e7-9e9f-1f881952bff6",
+          "name": "brand-voice-guidelines",
+          "priority": "critical",
+          "mode": "section"
+        },
+        {
+          "id": "6ae79579-a1b4-40b4-955e-d11ff2bd5637",
+          "name": "product-positioning-messaging",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "d1ef76df-1f9b-4830-9a16-dbbcfaa460c5",
+          "name": "icp-definition-mid-market-saas",
+          "priority": "critical",
+          "mode": "section"
+        },
+        {
+          "id": "dd6a08fa-a511-472e-8ff6-1e5c051da898",
+          "name": "prospect-research-protocol",
+          "priority": "critical",
+          "mode": "section"
+        }
+      ],
+      "routing_duration_ms": 10336,
+      "input_tokens": 3449,
+      "output_tokens": 1737,
+      "tag_precision": 1.0,
+      "tag_recall": 1.0,
+      "matched_tags": [
+        "Brand",
+        "Sales"
+      ],
+      "missed_tags": [],
+      "_timestamp": "2026-02-26T05:23:40.553372"
+    },
+    {
+      "task_label": "gdpr_response",
+      "task_text": "Draft a GDPR data deletion response for an EU customer",
+      "expected_tags": [
+        "Policy",
+        "Support"
+      ],
+      "inferred_tags": [
+        "Policy",
+        "Guideline"
+      ],
+      "min_score_applied": 0.45,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "prefilter_reduction_pct": 0,
+      "critical_count": 2,
+      "supplementary_count": 0,
+      "selected_variables": [
+        {
+          "id": "f2731758-dd6b-4ecb-aa7e-32b8c50374f5",
+          "name": "data-handling-privacy-policy",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "44b4b180-fc30-46bc-a0d0-8582d80fdb60",
+          "name": "data-handling-privacy-policy",
+          "priority": "critical",
+          "mode": "full"
+        }
+      ],
+      "routing_duration_ms": 980,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "tag_precision": 1.0,
+      "tag_recall": 0.5,
+      "matched_tags": [
+        "Policy"
+      ],
+      "missed_tags": [
+        "Support"
+      ],
+      "_timestamp": "2026-02-26T05:23:40.554334"
+    },
+    {
+      "task_label": "competitive_research",
+      "task_text": "Research a competitor's new product launch",
+      "expected_tags": [
+        "Marketing",
+        "Product"
+      ],
+      "inferred_tags": [
+        "Product",
+        "Marketing"
+      ],
+      "min_score_applied": 0.45,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "prefilter_reduction_pct": 0,
+      "critical_count": 2,
+      "supplementary_count": 0,
+      "selected_variables": [
+        {
+          "id": "e1518bb5-171b-4637-b1de-933a95b81732",
+          "name": "market-research-guidelines",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "840ac48f-a93e-4166-8087-b40c9a66de08",
+          "name": "competitive-analysis-framework",
+          "priority": "critical",
+          "mode": "full"
+        }
+      ],
+      "routing_duration_ms": 1062,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "tag_precision": 1.0,
+      "tag_recall": 0.5,
+      "matched_tags": [
+        "Marketing"
+      ],
+      "missed_tags": [
+        "Product"
+      ],
+      "_timestamp": "2026-02-26T05:23:40.554995"
+    },
+    {
+      "task_label": "demo_script",
+      "task_text": "Prepare a technical demo script for the MCP integration",
+      "expected_tags": [
+        "Product",
+        "Sales"
+      ],
+      "inferred_tags": [
+        "Sales",
+        "Brand",
+        "Product"
+      ],
+      "min_score_applied": 0.45,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "prefilter_reduction_pct": 0,
+      "critical_count": 1,
+      "supplementary_count": 0,
+      "selected_variables": [
+        {
+          "id": "9c31be38-de13-41d5-b529-596a32863d54",
+          "name": "product-knowledge-mcp-integration",
+          "priority": "critical",
+          "mode": "full"
+        }
+      ],
+      "routing_duration_ms": 816,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "tag_precision": 1.0,
+      "tag_recall": 0.5,
+      "matched_tags": [
+        "Product"
+      ],
+      "missed_tags": [
+        "Sales"
+      ],
+      "_timestamp": "2026-02-26T05:23:40.555636"
+    },
+    {
+      "task_label": "onboarding_email",
+      "task_text": "Write an onboarding email for a new design partner",
+      "expected_tags": [
+        "Customer",
+        "Brand"
+      ],
+      "inferred_tags": [
+        "Sales",
+        "Brand",
+        "Customer"
+      ],
+      "min_score_applied": 0.45,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "prefilter_reduction_pct": 0,
+      "critical_count": 7,
+      "supplementary_count": 0,
+      "selected_variables": [
+        {
+          "id": "53989604-2e72-48b3-853e-571add3066e0",
+          "name": "onboarding-workflow-design-partner",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "e9e32b4e-1db6-4042-9d48-bb1f336ebf96",
+          "name": "onboarding-workflow-design-partner",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "8d624530-666d-4343-aba8-f0b15194b48b",
+          "name": "onboarding-workflow-builder-track",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "c49da519-5c86-4cdb-a0ed-b535c0a78dc5",
+          "name": "onboarding-workflow-builder-track",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "c4d63ac9-c684-41df-a814-da29fc02cf38",
+          "name": "brand-voice-guidelines",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "dd6a08fa-a511-472e-8ff6-1e5c051da898",
+          "name": "prospect-research-protocol",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "423ed717-40e1-49e7-9e9f-1f881952bff6",
+          "name": "brand-voice-guidelines",
+          "priority": "critical",
+          "mode": "full"
+        }
+      ],
+      "routing_duration_ms": 710,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "tag_precision": 0.857,
+      "tag_recall": 1.0,
+      "matched_tags": [
+        "Brand",
+        "Customer"
+      ],
+      "missed_tags": [],
+      "_timestamp": "2026-02-26T05:23:40.556216"
+    },
+    {
+      "task_label": "pricing_healthcare",
+      "task_text": "Create a pricing proposal for a healthcare company",
+      "expected_tags": [
+        "Sales",
+        "Policy"
+      ],
+      "inferred_tags": [
+        "Sales",
+        "Brand"
+      ],
+      "min_score_applied": 0.45,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "prefilter_reduction_pct": 0,
+      "critical_count": 3,
+      "supplementary_count": 2,
+      "selected_variables": [
+        {
+          "id": "0a6a7783-7d5e-47ab-b4c3-ee0aa914bfb7",
+          "name": "pricing-negotiation-guidelines",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "423ed717-40e1-49e7-9e9f-1f881952bff6",
+          "name": "brand-voice-guidelines",
+          "priority": "critical",
+          "mode": "section"
+        },
+        {
+          "id": "6ae79579-a1b4-40b4-955e-d11ff2bd5637",
+          "name": "product-positioning-messaging",
+          "priority": "critical",
+          "mode": "full"
+        }
+      ],
+      "routing_duration_ms": 11890,
+      "input_tokens": 3443,
+      "output_tokens": 1532,
+      "tag_precision": 0.333,
+      "tag_recall": 1.0,
+      "matched_tags": [
+        "Policy",
+        "Sales"
+      ],
+      "missed_tags": [],
+      "_timestamp": "2026-02-26T05:23:40.556996"
+    },
+    {
+      "task_label": "support_escalation",
+      "task_text": "Draft a support escalation response for a P1 incident",
+      "expected_tags": [
+        "Support",
+        "Policy"
+      ],
+      "inferred_tags": [
+        "Support"
+      ],
+      "min_score_applied": 0.45,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "prefilter_reduction_pct": 0,
+      "critical_count": 1,
+      "supplementary_count": 2,
+      "selected_variables": [
+        {
+          "id": "da8c5dd7-359d-495e-b00a-8adc22db107a",
+          "name": "support-escalation-policy",
+          "priority": "critical",
+          "mode": "full"
+        }
+      ],
+      "routing_duration_ms": 10353,
+      "input_tokens": 1765,
+      "output_tokens": 1492,
+      "tag_precision": 1.0,
+      "tag_recall": 1.0,
+      "matched_tags": [
+        "Policy",
+        "Support"
+      ],
+      "missed_tags": [],
+      "_timestamp": "2026-02-26T05:23:40.557575"
+    },
+    {
+      "task_label": "blog_post",
+      "task_text": "Write a blog post about our evaluation framework",
+      "expected_tags": [
+        "Product",
+        "Brand"
+      ],
+      "inferred_tags": [
+        "Product"
+      ],
+      "min_score_applied": 0.45,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "prefilter_reduction_pct": 0,
+      "critical_count": 2,
+      "supplementary_count": 1,
+      "selected_variables": [
+        {
+          "id": "3c782572-b092-4c00-825f-de693bacfdd4",
+          "name": "product-knowledge-evaluation-framework",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "f67f9ad5-cfe7-4c3f-bee1-03bfa00c8c9b",
+          "name": "product-knowledge-evaluation-framework",
+          "priority": "critical",
+          "mode": "full"
+        }
+      ],
+      "routing_duration_ms": 8335,
+      "input_tokens": 2496,
+      "output_tokens": 1383,
+      "tag_precision": 1.0,
+      "tag_recall": 0.5,
+      "matched_tags": [
+        "Product"
+      ],
+      "missed_tags": [
+        "Brand"
+      ],
+      "_timestamp": "2026-02-26T05:23:40.558192"
+    },
+    {
+      "task_label": "discovery_manufacturing",
+      "task_text": "Prepare discovery call questions for a manufacturing prospect",
+      "expected_tags": [
+        "Sales"
+      ],
+      "inferred_tags": [
+        "Sales",
+        "Brand"
+      ],
+      "min_score_applied": 0.45,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "prefilter_reduction_pct": 0,
+      "critical_count": 2,
+      "supplementary_count": 2,
+      "selected_variables": [
+        {
+          "id": "ba4122da-f593-4cb8-9625-f945c2712853",
+          "name": "sales-playbook-discovery-call",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "423ed717-40e1-49e7-9e9f-1f881952bff6",
+          "name": "brand-voice-guidelines",
+          "priority": "critical",
+          "mode": "section"
+        }
+      ],
+      "routing_duration_ms": 8127,
+      "input_tokens": 3443,
+      "output_tokens": 1337,
+      "tag_precision": 0.5,
+      "tag_recall": 1.0,
+      "matched_tags": [
+        "Sales"
+      ],
+      "missed_tags": [],
+      "_timestamp": "2026-02-26T05:23:40.558830"
+    },
+    {
+      "task_label": "compliance_checklist",
+      "task_text": "Create a compliance checklist for financial services customers",
+      "expected_tags": [
+        "Policy"
+      ],
+      "inferred_tags": [
+        "Policy",
+        "Guideline"
+      ],
+      "min_score_applied": 0.45,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "prefilter_reduction_pct": 0,
+      "critical_count": 3,
+      "supplementary_count": 0,
+      "selected_variables": [
+        {
+          "id": "79f87559-c833-4bb3-ae08-6e4dafc488bc",
+          "name": "regulatory-compliance-financial-services",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "da624c6f-2587-4330-9b53-f566b849a1c8",
+          "name": "regulatory-compliance-healthcare",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "f2731758-dd6b-4ecb-aa7e-32b8c50374f5",
+          "name": "data-handling-privacy-policy",
+          "priority": "critical",
+          "mode": "full"
+        }
+      ],
+      "routing_duration_ms": 555,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "tag_precision": 1.0,
+      "tag_recall": 1.0,
+      "matched_tags": [
+        "Policy"
+      ],
+      "missed_tags": [],
+      "_timestamp": "2026-02-26T05:23:40.559374"
+    },
+    {
+      "task_label": "demo_followup",
+      "task_text": "Write a follow-up email after a product demo",
+      "expected_tags": [
+        "Sales",
+        "Brand"
+      ],
+      "inferred_tags": [
+        "Sales",
+        "Brand",
+        "Product"
+      ],
+      "min_score_applied": 0.45,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "prefilter_reduction_pct": 0,
+      "critical_count": 2,
+      "supplementary_count": 0,
+      "selected_variables": [
+        {
+          "id": "c4d63ac9-c684-41df-a814-da29fc02cf38",
+          "name": "brand-voice-guidelines",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "6ae79579-a1b4-40b4-955e-d11ff2bd5637",
+          "name": "product-positioning-messaging",
+          "priority": "critical",
+          "mode": "full"
+        }
+      ],
+      "routing_duration_ms": 595,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "tag_precision": 1.0,
+      "tag_recall": 0.5,
+      "matched_tags": [
+        "Brand"
+      ],
+      "missed_tags": [
+        "Sales"
+      ],
+      "_timestamp": "2026-02-26T05:23:40.559929"
+    },
+    {
+      "task_label": "eng_style_guide",
+      "task_text": "Draft an internal engineering style guide update",
+      "expected_tags": [
+        "Product",
+        "Guideline"
+      ],
+      "inferred_tags": [
+        "Product"
+      ],
+      "min_score_applied": 0.45,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "prefilter_reduction_pct": 0,
+      "critical_count": 1,
+      "supplementary_count": 0,
+      "selected_variables": [
+        {
+          "id": "52b4ea9f-50b7-45c6-b156-4b19ad6a19ee",
+          "name": "engineering-style-guide",
+          "priority": "critical",
+          "mode": "full"
+        }
+      ],
+      "routing_duration_ms": 11284,
+      "input_tokens": 2495,
+      "output_tokens": 1667,
+      "tag_precision": 1.0,
+      "tag_recall": 1.0,
+      "matched_tags": [
+        "Guideline",
+        "Product"
+      ],
+      "missed_tags": [],
+      "_timestamp": "2026-02-26T05:23:40.560422"
+    },
+    {
+      "task_label": "market_analysis",
+      "task_text": "Prepare a market analysis report for Q2 planning",
+      "expected_tags": [
+        "Marketing"
+      ],
+      "inferred_tags": [
+        "Marketing"
+      ],
+      "min_score_applied": 0.45,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "prefilter_reduction_pct": 0,
+      "critical_count": 2,
+      "supplementary_count": 1,
+      "selected_variables": [
+        {
+          "id": "19a73449-33b9-4af9-93a7-c8d2233d3b63",
+          "name": "market-research-guidelines",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "03599730-1b8c-45ce-aa31-7c08cc34a7a2",
+          "name": "competitive-analysis-framework",
+          "priority": "critical",
+          "mode": "full"
+        }
+      ],
+      "routing_duration_ms": 9472,
+      "input_tokens": 2417,
+      "output_tokens": 1196,
+      "tag_precision": 1.0,
+      "tag_recall": 1.0,
+      "matched_tags": [
+        "Marketing"
+      ],
+      "missed_tags": [],
+      "_timestamp": "2026-02-26T05:23:40.561032"
+    },
+    {
+      "task_label": "cs_checkin",
+      "task_text": "Write a customer success check-in email at 30 days",
+      "expected_tags": [
+        "Customer",
+        "Brand"
+      ],
+      "inferred_tags": [
+        "Sales",
+        "Brand",
+        "Customer"
+      ],
+      "min_score_applied": 0.45,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "prefilter_reduction_pct": 0,
+      "critical_count": 2,
+      "supplementary_count": 0,
+      "selected_variables": [
+        {
+          "id": "c4d63ac9-c684-41df-a814-da29fc02cf38",
+          "name": "brand-voice-guidelines",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "8d624530-666d-4343-aba8-f0b15194b48b",
+          "name": "onboarding-workflow-builder-track",
+          "priority": "critical",
+          "mode": "full"
+        }
+      ],
+      "routing_duration_ms": 478,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "tag_precision": 1.0,
+      "tag_recall": 1.0,
+      "matched_tags": [
+        "Brand",
+        "Customer"
+      ],
+      "missed_tags": [],
+      "_timestamp": "2026-02-26T05:23:40.561648"
+    },
+    {
+      "task_label": "objection_handling",
+      "task_text": "Create objection handling notes for enterprise deals",
+      "expected_tags": [
+        "Sales",
+        "Product"
+      ],
+      "inferred_tags": [
+        "Sales",
+        "Brand"
+      ],
+      "min_score_applied": 0.45,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "prefilter_reduction_pct": 0,
+      "critical_count": 3,
+      "supplementary_count": 3,
+      "selected_variables": [
+        {
+          "id": "0a6a7783-7d5e-47ab-b4c3-ee0aa914bfb7",
+          "name": "pricing-negotiation-guidelines",
+          "priority": "critical",
+          "mode": "section"
+        },
+        {
+          "id": "6ae79579-a1b4-40b4-955e-d11ff2bd5637",
+          "name": "product-positioning-messaging",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "423ed717-40e1-49e7-9e9f-1f881952bff6",
+          "name": "brand-voice-guidelines",
+          "priority": "critical",
+          "mode": "section"
+        }
+      ],
+      "routing_duration_ms": 13868,
+      "input_tokens": 3442,
+      "output_tokens": 1972,
+      "tag_precision": 0.667,
+      "tag_recall": 1.0,
+      "matched_tags": [
+        "Product",
+        "Sales"
+      ],
+      "missed_tags": [],
+      "_timestamp": "2026-02-26T05:23:40.562272"
+    },
+    {
+      "task_label": "data_handling",
+      "task_text": "Draft a data handling policy summary for a prospect",
+      "expected_tags": [
+        "Policy"
+      ],
+      "inferred_tags": [
+        "Policy",
+        "Guideline",
+        "Sales",
+        "Brand"
+      ],
+      "min_score_applied": 0.45,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "prefilter_reduction_pct": 0,
+      "critical_count": 3,
+      "supplementary_count": 0,
+      "selected_variables": [
+        {
+          "id": "f2731758-dd6b-4ecb-aa7e-32b8c50374f5",
+          "name": "data-handling-privacy-policy",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "44b4b180-fc30-46bc-a0d0-8582d80fdb60",
+          "name": "data-handling-privacy-policy",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "da624c6f-2587-4330-9b53-f566b849a1c8",
+          "name": "regulatory-compliance-healthcare",
+          "priority": "critical",
+          "mode": "full"
+        }
+      ],
+      "routing_duration_ms": 846,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "tag_precision": 1.0,
+      "tag_recall": 1.0,
+      "matched_tags": [
+        "Policy"
+      ],
+      "missed_tags": [],
+      "_timestamp": "2026-02-26T05:23:40.562871"
+    },
+    {
+      "task_label": "troubleshooting",
+      "task_text": "Write a technical troubleshooting guide for API errors",
+      "expected_tags": [
+        "Support",
+        "Product"
+      ],
+      "inferred_tags": [
+        "Support",
+        "Product"
+      ],
+      "min_score_applied": 0.45,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "prefilter_reduction_pct": 0,
+      "critical_count": 3,
+      "supplementary_count": 2,
+      "selected_variables": [
+        {
+          "id": "eabf3616-187a-4ddd-bc5a-38e9f2e69b83",
+          "name": "technical-troubleshooting-guide",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "be1fb312-9838-461f-9429-2b7f8cdbe17e",
+          "name": "product-knowledge-core-platform",
+          "priority": "critical",
+          "mode": "section"
+        },
+        {
+          "id": "52b4ea9f-50b7-45c6-b156-4b19ad6a19ee",
+          "name": "engineering-style-guide",
+          "priority": "critical",
+          "mode": "section"
+        }
+      ],
+      "routing_duration_ms": 8950,
+      "input_tokens": 3153,
+      "output_tokens": 1504,
+      "tag_precision": 1.0,
+      "tag_recall": 1.0,
+      "matched_tags": [
+        "Product",
+        "Support"
+      ],
+      "missed_tags": [],
+      "_timestamp": "2026-02-26T05:23:40.563592"
+    },
+    {
+      "task_label": "competitive_brief",
+      "task_text": "Prepare a competitive positioning brief against HubSpot",
+      "expected_tags": [
+        "Marketing",
+        "Sales"
+      ],
+      "inferred_tags": [
+        "Sales",
+        "Brand",
+        "Marketing"
+      ],
+      "min_score_applied": 0.45,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "prefilter_reduction_pct": 0,
+      "critical_count": 3,
+      "supplementary_count": 0,
+      "selected_variables": [
+        {
+          "id": "840ac48f-a93e-4166-8087-b40c9a66de08",
+          "name": "competitive-analysis-framework",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "6ae79579-a1b4-40b4-955e-d11ff2bd5637",
+          "name": "product-positioning-messaging",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "03599730-1b8c-45ce-aa31-7c08cc34a7a2",
+          "name": "competitive-analysis-framework",
+          "priority": "critical",
+          "mode": "full"
+        }
+      ],
+      "routing_duration_ms": 653,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "tag_precision": 1.0,
+      "tag_recall": 0.5,
+      "matched_tags": [
+        "Marketing"
+      ],
+      "missed_tags": [
+        "Sales"
+      ],
+      "_timestamp": "2026-02-26T05:23:40.564370"
+    },
+    {
+      "task_label": "icp_edtech",
+      "task_text": "Create an ICP analysis for the EdTech vertical",
+      "expected_tags": [
+        "Sales",
+        "Marketing"
+      ],
+      "inferred_tags": [
+        "Sales",
+        "Brand",
+        "Marketing"
+      ],
+      "min_score_applied": 0.45,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "prefilter_reduction_pct": 0,
+      "critical_count": 2,
+      "supplementary_count": 0,
+      "selected_variables": [
+        {
+          "id": "1fc049b9-4ac5-489e-a36a-bc830e06e556",
+          "name": "icp-definition-mid-market-saas",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "d1ef76df-1f9b-4830-9a16-dbbcfaa460c5",
+          "name": "icp-definition-mid-market-saas",
+          "priority": "critical",
+          "mode": "full"
+        }
+      ],
+      "routing_duration_ms": 1135,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "tag_precision": 1.0,
+      "tag_recall": 0.5,
+      "matched_tags": [
+        "Sales"
+      ],
+      "missed_tags": [
+        "Marketing"
+      ],
+      "_timestamp": "2026-02-26T05:23:40.565037"
+    },
+    {
+      "task_label": "meeting_template",
+      "task_text": "Write meeting notes template for customer calls",
+      "expected_tags": [
+        "Guideline"
+      ],
+      "inferred_tags": [],
+      "min_score_applied": 0.45,
+      "prefilter_total": 0,
+      "prefilter_passed": 0,
+      "prefilter_reduction_pct": 0,
+      "critical_count": 3,
+      "supplementary_count": 0,
+      "selected_variables": [
+        {
+          "id": "b9300cff-0e51-4a14-8a90-f1809399c58a",
+          "name": "meeting-notes-template",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "c70a241f-87f0-4fb9-8f94-4ad2704b12f4",
+          "name": "meeting-notes-template",
+          "priority": "critical",
+          "mode": "full"
+        },
+        {
+          "id": "8d624530-666d-4343-aba8-f0b15194b48b",
+          "name": "onboarding-workflow-builder-track",
+          "priority": "critical",
+          "mode": "full"
+        }
+      ],
+      "routing_duration_ms": 503,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "tag_precision": 1.0,
+      "tag_recall": 1.0,
+      "matched_tags": [
+        "Guideline"
+      ],
+      "missed_tags": [],
+      "_timestamp": "2026-02-26T05:23:40.565695"
+    }
+  ]
+}

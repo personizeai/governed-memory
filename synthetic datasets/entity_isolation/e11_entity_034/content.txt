@@ -1,0 +1,23 @@
+### Account Overview
+Quarry Digital is an AgriTech company specializing in innovative agricultural solutions, with 729 employees and annual revenue of ~$282M. Key contact is Jennifer Anderson, Director of IT (jennifer.anderson@quarrydigital.com). Jennifer oversees IT infrastructure and is evaluating tools to streamline sales and onboarding processes amid rapid scaling in the AgriTech sector. Their current challenges include inconsistent messaging across the sales team, manual processes for customer onboarding, and fragmented tooling across departments, which are hindering efficiency.
+
+### Key Details
+**Tech Stack:** Java, Micronaut, GCP (including Spanner and Pub/Sub). This modern, cloud-native setup supports their data-intensive AgriTech operations but highlights gaps in sales enablement integrations.
+
+**Pain Points:**
+- Inconsistent messaging across sales team, leading to diluted brand voice and lost opportunities.
+- Manual processes for customer onboarding, causing delays and errors in high-volume AgriTech client activations.
+- Fragmented tooling across departments, resulting in poor data visibility and collaboration.
+
+**Competitors Considered:** Building in-house solutions, Outreach, Apollo.io. Quarry Digital is leaning away from custom builds due to maintenance burdens but wary of vendor lock-in.
+
+### Deal Status
+Prospecting stage with strong fit for our CRM platform. Projected deal value: $50,000. Jennifer has expressed urgency around Q2 2026 decision timeline, aligning with their fiscal planning cycle. Initial discovery call confirmed alignment on pain points; no major blockers identified, though budget approval from finance is pending.
+
+### Next Steps
+- Schedule technical demo with Jennifer (target: week of Oct 15) to showcase integrations with GCP/Spanner and Pub/Sub.
+- Send customized ROI calculator addressing onboarding automation and messaging consistency (by EOD tomorrow).
+- Follow up on competitor analysis doc to differentiate vs. Outreach/Apollo.io (post-demo).
+- Engage sales lead for internal champion mapping ahead of Q2 2026 timeline.
+
+(Word count: 348)

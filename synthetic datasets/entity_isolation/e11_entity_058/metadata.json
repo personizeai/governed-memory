@@ -1,0 +1,19 @@
+{
+  "entity_index": 58,
+  "name": "Victor Thompson",
+  "company": "Radiant AI",
+  "industry": "GovTech",
+  "email": "victor.thompson@radiantai.com",
+  "title": "CTO",
+  "facts": [
+    "Victor Thompson is CTO at Radiant AI",
+    "Radiant AI is a GovTech company with 631 employees",
+    "Tech stack: Java, Micronaut, GCP, Spanner, Pub/Sub",
+    "Deal value: $50,000",
+    "Pain points: data silos between engineering and sales teams; poor developer experience slowing feature velocity",
+    "Competitors: ZoomInfo, building in-house, Salesforce Einstein",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$175M"
+  ],
+  "actual_word_count": 327
+}

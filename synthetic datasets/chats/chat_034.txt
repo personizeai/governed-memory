@@ -1,0 +1,157 @@
+[09:15] @alex.m: @channel quick update on CoinTrail - just hopped off call with Rachel Fernandez, their CPO. She's been there 2 years, super sharp. [👍 from @sarah.k]
+
+[09:16] @sarah.k: Nice! What'd she say?
+
+[09:17] @alex.m: They're a fintech with ~45 folks, main office in Denver. Dealing with customer churn from slow support times tbh.
+
+[09:18]  ↳ @mike.r: Churn sucks. How bad?
+
+[09:19] @alex.m: Ngl, it's killing them. Also technical debt from rapid growth early on.
+
+[09:20] @sarah.k: Got it. Tech stack?
+
+[09:21] @alex.m: C#, .NET, Azure, SQL Server, RabbitMQ. We fit perfect imo.
+
+[09:22]  ↳ @ivan.g: +1 on stack match [👍 from @mike.r]
+
+[09:23] @mike.r: Budget? Any word?
+
+[09:24] @alex.m: IT budget up 14% this FY. They're eyeing us seriously.
+
+[09:25] @sarah.k: Sweet. Competitors?
+
+[09:26] @alex.m: HubSpot AI and their existing CRM workflows. But she hates the data silos between eng and sales.
+
+  ↳ [09:27] @mike.r: Data silos? Yeah that's rough.
+
+[09:28] @ivan.g: She mention timeline?
+
+[09:29] @alex.m: Aiming for 2026-04-17 decision. Two-phase buy: tech POC first, then business case to leadership.
+
+[09:30] @sarah.k: Makes sense. Rachel decision maker?
+
+[09:31] @alex.m: Nah, influencer. Next steps: she presents internally, circles back next week.
+
+[09:32]  ↳ @ivan.g: Next week good. lmk when she pings.
+
+[09:33] @mike.r: [shared link: CoinTrail pricing page] Check this - aligns with their stack?
+
+[09:34] @alex.m: Yup, spot on. [👍 from @sarah.k]
+
+[09:35] @sarah.k: Pain points clear: churn, debt, silos.
+
+[09:36] @ivan.g: Repeated for emphasis - churn from slow support is huge.
+
+[09:37] @mike.r: Fwiw, their Denver office means no travel issues for POC.
+
+[09:38]  ↳ @alex.m: True.
+
+[09:39] @alex.m: Last Friday she said they're not interested in HubSpot anymore - too clunky.
+
+[09:40] @sarah.k: "She" Rachel? Or someone else?
+
+[09:41] @alex.m: Yeah her. Anyway, POC first makes sense.
+
+[09:42] @ivan.g: Tech debt from growth - heard that twice now.
+
+[09:43]  ↳ @mike.r: Yep, Alex mentioned it earlier.
+
+[09:44] @sarah.k: @here let's prep POC demo for tomorrow.
+
+[09:45] @mike.r: On it. Their stack: C#, .NET etc - we got scripts ready?
+
+[09:46] @alex.m: Yes. Rachel loved the Azure integration chat.
+
+[09:47] @ivan.g: Got it.
+
+[09:48] @sarah.k: Company size 11-50, perfect for us.
+
+[09:49] @mike.r: Budget boost helps. 14% up.
+
+[09:50]  ↳ @ivan.g: Yeah saw that.
+
+[51:02] @alex.m: She wants SQL/RabbitMQ demo heavy.
+
+[09:52] @sarah.k: Cool. Unclear on "she" but assuming Rachel.
+
+[09:53] @ivan.g: Data silos killing sales-eng flow.
+
+[09:54] @mike.r: Imo, our workflows crush HubSpot AI.
+
+[09:55] @alex.m: Agreed. Next sprint POC?
+
+[09:56]  ↳ @sarah.k: Yes please.
+
+[09:57] @sarah.k: Churn from slow support - we fix that fast.
+
+[09:58] @ivan.g: 👍
+
+[09:59] @mike.r: Denver fintech, 45 emps, CPO Rachel 2yrs in.
+
+[10:00] @alex.m: Timeline 2026-04-17 target.
+
+[10:01]  ↳ @ivan.g: Noted.
+
+[10:02] @sarah.k: Existing CRM sucks per her.
+
+[10:03] @mike.r: Who’s "her"? lol
+
+[10:04] @alex.m: Rachel obv.
+
+[10:05] @ivan.g: Business case after POC - standard.
+
+[10:06] @sarah.k: lmk if she emails.
+
+[10:07] @mike.r: Will do.
+
+[10:08] @alex.m: Tech debt repeat: rapid growth pain.
+
+[10:09]  ↳ @sarah.k: Yep.
+
+[10:10] @ivan.g: Budget 14% increase fwiw.
+
+[10:11] @mike.r: Gotcha.
+
+[10:12] @sarah.k: All good?
+
+[10:13] @alex.m: 👍
+
+[10:14] @ivan.g: Makes sense.
+
+[10:15] @mike.r: POC tomorrow morning?
+
+[10:16]  ↳ @alex.m: Afternoon better.
+
+[10:17] @sarah.k: Cool.
+
+[10:18] @alex.m: She said no to competitors basically.
+
+[10:19] @ivan.g: "She" again 😂
+
+[10:20] @mike.r: Rachel.
+
+[10:21] @sarah.k: Internally presenting next week.
+
+[10:22] @alex.m: Excited tbh.
+
+[10:23]  ↳ @ivan.g: Me too.
+
+[10:24] @mike.r: Stack reminder: Azure heavy.
+
+[10:25] @sarah.k: Perfect match.
+
+[10:26] @ivan.g: Churn fix via us.
+
+[10:27] @alex.m: Yup.
+
+[10:28] @mike.r: Denver no issue.
+
+[10:29] @sarah.k: 👍 [👍 from @alex.m]
+
+[10:30] @alex.m: Closing thoughts?
+
+[10:31] @ivan.g: Green light.
+
+[10:32] @mike.r: Agreed.
+
+[10:33] @sarah.k: Onward!

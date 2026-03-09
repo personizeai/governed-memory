@@ -1,0 +1,61 @@
+{
+  "sample_id": "call_note_001",
+  "content_type": "call_notes",
+  "company": "TechFlow Inc",
+  "industry": "B2B SaaS",
+  "duration_minutes": 15,
+  "target_word_count": 642,
+  "actual_word_count": 420,
+  "expected_facts": [
+    {
+      "text": "TechFlow Inc is a B2B SaaS company with about 705 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with security concerns with current architecture",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes TypeScript, React, Node.js, GCP, MongoDB",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with vendor lock-in with current cloud provider",
+      "type": "explicit"
+    },
+    {
+      "text": "Ivan Ibrahim has been at TechFlow Inc for 3 years",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Marketing",
+    "company_name": "TechFlow Inc",
+    "company_size": "201-1000",
+    "technology_stack": "TypeScript, React, Node.js, GCP, MongoDB",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "vendor lock-in with current cloud provider",
+      "security concerns with current architecture",
+      "technical debt from rapid early growth"
+    ],
+    "decision_timeline": "2026-06-04",
+    "decision_maker": false,
+    "next_steps": "Ivan to present internally and circle back next week",
+    "buying_process": "IT committee evaluates quarterly, next window is Q3 2026",
+    "urgency_level": "Low"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 2
+  },
+  "property_coverage": 0.79
+}

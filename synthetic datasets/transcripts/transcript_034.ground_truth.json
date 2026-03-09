@@ -1,0 +1,78 @@
+{
+  "sample_id": "transcript_034",
+  "content_type": "meeting_transcript",
+  "company": "CoinTrail",
+  "industry": "Fintech",
+  "duration_minutes": 30,
+  "target_word_count": 1814,
+  "actual_word_count": 1398,
+  "expected_facts": [
+    {
+      "text": "They're dealing with lack of real-time analytics for decision making",
+      "type": "explicit"
+    },
+    {
+      "text": "CoinTrail is a Fintech company with about 416 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes C#, .NET, Azure, SQL Server, RabbitMQ",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $75,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Rachel Mueller has been at CoinTrail for 3 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with high infrastructure costs eating into margins",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 4 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 21% this fiscal year",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Sales Engineering",
+    "company_name": "CoinTrail",
+    "company_size": "201-1000",
+    "technology_stack": "C#, .NET, Azure, SQL Server, RabbitMQ",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "lack of real-time analytics for decision making",
+      "high infrastructure costs eating into margins",
+      "data silos between engineering and sales teams"
+    ],
+    "deal_value": 75000,
+    "decision_timeline": "2026-08-11",
+    "decision_maker": false
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 4,
+    "duplicate_facts": 2
+  },
+  "has_third_participant": true,
+  "property_coverage": 0.64,
+  "entity_id": "rachel-cointrail",
+  "entity_email": "rachel@cointrail.com",
+  "entity_website": "https://cointrail.com",
+  "contact_name": "Rachel",
+  "record_id": "crm-rachel-cointrail"
+}

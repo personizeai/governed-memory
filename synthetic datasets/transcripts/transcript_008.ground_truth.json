@@ -1,0 +1,97 @@
+{
+  "sample_id": "transcript_008",
+  "content_type": "meeting_transcript",
+  "company": "CourseForge",
+  "industry": "EdTech",
+  "duration_minutes": 45,
+  "target_word_count": 3312,
+  "actual_word_count": 1572,
+  "expected_facts": [
+    {
+      "text": "Rachel Okonkwo has been at CourseForge for 3 years",
+      "type": "explicit"
+    },
+    {
+      "text": "CourseForge is a EdTech company with about 3009 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 5 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Boston",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q2",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $120,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Salesforce Einstein, Microsoft Copilot, HubSpot AI",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with security concerns with current architecture",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with fragmented tooling across departments",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $41M",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes PHP, Laravel, DigitalOcean, MySQL, Redis",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of IT",
+    "company_name": "CourseForge",
+    "company_size": "1000+",
+    "technology_stack": "PHP, Laravel, DigitalOcean, MySQL, Redis",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "security concerns with current architecture",
+      "fragmented tooling across departments",
+      "difficulty measuring ROI on AI initiatives",
+      "compliance audit failures on data handling"
+    ],
+    "deal_value": 120000,
+    "decision_timeline": "2026-09-28",
+    "competitors_mentioned": [
+      "Salesforce Einstein",
+      "Microsoft Copilot",
+      "HubSpot AI"
+    ],
+    "decision_maker": false,
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 4,
+    "duplicate_facts": 2
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.79,
+  "entity_id": "rachel-courseforge",
+  "entity_email": "rachel@courseforge.com",
+  "entity_website": "https://courseforge.com",
+  "contact_name": "Rachel",
+  "record_id": "crm-rachel-courseforge"
+}

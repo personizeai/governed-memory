@@ -1,0 +1,27 @@
+Call with: Keiko Garcia, VP of Operations at ClassGrid
+Date: February 07, 2026
+Duration: 45 min
+
+Key Points:
+- VP Ops @ ClassGrid (51-200 emp), 1 yr there
+- Curr Pipedrive w/ Slack notifs — probs w/ inconsistent messaging across sales team
+- Struggling measuring ROI on AI inits — def pain pt
+- Eval'ing Apollo.io, Drift, Clari — she's pushing for Q2 switch but team split
+- Tech: Python/FastAPI, AWS Lambda/DynamoDB/SQS — fits our stack perf
+- High urgency, qual stage, est $75k deal val
+- Pain: sales msg inconsistency killing convos, AI ROI hazy bc no good metrics
+- Likes our AI coaching for msg align + ROI dashboards
+- He's on board w/ demo but needs buy-in from sales leads
+- They want Slack integ seamless like curr setup
+- ROI calc diff — examples? Gave quick ones, she'll rev internally
+
+Action Items:
+- [ ] Send tailored deck re: ROI meas + msg align (me, by EOD)
+- [ ] F/u mtg w/ her + sales head next week (me)
+- [ ] Log qual stage in CRM, tag pains (me)
+- [ ] Ping eng on FastAPI/SQS compat confirm (eng team)
+
+Notes:
+Keiko solid contact, knows ops inside out but sales team resistant — inconsistent messaging blowing deals bc reps off-script. High urgency bc EOQ push, they're bleeding on AI ROI w/o visib data; our tool fixes that def. She's 1yr in, shaking things up post-growth spurt to 100+ emp. Prob close if we nail demo for her boss — he hates Drift's bloat, Apollo too sales-only. Quick rapport, laughed re: Pipedrive Slack hacks failing. Next steps urgent, qual to demo fast.
+
+V strong fit — their Python/AWS stack screams scalability pains we solve. She mentioned Clari eval stalled on price/ROI, we're cheaper w/ better AI. Watch for her pulling sales leads early; they're the deciders but she's driver. Est $75k ARR if land, high prob. F/u tight.

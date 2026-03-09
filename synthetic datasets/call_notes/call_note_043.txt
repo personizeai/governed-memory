@@ -1,0 +1,28 @@
+Call with: Marcus Fernandez, VP of Engineering at CareStack
+Date: February 17, 2026
+Duration: 25 min
+
+Key Points:
+- CareStack healthcare tech, 2200ish emp, 1000+ scale
+- MF 6yrs there, owns eng stack: Java/Spring Boot/Azure/Oracle/Kafka
+- Eval 5 vendors incl us, Apollo.io/Drift/in-house build
+- Lost big cust Q4 onboarding fails — pain pt onboarding speed
+- Budget ~75k alloc, qual stage now
+- Fast-track buys <150k w/ VP direct signoff — he's not dec mk'r but pushing
+- He likes our Kafka integ, prob fits better than Drift
+- They need quick onboarding, def post-loss priority
+- He's eyeing Q2 go-live if we nail demo
+- Compet in-house slow, Apollo meh on Azure sync
+- Deal val 75k, they're motivated bc churn hit rev
+- Buying proc fast if VP nods, but he loops sales lt
+
+Action Items:
+- [ ] Send Kafka/Oracle demo replay + onboarding deck (me, by EOD)
+- [ ] F/u mtg sched w/ MF next week post internal pres (me)
+- [ ] Log qual stage, 75k val, comps Apollo/Drift/in-house (me)
+- [ ] Ping eng for custom Spring Boot POC if he greens (team)
+
+Notes:
+MF solid chat, opened w/ their stack — Java heavy, Kafka streams core, Azure host but Oracle pains on scale. They're post-churn panic, lost major acct last qtr onboarding drag, now fast-track eval bc budget loose at 75k. He's not dec but pres to team internally, circle next week. Likes us over Drift (chatty but no depth), Apollo ok but in-house build lagging. Def qual'd, pain matches our onboarding accel — he's pushing Q2 but they loop lt for buy-in. Fast path if VP apv direct, under 150k thresh. Not dec mk'r yet, but 6yr vet knows ropes. Sent feelers on integ, he bit on demo f/u.
+
+Vib good, terse on comps — in-house too slow post-loss, need our speed. Budget firm 75k, 5 vendors but us shortlist prob. He's motivated, mentioned EOQ push if qual fast. Log comps, stage qual. Next wk key.

@@ -1,0 +1,84 @@
+{
+  "sample_id": "transcript_044",
+  "content_type": "meeting_transcript",
+  "company": "ChannelBridge",
+  "industry": "E-commerce",
+  "duration_minutes": 45,
+  "target_word_count": 3134,
+  "actual_word_count": 1912,
+  "expected_facts": [
+    {
+      "text": "Security audit is coming up in Q2",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with fragmented tooling across departments",
+      "type": "explicit"
+    },
+    {
+      "text": "ChannelBridge is a E-commerce company with about 2383 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Boston",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $75,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Lisa Garcia has been at ChannelBridge for 4 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with technical debt from rapid early growth",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes TypeScript, React, Node.js, GCP, MongoDB",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating existing CRM workflows, Clari, Drift",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Chief Revenue Officer",
+    "company_size": "1000+",
+    "technology_stack": "TypeScript, React, Node.js, GCP, MongoDB",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "fragmented tooling across departments",
+      "technical debt from rapid early growth",
+      "compliance audit failures on data handling",
+      "customer churn from slow support response times"
+    ],
+    "deal_value": 75000,
+    "decision_timeline": "2026-06-21",
+    "competitors_mentioned": [
+      "existing CRM workflows",
+      "Clari",
+      "Drift"
+    ],
+    "decision_maker": true,
+    "urgency_level": "Critical"
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 2,
+    "duplicate_facts": 3
+  },
+  "has_third_participant": true,
+  "property_coverage": 0.71,
+  "entity_id": "lisa-channelbridge",
+  "entity_email": "lisa@channelbridge.com",
+  "entity_website": "https://channelbridge.com",
+  "contact_name": "Lisa",
+  "record_id": "crm-lisa-channelbridge"
+}

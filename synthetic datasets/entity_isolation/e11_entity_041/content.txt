@@ -1,0 +1,16 @@
+### Account Overview
+Obsidian Data is a B2B SaaS company specializing in data management solutions, with approximately 1373 employees and annual revenue of ~$280M. Key contact is Simone Johnson, Director of Engineering (simone.johnson@obsidiandata.com). As a mid-market leader in the SaaS space, Obsidian faces scaling challenges typical of high-growth firms, particularly in engineering and infrastructure optimization. Their tech stack relies heavily on Java, Spring Boot, Azure, Oracle, and Kafka, which supports robust backend operations but introduces complexities in modern integrations.
+
+### Key Details
+Simone Johnson leads engineering efforts at Obsidian Data, overseeing development teams focused on SaaS platform enhancements. Primary pain points include integration complexity with legacy systems, poor visibility into pipeline health, and high infrastructure costs eating into margins. These issues hinder agile development and cost efficiency, especially as they scale on Azure and Oracle. Competitors in their evaluation include Outreach, Clari, and their existing CRM workflows, which fail to address these gaps effectively. Obsidian's size and revenue position them as a high-value prospect seeking solutions to streamline operations without disrupting core Java/Spring Boot workflows.
+
+### Deal Status
+Potential deal value: $1,000,000. Discussions with Simone have advanced to technical validation stage, highlighting alignment with their Kafka and Azure environments. Pain points map directly to our platform's strengths in legacy integration and pipeline analytics. Decision timeline targeted for Q2 2026, pending engineering buy-in and ROI modeling. Current stage: Discovery complete; POC scheduled. Competitive landscape favors us over Outreach and Clari due to superior infrastructure cost reductions.
+
+### Next Steps
+- Schedule POC demo tailored to Java/Spring Boot and Kafka integrations (propose week of [insert date]).
+- Share customized ROI analysis addressing high infrastructure costs and pipeline visibility (deliver by EOW).
+- Follow up with Simone Johnson for engineering team intro to validate legacy system compatibility.
+- Monitor Q1 2026 budget cycles for acceleration; flag any shifts in competitor evaluations.
+
+(Word count: 348)

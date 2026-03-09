@@ -1,0 +1,116 @@
+---
+type: Contact
+record_id: crm-lisa-wright-ledgerpoint
+email: lisa.wright@ledgerpoint.com
+website_url: https://ledgerpoint.com
+company: LedgerPoint
+industry: Fintech
+contact_name: Lisa Wright
+job_title: VP of Operations
+---
+
+Alex Morgan: Great, thanks for hopping on, Lisa. Hi Alex J. How are you both doing this morning?
+
+Lisa Wright: Morning. Doing well—coffee strong, which is necessary. I'm in Denver today, so it's a little snowy outside. Thanks for setting this up, Alex. We're looking forward to getting into the proposal details.
+
+Alex Johnson: Morning, Lisa. Doing well here. I'm Alex Johnson, technical lead at TechNova. Happy to walk through architecture and migration questions.
+
+Alex Morgan: Awesome. Quick agenda from my side: confirm where LedgerPoint is in the procurement process, go through the proposal highlights we sent, have Alex J. answer any technical fit and migration Qs, and then align on next steps and a decision timeline. Does that work?
+
+Lisa Wright: Yes, that's perfect. I want to make sure we cover compliance and cost—those are the big things for us right now.
+
+Alex Morgan: Absolutely. Before we dive in, small bit of small talk—how's Denver treating you? We were out there a few weeks ago for a conference.
+
+Lisa Wright: Oh, it's good. A few weeks ago the sun was out and now it's doing this, typical mountain weather. The office is warm, so that's fine. We have a couple of people working remote; a hybrid model has stuck. I'm actually just back from a facilities check in our main office downtown, so there's noise in the background occasionally.
+
+Alex Johnson: I haven't been to Denver in years—would love to visit. I'm always curious about local coffee shops there.
+
+Alex Morgan: Cool. Okay on to business. Lisa, you and your team are evaluating five vendors including TechNova, correct?
+
+Lisa Wright: Correct. We currently have five vendors in active evaluation. Gong is one of them. We're also looking at a custom internal tool that our team prototyped, and a couple of other vendors. Procurement requires three competitive bids before a final decision, so while the list is five, we're consolidating down to at least three live proposals.
+
+Alex Morgan: Got it. So it's a proposal-stage conversation with multiple vendors. Where are you on timeline? You mentioned earlier to my colleague you had a target decision date?
+
+Lisa Wright: Yes—we're aiming to decide by November 19, 2026. That's the formal deadline procurement put on my calendar. We want the contract inked and implementation planning started right after.
+
+Alex Johnson: That's pretty specific. That gives us time to iterate on the technical proof-of-concept if needed.
+
+Alex Morgan: Perfect. I want to flag a few things we learned from our discovery calls and make sure they're reflected correctly: LedgerPoint is a fintech company of around 2,550 employees, headquartered in Denver, with annual revenue around $65M. You're dealing with high infrastructure costs that are eating into margins, difficulty hiring specialized engineers, and you've had some compliance audit failures around data handling. You're using Rust, Actix, AWS, PostgreSQL, and NATS in your stack. Lisa, is that all correct?
+
+Lisa Wright: Yes, that's accurate. I've been at LedgerPoint for five years, so I've seen the stack evolve. We are roughly 2,550 people company-wide—so, yes, 1000+ in size. Our business is around sixty-five million a year, give or take. Those pain points are the main drivers for this procurement.
+
+Alex Morgan: Thanks for confirming. We'll reference that in the proposal. A few quick questions about the procurement process: you said procurement requires three competitive bids—do those need to be from established vendors, or is the internal custom tool considered a "bid" in that process?
+
+Lisa Wright: Procurement will accept an internal solution if it passes the security and compliance checks and if we submit it as part of the documentation. But to be fair and competitive, they want at least three external vendor proposals alongside any internal option. So the custom internal tool could be one of the options, but we still need two other vendors. Right now, Gong, TechNova, the internal tool, and two others are under consideration.
+
+Alex Johnson: And are there specific procurement templates or forms we should fill out to be considered one of those competitive bids?
+
+Lisa Wright: Yes—procurement has an RFP packet and an SLA appendix. We can share those after the call. They want standard things—SLA, data retention terms, SOC 2 or equivalent, and cost breakdowns over a three-year window.
+
+Alex Morgan: Great. We'll prepare the RFP materials according to that. You mentioned compliance audit failures—can you tell us more about the scope? Was it process, tooling, or data handling?
+
+Lisa Wright: It was primarily around data handling—specifically how we were logging and storing sensitive PII and transactional metadata. The auditors flagged our retention settings and also called out a few cases where we couldn't demonstrate end-to-end lineage. That put us on a corrective action plan. We're kind of on a timeline to get our house in order before the next audit cycle.
+
+Alex Johnson: What tools do you use today for logging and tracing?
+
+Lisa Wright: Mostly a mix—some in-house collectors, logs in S3 via AWS, and a Postgres-driven metadata store. Our event bus is NATS for messaging, and a lot of the services are Rust-based using Actix. So the stack is quite bespoke.
+
+Alex Johnson: That fits what we looked at in the discovery docs. So you'd be integrating at the messaging layer with NATS and storing metadata in PostgreSQL, right?
+
+Lisa Wright: Exactly. And we need to ensure the solution can plug into Actix services without adding a ton of overhead. We already have trouble hiring specialized Rust engineers—the market is tight—and we don't want a tool that requires a whole new team of experts to manage.
+
+Alex Morgan: You mentioned difficulty hiring specialized engineers—can you quantify that in terms of open roles or time-to-fill?
+
+Lisa Wright: Sure—right now we have 18 open engineering roles that require Rust or systems experience. It can take six months on average to fill a single specialized role. So if a solution requires us to hire multiple specialists, that's a blocker.
+
+Alex Johnson: Understood. Our platform is designed to be managed by general infra and a small team of platform engineers; we try to abstract away language-specific complexity. For Rust clients we have a lightweight SDK and a few Actix middleware examples that should reduce lift.
+
+Lisa Wright: Okay—demo that middleware for our engineers during the POC would be helpful.
+
+Alex Morgan: We'll do that. Shifting to costs: Lisa, you said infrastructure costs are high—are those primarily AWS compute and storage, or are there other line items driving the increase?
+
+Lisa Wright: It's mostly AWS—EC2 and RDS; we also have higher egress charges because of cross-region traffic. Our data volumes have grown 300% in the last two years, and it shows. Those costs are eating into margins; we can't keep scaling the way we have. We're trying to flatten infra costs and optimize where possible.
+
+Alex Johnson: When you say data volumes increased 300%, is that primarily log ingestion, or more transaction data?
+
+Lisa Wright: Mostly logs and telemetry. We're ingesting a lot more trace data, and year-over-year it's been steep. The auditors said we needed to retain more metadata for compliance, which ironically pushed costs up.
+
+Alex Morgan: That sounds painful—compliance-driven retention increasing costs. We often see that. Our proposal focuses on data lifecycle policies and tiered storage so you can keep searchable indices for the legally required window and archive the rest at lower cost. That tends to help margins.
+
+Lisa Wright: That would be ideal. We are trying to shave at least 20% off cloud spend as an initial target.
+
+Alex Johnson: From a technical standpoint, we can provide storage tiering and compression, and also tie into PostgreSQL for metadata hot paths, while cold data flows into glacier or equivalent, with NATS handling real-time decoupling.
+
+He mentioned that the retention settings needed to be policy-driven rather than hardcoded.
+
+Alex Morgan: Sorry to jump in—Lisa, when you say a 20% reduction target, is that over the next quarter, or across the next year?
+
+Lisa Wright: Good question. We need an initial 20% reduction by the next quarter, and more improvements over the year. We have to show traction quickly because the board is watching margins this fiscal year.
+
+Alex Johnson: That means our proof-of-concept should be optimized for rapid wins—compressing logs, implementing TTLs, and re-routing cold archival. We can demo measurable savings in a short timeframe.
+
+Alex Morgan: Okay—let's get a POC plan on the table. We'll propose a two-phase POC: Phase 1, a three-week pilot on a subset of services to prove integration with Rust/Actix and NATS, demonstrating storage savings and no performance degradation. Phase 2, a four-week larger-scale test showing retention policy enforcement and cost delta against current AWS bills. Does that timeline align with your decision plans?
+
+Lisa Wright: That could work. Procurement wants completed technical validation ahead of November 19, 2026. If we can start the POC within a few weeks and finish by mid-October, that leaves time for procurement reviews.
+
+Alex Morgan: We can start the POC in a few weeks, yes. We'll aim to finish the POC by the end of next month if possible, and then scale to the larger test. That gives time to analyze results.
+
+He mentioned that procurement wanted everything documented before the demo.
+
+Alex Johnson: For the POC, we'll need sample data, some access to your AWS account or a mirrored environment, and a couple of representative Actix services. We can provide a sandbox approach if you're not comfortable giving us production access.
+
+Lisa Wright: We'll provide a mirrored environment. We have a staging VPC that mimics production. Security will require approval, but we can open ports and credentials for a short window. We'll also require you to sign off on our security docs; procurement will insist on that.
+
+Alex Morgan: Totally normal—SLA and security paperwork will be returned promptly. What about the budget? Do you have a budget range allocated for this project?
+
+Lisa Wright: We have an internal budget corridor. We've allocated roughly four hundred thousand for the first year for tooling and initial integration. We also have internal headcount considerations if we need to hire. We want to be thoughtful about total cost of ownership.
+
+Alex Johnson: That aligns with our mid-market package. Does that four hundred thousand include implementation services or is that strictly software spend?
+
+Lisa Wright: It's intended to include both. We can allocate a portion to implementation partners if that helps speed up deployment. So the four hundred thousand is for licensing and initial setup fees.
+
+Alex Morgan: Okay—just to be clear on the notes here: you said you've allocated roughly four hundred thousand for this initiative. I'll reflect that in the proposal. We typically propose a 12-month term with optional expansion.
+
+Lisa Wright: Yes, and to be explicit—we do about sixty-five million a year in revenue, so we need to show ROI quickly.
+
+Alex Johnson:

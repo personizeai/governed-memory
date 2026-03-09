@@ -1,0 +1,78 @@
+{
+  "sample_id": "transcript_012",
+  "content_type": "meeting_transcript",
+  "company": "CartLogic",
+  "industry": "E-commerce",
+  "duration_minutes": 30,
+  "target_word_count": 1923,
+  "actual_word_count": 1231,
+  "expected_facts": [
+    {
+      "text": "CartLogic is a E-commerce company with about 714 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with manual processes for customer onboarding",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Rust, Actix, AWS, PostgreSQL, NATS",
+      "type": "explicit"
+    },
+    {
+      "text": "Jennifer Singh has been at CartLogic for 5 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $50,000",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 12% this fiscal year",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with fragmented tooling across departments",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Apollo.io, existing CRM workflows",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Engineering",
+    "company_name": "CartLogic",
+    "company_size": "201-1000",
+    "technology_stack": "Rust, Actix, AWS, PostgreSQL, NATS",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "manual processes for customer onboarding",
+      "fragmented tooling across departments",
+      "compliance audit failures on data handling",
+      "scaling issues during peak traffic periods"
+    ],
+    "deal_value": 50000,
+    "decision_timeline": "2026-09-07",
+    "competitors_mentioned": [
+      "Apollo.io",
+      "existing CRM workflows"
+    ],
+    "decision_maker": false,
+    "next_steps": "Send pricing proposal to Jennifer by Friday",
+    "buying_process": "IT committee evaluates quarterly, next window is Q3 2026",
+    "urgency_level": "Low"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 3,
+    "duplicate_facts": 1
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.93,
+  "entity_id": "jennifer-cartlogic",
+  "entity_email": "jennifer@cartlogic.com",
+  "entity_website": "https://cartlogic.com",
+  "contact_name": "Jennifer",
+  "record_id": "crm-jennifer-cartlogic"
+}

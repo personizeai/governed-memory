@@ -1,0 +1,29 @@
+Call with: Emily Alvarez, VP of Marketing at CourseForge
+Date: February 27, 2026
+Duration: 45 min
+
+Key Points:
+- Emily @ CourseForge 6yrs, VP Mktg, EdTech co ~4596 emps, 1000+ scale
+- Pain: scaling issues peak traffic periods, vendor lock-in curr cloud prov, poor pipeline vis
+- Curr soln: internal Python scripts pull fr multiple APIs — hacky, manual
+- Tech stk: Scala/Spark/Databricks/Snowflake/Airflow
+- Eval'ing Apollo.io + Drift, likes our diff pricing/flex
+- Deal stage: Negotiation, timeline 5/26/26 close def
+- She's pushing eng buy-in, they're slammed w/ Q2 ramps
+- He (CRO?) wants demo ROI calcs next
+- Peak traffic kills perf, need better vis into pipe health
+- No strong pref on cloud mig, but lock-in bites
+- Budget approved? Prob, but needs tech nod
+- Competitors: Apollo/Drift mentioned, Drift chatbots underwhelm
+- Strong fit, she looped in eng lead already
+
+Action Items:
+- [ ] Sched tech deep-dive w/ Emily's eng team — me by next week
+- [ ] Send ROI model + pipe vis demo — me EOD today
+- [ ] F/u Emily on CRO feedback — her by EOQ
+- [ ] Circ mtg recap to TAM + SE — me
+
+Notes:
+Emily solid prospect, been @ CourseForge 6yrs knows pains inside out. Scaling during peaks = nightmare, their Python scripts crumbling under load fr APIs, no real vis into pipe. Vendor lock-in w/ curr cloud has 'em eyeing switch, but they're risk-averse. Def in Negotiation stage, she confirmed 5/26 timeline firm if tech aligns. Mentioned Apollo.io eval but our stack play (Scala/Spark etc) matches perf. He's (eng lead?) skeptical on mig ease, pushing for deep-dive proof.
+
+Good energy, she'll champ internally but needs our ROI nums sharp. Drift was chat-only trial, meh results. Next week eng call critical, by EOQ we lock or lose to Apollo push. She's got pull, 4596 emps means real $$ if closes. Quick win on pipe health demo could tip. F/U her Thurs.

@@ -1,0 +1,17 @@
+### Account Overview
+Aurora Systems is a leading Cybersecurity company with approximately 1550 employees and ~$21M in annual revenue. As a key prospect in the B2B space, they are grappling with scaling challenges in a competitive landscape dominated by players like Apollo.io, Intercom, and ZoomInfo. Our primary contact is Maria Bhandari, Chief Product Officer (maria.bhandari@aurorasystems.com), who oversees product strategy and is deeply involved in addressing operational inefficiencies that impact growth.
+
+### Key Details
+Aurora Systems relies on a modern tech stack including Python, Django, AWS, PostgreSQL, and Redis, which supports their core cybersecurity offerings but highlights friction in developer workflows. Maria has shared critical pain points: manual processes for customer onboarding are bottlenecking efficiency; poor visibility into pipeline health is hindering sales forecasting; a subpar developer experience is slowing feature velocity; and they're facing difficulty hiring specialized engineers in a tight talent market. These issues are stalling their ability to innovate quickly and maintain a competitive edge in cybersecurity.
+
+### Deal Status
+We've positioned our solution as a strong fit to automate onboarding, enhance pipeline visibility, streamline dev workflows, and support talent acquisition through integrated tools. The potential deal value stands at $650,000, with a decision timeline targeted for Q4 2026. Initial discussions with Maria have been positive, confirming alignment with their tech stack and pain points. No formal proposal yet, but competitive intel suggests urgency to displace incumbents like Apollo.io for CRM and pipeline management.
+
+### Next Steps
+- Schedule a 30-minute discovery call with Maria next week to demo pipeline visibility features.
+- Prepare customized ROI analysis showing $650,000 impact on onboarding and dev velocity.
+- Research Aurora's Q3 hiring trends to tailor talent acquisition pitch.
+- Follow up on competitor gaps (Intercom, ZoomInfo) in internal notes for Maria's review.
+- Set calendar reminder for Q1 2026 check-in to align with their fiscal planning.
+
+(Word count: 348)

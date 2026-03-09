@@ -1,0 +1,16 @@
+### Account Overview
+Oak Systems is a leading AgriTech company specializing in innovative agricultural solutions, with approximately 2277 employees and annual revenue of ~$51M. Our primary contact is Raj Tanaka, VP of Marketing at Oak Systems (raj.tanaka@oaksystems.com). Raj oversees marketing strategies and is actively evaluating CRM enhancements to streamline lead generation and compliance in their data-heavy operations. Their tech stack includes Python, FastAPI, AWS Lambda, DynamoDB, and SQS, which supports scalable, serverless architectures but has exposed vulnerabilities in data handling.
+
+### Key Details
+Oak Systems faces significant pain points, including recent compliance audit failures on data handling and vendor lock-in with their current cloud provider. These issues have hindered marketing agility and increased operational risks. Raj expressed frustration with existing tools, noting competitors like HubSpot AI, Apollo.io, and Gong as benchmarks but highlighting gaps in seamless integration and cost efficiency. The prospective deal value stands at $120,000, aligning with their need for a robust CRM to manage high-volume AgriTech leads while ensuring regulatory compliance.
+
+### Deal Status
+The opportunity is in early discovery phase. Initial discussions with Raj revealed strong alignment on addressing compliance and lock-in challenges. No formal proposal has been submitted yet, but interest is high given their Q3 2026 decision timeline. Competitive landscape includes HubSpot AI for AI-driven personalization, Apollo.io for prospecting, and Gong for call analytics—our solution differentiates via superior AWS-native integrations matching their stack (Python/FastAPI/AWS Lambda/DynamoDB/SQS). Pipeline stage: Qualified Opportunity. Estimated close probability: 35%.
+
+### Next Steps
+- Schedule follow-up call with Raj Tanaka by end of next week to demo compliance features and migration path from current cloud provider.
+- Share tailored case study on AgriTech clients resolving audit failures.
+- Coordinate internal review of $120,000 pricing model to emphasize ROI against ~$51M revenue base.
+- Monitor Q3 2026 timeline; flag any competitor movements from HubSpot AI, Apollo.io, or Gong.
+
+(Word count: 347)

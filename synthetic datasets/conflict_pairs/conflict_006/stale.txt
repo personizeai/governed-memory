@@ -1,0 +1,19 @@
+**Sales Meeting Note**  
+**Date:** October 21, 2025  
+**Contact:** Alex Singh, VP Engineering, Nimbus Networks (Fintech)  
+**Duration:** 45 min | **Attendees:** Alex Singh, me  
+
+Met with Alex to demo our scalable API platform for high-throughput payment processing. Nimbus handles 12M txns/month, scaling to 40M by Q1 2026 due to new EU expansion. Strong fit—our sub-50ms latency addresses their current bottlenecks with legacy on-prem systems.  
+
+Alex confirmed Q4 budget: $300K approved for integration vendors. Expressed frustration with incumbent (unnameable) uptime during Black Friday peaks (dropped to 98.2% last year).  
+
+Decision process: Nimbus Networks said their CTO makes the final decision. Alex will intro CTO next week.  
+
+**Next Steps:**  
+- Send customized proposal + ROI calc by Oct 24.  
+- Schedule CTO demo for Nov 4 (Alex to confirm).  
+- Follow up Fri on intro timing.  
+
+High intent; Alex rated us 8/10 vs. competitors like Plaid (7/10). Opportunity size: $450K ARR potential.  
+
+(198 words)

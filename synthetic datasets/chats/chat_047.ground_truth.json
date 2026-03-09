@@ -1,0 +1,60 @@
+{
+  "sample_id": "chat_047",
+  "content_type": "chat_log",
+  "company": "StreamOps",
+  "industry": "Digital Media",
+  "message_count_target": 31,
+  "actual_word_count": 470,
+  "expected_facts": [
+    {
+      "text": "Currently using spreadsheets and manual data entry",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Rust, Actix, AWS, PostgreSQL, NATS",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with fragmented tooling across departments",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with security concerns with current architecture",
+      "type": "explicit"
+    },
+    {
+      "text": "StreamOps is a Digital Media company with about 44 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Aisha Petrov has been at StreamOps for 6 years",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Sales Engineering",
+    "company_name": "StreamOps",
+    "company_size": "11-50",
+    "technology_stack": "Rust, Actix, AWS, PostgreSQL, NATS",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "security concerns with current architecture",
+      "fragmented tooling across departments"
+    ],
+    "buying_process": "Fast-track available for deals under $150K with direct VP approval",
+    "current_solution": "spreadsheets and manual data entry",
+    "urgency_level": "Critical"
+  },
+  "planted_issues": {
+    "pronoun_issues": 5,
+    "temporal_issues": 3,
+    "duplicate_facts": 2
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@keiko.f"
+  ],
+  "property_coverage": 0.64
+}

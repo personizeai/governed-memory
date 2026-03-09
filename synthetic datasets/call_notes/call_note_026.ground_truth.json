@@ -1,0 +1,63 @@
+{
+  "sample_id": "call_note_026",
+  "content_type": "call_notes",
+  "company": "PayGrid Financial",
+  "industry": "Fintech",
+  "duration_minutes": 30,
+  "target_word_count": 686,
+  "actual_word_count": 330,
+  "expected_facts": [
+    {
+      "text": "Amanda Costa has been at PayGrid Financial for 6 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $350,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Java, Micronaut, GCP, Spanner, Pub/Sub",
+      "type": "explicit"
+    },
+    {
+      "text": "PayGrid Financial is a Fintech company with about 4824 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating HubSpot AI, Salesforce Einstein",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with difficulty hiring specialized engineers",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with poor visibility into pipeline health",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Chief Revenue Officer",
+    "company_name": "PayGrid Financial",
+    "company_size": "1000+",
+    "technology_stack": "Java, Micronaut, GCP, Spanner, Pub/Sub",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "poor visibility into pipeline health",
+      "difficulty hiring specialized engineers"
+    ],
+    "deal_value": 350000,
+    "competitors_mentioned": [
+      "HubSpot AI",
+      "Salesforce Einstein"
+    ],
+    "decision_maker": true,
+    "next_steps": "Amanda will share the RFP by end of week",
+    "buying_process": "Fast-track available for deals under $150K with direct VP approval"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 2
+  },
+  "property_coverage": 0.79
+}

@@ -1,0 +1,18 @@
+### Account Overview
+Zephyr Labs is a prominent CleanTech company specializing in sustainable energy solutions, with approximately 1216 employees and annual revenue of ~$159M. As a key prospect in the CleanTech sector, they are grappling with operational inefficiencies that hinder growth. Primary contact is Chloe Nakamura, Chief Revenue Officer (email: chloe.nakamura@zephyrlabs.com), who oversees revenue strategies and is actively evaluating solutions to streamline their sales and customer processes. Their scale and revenue position them as a high-value opportunity, particularly given their tech-forward approach.
+
+### Key Details
+Zephyr Labs' current tech stack includes Rust for backend development, Actix web framework, AWS cloud infrastructure, PostgreSQL for database management, and NATS for messaging. These choices reflect a modern, performant architecture but reveal gaps in real-time capabilities. Key pain points include a lack of real-time analytics for decision making, which slows strategic responses, and manual processes for customer onboarding that create bottlenecks and increase error rates. They view Apollo.io as a direct competitor in their evaluation, highlighting the need for superior automation and insights in CRM and sales tools.
+
+Chloe Nakamura has been instrumental in driving revenue initiatives at Zephyr Labs, and her role makes her the ideal champion for addressing these challenges. The company's CleanTech focus demands scalable, efficient systems to support rapid innovation in renewable technologies.
+
+### Deal Status
+This opportunity carries a potential deal value of $120,000. Chloe has expressed interest in solutions that provide real-time analytics and automate onboarding to replace their current manual workflows. The decision timeline is targeted for Q4 2026, aligning with their fiscal planning cycle. No formal proposal has been submitted yet, but initial discussions indicate strong alignment with their tech stack and pain points. Competitive pressure from Apollo.io underscores the urgency to differentiate on real-time features.
+
+### Next Steps
+- Schedule a discovery call with Chloe Nakamura within the next two weeks to demo real-time analytics tailored to their Rust/Actix/AWS environment.
+- Prepare customized materials addressing onboarding automation and PostgreSQL/NATS integrations.
+- Follow up via email to confirm interest and share case studies from similar CleanTech clients.
+- Monitor for Q4 2026 budget signals and aim for pilot POC by mid-2026 to build momentum.
+
+(Word count: 378)

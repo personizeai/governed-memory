@@ -1,0 +1,39 @@
+Call with: Marcus Baker, Head of Product at ShipGrid  
+Date: February 08, 2026  
+Duration: 15 min  
+
+Key Points:  
+- Logistics co, 11-50 emp (~47)  
+- Marcus here 6yrs, def DM  
+- Pain: hard measuring ROI on AI inits — no clear metrics, frustrating  
+- Churn up bc slow supp resp times — custs bailing  
+- Poor vis into pipeline health, guessing on deals  
+- Compliance audit fails on data handling — scary  
+- Eval building in-house (compet), but probs w/ resrcs  
+- IT budget +22% this FY — more $$ for tools?  
+- Tech: RoR, Heroku, PG, Sidekiq — fits our stack  
+- Deal stage: qual  
+- Urgency low — he's pushing for Q2 eval, but team slow  
+- Likes demo, but needs ROI proof first  
+- He mentioned churn killing rev — 15% last qtr?  
+- In-house build: scrapped prototype, too slow  
+- Asked re: our int on RoR — seamless they think  
+- Pain ROI deepest — "can't justify to execs"  
+- Pipeline vis: blind spots killing forecast  
+- Audits: fines looming if not fixed  
+- Low urgency — budget locked til Q3?  
+- He's gatekeeper, but eng buy-in needed  
+- Next week f/u on case study  
+- By EOQ, prob demo if ROI clicks  
+
+Action Items:  
+- [ ] Send AI ROI case study w/ logistics ex (me, by EOD)  
+- [ ] F/u mtg w/ Marcus + eng lead (me, next week)  
+- [ ] Qual deeper on churn nums (me)  
+- [ ] Ping on Heroku mig path (me)  
+- [ ] Log pains in CRM, tag qual (me)  
+
+Notes:  
+Spoke w/ Marcus quick intro call. He's been at ShipGrid 6yrs, knows pains inside out — ROI on AI killing them, no way to track value def. Churn from slow supp resp times bad, custs leaving mid-deal bc waits. Also pipeline blind, compliance fails on data — audits bombed last FY. They're eyeing in-house build but ditched after prototype flop, resrcs thin despite IT budget bump 22% this yr. Tech stack RoR/Heroku/PG/Sidekiq perfect match, he perked up. Urgency low tho — "team not rushed, Q2 maybe." Def DM but needs eng nod. He'll rev case studies, set demo if ROI sells. Sounds qual ready but he's dragging, prob bc budget cycles.  
+
+Pushed on pains natural — he vented churn (slow resp = lost rev), pipeline vis (guessing closes), audits (data mess). In-house compet but admitted "we suck at it." Low heat, but 22% IT $$ opens door. F/u next week critical, by EOQ push stage up. He's key, but "they" (eng?) skeptical on AI ROI — send proofs fast. Quick call but good leads, log qual.

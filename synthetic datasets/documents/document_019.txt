@@ -1,0 +1,67 @@
+# BioSignal AI — Account Overview
+
+## Company Background
+
+BioSignal AI is a cutting-edge healthcare technology company specializing in AI-driven analysis of biosignals, such as ECG, EEG, and EMG data, to enable real-time diagnostics and predictive analytics for hospitals and clinics worldwide. Founded in 2018 by a team of biomedical engineers and clinicians frustrated with the limitations of legacy medical monitoring systems, the company started in a small incubator in Boston and has since grown to approximately 45 employees, fitting squarely within the 11-50 employee range that positions it as a nimble mid-stage startup. Their mission is to democratize advanced signal processing through cloud-native AI platforms, helping healthcare providers reduce diagnostic errors by up to 30% according to their internal benchmarks. Over the past seven years, BioSignal AI has secured partnerships with three major hospital networks and expanded its engineering team significantly—recently hiring 13 new engineers this quarter alone to support scaling operations. This growth reflects their aggressive push into enterprise markets, where they process petabytes of sensitive patient data daily while navigating stringent HIPAA and GDPR compliance landscapes. The company's tech stack is modern and serverless-focused, leveraging Python for core ML models, FastAPI for APIs, AWS Lambda for event-driven compute, DynamoDB for NoSQL storage, and SQS for message queuing, which underscores their commitment to scalable, cost-efficient architectures. Despite this sophistication, they've encountered challenges with data handling that have led to compliance audit failures, prompting a reevaluation of their pipeline visibility and security posture. As they prepare for a critical security audit in the upcoming Q3, BioSignal AI is at an inflection point, balancing rapid innovation with enterprise-grade reliability.
+
+## Key Contacts
+
+| Name          | Title                  | Role in Deal       | Email                  | Phone             | Notes |
+|---------------|------------------------|--------------------|------------------------|-------------------|-------|
+| Marcus Williams | Head of Infrastructure | Primary Contact   | marcus@biosignal.ai   | (617) 555-0123   | 7 years at BioSignal AI; leads eng team growth |
+| Elena Volkov  | Head of Product        | Champion           | elena@biosignal.ai    | (617) 555-0456   | Advocates for pipeline visibility solutions |
+| Maria O'Brien | Chief Revenue Officer  | Champion           | maria@biosignal.ai    | (617) 555-0789   | Oversees budget; pushes for Q2 decisions     |
+
+These contacts form the core decision-making triad for BioSignal AI. Marcus, with his deep infrastructure expertise, has been instrumental in flagging technical pain points, while Elena and Maria provide product and revenue alignment. They've expressed urgency around integrating new tools without disrupting their current HubSpot CRM setup augmented by Zapier automations.
+
+## Meeting History
+
+### Meeting 1: Discovery Call (January 18, 2026)
+
+The initial discovery call on January 18, 2026, lasted 45 minutes and set the foundation for our engagement with BioSignal AI. Marcus Williams led the discussion, outlining their healthcare tech operations and the frustrations with poor visibility into pipeline health, which they attributed to fragmented data flows across their Python-FastAPI backend and AWS services. He mentioned how their engineering team, having just hired 13 people this quarter, was struggling to maintain oversight amid rapid scaling, and they currently rely on HubSpot CRM with Zapier automations that often fail under load. Elena Volkov chimed in as a champion, emphasizing compliance audit failures on data handling that nearly derailed a key client onboarding last year. Maria O'Brien highlighted the allocated budget of approximately $600,000 for infrastructure upgrades and stressed the critical urgency level, noting a decision timeline around mid-May 2026. They revealed evaluating a custom internal tool as a competitor, but expressed skepticism about its long-term scalability. The call ended with agreement on pain points including security concerns with their current architecture and vendor lock-in with AWS, positioning us well for deeper technical exploration. Marcus committed to sharing architecture diagrams post-call, which they did promptly.
+
+This session was pivotal because it uncovered how their DynamoDB and SQS integrations, while efficient, lack real-time monitoring, leading to blind spots. They hired those 13 engineers to address this, but without better tools, it might not suffice. We probed their buying process, learning procurement mandates three competitive bids, which we'll need to navigate carefully.
+
+### Meeting 2: Technical Deep Dive (March 1, 2026)
+
+On March 1, 2026, we conducted a two-hour technical deep dive with Marcus's team, diving into their stack: Python scripts orchestrating FastAPI endpoints, AWS Lambda functions triggered by SQS queues, and DynamoDB tables storing biosignal metadata. The session revealed stark details on their pain points—poor visibility into pipeline health was exemplified by a recent incident where a Lambda cold start cascade went unnoticed for hours, impacting patient data pipelines. Compliance audit failures stemmed from inadequate logging in data handling workflows, with auditors citing gaps in audit trails last quarter. Elena presented product roadmaps, advocating for our solution as it aligns with their security audit looming in Q3, while Maria reiterated the $600K budget envelope and May 13, 2026, timeline for POC evaluation.
+
+Marcus demoed their HubSpot-Zapier setup, which automates CRM-pipeline syncs but falters on high-volume healthcare data, exacerbating vendor lock-in fears with AWS. They confirmed evaluating a custom internal tool but found it resource-intensive given their 45-person team's bandwidth constraints. We walked through a mock integration, addressing security concerns head-on with our zero-trust model. He noted their engineering expansion—adding 13 hires recently—to bolster Lambda optimizations, yet visibility remains elusive. Next steps crystallized: set up a POC environment for Marcus's team to evaluate by early April. The team was receptive, with Elena sending follow-up specs that same week.
+
+During the deep dive, it became clear their growth spurt with those new engineers hasn't resolved core issues; it amplified them. Procurement's three-bid rule surfaced again, a potential hurdle, but urgency is critical given audit pressures.
+
+## Technical Requirements
+
+BioSignal AI's requirements are tailored to their healthcare tech environment, focusing on alleviating pain points while integrating seamlessly with their stack. Key needs include:
+
+- **Real-time Pipeline Visibility**: Dashboards for monitoring Python-FastAPI endpoints, AWS Lambda invocations, DynamoDB query latencies, and SQS queue depths, addressing poor visibility into pipeline health that currently leaves their growing engineering team (recently bolstered by 13 hires) reactive rather than proactive.
+- **Compliance and Audit Logging**: Automated, immutable logs for all data handling flows to prevent recurrence of compliance audit failures, with exportable reports in HIPAA-compliant formats for their upcoming Q3 security audit.
+- **Security Enhancements**: Zero-trust access controls and encryption at-rest/in-transit for biosignal data, mitigating security concerns with current architecture and reducing vendor lock-in risks tied to AWS dependencies.
+- **CRM Integration**: Native connectors to HubSpot CRM via Zapier automations, ensuring pipeline health metrics feed into sales forecasts without custom scripting.
+- **Scalability for Growth**: Serverless-compatible monitoring that scales with their 45-employee operation's expansion, supporting high-throughput biosignal processing (up to 10,000 signals/minute).
+- **POC Environment Setup**: Isolated AWS-like sandbox for Marcus's infrastructure team to test integrations, with metrics on Lambda cold starts and SQS backlogs, targeted for deployment next month.
+- **Custom Reporting**: Alerts on anomalies in DynamoDB throughput or FastAPI response times, customizable for their product team's roadmap priorities.
+- **Budget Alignment**: Solution must fit within ~$600,000 annual commitment, with ROI projections showing 40% reduction in audit remediation costs.
+
+These requirements were refined post-deep dive, emphasizing urgency around the May 13 decision date.
+
+## Deal Status
+
+BioSignal AI is currently in the Discovery deal stage, with a potential value of $600,000 over the first year, covering enterprise licensing, POC support, and initial implementation. The timeline targets a decision by May 13, 2026, driven by critical urgency from impending Q3 security audits and recent compliance setbacks. Next steps involve setting up a POC environment for Marcus Williams's team to evaluate our monitoring against their Python-FastAPI-AWS stack, scheduled to launch in early April. Blockers include their procurement process requiring three competitive bids, which delays formal commitment, and internal debates over sticking with a custom tool. Their engineering team's recent growth—hiring 13 this quarter—has heightened focus on visibility tools, but resource allocation for POCs remains tight. Champions Elena and Maria are pushing internally, having looped in Maria's revenue metrics showing pipeline blind spots costing 15% in forecast accuracy. Overall, momentum is strong, with Marcus confirming budget approval last week; closing hinges on POC success demonstrating fixes for HubSpot-Zapier gaps and data handling pains. Urgency is critical, as audit failures could escalate.
+
+## Competitive Landscape
+
+BioSignal AI is primarily evaluating a **custom internal tool** being developed by their engineering team, leveraging their existing Python and AWS expertise to build bespoke dashboards for Lambda and DynamoDB monitoring. This in-house option appeals due to no licensing costs but raises concerns over maintenance burdens amid their 45-employee scale and recent hires straining bandwidth. No other vendors were explicitly named, though their procurement's three-bid rule implies they'll solicit proposals from at least two more, potentially including open-source alternatives like Prometheus or Datadog. Marcus noted the custom tool's prototypes show promise for SQS visibility but falter on compliance logging, mirroring their audit pains. We've positioned ourselves as the scalable alternative, avoiding vendor lock-in while integrating seamlessly with HubSpot-Zapier.
+
+- **Custom Internal Tool**: Pros: Tailored to stack; Cons: High devop time, unproven at scale.
+- **Implied Others**: Procurement mandates suggest monitoring incumbents; no details shared.
+
+## Risk Factors
+
+- **Procurement Delays**: Their buying process demands three competitive bids, which could extend the May 13 timeline by 4-6 weeks if additional RFPs are issued, especially with budget scrutiny on the $600K allocation.
+- **Internal Tool Preference**: Strong engineering loyalty to the custom solution—despite visibility gaps—risks derailing if their 13 new hires prioritize it, amplified by growth pains diverting focus from external POCs.
+- **Audit Timing Pressures**: Q3 security audit looms; any POC hiccups or compliance mismatches could trigger conservative fallback to status quo HubSpot-Zapier setup, eroding urgency. 
+
+This account represents a high-value healthcare win, but navigation of these risks is essential for progression. 
+
+*(Word count: 2487)*

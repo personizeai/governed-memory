@@ -1,0 +1,19 @@
+{
+  "entity_index": 46,
+  "name": "Yusuf Chen",
+  "company": "Onyx Solutions",
+  "industry": "Logistics",
+  "email": "yusuf.chen@onyxsolutions.com",
+  "title": "Chief Product Officer",
+  "facts": [
+    "Yusuf Chen is Chief Product Officer at Onyx Solutions",
+    "Onyx Solutions is a Logistics company with 1375 employees",
+    "Tech stack: Java, Spring Boot, Azure, Oracle, Kafka",
+    "Deal value: $400,000",
+    "Pain points: lack of real-time analytics for decision making; high infrastructure costs eating into margins; customer churn from slow support response times",
+    "Competitors: Salesforce Einstein, HubSpot AI, Microsoft Copilot",
+    "Decision timeline: Q3 2026",
+    "Annual revenue: ~$19M"
+  ],
+  "actual_word_count": 344
+}

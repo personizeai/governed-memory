@@ -1,0 +1,16 @@
+### Account Overview
+Onyx Solutions is a prominent player in the Logistics industry, employing 1375 people and generating approximately $19M in annual revenue. As a key prospect, they've expressed interest in enhancing their operational efficiency amid growing competitive pressures. Primary contact is Yusuf Chen, Chief Product Officer, reachable at yusuf.chen@onyxsolutions.com. Their current tech stack includes Java, Spring Boot, Azure, Oracle, and Kafka, which supports core logistics operations but reveals gaps in advanced analytics and cost management.
+
+### Key Details
+Yusuf Chen leads product strategy at Onyx Solutions, focusing on innovation to streamline supply chain processes. The company faces critical pain points: a lack of real-time analytics hinders timely decision-making, high infrastructure costs are eroding margins, and customer churn is rising due to slow support response times. These issues are exacerbated by reliance on legacy systems within their Java/Spring Boot ecosystem hosted on Azure, integrated with Oracle databases and Kafka for event streaming. Competitors like Salesforce Einstein, HubSpot AI, and Microsoft Copilot are on their radar for AI-driven solutions that could address these challenges more effectively.
+
+### Deal Status
+This opportunity carries a potential deal value of $400,000, positioning it as a high-priority B2B pursuit. Discussions with Yusuf have advanced to the evaluation stage, where we've demoed how our platform integrates seamlessly with their existing stack—offering real-time analytics via Kafka streams, cost optimizations on Azure, and AI-powered support automation to reduce churn. They've acknowledged our edge over Salesforce Einstein's predictive tools, HubSpot AI's marketing focus, and Microsoft Copilot's generalist approach, particularly for logistics-specific workflows. Decision timeline is targeted for Q3 2026, aligned with their fiscal planning cycle.
+
+### Next Steps
+- Schedule follow-up call with Yusuf Chen by end of next week to review customized POC results addressing real-time analytics and infrastructure cost reductions.
+- Prepare competitive analysis deck highlighting differentiators vs. Salesforce Einstein, HubSpot AI, and Microsoft Copilot.
+- Engage technical team for deeper Azure/Oracle integration audit.
+- Monitor Q2 metrics on their churn and margins to refine pitch; aim for proposal submission by Q4 2025 to stay ahead of timeline.
+
+(Word count: 378)

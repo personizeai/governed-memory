@@ -1,0 +1,19 @@
+{
+  "entity_index": 23,
+  "name": "Amanda O'Brien",
+  "company": "Drift Analytics",
+  "industry": "Healthcare Tech",
+  "email": "amanda.o'brien@driftanalytics.com",
+  "title": "Head of Product",
+  "facts": [
+    "Amanda O'Brien is Head of Product at Drift Analytics",
+    "Drift Analytics is a Healthcare Tech company with 2426 employees",
+    "Tech stack: Java, Micronaut, GCP, Spanner, Pub/Sub",
+    "Deal value: $1,000,000",
+    "Pain points: fragmented tooling across departments; technical debt from rapid early growth; scaling issues during peak traffic periods",
+    "Competitors: Gong",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$81M"
+  ],
+  "actual_word_count": 305
+}

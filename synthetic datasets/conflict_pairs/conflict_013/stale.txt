@@ -1,0 +1,19 @@
+**Call Note: Sales Meeting w/ Tariq Tanaka, VP Engineering, Lunar Computing**  
+**Date:** December 11, 2025  
+**Duration:** 45 mins (Zoom)  
+**Attendees:** Me, Tariq Tanaka  
+
+Discussed Lunar Computing's healthcare tech stack and potential for our API integration to enhance patient data workflows. Tariq confirmed they use Django as their primary web framework, handling backend for secure EHR platforms, but facing scalability bottlenecks during peak loads (e.g., 10k+ concurrent users).  
+
+Key pain points: Current Django setup struggles with real-time data syncing across microservices; HIPAA compliance audits flagged latency issues. Expressed interest in our low-latency API (sub-50ms response) for seamless Django integration via RESTful endpoints.  
+
+Demo'd our SDK— Tariq noted strong alignment with their Python ecosystem. Budget allocated Q1 2026 ($250k for pilots). Decision timeline: POC by Jan 15; final RFP by Feb end.  
+
+**Next Steps:**  
+- Send Django-specific integration guide + HIPAA certs by Dec 13.  
+- Schedule technical deep-dive w/ their lead dev on Dec 18.  
+- Follow up on competitor eval (they're reviewing FastAPI alternatives).  
+
+Prospect hot; high fit for healthcare vertical. Update stage to "Qualified Opportunity."  
+
+(Word count: 178)

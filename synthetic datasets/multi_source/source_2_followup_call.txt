@@ -1,0 +1,98 @@
+---
+type: Contact
+record_id: crm-sarah-chen-techflow-inc
+email: sarah.chen@techflow.io
+website_url: https://techflow.io
+company: TechFlow Inc
+industry: B2B SaaS
+contact_name: Sarah Chen
+job_title: VP of Engineering
+---
+
+**Call Transcript: Follow-up Call - TechNova Conversation Intelligence Solution**
+
+**Date:** February 15, 2025  
+**Duration:** 30:12  
+**Participants:** Alex Morgan (Account Executive, TechNova), Sarah Chen (VP of Engineering, TechFlow Inc)  
+
+[Call starts with standard intro music fading out]
+
+**Alex Morgan:** Hi Sarah, Alex Morgan from TechNova here. Thanks for hopping on this follow-up call. How's your week shaping up?
+
+**Sarah Chen:** Hey Alex, good to hear from you. Week's busy as always—crunching numbers for Q1 close. Ready to dive in?
+
+**Alex Morgan:** Absolutely. Last time we chatted during discovery, you walked me through TechFlow's call volume spiking 40% post-holidays and the pain points with manual tagging in your CRM. I promised to circle back with how TechNova slots in specifically. We've prepped some tailored slides based on that. Sound good?
+
+**Sarah Chen:** Perfect. Yeah, that call volume chat was spot on. We've been logging about 2,500 sales calls a month now, and our reps are drowning without better insights.
+
+**Alex Morgan:** Got it. Let's jump into the deck real quick—I'm sharing screen now. Slide one: Quick recap of your needs. Automated transcription, sentiment analysis, and CRM enrichment. Today, I want to focus on our differentiators versus the other vendors you're eyeing.
+
+**Sarah Chen:** Appreciate the efficiency. Yeah, my team's evaluating three vendors right now, including you folks. We've got some history with one—Gong, actually. Did a POC with them last quarter, and it was a total bust. Integration glitches galore, and their latency was killer during peak hours.
+
+**Alex Morgan:** Ouch, sorry to hear that. Gong's a big name, but we've heard similar feedback. Our edge is sub-2-second latency on AWS infrastructure, which aligns perfectly since you mentioned TechFlow's all-in on AWS. No cloud-agnostic headaches.
+
+**Sarah Chen:** AWS is our backbone, yeah—EC2, S3, the works. Glad you're native there. Gong promised that but delivered zip.
+
+**Alex Morgan:** Slide two: Architecture deep-dive. You're crystal clear on needing API-first—no UI-only toys. TechNova's built that way from the ground up. RESTful APIs for everything: ingest calls via webhook, pull insights programmatically, push to your CRM. Here's a sample payload for conversation summaries.
+
+**Sarah Chen:** Looks clean. We're heavy Snowflake users for our data warehouse, so that integration piece is non-negotiable. Can you enrich Snowflake tables directly? Like, dumping call metadata and scores into our schemas?
+
+**Alex Morgan:** Spot on. We've got a Snowflake connector out-of-the-box. Bi-directional sync: transcripts and KPIs flow into your warehouse via API or scheduled jobs. No ETL nightmares. Demo this in a sec—want me to spin it up?
+
+**Sarah Chen:** Yes, please. Our data team's adamant about seamless pipes. Snowflake's where all our analytics live, from sales forecasting to churn models.
+
+[Brief pause for screen share demo]
+
+**Alex Morgan:** Okay, pulling up our sandbox. Here's a mock TechFlow call ingested. API call to /transcribe—boom, JSON back in 1.8 seconds. Now, POST to Snowflake: speaker turns, sentiment scores, action items all landing in your hypothetical 'sales_insights' table. Custom schemas supported.
+
+**Sarah Chen:** Impressive. Way smoother than Gong's mess. Our security team's strict, though—SOC 2 Type II is table stakes for any vendor. You certified?
+
+**Alex Morgan:** Fully SOC 2 compliant, audited annually. Bridge letter available today, full report post-signature. We've got 200+ AWS customers like you under our belt, all cleared.
+
+**Sarah Chen:** Good, that's a green light there. Security's been blocking deals left and right.
+
+**Alex Morgan:** Slide three: POC roadmap. Building on Gong's flop, we propose a 4-week POC. Week one: API setup and your top 500 calls ingested. Week two: Snowflake integration validated. We'll assign an SE just for TechFlow.
+
+**Sarah Chen:** Timeline works. We're targeting Q2 2026 for full migration off our legacy setup. Gives us breathing room to POC multiple vendors and pick a winner.
+
+**Alex Morgan:** Q2 '26 noted—plenty of ramp time. Budget-wise, from discovery, you're around $450K allocated for this initiative. Our POC's free, then enterprise tier starts at $120 per seat annually, scaling to full deployment under that envelope.
+
+**Sarah Chen:** $450K is the ballpark, yeah—covers licensing, integration, and a year of support. Seats for 85 reps plus engineering access.
+
+**Alex Morgan:** Fits like a glove. With your volume, you'd land at ~$380K year one, including custom Snowflake work. No surprises.
+
+**Sarah Chen:** Solid. Board meeting's in March where I'll present options. Need something concrete by then—POC results, ROI calcs.
+
+**Alex Morgan:** March board—locked in. We can accelerate POC to deliver prelim insights by Feb 28. Here's a projected ROI: 25% faster deal cycles based on similar B2B SaaS clients. Your 2,500 calls/month could yield $2.1M pipeline lift.
+
+**Sarah Chen:** Numbers check out. Reps wasting 15 hours/week on notes now—that's low-hanging fruit.
+
+**Alex Morgan:** Exactly. Slide four: Competitive matrix. Us vs. the other two and Gong. API-first: check. Snowflake native: check. AWS optimized: check. SOC 2: check. Gong fails on POC reliability, as you saw.
+
+**Sarah Chen:** Matrix is helpful. The third vendor's UI-heavy; won't fly with our API mandate.
+
+**Alex Morgan:** UI's optional for us—admins love it, but core is headless. Any sticking points from the other evals?
+
+**Sarah Chen:** Mainly latency and data egress costs. Snowflake sync can't nickel-and-dime us.
+
+**Alex Morgan:** Zero egress fees on AWS. Unlimited API calls in our tier.
+
+[Pause for Q&A]
+
+**Sarah Chen:** One more: Custom models? Our calls have industry jargon—fintech lingo.
+
+**Alex Morgan:** Fine-tunable LLMs via API. Upload your corpus, retrain in days. POC includes a sample.
+
+**Sarah Chen:** Nice. Alright, this is progressing well.
+
+**Alex Morgan:** Great momentum. Next steps: Send POC agreement today? SE reaches out tomorrow for kickoff. Target week of Feb 24.
+
+**Sarah Chen:** Send it over. I'll loop in my director for sign-off. Thanks, Alex—this feels right.
+
+**Alex Morgan:** Pleasure, Sarah. Chat soon. Have a strong rest of your day.
+
+**Sarah Chen:** You too. Bye.
+
+[Call ends]
+
+**Word count: 1987**

@@ -1,0 +1,58 @@
+{
+  "sample_id": "email_045",
+  "content_type": "email_thread",
+  "company": "CastPoint",
+  "industry": "Manufacturing",
+  "email_count": 6,
+  "actual_word_count": 975,
+  "expected_facts": [
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q2",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Scala, Spark, Databricks, Snowflake, Airflow",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $850,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "Elena Cho has been at CastPoint for 3 years",
+      "type": "explicit"
+    },
+    {
+      "text": "CastPoint is a Manufacturing company with about 163 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Elena reports to the CEO directly",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Chief Product Officer",
+    "company_name": "CastPoint",
+    "company_size": "51-200",
+    "technology_stack": "Scala, Spark, Databricks, Snowflake, Airflow",
+    "deal_stage": "Proposal",
+    "deal_value": 850000,
+    "decision_timeline": "2026-05-06"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 2
+  },
+  "introduces_new_person": true,
+  "colleague": "Tom Xu, Engineering Manager",
+  "property_coverage": 0.5
+}

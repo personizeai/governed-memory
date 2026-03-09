@@ -1,0 +1,21 @@
+**Call Note: Follow-up Sales Meeting**  
+**Date:** February 07, 2026  
+**Contact:** Jennifer Tanaka, VP Engineering, Nimbus Networks (E-commerce)  
+**Duration:** 35 minutes (Zoom)  
+**Attendees:** JT, me (AE), SR (SE)  
+
+Discussed progress on scalable cloud solutions for post-acquisition growth. JT confirmed strong interest in our e-commerce optimization suite, citing 40% traffic spike since deal close.  
+
+**KEY UPDATE:** Nimbus Networks headcount now exceeds 300 employees following recent acquisition of EdgeCart (supersedes prior intel of ~150 staff). This change drives urgent need for infrastructure scaling—targeting 5x compute capacity in next 6 months. Impacts RFP timeline.  
+
+Additional details:  
+- Positive demo feedback on real-time inventory sync; requested custom PoC for Black Friday sim.  
+- Budget outlook: $750K approved for Q2 vendors, competing with AWS expansion. JT prioritizing ROI >20% within Year 1.  
+- Internal hurdles: Engineering team at capacity; procurement review delayed to Feb 15.  
+
+Next steps:  
+- Deliver tailored PoC proposal + pricing by EOD Feb 10.  
+- Schedule exec briefing w/ CTO on Feb 21 (JT to provide 3 slots).  
+- Actioned: Sent recap email w/ acquisition-aligned specs.  
+
+Opportunity stage: Qualified → Proposal. Win probability: 65% (up from 50%). Follow up Feb 12 if no reply.

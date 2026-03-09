@@ -1,0 +1,66 @@
+{
+  "sample_id": "email_001",
+  "content_type": "email_thread",
+  "company": "TechFlow Inc",
+  "industry": "B2B SaaS",
+  "email_count": 6,
+  "actual_word_count": 1409,
+  "expected_facts": [
+    {
+      "text": "They're dealing with high infrastructure costs eating into margins",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in San Francisco",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using HubSpot CRM with Zapier automations",
+      "type": "explicit"
+    },
+    {
+      "text": "TechFlow Inc is a B2B SaaS company with about 1877 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Java, Micronaut, GCP, Spanner, Pub/Sub",
+      "type": "explicit"
+    },
+    {
+      "text": "Yusuf Baker has been at TechFlow Inc for 5 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with security concerns with current architecture",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Chief Revenue Officer",
+    "company_name": "TechFlow Inc",
+    "company_size": "1000+",
+    "technology_stack": "Java, Micronaut, GCP, Spanner, Pub/Sub",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "security concerns with current architecture",
+      "high infrastructure costs eating into margins",
+      "inconsistent messaging across sales team"
+    ],
+    "decision_timeline": "2026-11-26",
+    "decision_maker": false,
+    "buying_process": "Fast-track available for deals under $150K with direct VP approval",
+    "current_solution": "HubSpot CRM with Zapier automations",
+    "urgency_level": "High"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 1
+  },
+  "introduces_new_person": true,
+  "colleague": "Rachel O'Brien, Solutions Architect",
+  "property_coverage": 0.79
+}

@@ -1,0 +1,42 @@
+Call with: Nina Ibrahim, Head of Data at PixelGrid  
+Date: February 26, 2026  
+Duration: 15 min  
+
+Key Points:  
+- Nina HoD PixelGrid (dig media co, 11-50 emps), onboard 3yrs  
+- Stack: Java/SpringBoot/Azure/Oracle/Kafka — legacy mess  
+- Pain1: poor dev exp slowing feature velocity big time  
+- Pain2: diff hiring spec'd engs, turnover high  
+- Pain3: sec concerns w/ curr arch, audits looming  
+- Curr sol: internal Py scripts pulling mult APIs — brittle, manual  
+- Budget: ~$1.2M alloc'd for data tooling this yr  
+- Deal stage: Qual — early but promising  
+- Urgency: med — not fire drill but pressure building  
+- Timeline: targeting 12/8/26 decision, Q4 push  
+- She's frustrated w/ velocity, wants quick wins  
+- Mentioned team size ~29, small but growing fast  
+- He (eng mgr?) pushing for eval next qtr  
+- Def traction if we demo Kafka integ  
+- Prob need POC for Azure side  
+- She's looping in CTO soon  
+- No red flags on budget, approved  
+- Compares us to other vendors, likes our dev exp focus  
+- Pain deep on hiring — can't find Kafka/Java talent locally  
+- Sec: worried about API pulls exposing data  
+- Asked re: SpringBoot compat — yes seamless  
+- Oracle migr pains too  
+- She's been scripting 6mo, hates it  
+- Deal value potl $1.2M full suite  
+- Medium urgency bc Q4 budget cliff  
+
+Action Items:  
+- [ ] Send tailored deck + stack matrix to Nina (me, EOD today)  
+- [ ] Sch demo f/u next week w/ her + eng lead (me)  
+- [ ] Ping CTO intro if she greenlights (Nina)  
+- [ ] Log pains to Opp in SF (me)  
+- [ ] Prep POC script for Py→our tool migr (eng team, by EOQ)  
+
+Notes:  
+Quick intro call, Nina warm but hurried — mtg overrun. Dove str8 into pains, poor dev exp killing velocity, they're scrambling w/ Py hacks across APIs, sec holes everywhere. Hard hiring Kafka/Oracle pros in small shop, 11-50 heads but feels stretched. Budget solid $1.2M, she's advocating internally. He (prob CTO) wants proof by Q2, but timeline stretches to 12/8. Def interest, qual stage locked.  
+
+F/U next week critical — she'll cc engs if we nail deck. Urgency med, no rush but by EOQ they need plan or lose budget. She's 3yrs in, knows stack inside out (Java heavy), hates manual scripting drag. PixelGrid dig media scaling, feature ships slow af. She's pushing, just needs ammo for stakeholders.

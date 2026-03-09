@@ -1,0 +1,84 @@
+{
+  "sample_id": "transcript_013",
+  "content_type": "meeting_transcript",
+  "company": "SpecLine",
+  "industry": "Manufacturing",
+  "duration_minutes": 45,
+  "target_word_count": 2939,
+  "actual_word_count": 3858,
+  "expected_facts": [
+    {
+      "text": "Their main office is in Austin",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Go, Kubernetes, AWS, DynamoDB, gRPC",
+      "type": "explicit"
+    },
+    {
+      "text": "Rachel Singh has been at SpecLine for 7 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Rachel reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "SpecLine is a Manufacturing company with about 4921 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $1,800,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $78M",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 8 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using spreadsheets and manual data entry",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 3 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q2",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Marketing",
+    "company_name": "SpecLine",
+    "company_size": "1000+",
+    "technology_stack": "Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "deal_stage": "Proposal",
+    "deal_value": 1800000,
+    "current_solution": "spreadsheets and manual data entry"
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 4,
+    "duplicate_facts": 1
+  },
+  "has_third_participant": true,
+  "property_coverage": 0.5,
+  "entity_id": "rachel-specline",
+  "entity_email": "rachel@specline.io",
+  "entity_website": "https://specline.io",
+  "contact_name": "Rachel",
+  "record_id": "crm-rachel-specline"
+}

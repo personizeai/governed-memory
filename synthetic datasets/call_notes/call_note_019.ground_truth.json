@@ -1,0 +1,56 @@
+{
+  "sample_id": "call_note_019",
+  "content_type": "call_notes",
+  "company": "BioSignal AI",
+  "industry": "Healthcare Tech",
+  "duration_minutes": 45,
+  "target_word_count": 653,
+  "actual_word_count": 397,
+  "expected_facts": [
+    {
+      "text": "Their tech stack includes Rust, Actix, AWS, PostgreSQL, NATS",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using internal Python scripts pulling from multiple APIs",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Gong, custom internal tool, Microsoft Copilot",
+      "type": "explicit"
+    },
+    {
+      "text": "Michael Moreau has been at BioSignal AI for 3 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with vendor lock-in with current cloud provider",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of IT",
+    "company_name": "BioSignal AI",
+    "company_size": "51-200",
+    "technology_stack": "Rust, Actix, AWS, PostgreSQL, NATS",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "vendor lock-in with current cloud provider",
+      "integration complexity with legacy systems"
+    ],
+    "competitors_mentioned": [
+      "Gong",
+      "custom internal tool",
+      "Microsoft Copilot"
+    ],
+    "decision_maker": true,
+    "buying_process": "Procurement requires three competitive bids before decision",
+    "current_solution": "internal Python scripts pulling from multiple APIs",
+    "urgency_level": "Low"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 2
+  },
+  "property_coverage": 0.79
+}

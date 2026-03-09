@@ -1,0 +1,210 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Emily Singh <emily.singh@finstacklabs.com>  
+Subject: Tailored API Management for FinStack Labs' Migration Goals  
+Date: February 11, 2026, 10:15 AM PST  
+
+Hi Emily,  
+
+I hope this email finds you well. As the CTO at FinStack Labs, with your impressive 5 years steering the tech vision for your San Francisco-based fintech team of about 39 employees, I came across your recent updates on LinkedIn and public filings—congratulations on hitting around $77M in annual revenue despite the challenges last quarter.  
+
+I'm reaching out from Technova because our FinSecure API Gateway is designed specifically for fintechs like yours undergoing legacy system migrations by the end of the year. After losing a major customer due to onboarding friction, I imagine streamlining secure API integrations is top of mind, especially post your board meeting last month that shifted priorities toward faster digital transformation. Our platform integrates natively with C#, .NET, Azure, SQL Server, and RabbitMQ—your exact stack—reducing onboarding times by up to 40% for high-volume transaction processing.  
+
+I'd love to share a quick case study from a similar fintech that cut migration risks dramatically. Are you open to a 15-minute call next week?  
+
+Best regards,  
+Alex Morgan  
+Account Executive  
+Technova  
+(415) 555-0123  
+alex.morgan@technova.io  
+www.technova.io  
+
+---
+
+From: Emily Singh <emily.singh@finstacklabs.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Tailored API Management for FinStack Labs' Migration Goals  
+Date: February 12, 2026, 2:45 PM PST  
+
+Hi Alex,  
+
+Thanks for reaching out—appreciate the personalization. Yes, the board meeting last month did pivot us hard toward accelerating our migration off legacy systems by end of year, especially after we lost that major customer due to onboarding bottlenecks.  
+
+We're currently evaluating 5 vendors, including you folks, with a budget allocated around $50,000 for this phase. How exactly does FinSecure handle real-time queuing with RabbitMQ in a .NET environment on Azure? Our SQL Server workloads are pretty heavy.  
+
+Looking forward to your thoughts.  
+
+Best,  
+Emily Singh  
+CTO  
+FinStack Labs  
+(415) 555-0198  
+emily.singh@finstacklabs.com  
+
+> On Wed, Feb 11, 2026 at 10:15 AM PST, Alex Morgan <alex.morgan@technova.io> wrote:  
+> > Hi Emily,  
+> >  
+> > I hope this email finds you well. As the CTO at FinStack Labs, with your impressive 5 years steering the tech vision for your San Francisco-based fintech team of about 39 employees, I came across your recent updates on LinkedIn and public filings—congratulations on hitting around $77M in annual revenue despite the challenges last quarter.  
+> >  
+> > I'm reaching out from Technova because our FinSecure API Gateway is designed specifically for fintechs like yours undergoing legacy system migrations by the end of the year. After losing a major customer due to onboarding friction, I imagine streamlining secure API integrations is top of mind, especially post your board meeting last month that shifted priorities toward faster digital transformation. Our platform integrates natively with C#, .NET, Azure, SQL Server, and RabbitMQ—your exact stack—reducing onboarding times by up to 40% for high-volume transaction processing.  
+> >  
+> > I'd love to share a quick case study from a similar fintech that cut migration risks dramatically. Are you open to a 15-minute call next week?  
+> >  
+> > Best regards,  
+> > Alex Morgan  
+> > Account Executive  
+> > Technova  
+> > (415) 555-0123  
+> > alex.morgan@technova.io  
+> > www.technova.io  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Emily Singh <emily.singh@finstacklabs.com>  
+Subject: Re: Tailored API Management for FinStack Labs' Migration Goals  
+Date: February 13, 2026, 9:30 AM PST  
+
+Hi Emily,  
+
+Great question—happy to dive into the technical details. FinSecure's RabbitMQ integration leverages our .NET SDK, which supports full asynchronous message handling via Azure Service Bus as a bridge for hybrid environments. This ensures zero-downtime queuing even under your heavy SQL Server transaction loads, with built-in throttling to match RabbitMQ's pub/sub patterns. We've seen fintechs with similar stacks (C#, Azure-hosted .NET apps) achieve sub-50ms latency on API calls post-migration.  
+
+Given your $50K budget and evaluation of 5 vendors, we're entering negotiation stage here and can propose a lightweight POC at no cost, scoped to your migration timeline ending November 8th. It would mimic your onboarding flows to prove the 40% time savings. How does next week sound for a demo? Our annual revenue-aligned pricing keeps us well under budget—no CFO approval needed since it's below $100K threshold.  
+
+Let me know your availability.  
+
+Best,  
+Alex Morgan  
+Account Executive  
+Technova  
+(415) 555-0123  
+alex.morgan@technova.io  
+www.technova.io  
+
+> On Thu, Feb 12, 2026 at 2:45 PM PST, Emily Singh <emily.singh@finstacklabs.com> wrote:  
+> > Hi Alex,  
+> >  
+> > Thanks for reaching out—appreciate the personalization. Yes, the board meeting last month did pivot us hard toward accelerating our migration off legacy systems by end of year, especially after we lost that major customer due to onboarding bottlenecks.  
+> >  
+> > We're currently evaluating 5 vendors, including you folks, with a budget allocated around $50,000 for this phase. How exactly does FinSecure handle real-time queuing with RabbitMQ in a .NET environment on Azure? Our SQL Server workloads are pretty heavy.  
+> >  
+> > Looking forward to your thoughts.  
+> >  
+> > Best,  
+> > Emily Singh  
+> > CTO  
+> > FinStack Labs  
+> > (415) 555-0198  
+> > emily.singh@finstacklabs.com  
+> >  
+> >> On Wed, Feb 11, 2026 at 10:15 AM PST, Alex Morgan <alex.morgan@technova.io> wrote:  
+> >> > [Previous message quoted]  
+
+---
+
+From: Emily Singh <emily.singh@finstacklabs.com>  
+To: Robert Johnson <robert.johnson@finstacklabs.com>  
+CC: Alex Morgan <alex.morgan@technova.io>  
+Subject: Fw: Tailored API Management for FinStack Labs' Migration Goals  
+Date: February 13, 2026, 11:20 AM PST  
+
+Robert,  
+
+FYI on this thread from Technova. They seem like a strong fit for our stack and the migration push—budget aligns at ~$50K, and no CFO sign-off needed under $100K. What are your thoughts on their RabbitMQ/.NET integration claims? Worth looping in for a next week demo?  
+
+Thanks,  
+Emily  
+
+---------- Forwarded message ---------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Thu, Feb 13, 2026, 9:30 AM PST  
+Subject: Re: Tailored API Management for FinStack Labs' Migration Goals  
+To: Emily Singh <emily.singh@finstacklabs.com>  
+
+> [Quoted previous chain]  
+
+---
+
+From: Robert Johnson <robert.johnson@finstacklabs.com>  
+To: Emily Singh <emily.singh@finstacklabs.com>, Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Tailored API Management for FinStack Labs' Migration Goals  
+Date: February 16, 2026, 3:15 PM PST  
+
+Hi Alex and Emily,  
+
+Thanks for the forward, Emily—this lines up with our post-board priorities at FinStack's SF office. Alex, your POC proposal sounds promising for our 39-person team's migration by end of quarter, but I have a technical question: how does FinSecure scale RabbitMQ consumer groups in a C# .NET Core app on Azure when handling 10k+ TPS from SQL Server event streams? We had issues there after losing the customer last quarter. Also, does it support custom Azure AD auth plugins without vendor lock-in?  
+
+He's proposing under our $50K budget, which is great since we're not the final decision maker yet.  
+
+Robert  
+
+Robert Johnson  
+Director of IT  
+FinStack Labs  
+(415) 555-0276  
+robert.johnson@finstacklabs.com  
+
+> On Thu, Feb 13, 2026 at 11:20 AM PST, Emily Singh <emily.singh@finstacklabs.com> wrote:  
+> > Robert,  
+> >  
+> > FYI on this thread from Technova. They seem like a strong fit for our stack and the migration push—budget aligns at ~$50K, and no CFO sign-off needed under $100K. What are your thoughts on their RabbitMQ/.NET integration claims? Worth looping in for a next week demo?  
+> >  
+> > Thanks,  
+> > Emily  
+> >  
+> > ---------- Forwarded message ---------  
+> > From: Alex Morgan <alex.morgan@technova.io>  
+> > Date: Thu, Feb 13, 2026, 9:30 AM PST  
+> > Subject: Re: Tailored API Management for FinStack Labs' Migration Goals  
+> > To: Emily Singh <emily.singh@finstacklabs.com>  
+> >  
+> >> [Quoted chain continues]  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Robert Johnson <robert.johnson@finstacklabs.com>, Emily Singh <emily.singh@finstacklabs.com>  
+Subject: Re: Tailored API Management for FinStack Labs' Migration Goals  
+Date: February 17, 2026, 8:45 AM PST  
+
+Hi Robert and Emily,  
+
+Excellent questions, Robert—thanks for jumping in. On scaling RabbitMQ consumer groups: FinSecure uses a dynamic partitioning model in our C# .NET Core client library, auto-scaling to 10k+ TPS via Azure Kubernetes Service (AKS) integration. It shards queues based on message metadata, syncing seamlessly with SQL Server CDC streams for event-driven processing—our benchmarks show 99.99% uptime under burst loads like yours post-onboarding failures. Here's a snippet of the config:  
+
+```csharp  
+var consumer = new FinSecureRabbitConsumer(options)  
+    .WithAzureScaling(threshold: 10000)  
+    .BindToSqlServerStream(connectionString);  
+consumer.StartConsuming();  
+```  
+
+For Azure AD: Full support for custom plugins via our extensible auth middleware—no lock-in, as it exports policies to standard JWT/OAuth2. We've helped three fintechs (11-50 employees, $50-100M rev) migrate similarly without issues.  
+
+Given your November 8th decision timeline and negotiation stage, let's schedule that POC demo next week to test against your exact stack. Robert, any preferred slots? This keeps us at the $50K deal value, well below CFO thresholds.  
+
+Appreciate the collaboration—excited to move this forward for FinStack Labs.  
+
+Best regards,  
+Alex Morgan  
+Account Executive  
+Technova  
+(415) 555-0123  
+alex.morgan@technova.io  
+www.technova.io  
+
+> On Mon, Feb 16, 2026 at 3:15 PM PST, Robert Johnson <robert.johnson@finstacklabs.com> wrote:  
+> > Hi Alex and Emily,  
+> >  
+> > Thanks for the forward, Emily—this lines up with our post-board priorities at FinStack's SF office. Alex, your POC proposal sounds promising for our 39-person team's migration by end of quarter, but I have a technical question: how does FinSecure scale RabbitMQ consumer groups in a C# .NET Core app on Azure when handling 10k+ TPS from SQL Server event streams? We had issues there after losing the customer last quarter. Also, does it support custom Azure AD auth plugins without vendor lock-in?  
+> >  
+> > He's proposing under our $50K budget, which is great since we're not the final decision maker yet.  
+> >  
+> > Robert  
+> >  
+> > Robert Johnson  
+> > Director of IT  
+> > FinStack Labs  
+> > (415) 555-0276  
+> > robert.johnson@finstacklabs.com  
+> >  
+> >> [Full quoted chain continues above]

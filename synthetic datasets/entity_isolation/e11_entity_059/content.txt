@@ -1,0 +1,16 @@
+### Account Overview
+Spectrum Digital is a innovative SpaceTech company specializing in advanced satellite communications and data analytics for space missions. With approximately 35 employees and annual revenue of ~$95M, the company is scaling rapidly in a competitive market. Primary contact is Lisa Singh, Chief Product Officer (lisa.singh@spectrumdigital.com), who oversees product strategy and development. Lisa has been instrumental in driving Spectrum Digital's push toward modernizing their tech infrastructure amid growing operational demands.
+
+### Key Details
+Spectrum Digital's current tech stack includes Go for backend services, Kubernetes for orchestration, AWS as their primary cloud provider, DynamoDB for NoSQL storage, and gRPC for microservices communication. They face significant pain points, including integration complexity with legacy systems, manual processes for customer onboarding, vendor lock-in with their current cloud provider, and customer churn driven by slow support response times. Their main competitor solution is a custom internal tool, which is increasingly inadequate for their expansion needs. Lisa has expressed frustration with these inefficiencies during initial discussions, highlighting the need for a more seamless, scalable CRM solution to streamline operations.
+
+### Deal Status
+This is a high-potential B2B prospect with an estimated deal value of $250,000. Spectrum Digital is actively evaluating options to address their pain points, with a decision timeline targeted for Q2 2026. They've acknowledged our product's strengths in reducing integration complexity and automating onboarding compared to their custom internal tool. Current stage: Discovery/Qualification. Lisa has confirmed budget alignment and internal buy-in from engineering leads, positioning us favorably against status quo limitations like AWS vendor lock-in and slow support.
+
+### Next Steps
+- Schedule follow-up call with Lisa Singh by end of next week to demo integration with their Go/Kubernetes/gRPC stack and DynamoDB migrations.
+- Share customized ROI analysis addressing manual onboarding and churn reduction, quantifying $250K value.
+- Engage technical stakeholders for proof-of-concept on legacy system compatibility.
+- Monitor Q2 2026 timeline; set reminder for executive briefing in Q4 2025 to align with fiscal planning.
+
+(Word count: 378)

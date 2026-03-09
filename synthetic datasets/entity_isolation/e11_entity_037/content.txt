@@ -1,0 +1,16 @@
+### Account Overview
+Redwood Analytics is a prominent HRTech company specializing in analytics solutions for talent management and workforce optimization. With approximately 1,592 employees and annual revenue of ~$271M, the company has experienced rapid growth, leading to several operational challenges. Our primary point of contact is Simone Reyes, VP of Engineering (simone.reyes@redwoodanalytics.com). Simone oversees a team leveraging a modern tech stack including TypeScript, React, Node.js, GCP, and MongoDB. Redwood Analytics is actively evaluating solutions to address critical pain points, positioning them as a high-value B2B prospect.
+
+### Key Details
+Redwood Analytics faces significant hurdles from data silos between engineering and sales teams, which hinder cross-functional collaboration and insights. Additionally, technical debt accumulated from rapid early growth has slowed development velocity, while scaling issues during peak traffic periods strain their GCP and MongoDB infrastructure. They are comparing our offering against competitors like Clari and Salesforce Einstein, and have considered building solutions in-house but are open to partnerships that integrate seamlessly with their TypeScript/React/Node.js stack. Simone Reyes has emphasized the need for tools that unify data flows and support scalable analytics without exacerbating existing debt.
+
+### Deal Status
+This opportunity carries a potential deal value of $50,000, with a decision timeline targeted for Q4 2026. Initial discussions with Simone have uncovered strong alignment on pain points, and they've expressed interest in a proof-of-concept demo tailored to their HRTech workflows. Competitive landscape is active, but our differentiation in engineering-sales data integration gives us an edge over Clari and Salesforce Einstein. Pipeline stage: Discovery/Qualified, with positive internal buy-in from engineering leadership.
+
+### Next Steps
+- Schedule a 30-minute technical deep-dive call with Simone Reyes by end of next week to demo integration with their GCP/MongoDB setup.
+- Prepare customized materials addressing data silos and scaling issues, incorporating their tech stack (TypeScript, React, Node.js).
+- Follow up via email to Simone (simone.reyes@redwoodanalytics.com) confirming interest and proposing POC timeline aligned to Q4 2026 decision.
+- Monitor competitor activity (Clari, Salesforce Einstein) and internal build options; loop in sales engineering for competitive intel.
+
+(Word count: 378)

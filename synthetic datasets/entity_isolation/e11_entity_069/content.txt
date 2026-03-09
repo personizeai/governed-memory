@@ -1,0 +1,28 @@
+### Account Overview
+Juniper Networks is a leading Cybersecurity company with 371 employees and annual revenue of ~$175M. Primary contact is Nina Costa, VP of Operations (nina.costa@junipernetworks.com). Nina oversees operational efficiency, including pipeline management and cross-team collaboration. The company faces challenges in maintaining visibility and scalability amid growing demands in the cybersecurity space, positioning them as a high-value B2B prospect for our CRM solutions.
+
+### Key Details
+**Tech Stack:** Juniper Networks leverages C#, .NET, Azure, SQL Server, and RabbitMQ for their core infrastructure, making them a strong fit for our integrations.
+
+**Pain Points:**
+- Poor visibility into pipeline health, hindering proactive management.
+- Scaling issues during peak traffic periods, causing performance bottlenecks.
+- Lack of real-time analytics for decision making, slowing response times.
+- Data silos between engineering and sales teams, impeding alignment and insights.
+
+**Competitors Considered:** Building in-house solutions, Intercom, HubSpot AI. Our platform's real-time analytics and seamless scaling could differentiate us, especially given their Azure-heavy stack.
+
+Nina Costa has been engaged since initial outreach, expressing frustration with current tools' limitations during high-traffic cybersecurity threat responses.
+
+### Deal Status
+Potential deal value: $650,000. Nina Costa, as VP of Operations at Juniper Networks, is the key decision-maker. They've validated our solution against their pain points in a demo, showing strong alignment with their tech stack. Decision timeline: Q2 2026, aligned with their fiscal planning cycle. Current stage: Proposal sent; awaiting feedback on customization for RabbitMQ integration and real-time pipeline dashboards. No major roadblocks; internal buy-in from ops and sales teams is progressing.
+
+### Next Steps
+- Schedule follow-up call with Nina Costa by end of next week to review proposal and address scaling concerns.
+- Prepare tailored demo highlighting Azure/SQL Server integrations and real-time analytics to break data silos.
+- Request intro to engineering lead for tech validation (pending Nina's approval).
+- Monitor competitor activity (Intercom/HubSpot AI) and position our advantages in pipeline visibility.
+
+Overall opportunity score: High (8.5/10). Strong momentum toward close in Q2 2026.
+
+(Word count: 347)

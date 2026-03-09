@@ -1,0 +1,19 @@
+{
+  "entity_index": 45,
+  "name": "Heather Ibrahim",
+  "company": "Tempest Software",
+  "industry": "Manufacturing",
+  "email": "heather.ibrahim@tempestsoftware.com",
+  "title": "CTO",
+  "facts": [
+    "Heather Ibrahim is CTO at Tempest Software",
+    "Tempest Software is a Manufacturing company with 2735 employees",
+    "Tech stack: Scala, Spark, Databricks, Snowflake, Airflow",
+    "Deal value: $1,000,000",
+    "Pain points: lack of real-time analytics for decision making; security concerns with current architecture; vendor lock-in with current cloud provider",
+    "Competitors: HubSpot AI",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$34M"
+  ],
+  "actual_word_count": 396
+}

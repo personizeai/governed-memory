@@ -1,0 +1,49 @@
+# LedgerPoint — Account Overview
+
+## Company Background
+LedgerPoint is a fintech startup specializing in real-time ledger management and reconciliation services for mid-sized financial institutions. With approximately 34 employees, the company operates in the competitive SaaS space for banking automation, helping clients streamline transaction processing and compliance reporting. Founded in 2020 by former bankers frustrated with outdated reconciliation tools during the pandemic, LedgerPoint bootstrapped its initial product—a cloud-based ledger aggregator—before raising a modest Series A round in 2022 to fuel product development. Today, they serve over 50 financial clients across North America and Europe, but rapid growth has strained their internal infrastructure, particularly as their engineering team is growing and they hired 7 people this quarter to handle increased demand for custom features. The company's size places it firmly in the 11-50 employee range, positioning it as an agile player in fintech but one grappling with scaling pains like high infrastructure costs eating into margins.
+
+## Key Contacts
+| Name | Title | Role in Deal | Decision Maker |
+|---|---|---|---|
+| Maya Moreau | Director of IT | Primary Contact | True |
+| Michael Ito | Head of Product | Champion | False |
+| Jennifer Petrov | Director of Engineering | Budget Owner | False |
+| Daniel Lee | VP of Operations | End User | False |
+
+Maya Moreau has been at LedgerPoint for 3 years, overseeing IT strategy since shortly after their Series A, and serves as our primary point of contact. Michael Ito champions our solution internally due to its alignment with their product roadmap. Jennifer Petrov controls the budget, while Daniel Lee represents end-user needs from operations.
+
+## Meeting History
+### Meeting 1: Discovery Call (January 11, 2026)
+In the initial discovery call, the LedgerPoint team outlined their core challenges, including manual processes for customer onboarding and high infrastructure costs eating into margins. Maya Moreau led the discussion, emphasizing their reliance on internal Python scripts pulling from multiple APIs as the current solution, which has become unsustainable amid their engineering team's expansion—they mentioned hiring 7 new engineers this quarter alone. We aligned on their urgency for a migration off legacy systems by the end of the year, and they expressed interest in our platform's API consolidation features. Michael Ito highlighted pain points like vendor lock-in with their current cloud provider, noting that it was complicating scalability. The call ended with agreement on next steps, including a technical deep dive.
+
+### Meeting 2: Technical Deep Dive (March 12, 2026)
+The technical deep dive focused on demonstrating our platform's integration capabilities against their current setup of internal Python scripts that pull data from disparate APIs. Jennifer Petrov probed deeply into security features, as a Q3 security audit looms, and Daniel Lee shared end-user workflows strained by manual onboarding processes. They revealed plans for a full migration from legacy systems by year's end, driven by vendor lock-in issues with their cloud provider that are inflating infrastructure costs and squeezing margins. Maya confirmed high urgency, stating their engineering team had recently grown by onboarding 7 new hires this quarter to tackle these bottlenecks. We walked through a POC outline, aligning with their two-phase buying process: technical POC first, then business case to leadership. It became clear their team was evaluating options carefully, but our demo resonated strongly with Michael as the internal champion.
+
+## Technical Requirements
+- **API Consolidation and Automation**: Replace internal Python scripts pulling from multiple APIs with a unified platform to automate data reconciliation and reduce manual intervention in customer onboarding processes.
+- **Scalability for Growth**: Support for expanding engineering teams, including seamless handling of increased transaction volumes as they integrate new hires—recently 7 this quarter—without proportional infrastructure cost spikes.
+- **Migration from Legacy Systems**: Tools for smooth migration off legacy reconciliation systems by end of 2026, minimizing downtime and addressing vendor lock-in with their current cloud provider.
+- **Cost Optimization**: Features to combat high infrastructure costs eating into margins, such as dynamic resource scaling and usage-based pricing models.
+- **Compliance and Security**: Robust audit trails and encryption to prepare for their upcoming Q3 security audit, ensuring fintech-grade compliance for real-time ledger management.
+- **Onboarding Efficiency**: Streamlined workflows to eliminate manual processes for customer onboarding, integrating directly with their core banking APIs.
+- **Custom Reporting**: Real-time dashboards for product and operations teams, customizable for their 34-employee fintech environment.
+
+## Deal Status
+LedgerPoint is currently in the Negotiation stage, with an allocated budget of approximately $1,200,000 for this deal over a 3-year term, reflecting the high urgency level driven by their end-of-year migration timeline and Q3 security audit pressures. The decision timeline targets May 30, 2026, following their two-phase buying process: a technical POC first, then presentation of the business case to leadership. Next steps include Maya Moreau sharing the RFP by end of this week, after which we'll finalize POC scope. The projected deal value is $1,200,000, positioning this as a marquee win in the fintech vertical. Progress has been steady, but they're weighing options carefully amid infrastructure cost challenges.
+
+## Competitive Landscape
+- Primary competitor: Vendor X (their current cloud provider), from which they're seeking to escape due to vendor lock-in and escalating costs.
+- Secondary evaluation: Vendor Y, a larger enterprise player offering similar ledger tools but with higher pricing and less flexibility for their 34-employee scale.
+- Total vendors under consideration: 2, including us—LedgerPoint confirmed this in the deep dive, noting our edge in API-native integrations over their patchwork of internal Python scripts.
+
+They're methodically comparing us against these, with our POC phase critical to differentiation. Last quarter's hires have amplified their need for quick wins, giving us momentum.
+
+## Risk Factors
+- **Budget Constraints Amid Growth**: High infrastructure costs and recent engineering expansion (7 hires this quarter) could tighten the $1.2M allocation if margins don't improve soon; they discussed reallocating funds, but it might delay the business case phase.
+- **Security Audit Timing**: The Q3 audit could introduce new requirements, derailing the May 30 timeline if our platform needs tweaks—Jennifer Petrov flagged this as a potential blocker during the deep dive.
+- **Internal Buy-In Variability**: While Maya is fully committed, end-users like Daniel might push back if the POC doesn't fully address manual onboarding pains; their vendor lock-in frustrations help, but unclear priorities could slow leadership approval.
+
+This deal remains high-potential, but proactive RFP response is key. Team recently grew their engineering staff by 7 this quarter, underscoring scalability urgency. Watch for RFP details next week to maintain momentum. 
+
+*(Document last updated: April 15, 2026. Word count: 1,652)*

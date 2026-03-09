@@ -1,0 +1,42 @@
+Call with: Lucia Fernandez, VP of Sales at CareStack  
+Date: February 02, 2026  
+Duration: 30 min  
+
+Key Points:  
+- Lucia VP Sales  
+- 5 yrs @ CareStack  
+- Healthcare Tech co, ~48 emp (11-50 sz)  
+- Stack: Ruby on Rails, Heroku, PostgreSQL, Sidekiq  
+- Pain: tech debt rapid early growth  
+- Data silos eng/sales teams  
+- Budget alloc ~$50k  
+- Deal stage Discovery  
+- Deal val 50k  
+- Timeline 2026-04-24  
+- Eval Outreach, Intercom  
+- She's frustrated w/ silos, blocking sales velocity  
+- Tech debt killing scalability  
+- He mentioned RoR bottlenecks on Heroku  
+- Wants integration w/ Sidekiq queues  
+- They're growing fast, need to consolidate  
+- Prob from early hires  
+- Def interested if we beat Outreach pricing  
+- Intercom too chatty, not sales-focused  
+- She needs eng buy-in  
+- Pushing for demo next  
+- Data silos worst, sales blind to eng status  
+- Budget locked Q1, spend by EOQ?  
+- 48 emp but feels bigger pains  
+- Postgres scaling issues tied to debt  
+
+Action Items:  
+- [ ] Send RoR/Heroku integration deck (me)  
+- [ ] Schedule eng mtg f/u next week (me/Lucia)  
+- [ ] Quote 50k proposal by Fri (me)  
+- [ ] Ping on Outreach comp (Lucia)  
+- [ ] Book demo w/ her team (me)  
+
+Notes:  
+Lucia solid contact, been there 5 yrs knows pains inside out. Tech debt from rapid growth hitting hard—early scaling on Heroku/Postgres left messes, now silos mean sales chasing eng for updates manually. She eval'd Outreach/Intercom but neither nails data sync; we're better fit for their stack. Budget's there ~50k, stage Discovery, aiming 2026-04-24 close but she's pushing faster, mentioned he's on board if pricing right—whoever that is in leadership. They'll intro eng lead post-demo.  
+
+V good energy, 30min flew. Pain points align perfect—debt + silos = our wheelhouse. Competitors weak on Ruby/Sidekiq depth. F/U next week w/ tailored deck, lock demo. Deal val 50k realistic, timeline tight but doable if we move. She's def champion, just needs ammo vs internal. Prob more deets on Postgres queries next call.

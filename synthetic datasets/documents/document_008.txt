@@ -1,0 +1,54 @@
+# CourseForge — Account Overview
+
+## Company Background
+CourseForge is a dynamic EdTech company headquartered in Boston, specializing in the development of customizable online course platforms that empower educators and organizations to create, deploy, and manage interactive learning experiences. With approximately 37 employees—falling squarely within the 11-50 size range—they focus on bridging the gap between traditional e-learning tools and modern, AI-enhanced content delivery systems. Founded in 2018 by a trio of MIT alumni frustrated with rigid legacy platforms during their own online teaching ventures amid the rise of remote education, CourseForge bootstrapped its way to profitability by 2022, emphasizing scalable solutions for K-12 schools, corporate training programs, and higher education institutions. Today, they serve over 500 clients globally, but their growth has been hampered by internal challenges like manual processes for customer onboarding and a push to migrate off legacy systems by the end of the year. Their tech stack, built on PHP and Laravel hosted on DigitalOcean with MySQL and Redis for caching and data management, reflects a lean, developer-friendly setup that's now straining under increased demand.
+
+## Key Contacts
+| Name | Title | Role in Deal | Notes |
+|---|---|---|---|
+| Lisa Nakamura | Director of Sales Engineering | Primary Contact | With CourseForge for 8 years; Decision Maker (True); deeply involved in technical evaluations and has championed our demos. |
+| Aisha Reyes | Chief Revenue Officer | Budget Owner | Oversees the $350,000 allocated budget; high urgency on timeline. |
+| Ivan Lee | VP of Customer Success | Champion | Advocates internally for solutions addressing ROI measurement on AI initiatives; key for post-sale support. |
+
+Lisa Nakamura stands out as our strongest ally, having been with the company since its early days and providing invaluable insights into their operations during our interactions.
+
+## Meeting History
+### Meeting 1: Discovery Call (January 16, 2026)
+In this initial 45-minute virtual discovery call, we uncovered CourseForge's core pain points, including their struggles with manual processes for customer onboarding that are bottlenecking their growth as a 37-person EdTech firm based in Boston. Lisa Nakamura led the discussion, elaborating on how their current reliance on HubSpot CRM with Zapier automations leads to errors and delays, while Aisha Reyes highlighted the difficulty measuring ROI on AI initiatives, which has executives questioning further investments. They expressed high urgency around planning a migration off legacy systems by year's end, and we aligned our platform's capabilities to their PHP, Laravel, DigitalOcean, MySQL, and Redis stack. It ended with strong interest in a technical deep dive, and they committed to internal alignment beforehand. This set a collaborative tone, though their team noted some hesitation about switching vendors mid-year.
+
+### Meeting 2: Technical Deep Dive (February 3, 2026)
+Building on the discovery insights from six weeks prior, this two-hour session dove into integrations and proofs-of-concept, with Ivan Lee joining to stress test our API against their existing setup. Lisa demonstrated their workflows, revealing how manual onboarding—still a persistent issue—exacerbates difficulties in tracking ROI for AI-driven course recommendations. We showcased seamless compatibility with their tech stack of PHP/Laravel on DigitalOcean, backed by MySQL persistence and Redis for real-time features, which impressed them enough to request a custom POC for onboarding automation. Aisha confirmed the $350,000 budget envelope and reiterated the end-of-year migration deadline from legacy systems, tying it to broader AI ROI challenges. They raised questions about data migration risks, which we addressed with case studies; it closed with them advancing us to procurement review. Follow-up actions were assigned, and excitement was palpable, though they mentioned evaluating alternatives last quarter.
+
+In subsequent check-ins two weeks ago, Lisa followed up on POC results, praising the automation but noting integration tweaks needed for their Redis caching layer. We've iterated quickly since then.
+
+## Technical Requirements
+- **Onboarding Automation**: Full elimination of manual processes for customer onboarding, integrating natively with HubSpot CRM and Zapier automations to streamline user provisioning from lead to active learner in under 5 minutes.
+- **AI ROI Analytics**: Advanced dashboards for measuring ROI on AI initiatives, including attribution models for personalized course recommendations, engagement uplift metrics, and cost-per-learner breakdowns, addressing their core difficulty in quantifying value.
+- **Legacy Migration Support**: Tools for seamless data transfer from legacy systems by end-of-year deadline, with zero-downtime scripts tailored to PHP/Laravel environments on DigitalOcean, ensuring MySQL schema compatibility and Redis session continuity.
+- **Scalability for Growth**: Horizontal scaling capabilities to support their 37-employee team's expansion ambitions, handling 10x course enrollment spikes without performance degradation.
+- **Reporting and Insights**: Real-time analytics on learner progress, dropout rates, and revenue attribution, integrated with existing MySQL/Redis stack to overcome current HubSpot limitations.
+- **Security and Compliance**: SOC 2 Type II compliance, GDPR-ready data handling, and role-based access controls customized for EdTech use cases like multi-tenant course management.
+- **Custom Integrations**: API-first design for PHP/Laravel hooks, DigitalOcean droplet orchestration, and Zapier extensibility to future-proof against their evolving stack.
+- **Performance Optimization**: Redis-optimized caching for high-traffic course pages and MySQL query tuning to reduce latency in AI-driven personalization.
+
+These requirements directly map to their pain points, with our POC validating 90% out-of-box fit last month.
+
+## Deal Status
+CourseForge is currently in the Negotiation stage, with a projected deal value of $350,000 for a 3-year enterprise license including premium support and custom migrations. The decision timeline is set for August 27, 2026—about six weeks from now—driven by high urgency to complete their legacy systems migration by year-end and resolve manual onboarding bottlenecks ahead of Q4 hiring. Budget is fully allocated under Aisha Reyes' oversight, and we've received verbal commit from Lisa Nakamura as the primary decision maker. Key progress includes signed POC approval and a redlined MSA exchanged last Friday; however, blockers include internal legal review delays due to custom clauses on AI ROI guarantees and competitive pushback from their shortlist. Overall momentum is strong, with Ivan Lee actively championing us in leadership meetings this week, positioning us favorably if we address the liability concerns promptly. Urgency remains high, as they risk missing migration windows otherwise.
+
+## Competitive Landscape
+CourseForge is evaluating a shortlist of three alternatives alongside our solution:
+- **Thinkific Enterprise**: Strong in course authoring but weak on AI analytics; they trialed it last quarter and cited poor ROI measurement as a deal-breaker, mirroring their pain points.
+- **Teachable Pro**: Affordable for smaller EdTechs but lacks deep PHP/Laravel integrations and scalable migrations, which doesn't align with their DigitalOcean/MySQL/Redis needs.
+- **Custom In-House Build**: Internal dev team (led by Lisa's engineering peers) is pushing a Laravel extension, but resource constraints and migration risks make it unviable by end-of-year.
+
+We've differentiated on native stack compatibility and proven ROI dashboards, with Lisa noting our edge in onboarding automation during recent talks. No single competitor matches their full requirements, giving us ~65% win probability per our CRM scoring.
+
+## Risk Factors
+- **Procurement Delays**: Legal bottlenecks on MSA terms, particularly around AI ROI SLAs, could push past the August 27 deadline; they've delayed similar deals before, risking urgency fade.
+- **Internal Buy-In Erosion**: If Ivan Lee's championship wanes amid competing priorities like Q3 onboarding crunches, budget reallocation to legacy migration consultants becomes likely—exacerbated by their manual process frustrations spilling into exec debates.
+- **Competitive Re-Emergence**: Thinkific's recent pricing refresh might lure them if we falter on custom Redis tweaks; early meetings showed they almost pivoted there two months back before our POC swayed them. 
+
+These risks are mitigated by weekly stakeholder check-ins and contingency pricing shared yesterday. Their Boston HQ's proximity to our East Coast team aids rapid response.
+
+*(Word count: 1587)*

@@ -1,0 +1,18 @@
+### Account Overview
+Cedar Systems is a Manufacturing company with 644 employees and annual revenue of ~$225M. Key contact is Fatima Reyes, VP of Engineering (fatima.reyes@cedarsystems.com). As a mid-sized player in manufacturing, Cedar Systems faces scaling challenges in their engineering operations, particularly around deployment efficiency, security, and cost management. Their tech stack includes Rust, Actix for web services, AWS for cloud infrastructure, PostgreSQL for databases, and NATS for messaging. They're evaluating solutions to modernize their stack amid competitive pressures from tools like Gong.
+
+### Key Details
+Fatima Reyes leads engineering at Cedar Systems, overseeing development and infrastructure teams. Pain points include slow deployment cycles taking 2-3 weeks per release, which delay feature rollouts and frustrate internal teams. Security concerns with their current architecture expose vulnerabilities in a high-stakes manufacturing environment. Additionally, customer churn is rising due to slow support response times, and high infrastructure costs on AWS are eating into margins, squeezing profitability despite strong revenue growth.
+
+Competitors in play: Gong, which they've trialed for some analytics but found lacking in engineering integration.
+
+### Deal Status
+Potential deal value: $400,000. Fatima has expressed strong interest in addressing deployment and security gaps. Decision timeline: Q4 2026, aligned with their annual planning cycle. Current stage: Discovery complete; demo scheduled. High qualification score due to clear pain-fit with our platform's Rust-native support, Actix compatibility, and seamless AWS/PostgreSQL/NATS integrations. Risks: Budget scrutiny from high infra costs; need to differentiate from Gong on support speed.
+
+### Next Steps
+- Follow up with Fatima Reyes by EOW to confirm demo details and share customized ROI model highlighting 50% faster deployments and cost savings.
+- Prep technical deep-dive on security features vs. current architecture.
+- Engage procurement post-demo for Q4 timeline alignment.
+- Monitor competitor activity (Gong) and nurture with case studies from manufacturing peers.
+
+(Word count: 348)

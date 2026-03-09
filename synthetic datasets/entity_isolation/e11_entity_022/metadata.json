@@ -1,0 +1,19 @@
+{
+  "entity_index": 22,
+  "name": "Anita Bhandari",
+  "company": "Ember Software",
+  "industry": "Fintech",
+  "email": "anita.bhandari@embersoftware.com",
+  "title": "Chief Revenue Officer",
+  "facts": [
+    "Anita Bhandari is Chief Revenue Officer at Ember Software",
+    "Ember Software is a Fintech company with 1120 employees",
+    "Tech stack: Python, Django, AWS, PostgreSQL, Redis",
+    "Deal value: $50,000",
+    "Pain points: poor visibility into pipeline health; lack of real-time analytics for decision making; vendor lock-in with current cloud provider; slow deployment cycles taking 2-3 weeks per release",
+    "Competitors: Outreach",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$271M"
+  ],
+  "actual_word_count": 325
+}

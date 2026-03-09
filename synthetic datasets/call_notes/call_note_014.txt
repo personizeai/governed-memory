@@ -1,0 +1,37 @@
+Call with: Daniel Petrov, VP of Sales at FreightPulse  
+Date: February 06, 2026  
+Duration: 15 min  
+
+Key Points:  
+- Seattle HQ logistics co ~456 emps (201-1000 sz)  
+- legacy migration by EOQ — big push  
+- Q3 sec audit looming pain  
+- stack Go K8s AWS DDB gRPC  
+- Dan 3yrs there  
+- qual stage now  
+- timeline 11/19/26 decision  
+- fast-track <150k direct VP approve  
+- urgency critical  
+- he wants demo next week  
+- they're migrating off old crap def  
+- he's pushing Q2 close? but timeline late  
+- pain on sec/scale w/ growth  
+- I pitched compat w/ their Go/gRPC  
+- they need it fast bc audit  
+- she's in eng pushing too (uncl)  
+- prob fits fast track  
+- he said team excited  
+- re: buying proc — VP signoff ez under 150k  
+- urgency high — "can't wait" quote  
+- f/u on stack details  
+
+Action Items:  
+- [ ] send stack compat matrix + proposal draft (me) by EOD  
+- [ ] sched demo next week w/ eng (Dan)  
+- [ ] ping procurement for fast-track reqs (me)  
+- [ ] log qual notes in CRM (me)  
+
+Notes:  
+Dan solid contact, 3yrs @ FreightPulse Seattle-based logistics. Knows pain deep — legacy killing them ahead migration by EOQ + Q3 audit. Urgency critical, fits our qual stage perfect. He pushing hard internally, mentioned fast-track avail <150k w/ his direct VP nod. They're on Go/K8s/AWS/DDB/gRPC so our stuff aligns ez. Quick 15min call but hot lead.  
+
+He's def bought in, wants demo asap next week to loop eng. Said "we're moving fast" bc sec risks. Timeline 11/19 but pressure for sooner — he's been advocating upgrades 6mo. She (proc?) on board too. Will f/u heavy, prob close Q4 if demo kills. Size 201-1000 matches sweet spot. No red flags, just go.

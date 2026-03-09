@@ -1,0 +1,22 @@
+**Follow-up Sales Call Note**  
+**Date:** January 14, 2026  
+**Contact:** Marcus Mueller, VP Engineering, Sterling Logic (Fintech)  
+**Call Duration:** 45 min | **Attendees:** MM, [Your Name]  
+
+Followed up on initial demo from 1/5. Marcus confirmed strong interest in our scaling toolkit for high-throughput transaction processing—critical for their 2M+ daily trades.  
+
+**Key Update:** Sterling Logic has fully migrated to PostgreSQL as primary database. This supersedes prior intel on MySQL usage; migration completed Dec 2025 to support advanced analytics and compliance needs (e.g., real-time fraud detection under new EU regs). They're now evaluating query optimization tools compatible with PG 17+.  
+
+Other notes:  
+- Budget: $450K allocated for Q2 rollout, pending POC success.  
+- Pain points: Current latency spikes during peak hours (up 30% post-migration); seeking 40% perf gains. No incumbent lock-in—open to RFP.  
+- Internal buy-in: CTO looped in; Marcus to share feedback by 1/20.  
+
+Next steps:  
+- Send customized POC plan tailored to PG setup (by EOD 1/15).  
+- Schedule hands-on session w/ their devs week of 1/22.  
+- Flag for pipeline: High probability (80%); move to proposal stage post-POC.  
+
+Overall positive; momentum building.  
+
+(Word count: 198)

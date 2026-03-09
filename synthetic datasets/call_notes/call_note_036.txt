@@ -1,0 +1,38 @@
+Call with: Omar Bhandari, VP of Sales at ShopFront Digital
+Date: February 03, 2026
+Duration: 30 min
+
+Key Points:
+- 1000+ emp co, big scale ops
+- Curr soln: xl sheets + manual entry hell
+- Poor vis pipe health — blind spots everywhere
+- No RT analytics, dec mking lags bad
+- High infra costs eating margins — GCP bills thru roof
+- Sec concerns curr arch, Mongo vulns prob
+- Tech stk: TS/React/Node/GCP/MongoDB
+- He's pushing Q2 implmt — timeline tight?
+- Budget alloc ~120k, def funded
+- Deal val 120k, stage Proposal
+- Competitors: SF Einstein (too pricey), custom tool (unreliable)
+- Pain city: vis + RT + costs + sec
+- Omar @ co 5 yrs, knows pains inside out
+- They want demo next week
+- RFP incoming EOW
+- Dec tlne 11/21/26 — EOQ push?
+- He likes our RT dash, vs their manual crap
+- They're scaling sales team, need pipe insights now
+- Mentioned Node perf issues tying into analytics gaps
+- React frontend clunky w/ data entry
+- Def opp, he's champ
+
+Action Items:
+- [ ] F/U Omar RFP by EOW (me)
+- [ ] Rev proposal w/ cust tech refs (me)
+- [ ] Sch demo next week (me)
+- [ ] Ping eng re: GCP/Mongo sec audit (eng team)
+- [ ] Log pains in CRM, tag as Proposal (me)
+
+Notes:
+Omar vented hard on pipe vis — says spreadsheets killing them, manual entry errors everywhere, no way to spot deals slipping. They're 1000+ headcount but flying blind on health metrics, RT analytics MIA so decs take days not mins. High GCP infra eating 20% margins, sec scares w/ Mongo setup post recent breach news. He's been there 5 yrs, seen it worsen, now pushing us hard vs SF Einstein (dismissed as bloat) and their janky custom tool. Budget locked 120k, deal stage Proposal, tlne 11/21 but he hinted EOQ rush if RFP flows quick. Likes our stack compat (TS/React/Node), wants f/u EOW on tailored prop.
+
+Strong vibe, Omar engaged whole call — probed our sec feats deep, compared to their arch pains. They're growing sales fast, need this yesterday. He mentioned team frustration w/ no dashboards, prob why he's champing. Next week demo key, prep React/GCP integrations. Unclear if CFO looped yet but he's driving. Def close potential if we nail RFP resp. Jot this fast b4 next mtg.

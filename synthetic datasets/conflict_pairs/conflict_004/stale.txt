@@ -1,0 +1,21 @@
+**Sales Call Note**  
+**Date:** August 01, 2025  
+**Contact:** Nina Wright, VP of Engineering, Stratos AI (B2B SaaS)  
+**Call Type:** Initial Discovery Meeting (45 mins via Zoom)  
+**Attendees:** Me, Nina Wright  
+
+Met with Nina to kick off sales process. Stratos AI is currently in the Discovery phase, focusing on evaluating AI optimization tools for their engineering workflows.  
+
+Nina outlined key pain points: legacy on-prem systems struggling with real-time data scaling, leading to 15-20% engineer productivity loss weekly. They're processing 2TB+ datasets daily but facing integration issues with cloud providers. Expressed frustration with vendor lock-in from current stack (e.g., outdated Kubernetes setup).  
+
+Demoed core features of our platform—highlighting no-code ML pipelines and auto-scaling that cut deployment time by 40% in similar B2B SaaS clients. Nina confirmed alignment with their Q4 roadmap, which prioritizes reducing infra costs by 25%. Budget allocated: $500K for new tools, decision-makers include CTO and CEO.  
+
+Strong engagement; Nina rated fit 8/10. Action items:  
+- Send tailored ROI calculator and case study by EOD tomorrow.  
+- Schedule technical demo with her team for Aug 12.  
+- Nina to share current tech stack diagram.  
+
+**Stage Update:** Discovery (Next: Qualification).  
+**Follow-up:** Aug 5 check-in call.  
+
+(Word count: 198)

@@ -1,0 +1,16 @@
+### Account Overview
+Pine Digital is a leading PropTech company specializing in innovative real estate technology solutions, with 2691 employees and approximately $199M in annual revenue. The company has experienced rapid early growth, which has introduced significant technical debt challenges. Our primary contact is Priya Mitchell, Director of IT (priya.mitchell@pinedigital.com), who oversees their IT infrastructure and is actively evaluating solutions to modernize their stack and address key pain points.
+
+### Key Details
+Pine Digital's current tech stack includes Ruby on Rails for application development, Heroku for hosting, PostgreSQL as the primary database, and Sidekiq for background job processing. They face two major pain points: accumulating technical debt from their rapid early growth, which hampers scalability and maintenance, and difficulty measuring ROI on recent AI initiatives, leading to inefficient resource allocation. Competitors in consideration include building solutions in-house, Intercom for customer engagement, and Chorus.ai for conversation intelligence. Priya has expressed frustration with these options not fully integrating with their existing Rails ecosystem or providing clear analytics on AI performance.
+
+### Deal Status
+This represents a high-potential opportunity with an estimated deal value of $400,000. Pine Digital is in the evaluation stage, prioritizing vendors that can mitigate technical debt and deliver ROI visibility for AI projects. Decision timeline is targeted for Q3 2026, aligned with their fiscal planning cycle. Initial discussions with Priya have uncovered strong alignment with our platform's capabilities in observability and AI metrics, positioning us favorably against in-house builds and the named competitors.
+
+### Next Steps
+- Schedule follow-up demo with Priya Mitchell to showcase integration with Ruby on Rails, Heroku, PostgreSQL, and Sidekiq (target: end of next week).
+- Prepare customized ROI calculator addressing their AI measurement challenges.
+- Request intro to technical stakeholders for proof-of-concept validation.
+- Monitor Q3 2026 timeline and set internal milestone review in Q1 2026.
+
+(Word count: 347)

@@ -1,0 +1,24 @@
+**Follow-up Sales Call Note**
+
+**Date:** February 18, 2026  
+**Contact:** David Cho, VP of Engineering, Crest Digital (B2B SaaS)  
+**Duration:** 30 minutes via Zoom  
+**Attendees:** Me, David Cho  
+
+Positive follow-up on initial demo. David reiterated strong interest in our platform's AI-driven analytics for their SaaS scaling challenges. Reviewed feedback: scalability module addressed 80% of their throughput concerns, but requested deeper dive into multi-tenant security.
+
+**Budget Update:** Critical change—David confirmed Crest Digital has increased their FY2026 budget to $500K, superseding prior $350K allocation. This greenlight stems from recent board approval tied to Q4 revenue growth (up 25% YoY). Positions us favorably for enterprise deal.
+
+Other details:  
+- Pain point: Legacy CRM integration delays costing them 15 engineer hours/week.  
+- Timeline: Decision by March 15; procurement fast-tracked if POC succeeds.  
+- Competitor note: Evaluated Mixpanel but prefers our real-time dashboards.  
+
+**Next Steps:**  
+- Send revised proposal reflecting $500K budget by Feb 23.  
+- Schedule 1-hour POC workshop for March 3 with their 3 lead engineers.  
+- David to loop in CFO for budget sign-off intro next week.  
+
+Deal momentum high; probability now 75% (up from 50%). Follow up via email today.  
+
+(Word count: 198)

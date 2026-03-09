@@ -1,0 +1,14 @@
+{
+  "entity_id": "e11_entity_c",
+  "name": "David Chen",
+  "title": "CTO",
+  "company": "CloudNova",
+  "email": "david.chen@cloudnova-e11.test",
+  "industry": "B2B SaaS",
+  "employees": 250,
+  "unique_markers": [
+    "CloudNova",
+    "David Chen",
+    "co-founder"
+  ]
+}

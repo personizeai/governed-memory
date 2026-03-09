@@ -1,0 +1,157 @@
+[09:15] alex.m: @channel just hopped off intro call with TechFlow Inc. They're a B2B SaaS co with ~278 employees. Yusuf Kaur (VP Customer Success, 6 yrs there) is our main contact. She's a decision maker. 👍
+
+[👍 from @sarah.k]
+
+[09:16] sarah.k: Nice! What's their deal stage? Qualification?
+
+[09:17] alex.m: Yep, qualification rn. Pain points: vendor lock-in with current cloud provider and manual processes for customer onboarding. Ngl, sounds perfect for us.
+
+[09:18]  ↳ mike.r: Manual onboarding? Like what exactly?
+
+[09:19]  ↳ alex.m: She said they're doing a ton by hand, spreadsheets etc. Makes sense for a 201-1000 sized co.
+
+[09:20] brian.a: Budget? Any numbers?
+
+[09:21] alex.m: Approx $120k allocated. Fwiw, company size 201-1000 fits our sweet spot.
+
+[09:22] sarah.k: $120k? Solid. [shared link: TechFlow Inc pricing page] Check their public pricing, might help.
+
+[09:23] mike.r: Thx Sarah. Tech stack? They on AWS already?
+
+[09:24] alex.m: Rust, Actix, AWS, PostgreSQL, NATS. Yeah, heavy AWS which ties into the lock-in issue.
+
+[09:25] brian.a: Got it. Competitors?
+
+[09:26] alex.m: Evaluating Drift and Intercom. We need to differentiate on the onboarding automation.
+
+[09:27] sarah.k: Makes sense. Yusuf give a timeline?
+
+[09:28] alex.m: Decision by 2026-10-30. Long runway but qual stage so early days.
+
+[09:29] mike.r: 2026? That's forever lol. Who's Yusuf again?
+
+[09:30]  ↳ alex.m: VP CS, been there 6 years. She seems bought in.
+
+[09:31] brian.a: Cool. Any next steps?
+
+[09:32] alex.m: Sending them a demo tomorrow. Lmk if anyone wants to join.
+
+[09:33] sarah.k: I'm in! 👍
+
+[👍 from @mike.r]
+
+[09:34] mike.r: What did he say about the lock-in specifically?
+
+[09:35] alex.m: They mentioned costs spiking, hard to migrate. "He" was on the call too, eng lead maybe.
+
+[09:36] brian.a: Eng lead? Who?
+
+[09:37]  ↳ alex.m: Idk name yet, but yeah.
+
+[09:38] sarah.k: Tech stack sounds solid. Rust + Actix is modern.
+
+[09:39] mike.r: Thx for the update Alex. Budget $120k confirmed?
+
+[09:40] alex.m: Yep, she threw that out there.
+
+[09:41] brian.a: Got it. Pain points match ours perfectly imo.
+
+[09:42] sarah.k: @here anyone talk pricing yet? Their pricing page looks competitive.
+
+[09:43] mike.r: Not yet. Tomorrow's demo good time?
+
+[09:44] alex.m: Exactly. He'll prob ask.
+
+[09:45]  ↳ sarah.k: Who will?
+
+[09:46] brian.a: Last Friday they said no to Intercom right?
+
+[09:47]  ↳ alex.m: Yeah, she mentioned it.
+
+[09:48] mike.r: Vendor lock-in is huge. AWS traps everyone.
+
+[09:49] sarah.k: True. Manual onboarding killing their CS team tbh.
+
+[09:50] alex.m: 278 employees, growing fast.
+
+[09:51] brian.a: Wait, 278? Earlier you said ~278 yeah.
+
+[09:52]  ↳ mike.r: Same, solid mid-size.
+
+[09:53] sarah.k: Next sprint we should mock up a POC for their stack.
+
+[09:54] mike.r: +1. NATS integration would wow them.
+
+[09:55] alex.m: Agreed. Yusuf lit up when I mentioned auto-onboarding.
+
+[09:56] brian.a: She did? Nice.
+
+[09:57] sarah.k: Decision maker for sure then.
+
+[09:58] mike.r: What's the job title again? VP something.
+
+[09:59] alex.m: VP of Customer Success.
+
+[10:00] brian.a: Gotcha. Deal value $120k, stage qual. Updating CRM?
+
+[10:01] sarah.k: I'll do it. Timeline 2026-10-30 noted.
+
+[10:02] mike.r: Thx. Any red flags?
+
+[10:03] alex.m: Ngl, they love Drift's chat but hate the onboarding.
+
+[10:04]  ↳ brian.a: Drift or Intercom?
+
+[10:05]  ↳ alex.m: Both, but Drift more.
+
+[10:06] sarah.k: Makes sense. We beat them on automation.
+
+[10:07] brian.a: 👍
+
+[10:08] mike.r: PostgreSQL backend? Easy win.
+
+[10:09] alex.m: Yep. She's pushing internal buy-in.
+
+[10:10] sarah.k: Who is?
+
+[10:11] brian.a: Forwarding this to eng?
+
+[10:12] mike.r: Do it. TechFlow Inc deets.
+
+[10:13] alex.m: Already did. They replied quick.
+
+[10:14] sarah.k: Awesome. Demo prep?
+
+[10:15] alex.m: On it. Lmk feedback.
+
+[10:16] brian.a: Will do tomorrow.
+
+[10:17] mike.r: One more: company size 201-1000 confirmed?
+
+[10:18] sarah.k: Yep, 278 employees.
+
+[10:19] alex.m: Pain points: lock-in and manual stuff. Check.
+
+[10:20] brian.a: Got it all.
+
+[10:21] sarah.k: Excited for this one! 🚀
+
+[10:22] mike.r: Same. Qual to proposal soon?
+
+[10:23] alex.m: Hoping post-demo.
+
+[👍 from @brian.a]
+
+[10:24] sarah.k: Fwiw, their stack screams scalability issues without us.
+
+[10:25] brian.a: True. NATS for messaging, nice.
+
+[10:26] mike.r: Actix web framework? Rust pros.
+
+[10:27] alex.m: They are. She said 6 years grinding there.
+
+[10:28] sarah.k: Loyal DM.
+
+[10:29] brian.a: Timeline far but budget real.
+
+[10:30] mike.r: Agreed. 👍

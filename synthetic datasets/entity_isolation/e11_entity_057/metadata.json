@@ -1,0 +1,19 @@
+{
+  "entity_index": 57,
+  "name": "Fatima Wright",
+  "company": "Echo Software",
+  "industry": "HRTech",
+  "email": "fatima.wright@echosoftware.com",
+  "title": "CTO",
+  "facts": [
+    "Fatima Wright is CTO at Echo Software",
+    "Echo Software is a HRTech company with 818 employees",
+    "Tech stack: C#, .NET, Azure, SQL Server, RabbitMQ",
+    "Deal value: $650,000",
+    "Pain points: technical debt from rapid early growth; compliance audit failures on data handling; security concerns with current architecture; difficulty measuring ROI on AI initiatives",
+    "Competitors: Apollo.io, Gong",
+    "Decision timeline: Q4 2026",
+    "Annual revenue: ~$229M"
+  ],
+  "actual_word_count": 384
+}

@@ -1,0 +1,64 @@
+{
+  "sample_id": "chat_012",
+  "content_type": "chat_log",
+  "company": "CartLogic",
+  "industry": "E-commerce",
+  "message_count_target": 52,
+  "actual_word_count": 773,
+  "expected_facts": [
+    {
+      "text": "They've also been evaluating existing CRM workflows",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $850,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with security concerns with current architecture",
+      "type": "explicit"
+    },
+    {
+      "text": "CartLogic is a E-commerce company with about 40 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Victor Okonkwo has been at CartLogic for 2 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Rust, Actix, AWS, PostgreSQL, NATS",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "company_name": "CartLogic",
+    "technology_stack": "Rust, Actix, AWS, PostgreSQL, NATS",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "integration complexity with legacy systems",
+      "security concerns with current architecture",
+      "customer churn from slow support response times",
+      "high infrastructure costs eating into margins"
+    ],
+    "deal_value": 850000,
+    "competitors_mentioned": [
+      "existing CRM workflows"
+    ],
+    "decision_maker": false,
+    "next_steps": "Schedule a technical deep-dive with Victor's engineering team",
+    "buying_process": "Procurement requires three competitive bids before decision"
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 2,
+    "duplicate_facts": 2
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@jennifer.d"
+  ],
+  "property_coverage": 0.64
+}

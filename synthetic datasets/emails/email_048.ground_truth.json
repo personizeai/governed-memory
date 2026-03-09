@@ -1,0 +1,74 @@
+{
+  "sample_id": "email_048",
+  "content_type": "email_thread",
+  "company": "CourseForge",
+  "industry": "EdTech",
+  "email_count": 7,
+  "actual_word_count": 1202,
+  "expected_facts": [
+    {
+      "text": "They've also been evaluating Clari, existing CRM workflows",
+      "type": "explicit"
+    },
+    {
+      "text": "Anita Baker has been at CourseForge for 6 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in New York",
+      "type": "explicit"
+    },
+    {
+      "text": "CourseForge is a EdTech company with about 45 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with poor developer experience slowing feature velocity",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using HubSpot CRM with Zapier automations",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $450,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with manual processes for customer onboarding",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Go, Kubernetes, AWS, DynamoDB, gRPC",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Data",
+    "company_name": "CourseForge",
+    "company_size": "11-50",
+    "technology_stack": "Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "poor developer experience slowing feature velocity",
+      "manual processes for customer onboarding",
+      "high infrastructure costs eating into margins"
+    ],
+    "deal_value": 450000,
+    "competitors_mentioned": [
+      "Clari",
+      "existing CRM workflows"
+    ],
+    "decision_maker": false,
+    "buying_process": "Procurement requires three competitive bids before decision",
+    "current_solution": "HubSpot CRM with Zapier automations",
+    "urgency_level": "High"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 1
+  },
+  "introduces_new_person": true,
+  "colleague": "James Petrov, Engineering Manager",
+  "property_coverage": 0.86
+}

@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_002",
+  "category": "cloud_provider",
+  "company": "Forge Platform",
+  "contact": "Brian Moreau",
+  "industry": "Fintech",
+  "stale_date": "2025-11-12",
+  "fresh_date": "2026-01-20",
+  "stale_claim": "Forge Platform runs their infrastructure on AWS",
+  "fresh_claim": "Forge Platform migrated their infrastructure to Google Cloud",
+  "expected_query": "What cloud provider does Forge Platform use?",
+  "expected_answer": "migrated their infrastructure to Google Cloud",
+  "stale_word_count": 182,
+  "fresh_word_count": 158
+}

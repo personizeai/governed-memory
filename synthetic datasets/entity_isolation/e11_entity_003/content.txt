@@ -1,0 +1,16 @@
+### Account Overview
+Pinnacle Data is a prominent Healthcare Tech company specializing in innovative data solutions for the healthcare sector. With approximately 1876 employees and annual revenue of ~$87M, the company is scaling rapidly amid growing demand for tech-driven healthcare services. Our primary contact is Ivan Kaur, Head of Product, reachable at ivan.kaur@pinnacledata.com. Ivan oversees product strategy and development, making him a key decision-maker for tech integrations that could streamline their operations. Pinnacle Data currently faces challenges with manual processes for customer onboarding and poor developer experience, which are slowing feature velocity and hindering growth.
+
+### Key Details
+Pinnacle Data's tech stack includes Python, Django, AWS, PostgreSQL, and Redis, positioning them well for cloud-native applications but revealing gaps in automation and developer tools. Their pain points center on inefficient manual onboarding workflows that delay customer activation and a suboptimal dev environment that's impeding rapid feature releases. Competitors in their evaluation include ZoomInfo and Salesforce Einstein, as Pinnacle Data seeks alternatives to enhance data management and AI-driven insights. Ivan has expressed frustration with these legacy solutions not meeting their pace of innovation in healthcare tech.
+
+### Deal Status
+This opportunity represents a high-value prospect with an estimated deal value of $250,000. Discussions with Ivan Kaur have advanced to the demo stage, where we've showcased how our platform addresses their onboarding bottlenecks and boosts developer productivity. The decision timeline is targeted for Q2 2026, aligned with their fiscal planning cycle. Current pipeline stage: Proposal Sent. No major roadblocks identified, though budget approval from leadership is pending post their Q1 review.
+
+### Next Steps
+- Schedule follow-up call with Ivan Kaur by end of next week to review demo feedback and address tech stack compatibility (Python/Django/AWS integration).
+- Prepare customized ROI analysis highlighting $250K value against pain points, contrasting with ZoomInfo/Salesforce Einstein.
+- Engage technical stakeholders for PostgreSQL/Redis POC by mid-next month.
+- Monitor Q2 2026 timeline; set reminder for executive briefing in Q1 2026.
+
+(Word count: 347)

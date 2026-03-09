@@ -1,0 +1,79 @@
+{
+  "sample_id": "transcript_007",
+  "content_type": "meeting_transcript",
+  "company": "StreamOps",
+  "industry": "Digital Media",
+  "duration_minutes": 30,
+  "target_word_count": 1871,
+  "actual_word_count": 1610,
+  "expected_facts": [
+    {
+      "text": "Security audit is coming up in Q3",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with slow deployment cycles taking 2-3 weeks per release",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using a mix of Google Sheets and custom dashboards",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with scaling issues during peak traffic periods",
+      "type": "explicit"
+    },
+    {
+      "text": "Priya Thompson has been at StreamOps for 2 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 5 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes C#, .NET, Azure, SQL Server, RabbitMQ",
+      "type": "explicit"
+    },
+    {
+      "text": "StreamOps is a Digital Media company with about 41 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating custom internal tool",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Chief Revenue Officer",
+    "company_name": "StreamOps",
+    "company_size": "11-50",
+    "technology_stack": "C#, .NET, Azure, SQL Server, RabbitMQ",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "scaling issues during peak traffic periods",
+      "slow deployment cycles taking 2-3 weeks per release",
+      "integration complexity with legacy systems",
+      "poor visibility into pipeline health"
+    ],
+    "decision_timeline": "2026-08-02",
+    "competitors_mentioned": [
+      "custom internal tool"
+    ],
+    "decision_maker": false,
+    "current_solution": "a mix of Google Sheets and custom dashboards",
+    "urgency_level": "High"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 4,
+    "duplicate_facts": 3
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.79,
+  "entity_id": "priya-streamops",
+  "entity_email": "priya@streamops.io",
+  "entity_website": "https://streamops.io",
+  "contact_name": "Priya",
+  "record_id": "crm-priya-streamops"
+}

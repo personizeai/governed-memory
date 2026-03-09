@@ -1,0 +1,19 @@
+{
+  "entity_index": 66,
+  "name": "Chen Wright",
+  "company": "Birch Software",
+  "industry": "Logistics",
+  "email": "chen.wright@birchsoftware.com",
+  "title": "Chief Product Officer",
+  "facts": [
+    "Chen Wright is Chief Product Officer at Birch Software",
+    "Birch Software is a Logistics company with 871 employees",
+    "Tech stack: Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+    "Deal value: $120,000",
+    "Pain points: scaling issues during peak traffic periods; poor developer experience slowing feature velocity",
+    "Competitors: building in-house, HubSpot AI, Salesforce Einstein",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$199M"
+  ],
+  "actual_word_count": 338
+}

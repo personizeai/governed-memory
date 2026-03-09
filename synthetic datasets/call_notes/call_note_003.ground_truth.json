@@ -1,0 +1,57 @@
+{
+  "sample_id": "call_note_003",
+  "content_type": "call_notes",
+  "company": "CareStack",
+  "industry": "Healthcare Tech",
+  "duration_minutes": 30,
+  "target_word_count": 530,
+  "actual_word_count": 341,
+  "expected_facts": [
+    {
+      "text": "Budget allocated is approximately $50,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Lucia Fernandez has been at CareStack for 5 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with technical debt from rapid early growth",
+      "type": "explicit"
+    },
+    {
+      "text": "CareStack is a Healthcare Tech company with about 48 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Outreach, Intercom",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Sales",
+    "company_name": "CareStack",
+    "company_size": "11-50",
+    "technology_stack": "Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "data silos between engineering and sales teams",
+      "technical debt from rapid early growth"
+    ],
+    "deal_value": 50000,
+    "decision_timeline": "2026-04-24",
+    "competitors_mentioned": [
+      "Outreach",
+      "Intercom"
+    ]
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 1
+  },
+  "property_coverage": 0.64
+}

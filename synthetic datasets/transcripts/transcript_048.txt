@@ -1,0 +1,360 @@
+---
+type: Contact
+record_id: crm-maria-courseforge
+email: maria@courseforge.com
+website_url: https://courseforge.com
+company: CourseForge
+industry: EdTech
+contact_name: Maria
+job_title: Director of Sales Engineering
+---
+
+Alex: Hi Maria, great to see you again. How's your day going so far?
+
+Maria: Hey Alex, yeah, it's been pretty hectic, you know, Monday blues and all that. But good to chat. How about you? Still in San Francisco?
+
+Alex: Yeah, stuck in the office here overlooking the bay, but traffic's a nightmare as usual. Anyway, thanks for hopping on this call. I know you're in London, right? Main office there?
+
+Maria: Spot on, yeah. CourseForge's headquarters is right in the heart of it. Keeps us close to the European market, which is exploding for EdTech these days.
+
+Alex: Nice, nice. London weather treating you okay? I hear it's been rainy.
+
+Maria: Oh god, don't remind me. Poured all weekend. Anyway, what's on the agenda today? You mentioned a deep dive into the proposal.
+
+Alex: Absolutely. So, we're at the proposal stage now, and I wanted to walk through how TechNova fits your needs at CourseForge. You've got about 3602 employees, scaling fast in EdTech, and evaluating solutions to streamline sales ops, right? High urgency, especially with that engineering team growth—hired 13 people this quarter, I think you said?
+
+Maria: Yeah, exactly. Engineering's blowing up. We brought on 13 new folks just this quarter alone. It's exciting but chaotic. And yep, company size is around there, over 3500 now with all the hires.
+
+Alex: Makes sense. Let's start with where you are today. You mentioned you're using a combo of Notion and Airtable right now?
+
+Maria: Right, Notion for notes and wikis, Airtable for some CRM-like tracking. It's patchwork, you know? Gets the job done, but onboarding new reps is a nightmare. We lost a major customer last quarter because of it—delays in setup, data silos everywhere.
+
+Alex: Ouch, that sounds rough. Last quarter, huh? Tell me more about that loss. What specifically went wrong with onboarding?
+
+Maria: So, we had this big district client, K-12 focused, and their rollout took weeks longer than promised. He mentioned that the Airtable sheets weren't syncing right with Notion pages, and by the time we fixed it, they bailed. Cost us a ton.
+
+Alex: He mentioned—sorry, who was that? The client rep or internal?
+
+Maria: One of our SEs, actually. Anyway, it highlighted how brittle our setup is. That's why we're looking at proper sales engagement platforms. We've been eyeing Clari too.
+
+Alex: Clari makes sense—they're strong on forecasting. But where TechNova shines is the seamless integration with your stack. You run Java with Micronaut, right? On GCP, Spanner for DB, Pub/Sub for messaging?
+
+Maria: Yep, that's our bread and butter. Java backend, Micronaut framework keeps it lightweight, all hosted on GCP with Spanner handling the scale and Pub/Sub for real-time events. No way we're ripping that out.
+
+Alex: Exactly, and we plug right in. No heavy lifts. Let me share my screen here—boom, proposal deck. First slide: your pain points captured. Onboarding delays, data silos from Notion/Airtable, that customer churn last quarter.
+
+Maria: Spot on. And with our team growing, we can't afford more slips. Engineering's up 13 heads this quarter, sales is next.
+
+Alex: Let's dive into the demo. Imagine a new rep joins—logs in day one, and TechNova auto-provisions their workspace based on Pub/Sub events from your HR system. No manual Notion invites or Airtable shares.
+
+Maria: That sounds dreamy. Currently, it's all manual. She sets up the Notion workspace, then he has to duplicate Airtable bases. Tedious.
+
+Alex: Right? And for Clari, they've been evaluating it, but it's more RevOps focused, less on engineering handoffs. We tie directly to Spanner queries for customer data.
+
+Maria: True, Clari's great for pipeline, but integration with our GCP setup? Meh. We've poked around it a bit.
+
+Alex: Okay, next: customization. Since you're Java-heavy, our SDK lets you extend with Micronaut services. Here's a code snippet—pub/sub listener that triggers deal updates.
+
+Maria: Nice. I've been here at CourseForge two years now, as Director of Sales Engineering, and I've seen three tools come and go. This looks promising.
+
+Alex: Two years—congrats on the tenure. Bet you've got stories. Anyway, pricing: we've proposed $75,000 annual, fits your allocated budget.
+
+Maria: Yeah, budget's about $75k for this initiative. Roughly seventy-five thousand, give or take.
+
+Alex: Perfect match. And with high urgency—decision by end of October 2026? That's the timeline you shared, 2026-10-28.
+
+Maria: Yeah, fiscal closeout. But we want to move fast, next quarter if possible. Engineering hires are ramping now.
+
+Alex: Next quarter—got it, high priority. Let's talk ROI. With that lost customer last quarter, conservative estimate: we prevent two more churns, that's $500k+ recouped.
+
+Maria: Makes sense. He ran the numbers internally, said onboarding issues cost us 300k alone last quarter.
+
+Alex: He who? Finance guy?
+
+Maria: Yeah, our CFO. Anyway, walk me through implementation timeline.
+
+Alex: Week 1: discovery with your team. Week 2-4: integrate with GCP/Spanner. Pub/Sub hooks live by week 5. Full rollout in 8 weeks.
+
+Maria: Eight weeks? That's quicker than Clari's quote. They were saying 12 minimum.
+
+Alex: We move fast for scaling teams like yours. 3602 employees, EdTech leader—CourseForge deserves agility.
+
+Maria: Cheers. London office appreciates that. Quick small talk—ever been? Recommend a pub?
+
+Alex: Ha, love it. Digression time. Yeah, visited last year. The Eagle in Cambridge was ace, but you're London proper?
+
+Maria: Oh, definitely. Try The Harwood Arms for Gastropub vibes. Anyway, back on track—what about training for our sales engineers?
+
+Alex: Robust academy. Self-paced modules, plus live sessions. Tailored to Java devs using Micronaut.
+
+Maria: Good, because our stack is locked in: Java, Micronaut, GCP, Spanner, Pub/Sub. No compromises.
+
+Alex: None needed. Let's simulate a workflow. Say a deal stages to Proposal—like us now. TechNova auto-generates Clari-comparable forecasts, but pulls from your Spanner data.
+
+Maria: Proposal stage, yeah. High urgency here. We've got a demo next week with execs.
+
+Alex: Perfect. Objection handling: data security? GCP-native, compliant.
+
+Maria: Key for EdTech. Student data's sensitive.
+
+Alex: Right. Now, scaling: with 13 new engineers this quarter, your team's exploding. TechNova scales linearly.
+
+Maria: Team growth is wild—13 hires this quarter. Keeps me busy as Director of Sales Engineering.
+
+Alex: Bet. Two years in, you know the ropes. Let's talk upsell paths. Start at 75k, expand to full suite.
+
+Maria: Budget's set at approximately 75,000. But room to grow.
+
+Alex: Awesome. Any concerns with Clari comparison?
+
+Maria: They're solid, but their onboarding? We heard horror stories. Like ours last quarter.
+
+Alex: Exactly. He at Clari promised seamless, but she said no.
+
+Maria: Client feedback. Anyway, what about mobile app?
+
+Alex: Fully featured. iOS/Android, syncs Pub/Sub real-time.
+
+Maria: Nice. A few weeks ago, we piloted something similar, flopped on mobile.
+
+Alex: Won't here. Let's review contract terms. 12-month, $75k.
+
+Maria: Matches our allocation—around 75 thousand.
+
+Alex: Proposal locked. Next steps: your feedback by Friday? Then legal review.
+
+Maria: Can do. High urgency, aiming for kickoff next quarter.
+
+Alex: Great. One more thing: custom integrations. Want a Micronaut plugin?
+
+Maria: Absolutely. Send specs.
+
+Alex: On it. Oh, and London tip: thanks for the pub rec. Planning a trip.
+
+Maria: Anytime. They've got great pies.
+
+Alex: Haha. Alright, wrapping up. Questions?
+
+Maria: Just one—how does it handle Notion export?
+
+Alex: One-click import. Airtable bases too.
+
+Maria: Sold. Let's loop in my team.
+
+Alex: Perfect. I'll send recap.
+
+[Pause, sharing screen again]
+
+Alex: Quick last demo: live Spanner query via TechNova dashboard.
+
+Maria: Impressive. Latency?
+
+Alex: Sub-100ms on Pub/Sub.
+
+Maria: Better than internal.
+
+Alex: That's the magic.
+
+Maria: He built something similar last year, but it broke.
+
+Alex: Won't here.
+
+[Extended discussion on features]
+
+Alex: Dive deeper on forecasting. Unlike Clari, we use ML on your historical Spanner data.
+
+Maria: Clari's ML is black box. Yours?
+
+Alex: Interpretable, Java-exportable.
+
+Maria: Love it. With 3602 employees, we need transparency.
+
+Alex: Check. Now, onboarding flow: rep joins, auto-role from GCP IAM.
+
+Maria: IAM sync? Game-changer.
+
+Alex: Yep. No more Notion manual adds.
+
+Maria: That was the killer last quarter.
+
+Alex: Prevented.
+
+Maria: Good. Budget-wise, 75k covers what users?
+
+Alex: Up to 200 sales seats. Scalable.
+
+Maria: Perfect, we're at 150 now.
+
+Alex: Growth-ready. Engineering's 13 new hires will love the APIs.
+
+Maria: They will. Been here two years, seen stacks evolve.
+
+Alex: Stable now. Decision by 2026-10-28?
+
+Maria: Ideally sooner. High urgency post-churn.
+
+Alex: Understood.
+
+[Digression]
+
+Maria: Quick aside—you follow EdTech news? Our competitor just raised 50M.
+
+Alex: Yeah, saw that. London scene's hot.
+
+Maria: It is. Back to it—what about analytics dashboards?
+
+Alex: Fully customizable, Pub/Sub fed.
+
+Maria: Micronaut hooks?
+
+Alex: Native.
+
+Maria: Excellent.
+
+Alex: ROI calc: post-lost customer, payback in 4 months.
+
+Maria: Last quarter stung. He crunched numbers—quarter's loss was 400k opportunity.
+
+Alex: Recoup fast.
+
+Maria: Agreed.
+
+[More back-and-forth on integrations]
+
+Alex: Spanner schema mapping—auto or manual?
+
+Maria: Auto preferred.
+
+Alex: Both options.
+
+Maria: She tried manual before, hated it.
+
+Alex: Auto it is.
+
+Alex: Pub/Sub topics— we subscribe to deal-updates.
+
+Maria: Secure?
+
+Alex: SAS 70, GCP keys.
+
+Maria: Good.
+
+Maria: Timeline again—8 weeks total?
+
+Alex: Yes, faster for you.
+
+Maria: Next quarter rollout?
+
+Alex: Absolutely.
+
+Alex: Proposal attached post-call.
+
+Maria: Budget aligns—75k allocated.
+
+Alex: Locked.
+
+[Extended Q&A]
+
+Maria: What if we need Java 21 upgrade?
+
+Alex: SDK supports.
+
+Maria: Micronaut 4?
+
+Alex: Latest.
+
+Maria: GCP regions—London?
+
+Alex: Multi-region.
+
+Maria: Main office wins.
+
+Alex: CourseForge optimized.
+
+Maria: With 3602 staff, scale matters.
+
+Alex: Handled.
+
+Maria: Clari lacks GCP depth.
+
+Alex: Our edge.
+
+Maria: Clear.
+
+Alex: Any blockers?
+
+Maria: None. Greenlight pending execs.
+
+Alex: Next week demo?
+
+Maria: Book it.
+
+Alex: Done.
+
+Maria: Cheers, Alex.
+
+Alex: Talk soon.
+
+[End of meeting]
+
+Wait, no—extend for length. More dialogue.
+
+Alex: Before we go, let's brainstorm expansion. Year 2: add AI coaching?
+
+Maria: Intrigued. Details?
+
+Alex: ML on call transcripts, Spanner-integrated.
+
+Maria: EdTech sales calls? Yes.
+
+Alex: Ties to onboarding—new reps coached instantly.
+
+Maria: Prevents last quarter's mess.
+
+Alex: Exactly.
+
+Maria: He prototyped AI last year, underwhelming.
+
+Alex: Ours production-ready.
+
+Maria: Budget room post-75k?
+
+Alex: Phased.
+
+Maria: Smart.
+
+Alex: With team growth—13 engineers—we staff accordingly.
+
+Maria: Growing pains.
+
+Alex: Solved.
+
+Maria: Two years here, optimistic.
+
+Alex: Rightly so.
+
+Alex: One more: competitor matrix. Clari vs. us.
+
+Maria: Share.
+
+Alex: Notion/Airtable gaps too.
+
+Maria: Obvious.
+
+Alex: High urgency noted.
+
+Maria: Decision timeline flexible if value clear.
+
+Alex: By 2026-10-28 max.
+
+Maria: Sooner.
+
+[Final wrap]
+
+Alex: Recap email incoming.
+
+Maria: Thanks.
+
+Alex: Cheers from SF. Enjoy London evening.
+
+Maria: You too. Bye.

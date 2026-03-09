@@ -1,0 +1,105 @@
+[09:15] alex.m: @channel quick update on CareStack - had a great call with Robert Alvarez yesterday. He's VP of Engineering there.
+[👍 from @sarah.k]
+[09:16] sarah.k: nice! what's their stack?
+[09:17] alex.m: Python, Django, AWS, Postgres, Redis. Matches ours perfectly imo.
+[09:18] mike.r: solid. company size?
+[09:19] alex.m: Healthcare Tech co, ~159 employees, so 51-200 range.
+[09:20] nadia.e: got it. budget?
+[09:21] alex.m: ~450k allocated. Deal stage is Proposal now.
+[09:22] sarah.k: who's Robert? decision maker?
+[09:23] alex.m: yep, Decision Maker: true. Been there 7 years.
+[09:24]  ↳ mike.r: 7 years? that's loyalty. fwiw, stability is good.
+[09:25]  ↳  ↳ nadia.e: makes sense
+[09:26] alex.m: pains: inconsistent messaging across sales team, tough measuring ROI on AI initiatives.
+[09:27] sarah.k: ngl, sales messaging is killer for them.
+[09:28] mike.r: also evaluating Apollo.io and HubSpot AI.
+[09:29] nadia.e: HubSpot AI? that's a direct comp.
+[09:30] alex.m: yeah, Robert mentioned it last Friday.
+[09:31] sarah.k: link to their pricing? [shared link: CareStack pricing page]
+[09:32] mike.r: thx. decision timeline?
+[09:33] alex.m: 2026-07-14. Long runway.
+[09:34] nadia.e: other pains?
+[09:35] alex.m: difficulty hiring specialized engineers, manual customer onboarding.
+[09:36] sarah.k: onboarding sucks manually tbh.
+[09:37] mike.r: he said they're prioritizing ROI measurement first.
+[09:38] nadia.e: who said? robert?
+[09:39] alex.m: yeah him. let's tailor proposal around pains.
+[09:40] sarah.k: imo focus on AI ROI dashboard.
+[👍 from @mike.r]
+[09:41] mike.r: +1. they've been at CareStack for 7 years, robert specifically.
+[09:42] nadia.e: repeat? alex said that already.
+[09:43] alex.m: lmk if we need demo tomorrow.
+[09:44] sarah.k: tomorrow works. she mentioned Apollo.io demo was meh.
+[09:45] mike.r: she who?
+[09:46]  ↳ sarah.k: robert's team lead i think
+[09:47] nadia.e: got it. @here - proposal draft by EOD?
+[09:48] alex.m: yes plz.
+[09:49] mike.r: on it.
+[09:50] sarah.k: budget confirmed 450k?
+[09:51] alex.m: yep, approx 450,000. deal value that.
+[09:52] nadia.e: makes sense.
+[09:53] mike.r: next sprint we integrate their stack examples?
+[09:54] sarah.k: good call.
+[09:55] alex.m: they said sales messaging inconsistency is big - hurting pipeline.
+[09:56] nadia.e: unclear - their sales or ours?
+[09:57] mike.r: theirs obv. robert's team deals with it upstream.
+[09:58] sarah.k: he wants consistent ai-driven messaging.
+[09:59] alex.m: exactly.
+[10:00] mike.r: fwiw hubspot ai fell short on roi tracking.
+[10:01] nadia.e: noted.
+[10:02] sarah.k: proposal includes hiring help module? for their eng shortage.
+[10:03] alex.m: yeah weave that in.
+[10:04] mike.r: 👍
+[10:05] nadia.e: onboarding automation demo vid ready?
+[10:06] sarah.k: i'll share.
+[10:07] alex.m: thx all. keeping momentum.
+[10:08] mike.r: she pushed back on timeline tho.
+[10:09] sarah.k: who she?
+[10:10]  ↳ mike.r: idk, one of their reps maybe
+[10:11] nadia.e: lmk clarifications needed.
+[10:12] alex.m: will do.
+[10:13] sarah.k: imo we're ahead of apollo.io.
+[10:14] mike.r: agreed.
+[10:15] nadia.e: budget repeat - 450k locked?
+[10:16] alex.m: yes.
+[10:17] sarah.k: cool.
+[10:18] mike.r: robert cc'd on proposal?
+[10:19] alex.m: sending now.
+[10:20] nadia.e: perfect.
+[10:21] sarah.k: any blockers?
+[10:22] alex.m: nah, smooth so far.
+[👍 from @nadia.e]
+[10:23] mike.r: next sprint ai roi metrics top priority.
+[10:24] sarah.k: yes!
+[10:25] alex.m: tracking.
+[10:26] nadia.e: got it.
+[10:27] mike.r: they love django integration.
+[10:28] sarah.k: expected.
+[10:29] alex.m: fwiw their redis setup is advanced.
+[10:30] nadia.e: noted for proposal.
+[10:31] sarah.k: onboarding pain - manual processes killing them.
+[10:32] mike.r: we fix that ez.
+[10:33] alex.m: yep.
+[10:34] nadia.e: decision maker confirmed robert.
+[10:35] sarah.k: thx.
+[10:36] mike.r: timeline 2026-07-14 firm?
+[10:37] alex.m: pretty much.
+[10:38] nadia.e: long game.
+[10:39] sarah.k: worth it for 450k.
+[10:40] mike.r: tbh yes.
+[10:41] alex.m: @here update - robert replied positively.
+[10:42] nadia.e: nice!
+[10:43] sarah.k: details?
+[10:44] alex.m: wants deeper roi demo.
+[10:45] mike.r: on it tomorrow.
+[10:46] nadia.e: sweet.
+[10:47] sarah.k: apollo.io out?
+[10:48] alex.m: leaning our way.
+[10:49] mike.r: hubspot ai too generic for them.
+[10:50] nadia.e: imo.
+[10:51] sarah.k: hiring engineers pain - our ai recruiter pitch?
+[10:52] alex.m: added to deck.
+[10:53] mike.r: perfect.
+[10:54] nadia.e: 👍
+[10:55] alex.m: channel archived? nah keep open.
+[10:56] sarah.k: ongoing.

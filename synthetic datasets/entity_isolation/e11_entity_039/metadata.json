@@ -1,0 +1,19 @@
+{
+  "entity_index": 39,
+  "name": "Jennifer Baker",
+  "company": "Aether IO",
+  "industry": "SpaceTech",
+  "email": "jennifer.baker@aetherio.com",
+  "title": "Head of Data",
+  "facts": [
+    "Jennifer Baker is Head of Data at Aether IO",
+    "Aether IO is a SpaceTech company with 311 employees",
+    "Tech stack: TypeScript, React, Node.js, GCP, MongoDB",
+    "Deal value: $1,000,000",
+    "Pain points: fragmented tooling across departments; poor developer experience slowing feature velocity; inconsistent messaging across sales team",
+    "Competitors: custom internal tool, Intercom",
+    "Decision timeline: Q4 2026",
+    "Annual revenue: ~$192M"
+  ],
+  "actual_word_count": 295
+}

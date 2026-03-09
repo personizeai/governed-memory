@@ -1,0 +1,19 @@
+{
+  "entity_index": 27,
+  "name": "Heather Santos",
+  "company": "Sterling Logic",
+  "industry": "Digital Media",
+  "email": "heather.santos@sterlinglogic.com",
+  "title": "Head of Product",
+  "facts": [
+    "Heather Santos is Head of Product at Sterling Logic",
+    "Sterling Logic is a Digital Media company with 1346 employees",
+    "Tech stack: Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+    "Deal value: $1,000,000",
+    "Pain points: security concerns with current architecture; data silos between engineering and sales teams",
+    "Competitors: Chorus.ai, HubSpot AI",
+    "Decision timeline: Q3 2026",
+    "Annual revenue: ~$216M"
+  ],
+  "actual_word_count": 313
+}

@@ -1,0 +1,137 @@
+#deals-biosignal-ai
+
+[10:15] @alex.m: @here quick update on BioSignal AI - just got off call with Emily Santos, their CTO. She's been there 2 years, ngl they're hurting bad on measuring ROI for AI stuff.
+
+[👍 from @sarah.k]
+
+[10:16] @sarah.k: oof ROI issues suck. What's their budget looking like?
+
+[10:17] @alex.m: ~120k allocated. Deal stage is negotiation now, urgency is critical tbh.
+
+[10:18] @mike.r: Got it. They're a healthcare tech co with 371 employees, right? Fits our sweet spot 201-1000.
+
+[10:19]  ↳ @sarah.k: yeah 371 sounds familiar [👍]
+
+[10:20] @amanda.b: Tech stack? We good?
+
+[10:21] @alex.m: C#, .NET, Azure, SQL Server, RabbitMQ. Perfect match imo.
+
+[10:22] @mike.r: They mentioned poor dev experience slowing velocity too. That's huge.
+
+[10:23] @sarah.k: fwiw they're on Salesforce w/ custom Apex triggers now. Messy af.
+
+[10:24]  ↳ @alex.m: exactly, fragmented tooling across depts is killing them [thumbsup from @mike.r]
+
+[10:25] @amanda.b: Security concerns with current arch? She bring that up?
+
+[10:26] @alex.m: Yup, big pain point. Makes sense why they're shopping.
+
+[10:27] @mike.r: Competitors? Clari, Apollo.io, Chorus.ai on the table?
+
+[10:28] @sarah.k: Yep, evaluating those. We need to differentiate on devex and ROI tracking.
+
+[10:29] @alex.m: [shared link: BioSignal AI pricing page] Check this, their budget aligns w/ our enterprise tier at 120k.
+
+[10:30] @amanda.b: Nice find. Decision timeline?
+
+[10:31] @alex.m: 2026-06-05, but IT committee does quarterly evals, next window Q3 2026.
+
+[10:32] @mike.r: Last Friday she said they're not interested in Clari anymore - too sales-focused.
+
+[10:33]  ↳ @sarah.k: who said? emily?
+
+[10:34] @alex.m: Makes sense. Urgency critical, let's push.
+
+[10:35] @sarah.k: Poor dev experience repeated in notes - slowing feature velocity bad.
+
+[10:36] @mike.r: Yeah I saw that too, velocity issues twice in last call.
+
+[10:37] @amanda.b: Got it. Tomorrow's demo prep?
+
+[10:38] @alex.m: @channel need input on pitch for ROI measurement.
+
+[10:39] @sarah.k: Imo hit security hard, they worry about Azure integration.
+
+[10:40]  ↳ @mike.r: +1, their current triggers are insecure af
+
+[👍 from @alex.m]
+
+[10:41] @amanda.b: She mentioned fragmented tooling yesterday. Who is she again?
+
+[10:42] @alex.m: Emily. Been pushing for next sprint integration.
+
+[10:43] @mike.r: Budget 120k confirmed? Lmk if changes.
+
+[10:44] @sarah.k: Yep, deal value locked at 120000.
+
+[10:45] @amanda.b: Competitors out? Apollo.io too pricey?
+
+[10:46]  ↳ @alex.m: He said Apollo no-go, but who is he? [🤷 from @sarah.k]
+
+[10:47] @mike.r: Chorus.ai devex sucks compared to us imo.
+
+[10:48] @sarah.k: Fwiw BioSignal AI size 371 employees, tech stack C# .NET etc solid.
+
+[10:49] @alex.m: Current solution Salesforce Apex is brittle, they know it.
+
+[10:50] @amanda.b: Pain points nailed: ROI, devex, fragmented, security.
+
+[10:51] @mike.r: Timeline 2026-06-05 tight for Q3 window.
+
+[10:52]  ↳ @sarah.k: quarterly it committee yeah
+
+[10:53] @alex.m: Ngl urgency critical, let's close negotiation this week.
+
+[10:54] @sarah.k: 👍 got it
+
+[10:55] @amanda.b: Makes sense. Emily 2 years in, she gets it.
+
+[10:56] @mike.r: She said no to Clari last Friday - progress!
+
+[10:57]  ↳ @alex.m: unclear who "she" is but assuming emily lol
+
+[10:58] @sarah.k: Tomorrow follow-up call?
+
+[10:59] @alex.m: Yes, prep ROI demo.
+
+[11:00] @mike.r: Their stack RabbitMQ etc plays nice w/ us.
+
+[11:01] @amanda.b: Budget approx 120k, perfect.
+
+[11:02] @sarah.k: Healthcare tech co, 371 emps - ideal.
+
+[11:03]  ↳ @mike.r: yeah repeated that earlier [👍 from @alex.m]
+
+[11:04] @alex.m: Pain point: difficulty measuring ROI on AI initiatives - core pitch.
+
+[11:05] @amanda.b: And poor developer experience slowing feature velocity.
+
+[11:06] @mike.r: Fragmented tooling across departments too.
+
+[11:07] @sarah.k: Security concerns w/ current architecture - hit that.
+
+[11:08] @alex.m: Competitors: Clari out, Apollo.io meh, Chorus.ai weak on dev.
+
+[11:09] @amanda.b: Buying process: IT quarterly, Q3 2026 next.
+
+[11:10] @mike.r: Deal stage negotiation, value 120000.
+
+[11:11] @sarah.k: Urgency critical imo.
+
+[11:12] @alex.m: CTO Emily Santos key, 2 yrs there.
+
+[11:13]  ↳ @amanda.b: she pushing hard?
+
+[11:14] @mike.r: Unclear pronoun but yeah probably.
+
+[11:15] @sarah.k: Next sprint we integrate their SQL Server?
+
+[11:16] @alex.m: Makes sense.
+
+[11:17] @amanda.b: Got it 👍
+
+[11:18] @mike.r: Last Friday notes say ROI pain repeated.
+
+[11:19] @sarah.k: Tomorrow lmk updates.
+
+[11:20] @alex.m: Will do. Closing strong.

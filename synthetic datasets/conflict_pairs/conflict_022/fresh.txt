@@ -1,0 +1,21 @@
+**Call Note: Follow-Up Sales Meeting**  
+**Date:** February 23, 2026  
+**Contact:** Robert Lindgren, VP Engineering, Tidal Solutions (EdTech)  
+**Duration:** 45 min | **Called by:** [Your Name]  
+
+Follow-up on product demo from 2/10. Robert confirmed strong alignment with their platform needs for scalable student analytics.  
+
+**Key Update:** Timeline accelerated to Q2 2026 rollout—supersedes prior Q4 target. Driven by recent funding round ($15M Series B) and urgency to integrate before academic year refresh.  
+
+Discussed integration: Our API fits seamlessly with their LMS (Moodle-based); Robert flagged potential for custom webhook support, which we confirmed feasible in <2 weeks. Budget approved at $250K initial, with upsell potential for premium modules. No major objections; they dismissed Competitor X (legacy system) due to slow migrations.  
+
+Robert excited about ROI projections (25% efficiency gain per their calc).  
+
+**Next Steps:**  
+- Send revised SOW reflecting Q2 timeline by EOD 2/24.  
+- Schedule technical deep-dive w/ their lead dev wk of 3/2.  
+- Robert to loop in CRO for exec alignment by 2/28.  
+
+High confidence; moving to proposal stage. Follow up 2/26 if no SOW ack.  
+
+(Word count: 178)

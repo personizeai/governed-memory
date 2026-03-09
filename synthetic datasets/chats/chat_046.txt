@@ -1,0 +1,65 @@
+[09:15] @alex.m: Quick update @channel - just off call with Amanda from RouteWise. She's Head of Data there, been with them 4 years. Deal stage is negotiation now.  
+[👍 from @sarah.k]  
+[09:16] @sarah.k: Nice! What's their budget looking like?  
+  ↳ [09:17] @alex.m: They allocated ~$1,200,000. High urgency tbh.  
+[09:18] @mike.r: Whoa, 1.2M? Solid.  
+[👍 from @brandon.b]  
+[09:19] @brandon.b: RouteWise is logistics right? How many employees?  
+  ↳ [09:20] @alex.m: Yeah, about 4589. Big player.  
+[09:21] @sarah.k: Current solution? Still sheets?  
+[09:22] @alex.m: Mix of Google Sheets and custom dashboards. Pain point city.  
+[09:23] @mike.r: Tech stack? They do Elixir?  
+  ↳ [09:24] @alex.m: Yep, Elixir, Phoenix, Fly.io, PostgreSQL, LiveView. Perfect fit imo.  
+[👍 from @sarah.k] [🔥 from @mike.r]  
+[09:25] @brandon.b: Competitors?  
+[09:26] @alex.m: They've been evaluating Clari and Salesforce Einstein. We beat both on integration.  
+[09:27] @sarah.k: She mention timeline?  
+  ↳ [09:28] @alex.m: Decision by 2026-08-06. But urgency is high, security audit in Q3 pushing it.  
+[09:29] @mike.r: Q3 audit? Got it.  
+[09:30] @alex.m: Procurement needs three competitive bids tho. Annoying.  
+[09:31] @sarah.k: Is she the decision maker?  
+  ↳ [09:32] @alex.m: Nah, False. Influencer mostly.  
+[09:33] @brandon.b: Makes sense. Demo tomorrow?  
+[09:34] @mike.r: Yeah, prepping for that. Their stack aligns great.  
+[09:35] @sarah.k: Fwiw, I saw their pricing page. [shared link: RouteWise pricing page]  
+[👍 from @alex.m]  
+[09:36] @alex.m: Thanks Sarah. Ngl, Clari's weak there.  
+[09:37] @brandon.b: @here - thoughts on beating Salesforce Einstein? Need strategy asap.  
+[09:38] @mike.r: Last Friday she said they're leaning our way.  
+[09:39] @sarah.k: He confirm budget again? ~1.2M right?  
+[👍 from @brandon.b]  
+[09:40] @alex.m: Yep, repeated it. Deal value locked at 1200000.  
+[09:41] @mike.r: They said high urgency on the audit.  
+[09:42] @sarah.k: Got it. Who's handling bids?  
+  ↳ [09:43] @alex.m: Me. But they want three, so push Clari hard as weak bid.  
+[09:44] @brandon.b: Next sprint we customize for LiveView?  
+[09:45] @mike.r: Already on it.  
+[09:46] @sarah.k: She loves the Phoenix integration tbh.  
+[09:47] @alex.m: Cool. RouteWise has 4589 employees - scale test passed.  
+[09:48] @brandon.b: Perfect repeat of facts lmk if changes.  
+[👍 from @mike.r]  
+[09:49] @sarah.k: Amanda been there 4 years? Loyalty play.  
+[09:50] @mike.r: Yeah, she mentioned it.  
+[09:51] @alex.m: Their dashboards suck, full Sheets mess.  
+[09:52] @brandon.b: Agreed. Push urgency.  
+[14:22] @sarah.k: Update: they replied, audit Q3 is big driver.  
+[14:23] @alex.m: He say anything new?  
+[14:24] @mike.r: Procurement bid process strict.  
+  ↳ [14:25] @sarah.k: She wants demo tomorrow confirmed.  
+[14:26] @brandon.b: Got it.  
+[14:27] @alex.m: Timeline still 2026-08-06? Wild but high urgency.  
+[14:28] @sarah.k: Yeah, they confirmed.  
+[14:29] @mike.r: Clari demo flopped last week imo.  
+[14:30] @brandon.b: 👍  
+[14:31] @alex.m: Salesforce Einstein too clunky for Fly.io.  
+[14:32] @sarah.k: Makes sense.  
+[16:45] @mike.r: Post-demo notes: they dug PostgreSQL sync.  
+[16:46] @alex.m: Nice! She excited?  
+  ↳ [16:47] @mike.r: Yeah, high urgency reiterated.  
+[16:48] @brandon.b: Budget still 1.2M?  
+[16:49] @sarah.k: Confirmed twice now.  
+[16:50] @alex.m: Procurement bids next step.  
+[16:51] @mike.r: Gotcha.  
+[16:52] @sarah.k: She's not decision maker but key.  
+[16:53] @brandon.b: Understood. Keep pushing.  
+[👍 from @alex.m]

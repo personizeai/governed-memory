@@ -1,0 +1,25 @@
+**Call Note: Follow-Up Sales Meeting**
+
+**Date:** January 25, 2026  
+**Contact:** Alex Anderson, VP of Engineering, Nimbus Networks (Manufacturing)  
+**Duration:** 35 minutes (Zoom)  
+**Attendees:** Alex Anderson, myself (Sr. AE), Eng. Lead Sarah Kim  
+
+Positive follow-up on proposed automation platform for shop floor optimization. Alex provided major **UPDATE**: Nimbus Networks escalated our project to **critical priority** after board review last week. This **changes/supersedes** previous medium-priority classification, unlocking expedited resources and budget. Board cited competitive pressures from rising material costs and supply chain disruptions in manufacturing sector.
+
+Other details:  
+- Confirmed $850K budget approval for initial deployment (up from $650K quote), covering 50 PLC integrations and AI predictive maintenance module.  
+- Accelerated timeline: POC demo now targeted for Feb 10; full rollout Q2 2026 (shifted from Q4).  
+- Minor concern raised on data security for IoT sensors; assured compliance with NIST 800-53 standards—will share certs.  
+
+Alex enthusiastic, signaling strong buy-in. No red flags on pricing or terms.  
+
+**Next Steps:**  
+- Send revised SOW reflecting priority escalation and budget by Jan 27 EOD.  
+- Schedule technical demo Feb 3 (invited Sarah and CTO).  
+- Alex to loop in procurement for contract review by Feb 5.  
+- Internal: Update opportunity stage to "Proposal Accepted"; notify team lead.  
+
+Opportunity value: $2.1M ACV. High confidence in close by end of Q1.  
+
+(Word count: 218)

@@ -1,0 +1,89 @@
+{
+  "sample_id": "transcript_011",
+  "content_type": "meeting_transcript",
+  "company": "MedCore Analytics",
+  "industry": "Healthcare Tech",
+  "duration_minutes": 30,
+  "target_word_count": 2245,
+  "actual_word_count": 1728,
+  "expected_facts": [
+    {
+      "text": "MedCore Analytics is a Healthcare Tech company with about 33 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Chen Novak has been at MedCore Analytics for 2 years",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 32% this fiscal year",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $152M",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Chorus.ai, building in-house, Drift",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 3 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $450,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with lack of real-time analytics for decision making",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with integration complexity with legacy systems",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Sales Engineering",
+    "company_name": "MedCore Analytics",
+    "company_size": "11-50",
+    "technology_stack": "Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "integration complexity with legacy systems",
+      "lack of real-time analytics for decision making",
+      "difficulty hiring specialized engineers"
+    ],
+    "deal_value": 450000,
+    "decision_timeline": "2026-06-24",
+    "competitors_mentioned": [
+      "Chorus.ai",
+      "building in-house",
+      "Drift"
+    ],
+    "decision_maker": true,
+    "next_steps": "Set up POC environment for Chen's team to evaluate",
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 5,
+    "temporal_issues": 3,
+    "duplicate_facts": 1
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.86,
+  "entity_id": "chen-medcore-analytics",
+  "entity_email": "chen@medcore.io",
+  "entity_website": "https://medcore.io",
+  "contact_name": "Chen",
+  "record_id": "crm-chen-medcore-analytics"
+}

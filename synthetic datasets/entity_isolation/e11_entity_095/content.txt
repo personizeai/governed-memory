@@ -1,0 +1,16 @@
+### Account Overview
+Jade Software is a prominent BioTech company headquartered in the competitive landscape of biotechnology innovation. With approximately 1714 employees and an annual revenue of ~$192M, the company specializes in advanced biological software solutions for research and development. Our primary contact is Keiko Cho, Head of Product at Jade Software (keiko.cho@jadesoftware.com). Keiko leads product strategy and is deeply involved in evaluating solutions to address critical operational challenges in their BioTech workflows.
+
+### Key Details
+Jade Software's current tech stack includes Ruby on Rails for application development, Heroku for hosting, PostgreSQL as the primary database, and Sidekiq for background job processing. These technologies support their core BioTech operations but have surfaced significant pain points. Key issues include security concerns with the existing architecture, which expose vulnerabilities in handling sensitive biological data, and repeated compliance audit failures related to data handling protocols. These challenges are hindering scalability and regulatory adherence in their fast-paced R&D environment. Notably, Jade Software has been evaluating competitors like Clari, which offers similar revenue and forecasting tools but falls short in BioTech-specific compliance features.
+
+### Deal Status
+This represents a high-potential opportunity with an estimated deal value of $1,000,000. The prospect is in the early-to-mid evaluation stage, with a decision timeline targeted for Q3 2026. Keiko Cho has expressed strong interest in solutions that can mitigate their security and compliance risks while integrating seamlessly with their Ruby on Rails/Heroku/PostgreSQL/Sidekiq stack. Internal discussions at Jade Software are progressing, positioning us favorably against Clari due to our superior BioTech compliance modules.
+
+### Next Steps
+- Schedule a technical deep-dive demo with Keiko Cho by end of next week to showcase integration with their tech stack and address security/compliance pain points.
+- Prepare customized ROI analysis highlighting $1M deal value and Q3 2026 timeline alignment.
+- Follow up with Keiko via email (keiko.cho@jadesoftware.com) to confirm availability and share case studies from similar BioTech clients.
+- Engage Jade Software's engineering team for a proof-of-concept POC on PostgreSQL/Sidekiq compatibility.
+
+(Word count: 352)

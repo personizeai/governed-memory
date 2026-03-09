@@ -1,0 +1,24 @@
+**Follow-up Sales Call Note**  
+**Contact:** Ivan Xu, VP Engineering, Drift Analytics (Healthcare Tech)  
+**Date:** January 27, 2026  
+**Duration:** 45 min | **Attendees:** Me, Ivan Xu  
+
+Discussed platform fit for their scaling ops post-team expansion. **Key Update:** Drift Analytics grew engineering team to 85 heads (change from prior 55 reported), accelerating dev velocity but straining legacy CI/CD tools amid HIPAA-regulated healthcare workloads.  
+
+Ivan confirmed Q1 push for faster build/deploy cycles to support new AI-driven analytics features. Expressed strong alignment with our auto-scaling pipelines; requested POC for 10-eng pilot.  
+
+Additional details:  
+- Prepping Series B round (target close April 2026, $25M valuation).  
+- Current pain: 40% downtime in peak testing windows.  
+- Budget approval pending from CTO next week.  
+
+Demo covered HIPAA compliance dashboard—positive feedback, no major blockers.  
+
+**Next Steps:**  
+- Email POC access + setup guide by EOD 1/28.  
+- Book eng deep-dive call for 2/10.  
+- Circulate custom pricing proposal post-CTO nod.  
+
+Opportunity heating up; high intent. Update stage to "Proposal."  
+
+(Word count: 178)

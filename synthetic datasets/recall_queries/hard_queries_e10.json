@@ -1,0 +1,152 @@
+[
+  {
+    "id": "hard_01",
+    "category": "multi_faceted",
+    "query": "What are TechFlow's pain points, migration timeline, and competitive landscape?",
+    "expected_topics": [
+      "deployment velocity",
+      "Q2 timeline",
+      "Gong",
+      "Microsoft Copilot",
+      "3 vendors",
+      "3 weeks per release"
+    ],
+    "min_sources": 3,
+    "notes": "Requires facts from sources 1, 2, and 4. Single embedding unlikely to match all."
+  },
+  {
+    "id": "hard_02",
+    "category": "multi_faceted",
+    "query": "Who are the key stakeholders, what are their concerns, and what's the procurement process?",
+    "expected_topics": [
+      "Sarah Chen",
+      "CEO Mark Thompson",
+      "CFO",
+      "Mike Rivera",
+      "board meeting March",
+      "VP approval"
+    ],
+    "min_sources": 4,
+    "notes": "Stakeholders scattered across all 4 interaction sources."
+  },
+  {
+    "id": "hard_03",
+    "category": "multi_faceted",
+    "query": "What technical requirements have they specified, and how do they relate to their current architecture?",
+    "expected_topics": [
+      "SOC 2",
+      "API-first",
+      "Snowflake integration",
+      "<200ms retrieval",
+      "Java",
+      "Spring Boot",
+      "Oracle",
+      "PostgreSQL migration"
+    ],
+    "min_sources": 3,
+    "notes": "Requirements from source 2+3, architecture from source 1+5."
+  },
+  {
+    "id": "hard_04",
+    "category": "multi_faceted",
+    "query": "What risks could derail this deal, and what mitigation steps have been discussed?",
+    "expected_topics": [
+      "CFO delay",
+      "Q3 board review",
+      "failed Gong POC",
+      "DPA requirement",
+      "security audit"
+    ],
+    "min_sources": 3,
+    "notes": "Risk factors from sources 2, 3, and 4."
+  },
+  {
+    "id": "hard_05",
+    "category": "temporal_progression",
+    "query": "How has TechFlow's evaluation progressed from discovery through the latest interaction?",
+    "expected_topics": [
+      "3 vendors",
+      "failed Gong POC",
+      "board meeting March",
+      "Q2",
+      "champion",
+      "POC requirements"
+    ],
+    "min_sources": 4,
+    "notes": "Temporal progression facts: evaluation stage, past attempts, upcoming milestones."
+  },
+  {
+    "id": "hard_06",
+    "category": "multi_faceted",
+    "query": "What is the deal value, how was it determined, and what's the approval process?",
+    "expected_topics": [
+      "$450K",
+      "$2M IT budget",
+      "VP Finance",
+      "board approval",
+      "three competitive bids",
+      "CFO"
+    ],
+    "min_sources": 3,
+    "notes": "Budget context from source 1, value from 2+3, process from 4."
+  },
+  {
+    "id": "hard_07",
+    "category": "technical",
+    "query": "What integrations do they need, and what is their current data infrastructure?",
+    "expected_topics": [
+      "Snowflake data warehouse",
+      "Oracle database",
+      "PostgreSQL migration",
+      "50M customer events per day",
+      "AWS",
+      "microservices"
+    ],
+    "min_sources": 3,
+    "notes": "Infrastructure from source 1+5, integration needs from source 2+3."
+  },
+  {
+    "id": "hard_08",
+    "category": "relational",
+    "query": "Who internally is championing the deal, and what organizational dynamics affect the decision?",
+    "expected_topics": [
+      "Sarah champion HIGH confidence",
+      "CEO support",
+      "CFO resistance",
+      "board meeting March",
+      "co-founder",
+      "12 squads"
+    ],
+    "min_sources": 3,
+    "notes": "Champion info from source 4, org dynamics from 1+4."
+  },
+  {
+    "id": "hard_09",
+    "category": "competitive",
+    "query": "What competitive alternatives have they evaluated, and why did previous solutions fail?",
+    "expected_topics": [
+      "Gong failed POC",
+      "Microsoft Copilot",
+      "3 vendors",
+      "build in-house",
+      "last quarter"
+    ],
+    "min_sources": 2,
+    "notes": "Competitive info from sources 2 and 4."
+  },
+  {
+    "id": "hard_10",
+    "category": "strategic",
+    "query": "What is TechFlow's growth trajectory, and how does that affect their technology needs?",
+    "expected_topics": [
+      "150 to 280 employees",
+      "$45M Series C",
+      "12 squads",
+      "hiring",
+      "$68M total funding",
+      "scaling issues"
+    ],
+    "min_sources": 3,
+    "notes": "Growth from source 1+5, tech needs from 1+3."
+  }
+]

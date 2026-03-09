@@ -1,0 +1,16 @@
+### Account Overview
+Dahlia Computing is an E-commerce company with 2930 employees and approximately $81M in annual revenue. They specialize in scalable online platforms and are currently evaluating solutions to streamline their sales engineering processes. Primary contact is Maria Alvarez, Director of Sales Engineering (maria.alvarez@dahliacomputing.com). Maria leads a team focused on technical sales enablement and has been instrumental in identifying key operational challenges. Their tech stack includes TypeScript, React, Node.js, GCP, and MongoDB, which supports their high-volume e-commerce operations but has led to integration hurdles.
+
+### Key Details
+Dahlia Computing faces significant pain points, including fragmented tooling across departments that hinders collaboration between sales, engineering, and compliance teams. They've also experienced compliance audit failures related to data handling, prompting a need for more robust, unified platforms. Maria Alvarez highlighted these issues during initial discovery calls, emphasizing the need for tools that integrate seamlessly with their existing stack. Competitors in consideration include Microsoft Copilot and Outreach, which they're benchmarking against for sales productivity and automation features. Maria has expressed interest in demos tailored to their GCP and MongoDB environments to address these gaps without disrupting current workflows.
+
+### Deal Status
+This is a high-potential opportunity with a projected deal value of $120,000. Maria Alvarez confirmed strong internal buy-in, positioning us favorably against competitors. The decision timeline is targeted for Q2 2026, aligned with their fiscal planning cycle and upcoming compliance deadlines. Current stage: Proposal Sent. They've reviewed our initial pitch and requested a customized POC focusing on pain points like tooling fragmentation and audit compliance.
+
+### Next Steps
+- Schedule follow-up call with Maria Alvarez by end of next week to review POC results and address competitor comparisons.
+- Prepare tailored demo incorporating TypeScript/React integrations with their GCP/MongoDB setup.
+- Share case studies on compliance successes to mitigate audit failure concerns.
+- Monitor for Q1 triggers, such as budget approvals, and aim to advance to contract negotiation by Q4 2025.
+
+(Word count: 347)

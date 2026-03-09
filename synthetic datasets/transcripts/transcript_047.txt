@@ -1,0 +1,192 @@
+---
+type: Contact
+record_id: crm-robert-streamops
+email: robert@streamops.io
+website_url: https://streamops.io
+company: StreamOps
+industry: Digital Media
+contact_name: Robert
+job_title: Chief Product Officer
+---
+
+Alex: Hi Robert, thanks for taking the time today. How's everything going in Chicago? I know the weather there can be a bit unpredictable this time of year.
+
+Robert: Hey Alex, good to see you. Yeah, it's Chicago—raining one minute, sunny the next. But we're hanging in there at StreamOps. How about you? TechNova treating you well?
+
+Alex: Doing great, thanks. Always appreciate a fellow Midwesterner. Anyway, let's dive in. I know we're in discovery mode here, just getting a feel for your world at StreamOps. You're the Chief Product Officer, reporting directly to the CEO, right? That's a key spot.
+
+Robert: Spot on. I've been here about a year now, and yeah, I report straight to our CEO. Keeps things streamlined, you know? With around 393 employees, mostly here in our main Chicago office, we need that direct line.
+
+Alex: Makes sense for a company your size—201 to 1000 folks, Digital Media space. I saw your annual revenue's hovering around $65 million. Impressive growth in that industry.
+
+Robert: Thanks. Yeah, sixty-five million or so last year. Digital Media's competitive, but we're carving out our niche.
+
+Alex: Absolutely. So, tell me more about the challenges you're facing product-wise. I hear deployment cycles are a pain point—taking 2-3 weeks per release? That sounds brutal for agility.
+
+Robert: Oh man, you nailed it. Every release is this two-to-three week ordeal. Our team's frustrated because we're on PHP and Laravel, hosting on DigitalOcean with MySQL and Redis underneath. It's solid, but deployments crawl. We can't pivot fast enough in this market.
+
+Alex: Yeah, that vendor lock-in with DigitalOcean probably doesn't help. And lack of real-time analytics—how's that impacting decisions? I imagine without live data, it's tough to make quick calls.
+
+Robert: Huge issue. No real-time analytics means we're flying half-blind. Decisions get delayed, and by the time we act, the opportunity's gone. He mentioned that exact problem in our last all-hands—our dev lead was venting about it.
+
+Alex: Got it. And there's inconsistent messaging across the sales team, right? That creeps into product needs too, I'm guessing.
+
+Robert: Totally. Sales is all over the place, which ties back to our analytics gap. We need better alignment there.
+
+Alex: Fair. What's your current solution looking like? I understand it's a legacy Java application, maintained by basically one person?
+
+Robert: Yep, that's our beast. One guy keeps it alive, but it's creaking. He's swamped, and we're due for a security audit in Q2 next quarter. That Java relic won't cut it.
+
+Alex: Security audit coming up next quarter—priority one. Makes sense. With your tech stack—PHP, Laravel, DigitalOcean, MySQL, Redis—how integrated is that legacy piece?
+
+Robert: It's bolted on awkwardly. Redis helps with caching, MySQL for the data, but the Java app slows everything. Deployments take weeks because of it.
+
+Alex: Weeks per release, yeah—we covered that. And you're evaluating solutions to modernize this, right? How many vendors are in play?
+
+Robert: Right now, we're looking at two, including you guys at TechNova. We've poked around ZoomInfo, Clari, and Drift too, but narrowed it down.
+
+Alex: Smart to narrow. What drew you to those? ZoomInfo for data, Clari for revenue ops, Drift for chat?
+
+Robert: Exactly. ZoomInfo's intent data looked good, Clari for forecasting, Drift for engagement. But we're still in discovery, low urgency overall. Decision timeline's pushed to November 20th, 2026—plenty of time to vet.
+
+Alex: 2026—got it, low urgency fits. Budget-wise, what's allocated? Around $600,000?
+
+Robert: Yeah, approximately six hundred thousand set aside for this initiative. Covers modernization, analytics, the works.
+
+Alex: Solid budget—six hundred grand gives flexibility. With revenue at sixty-five million, that's a smart investment percentage.
+
+Robert: Appreciate that. We've got about 400 employees here, so scaling matters.
+
+Alex: 393, yeah. Now, on the inconsistent sales messaging—how does that manifest? Reps saying different things to clients?
+
+Robert: All the time. One pitch emphasizes speed, another analytics. It confuses prospects in Digital Media. Ties back to no real-time data.
+
+Alex: Right, and deployments lagging 2-3 weeks exacerbate that. Can't update messaging fast. He said something similar a few weeks ago when we did our internal review—our sales VP flagged it.
+
+Robert: Spot on. A few weeks ago, we had a demo with Clari, and they touched on it too. But their integration with our Laravel setup was iffy.
+
+Alex: Laravel's key in your stack. TechNova integrates seamlessly there—PHP-friendly APIs, real-time dashboards pulling from MySQL and Redis live.
+
+Robert: That sounds promising. We've been vendor-locked with DigitalOcean; migrating scares us a bit.
+
+Alex: Understandable. We handle hybrid clouds, ease that lock-in. Quick deployments—days, not weeks.
+
+Robert: Days? That'd be huge. Our one dev on the Java app is burning out.
+
+Alex: Yeah, legacy maintained by one person—recipe for risk, especially pre-audit.
+
+Robert: Q2 audit by end of next quarter. Can't mess around.
+
+Alex: No doubt. Let's talk real-time analytics. What metrics matter most? User engagement, churn?
+
+Robert: Engagement first—real-time views on content streams. Then churn prediction. No delays.
+
+Alex: We do exactly that. Dashboards update in seconds, Redis-optimized.
+
+Robert: Nice. Chicago traffic's killing me today—sorry if I'm glancing at emails. Speaking of, you ever been to Wrigley Field? Digression, but with the Cubs season winding down...
+
+Alex: Ha, love it. Yeah, caught a game last summer. You a fan?
+
+Robert: Die-hard. Been going since I started here a year ago. Helps unwind from product headaches.
+
+Alex: Small talk break—good call. Back to it: with your $600,000 budget, roughly six hundred thousand, what features are must-haves?
+
+Robert: Real-time analytics top, then deployment speed-up. Break the 2-3 week cycles.
+
+Alex: Covered twice now, but yeah—transformative. And inconsistent messaging—our platform unifies sales playbooks with live data.
+
+Robert: Sales team's excited but skeptical. They've seen Drift demos.
+
+Alex: Drift's chat-focused; we're broader. Like Clari but product-centric.
+
+Robert: We've evaluated those. ZoomInfo too, but data quality varied.
+
+Alex: Fair comparison. We're evaluating two vendors—you and one other?
+
+Robert: Yes, just two now. TechNova and that other.
+
+Alex: Discovery stage—perfect. Urgency low, timeline 2026-11-20. What's the trigger for that date?
+
+Robert: Aligns with fiscal year-end planning. Security audit in Q2 pushes some urgency.
+
+Alex: Next quarter's audit—got it. Robert, as decision maker here...
+
+Robert: Yeah, with CEO sign-off.
+
+Alex: How can TechNova differentiate? POC maybe?
+
+Robert: POC sounds good. Show Laravel integration, real-time pulls from MySQL/Redis.
+
+Alex: We can spin one up quick. No weeks-long setup.
+
+Robert: Unlike our current cycles, right?
+
+Alex: Exactly. And vendor lock-in escape.
+
+Robert: DigitalOcean's been good, but flexibility calls.
+
+Alex: Let's mock up a timeline. Post-POC, what next?
+
+Robert: Review internally, then pilot by end of month? No, timeline's long—2026 decision.
+
+Alex: Low urgency, but momentum builds. Budget locked at approx $600k.
+
+Robert: Six hundred thousand, yes. Revenue supports it—$65M.
+
+Alex: Sixty-five million strong. Chicago office humming.
+
+Robert: 393 folks strong.
+
+Alex: He emphasized employee count in our prep call—around 400.
+
+Robert: Close enough. Anyway, loving the stack talk. PHP/Laravel devs would geek out.
+
+Alex: We'll tailor demo. Any other pains? Sales inconsistency we hit.
+
+Robert: That's big. Reps need unified real-time insights.
+
+Alex: Delivered. Legacy Java swap-out plan?
+
+Robert: One-person maintenance ends soon. Audit forces it.
+
+Alex: Q2 next quarter. Perfect pivot.
+
+Robert: Drift promised chat analytics, but not full product.
+
+Alex: We're holistic. Clari's revenue-only.
+
+Robert: ZoomInfo data's stale sometimes.
+
+Alex: Ours fresh, real-time.
+
+Robert: A few weeks ago, we tested their API—meh.
+
+Alex: Understood. TechNova's edge: your stack native.
+
+Robert: DigitalOcean, MySQL, Redis sync?
+
+Alex: Seamless.
+
+Alex: Robert, this feels aligned. Next steps: send POC specs?
+
+Robert: Yes. And agenda for follow-up.
+
+Alex: Great. Budget confirmed ~$600,000?
+
+Robert: Approximately six hundred thousand.
+
+Alex: Locked. Timeline 2026-11-20.
+
+Robert: Yes. Low urgency, thorough eval.
+
+Alex: As CPO reporting to CEO, your buy-in key.
+
+Robert: Direct line helps. One year in, excited for modernization.
+
+Alex: Awesome. Any last thoughts? Chicago winters coming...
+
+Robert: Ha, brace for it. Thanks, Alex—productive.
+
+Alex: Likewise. Talk soon.
+
+Robert: You bet.

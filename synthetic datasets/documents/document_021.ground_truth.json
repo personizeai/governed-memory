@@ -1,0 +1,98 @@
+{
+  "sample_id": "document_021",
+  "content_type": "wiki_document",
+  "company": "BuildTech Corp",
+  "industry": "Manufacturing",
+  "target_word_count": 1748,
+  "actual_word_count": 1201,
+  "expected_facts": [
+    {
+      "text": "Currently using combination of Notion and Airtable",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with scaling issues during peak traffic periods",
+      "type": "explicit"
+    },
+    {
+      "text": "Felix Moreau has been at BuildTech Corp for 2 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with poor visibility into pipeline health",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Java, Spring Boot, Azure, Oracle, Kafka",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $450,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Denver",
+      "type": "explicit"
+    },
+    {
+      "text": "BuildTech Corp is a Manufacturing company with about 396 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating HubSpot AI, Gong, custom internal tool",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Engineering",
+    "company_name": "BuildTech Corp",
+    "company_size": "201-1000",
+    "technology_stack": "Java, Spring Boot, Azure, Oracle, Kafka",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "scaling issues during peak traffic periods",
+      "poor visibility into pipeline health",
+      "technical debt from rapid early growth",
+      "difficulty measuring ROI on AI initiatives"
+    ],
+    "deal_value": 450000,
+    "decision_timeline": "2026-10-01",
+    "competitors_mentioned": [
+      "HubSpot AI",
+      "Gong",
+      "custom internal tool"
+    ],
+    "decision_maker": true,
+    "next_steps": "Set up POC environment for Felix's team to evaluate",
+    "buying_process": "Standard procurement: demo, security review, legal review, sign-off from VP Finance",
+    "current_solution": "combination of Notion and Airtable",
+    "urgency_level": "Critical"
+  },
+  "planted_issues": {
+    "pronoun_issues": 1,
+    "temporal_issues": 1,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Brandon Patel",
+      "title": "Head of Infrastructure",
+      "role": "End User"
+    },
+    {
+      "name": "Lisa Alvarez",
+      "title": "Chief Product Officer",
+      "role": "Champion"
+    },
+    {
+      "name": "Lisa Xu",
+      "title": "Director of Engineering",
+      "role": "End User"
+    }
+  ],
+  "property_coverage": 1.0
+}

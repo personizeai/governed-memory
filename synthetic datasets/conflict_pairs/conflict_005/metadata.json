@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_005",
+  "category": "budget",
+  "company": "Atlas Engineering",
+  "contact": "Nina Dubois",
+  "industry": "Logistics",
+  "stale_date": "2025-06-26",
+  "fresh_date": "2026-01-08",
+  "stale_claim": "Atlas Engineering has a budget of approximately $200K for this initiative",
+  "fresh_claim": "Atlas Engineering increased their budget to $500K",
+  "expected_query": "What is Atlas Engineering's budget for this project?",
+  "expected_answer": "increased their budget to $500K",
+  "stale_word_count": 165,
+  "fresh_word_count": 181
+}

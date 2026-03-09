@@ -1,0 +1,23 @@
+### Account Overview
+Ivory Systems is a prominent HRTech company specializing in innovative workforce management solutions. With approximately 1201 employees and annual revenue of ~$207M, the company has experienced rapid growth, positioning it as a key player in the competitive HR technology landscape. Our primary point of contact is Aisha Petrov, Director of Engineering at Ivory Systems (aisha.petrov@ivorysystems.com). Aisha oversees the engineering team and is deeply involved in strategic tech decisions, making her a critical stakeholder for potential partnerships. Ivory Systems faces challenges stemming from its explosive early expansion, including significant technical debt and hurdles in accurately measuring ROI on AI-driven initiatives. Their current tech stack relies heavily on Java, Micronaut, GCP, Spanner, and Pub/Sub, which informs our tailored approach to integration and value delivery.
+
+### Key Details
+- **Contact**: Aisha Petrov, Director of Engineering
+- **Company**: Ivory Systems (HRTech, 1201 employees, ~$207M ARR)
+- **Tech Stack**: Java, Micronaut, GCP (Spanner, Pub/Sub)
+- **Pain Points**: Accumulating technical debt from rapid early growth; challenges in quantifying ROI on AI initiatives
+- **Competitors in Consideration**: Clari, Gong
+
+Aisha has expressed frustration with legacy systems slowing down innovation, particularly as Ivory Systems scales its AI features for HR analytics. Their environment is cloud-native on GCP, offering strong synergy with our solutions, but legacy Java/Micronaut components require careful migration strategies to avoid disrupting operations.
+
+### Deal Status
+This represents a high-potential opportunity with an estimated deal value of $400,000. Initial discussions with Aisha have uncovered alignment on addressing technical debt and AI ROI visibility. Ivory Systems is evaluating options against competitors Clari and Gong, with a decision timeline targeted for Q2 2026. We've positioned our platform as a superior fit due to seamless GCP integration and proven ROI tracking for HRTech clients. Current stage: Discovery/Qualification – strong intent signals from Aisha, but formal RFP expected in Q4 2025.
+
+### Next Steps
+1. Schedule follow-up call with Aisha Petrov by end of next week to demo ROI dashboard customized for Spanner/Pub/Sub data flows.
+2. Prepare technical debt assessment report highlighting Java/Micronaut compatibility (deliver by EOW).
+3. Engage sales engineering for a proof-of-concept POC addressing AI initiative metrics.
+4. Monitor competitor activity (Clari/Gong) and update forecast accordingly.
+5. Internal review: Align on pricing strategy for $400K ACV to close by Q2 2026 decision window.
+
+(Word count: 378)

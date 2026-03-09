@@ -1,0 +1,89 @@
+{
+  "sample_id": "document_029",
+  "content_type": "wiki_document",
+  "company": "MetalGrid",
+  "industry": "Manufacturing",
+  "target_word_count": 2018,
+  "actual_word_count": 1412,
+  "expected_facts": [
+    {
+      "text": "Their tech stack includes Java, Spring Boot, Azure, Oracle, Kafka",
+      "type": "explicit"
+    },
+    {
+      "text": "MetalGrid is a Manufacturing company with about 506 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $50,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $157M",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with high infrastructure costs eating into margins",
+      "type": "explicit"
+    },
+    {
+      "text": "Anita Nakamura has been at MetalGrid for 1 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with difficulty measuring ROI on AI initiatives",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 12 people this quarter",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "CTO",
+    "company_name": "MetalGrid",
+    "company_size": "201-1000",
+    "technology_stack": "Java, Spring Boot, Azure, Oracle, Kafka",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "high infrastructure costs eating into margins",
+      "difficulty measuring ROI on AI initiatives",
+      "inconsistent messaging across sales team",
+      "technical debt from rapid early growth"
+    ],
+    "deal_value": 50000,
+    "decision_maker": false,
+    "next_steps": "Set up POC environment for Anita's team to evaluate"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Chloe Costa",
+      "title": "VP of Engineering",
+      "role": "Champion"
+    },
+    {
+      "name": "Priya Lee",
+      "title": "Chief Revenue Officer",
+      "role": "Champion"
+    },
+    {
+      "name": "Kevin Kim",
+      "title": "CTO",
+      "role": "Budget Owner"
+    }
+  ],
+  "property_coverage": 0.64
+}

@@ -1,0 +1,46 @@
+Call with: Alex Mitchell, Head of Infrastructure at PharmaPipe
+Date: February 17, 2026
+Duration: 25 min
+
+Key Points:
+- Alex mtg good energy
+- Eval 5 vendors incl us — us shortlisted
+- Budget alloc'd ~$600k
+- High infra costs eating margins — def pain
+- Poor dev exp slowing feature velocity bad
+- Inconsistent msg'ing across sales team — killing deals
+- Alex @ PharmaPipe 4yrs
+- Co: HC Tech, 171 emps (51-200 size)
+- IT budget +16% FY — good sign
+- Deal stage Proposal
+- Deal value 600k
+- Not Decision Maker — but key influencer
+- Decision timeline 2026-09-19
+- He's pushing Q2 close? 
+- Frustrated w/ current stack
+- Wants pricing fast
+- Mentioned scaling issues
+- Devs complaining loud
+- Margins down 12% last qtr
+- Us fits budget perfect
+- Competitors weak on dev tools
+- Next week possible demo
+- Pain high infra
+- Pain dev slowdown
+- Pain sales msg chaos
+- Referred IT dir too
+- She? Wants f/u
+- Budget locked thru FY
+- Prob PoC next
+
+Action Items:
+- [ ] Send pricing proposal to Alex by Fri (me)
+- [ ] Schedule demo next week w/ Alex + devs (me)
+- [ ] F/u IT dir intro — ask Alex for email (me)
+- [ ] Log pains in CRM — update stage Proposal (me)
+- [ ] Ping eng for custom infra savings calc by EOQ (eng team)
+
+Notes:
+Alex solid contact, 4yrs tenure knows pains inside out. PharmaPipe HC Tech co crushing on growth but infra costs/margins killing em — devs slow af bc poor exp, plus sales team msg inconsistent hurting pipeline. High energy on call, not final DM but def driving eval (he's pushing vendors hard). Us in mix w/ 4 others, budget 600k firm, IT up 16% helps. Deal tgt 9/19 close, stage Proposal now. Quick wins on pricing could lock.
+
+Mentioned scaling for 171 emps straining current setup — our stack fixes dev velocity + cuts costs 30% prob. He's frustrated, team? Wants fast move bc FY end pressure. F/u Fri pricing, demo next week. Not DM but gatekeeper, intro to real decider needed. Solid opp, margins pain acute. By EOQ push hard.

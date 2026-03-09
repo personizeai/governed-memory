@@ -1,0 +1,48 @@
+# ClassGrid — Account Overview
+
+## Company Background
+ClassGrid is a leading EdTech company specializing in innovative digital platforms for classroom management, student engagement, and administrative tools tailored for K-12 and higher education institutions. With approximately 452 employees—falling squarely within the 201-1000 company size range—they serve over 5,000 schools across North America and Europe, enabling teachers to streamline lesson planning, track student progress in real-time, and foster collaborative learning environments through AI-driven analytics and interactive modules. Founded in 2015 by a trio of former public school educators in Seattle who were frustrated with fragmented legacy systems that failed to keep pace with modern digital-native students, ClassGrid bootstrapped its way to Series B funding by 2019, pivoting from a simple grading app to a comprehensive ecosystem amid the rise of remote learning during the pandemic. Today, the company grapples with scaling challenges, including high infrastructure costs on AWS that are eating into margins, security concerns with their current architecture, and a recent board meeting last month that shifted priorities toward cost optimization and faster go-to-market for new features. Their tech stack is robust and modern, leveraging Go for backend services, Kubernetes for orchestration, AWS for cloud hosting, DynamoDB for NoSQL storage, and gRPC for efficient microservices communication.
+
+## Key Contacts
+| Name | Title | Role in Deal |
+|---|---|---|
+| Amanda Singh | Chief Product Officer | Primary Contact |
+| Amanda Thompson | Director of Sales Engineering | End User |
+| Daniel Patel | CTO | Champion |
+
+Amanda Singh, who has been with ClassGrid for 7 years and rose from Senior Product Manager to her current role as Chief Product Officer, is the linchpin for this opportunity; she owns product-led decisions and has been vocal about replacing their current HubSpot CRM setup augmented with Zapier automations. Amanda Thompson brings hands-on evaluation from the sales engineering side, testing integrations against ClassGrid's Go and Kubernetes-based stack. Daniel Patel, as CTO, acts as our internal champion, advocating for solutions that address security vulnerabilities in their DynamoDB and gRPC layers while curbing AWS bills that threaten profitability.
+
+## Meeting History
+### Meeting 1: Discovery Call (January 6, 2026)
+In our initial discovery call, the ClassGrid team outlined their core challenges with the existing HubSpot CRM integrated via Zapier automations, which has led to brittle workflows prone to failures during peak usage—exacerbating customer churn from slow support response times. Amanda Singh led the discussion, emphasizing how high infrastructure costs on AWS are eroding margins, particularly as their DynamoDB clusters scale unpredictably with student enrollment spikes. Daniel Patel highlighted security concerns with the current architecture, noting recent audits revealed gaps in gRPC endpoint protections that could expose sensitive student data. The team confirmed they're evaluating 5 vendors, including Clari, to modernize their stack while integrating seamlessly with Go and Kubernetes. They shared that a board meeting last month had realigned priorities toward infrastructure efficiency, and Amanda committed to circulating initial requirements. This 90-minute session ended with strong alignment on pain points like difficulty hiring specialized engineers for their niche tech stack, setting a collaborative tone; she mentioned their budget allocation hovered around $450,000 for a multi-year deal.
+
+### Meeting 2: Technical Deep Dive (February 3, 2026)
+The technical deep dive delved into ClassGrid's architecture, with Daniel Patel demoing their Go services orchestrating Kubernetes pods on AWS, backed by DynamoDB for high-throughput reads and gRPC for inter-service calls. Amanda Thompson stress-tested potential integrations, uncovering how their HubSpot-Zapier reliance causes delays in support ticketing, directly fueling churn. We mapped our solution against their pain points: security hardening for gRPC APIs, cost reductions via optimized AWS resource provisioning to combat those margin-eating bills, and automation to ease hiring strains for scarce Go/Kubernetes talent. Amanda Singh reiterated the board's recent shift—last month, they deprioritized greenfield features in favor of operational efficiencies—and confirmed the $450K budget envelope. They disclosed evaluating five vendors total, naming Clari as a key rival for its revenue intelligence but critiquing its weaker gRPC support. The call surfaced their decision timeline target of June 17, 2026, with next steps including Amanda sharing the RFP by end of this week. It agreed that deals up to $200K can be signed off directly by execs like Singh, but anything above requires board approval, given the post-meeting caution.
+
+## Technical Requirements
+- **Seamless Integration with Existing Stack**: Must support native compatibility with Go backend services, Kubernetes orchestration (EKS on AWS), DynamoDB for scalable NoSQL data handling, and gRPC protocols for low-latency microservices communication; no vendor lock-in or heavy refactoring.
+- **Security Enhancements**: Address current architecture vulnerabilities, including encrypted gRPC endpoints, compliance with FERPA for student data, automated DynamoDB access controls, and Kubernetes pod security policies to mitigate audit findings.
+- **Cost Optimization Tools**: Provide AWS-native cost forecasting, auto-scaling recommendations for Kubernetes clusters, and usage analytics to reduce infrastructure spend that's currently squeezing margins—targeting 20-30% savings.
+- **Improved Support and Churn Reduction**: AI-driven ticketing acceleration to slash response times from hours to minutes, integrating with HubSpot/Zapier migrations; predictive churn signals based on support interactions.
+- **Hiring and Scaling Efficiency**: Low-code/no-code modules for non-specialized engineers to maintain Go/gRPC pipelines, easing recruitment challenges in a tight EdTech talent market.
+- **Scalability for EdTech Workloads**: Handle seasonal spikes (e.g., back-to-school) with horizontal pod autoscaling, DynamoDB global tables for multi-region schools, and gRPC streaming for real-time classroom analytics.
+- **Analytics and Reporting**: Custom dashboards overlaying CRM data from HubSpot imports onto Kubernetes metrics, with export to AWS QuickSight.
+- **Budget-Aligned Deployment**: Phased rollout fitting ~$450,000 allocation, with options for direct exec sign-off under $200K thresholds.
+
+These requirements stem directly from their pain points, with Amanda Singh prioritizing security and costs in the RFP draft.
+
+## Deal Status
+We're in the Negotiation stage for this high-potential account, with an estimated deal value of $450,000 over three years—precisely matching their allocated budget. The timeline aims for close by June 17, 2026, though recent board discussions last month have introduced scrutiny on capex. Next steps include Amanda Singh sharing the full RFP by the end of this week, after which we'll submit a tailored proposal addressing their HubSpot CRM and Zapier limitations alongside AWS cost overruns. Blockers are minimal but notable: the buying process requires board approval for sums exceeding $200K, which this deal surpasses, and their evaluation of five vendors (including Clari) means we must differentiate on gRPC/AWS-native security. Internal champion Daniel Patel is pushing internally, but Amanda Thompson flagged potential delays if hiring freezes impact validation. Momentum is strong post-deep dive, with none of the contacts flagged as primary decision makers yet—Singh is influential but not final signatory. Overall, positioning remains favorable if we nail the RFP response.
+
+## Competitive Landscape
+ClassGrid is rigorously evaluating five vendors in total, including our solution, as they seek a robust replacement for HubSpot CRM with Zapier automations amid security and cost pressures.
+- **Clari**: Frequently mentioned for revenue forecasting strengths; however, Daniel Patel noted weak Kubernetes/gRPC integration and higher TCO on non-AWS stacks, giving us an edge.
+- **Other Unnamed Competitors**: Likely include enterprise CRM players like Salesforce or Outreach, focused on sales ops but lacking EdTech-specific scalability for DynamoDB workloads; they've been deprioritized per board shifts.
+- **Internal Build Option**: Briefly considered but dismissed due to hiring difficulties for specialized Go engineers.
+
+Our differentiation—deep AWS/DynamoDB optimization and gRPC security—positions us strongly, especially as Clari's pricing exceeds their $450K envelope.
+
+## Risk Factors
+- **Board Approval Hurdles**: Post their meeting last month, priorities shifted to cost controls; exceeding the $200K direct sign-off threshold for this $450K deal could trigger extended reviews or downsizing.
+- **Competitive Bake-Off**: With five vendors in play, including Clari's momentum in forecasting, any RFP slippage (e.g., delayed from end-of-week) risks them advancing alternatives; their security concerns might sway toward incumbents if we underperform.
+- **Internal Resource Constraints**: High infrastructure costs and difficulty hiring Kubernetes/Go specialists could delay technical validation by Amanda Thompson's team, prolonging the timeline past June 17 and inflating churn from unresolved support issues. (Word count: 1972)

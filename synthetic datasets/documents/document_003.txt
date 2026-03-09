@@ -1,0 +1,53 @@
+# CareStack — Account Overview
+
+## Company Background
+CareStack is a Healthcare Tech company specializing in cloud-based dental practice management software, serving small to mid-sized dental practices across North America. With approximately 24 employees—falling within the 11-50 company size range—they focus on streamlining administrative tasks, patient scheduling, billing, and analytics for dental offices, helping practices reduce no-shows, optimize revenue cycles, and improve patient experiences through intuitive digital tools. Founded in 2018 by a team of dentists and software engineers who were frustrated with fragmented legacy systems in the dental industry, CareStack emerged from Orlando, Florida, initially as a bootstrapped startup targeting underserved solo practitioners. The company's growth accelerated during the pandemic as telehealth and remote management became critical, leading to their current tech stack built on C#, .NET for backend services, Azure for cloud hosting, SQL Server for data persistence, and RabbitMQ for message queuing to handle real-time workflows. Despite their innovative approach, they've grappled with internal data silos between engineering and sales teams, which has hindered cross-functional visibility into customer needs and product roadmaps. Recently, their IT budget was increased by 30% this fiscal year to support modernization efforts, including a planned migration off legacy systems by the end of the year.
+
+## Key Contacts
+| Name | Title | Role in Deal | Tenure | Email | Notes |
+|---|---|---|---|---|---|
+| Raj Wright | CTO | Primary Contact | 1 year | raj.wright@carestack.com | Technical decision influencer; champions integration solutions |
+| Aisha Dubois | VP of Sales | End User | 3 years | aisha.dubois@carestack.com | Represents sales team pain points; advocates for real-time analytics |
+| Amanda Petrov | Director of Engineering | End User | 2 years | amanda.petrov@carestack.com | Oversees dev team; focused on Azure compatibility |
+
+## Meeting History
+### Meeting 1: Discovery Call (January 12, 2026)
+In this initial 45-minute virtual discovery call, facilitated by our Account Executive Sarah Lin and Solutions Engineer Mike Torres, CareStack's team outlined their core challenges amid rapid scaling. Raj Wright, who has been at CareStack for 1 year, led the discussion, emphasizing data silos between engineering and sales teams that prevent real-time collaboration on customer onboarding issues—they even lost a major customer last quarter due to these delays. Aisha Dubois highlighted the lack of real-time analytics for decision-making, which impacts sales forecasting accuracy. The group detailed their tech stack, including C#, .NET, Azure, SQL Server, and RabbitMQ, and expressed urgency around integration complexity with legacy systems as they plan a full migration by year-end. We positioned our platform's no-code integration capabilities as a direct fit, gathering initial requirements and scheduling a deeper technical review. Action items included sharing a high-level architecture diagram, which Raj confirmed receipt of via follow-up email.
+
+### Meeting 2: Technical Deep Dive (March 14, 2026)
+This 90-minute session, hosted on Zoom with screen-sharing, dove into architectural alignment, led by Raj Wright and Amanda Petrov. They demonstrated their current setup, showcasing how RabbitMQ handles asynchronous messaging but struggles with legacy SQL Server data syncing, exacerbating integration complexity. Discussions revealed that their engineering-sales data silos are causing duplicated efforts, with sales teams relying on outdated reports while engineers push real-time updates that aren't visible cross-team. Aisha joined midway to stress pain points like onboarding bottlenecks, tying back to the major client loss from last quarter. We walked through a proof-of-concept integration using our APIs with their .NET codebase on Azure, addressing migration plans off legacy systems by end-of-year. Budget details emerged: their IT spend rose 30% this fiscal year, earmarked for tools like ours. Raj raised questions on scalability for their 24-employee operation, and we committed to a customized ROI model. Next steps involved POC setup, targeted for early April.
+
+## Technical Requirements
+CareStack's needs center on resolving data silos, legacy integrations, and analytics gaps within their C#, .NET, Azure, SQL Server, and RabbitMQ environment. Key requirements include:
+
+- **Seamless Data Synchronization**: Bi-directional syncing between engineering databases (SQL Server) and sales CRMs to eliminate silos, supporting real-time updates via RabbitMQ queues without custom middleware.
+- **Legacy System Integration**: Low-code connectors for migrating off outdated on-prem systems by end-of-year, handling complex ETL processes from legacy .NET monoliths to Azure-hosted microservices.
+- **Real-Time Analytics Dashboard**: Customizable dashboards pulling from Azure data lakes, providing sales teams with live metrics on onboarding pipelines—critical after losing a key customer last quarter to delays.
+- **API-First Architecture Compatibility**: RESTful and GraphQL endpoints fully compatible with C#/.NET clients, including OAuth2 auth flows and webhook support for RabbitMQ event-driven triggers.
+- **Scalability for Growth**: Horizontal scaling on Azure to support their 11-50 employee size, with auto-provisioning for up to 500 concurrent dental practice users.
+- **Compliance and Security**: HIPAA-compliant data handling, with Azure Key Vault integration, audit logs, and role-based access mirroring their current SQL Server RBAC setups.
+- **Onboarding Automation**: Workflow builders to automate patient and billing migrations, reducing manual interventions that plagued their recent customer churn.
+- **Custom Reporting**: Ad-hoc query tools over federated data sources, bridging engineering telemetry and sales KPIs for unified insights.
+- **Monitoring and Alerts**: Integration with Azure Monitor and RabbitMQ management plugins for proactive issue detection in high-volume messaging scenarios.
+- **Migration Tooling**: Phased rollout scripts for legacy-to-cloud transitions, with rollback capabilities to minimize downtime during EOY push.
+
+These align closely with their 30% IT budget uplift, prioritizing quick wins in analytics and silos.
+
+## Deal Status
+CareStack is currently in the Qualification stage of our sales pipeline, with an estimated deal value of $180K ACV over a 3-year commitment, including premium support and custom integrations. We've qualified strong product-market fit based on their pain points—data silos between engineering and sales, integration complexity with legacy systems, and lack of real-time analytics—and they've validated our solution in the technical deep dive. The decision timeline targets June 8, 2026, aligning with their fiscal Q2 planning cycle, though internal stakeholders note flexibility if migration prep accelerates. No formal proposal has been sent yet; we're preparing one post-POC results expected mid-May. Blockers are minimal: Raj Wright requires executive buy-in from CEO (not yet engaged, as Decision Maker status is False), and they're evaluating three vendors total, including us, which introduces timing risks. Their recent 30% IT budget increase bolsters momentum, but onboarding lessons from last quarter's customer loss have made them cautious on implementation timelines. Overall, pipeline velocity is positive, with 75% close probability.
+
+## Competitive Landscape
+CareStack is rigorously evaluating three vendors, including our solution, as part of their modernization push:
+
+- **Us (Primary Contender)**: Strongest on Azure-native integrations and RabbitMQ compatibility; we've demonstrated superior handling of their data silo issues.
+- **Vendor A: Dentrix Ascend**: Incumbent-like player with dental-specific features but weaker on custom .NET integrations and real-time analytics; they're favored for familiarity but criticized for legacy bloat.
+- **Vendor B: Cloud9 Software**: Agile alternative with strong migration tools, but lacks deep SQL Server optimization and has higher pricing; appeals to their sales team for UI but trails in eng buy-in.
+
+No clear leader yet; our edge lies in addressing integration complexity head-on, positioning us ahead as they eye end-of-year legacy exodus.
+
+## Risk Factors
+- **Vendor Evaluation Delays**: With three options in play, including entrenched competitors like Dentrix, decision could slip past June 8 if POCs drag—exacerbated by their caution post-losing a big client last quarter to poor onboarding.
+- **Budget Reallocation Pressures**: Despite the 30% IT boost this year, shifting priorities toward migration could cap our deal scope; unclear pronoun references in their internal comms (they mentioned "it" affecting sales) suggest silos complicating approvals.
+- **Internal Stakeholder Alignment**: No identified Decision Maker (status: False), and Raj's short 1-year tenure means limited sway; engineering-sales divides could resurface, derailing unified commitment in about two months from now. 
+
+*(Document Word Count: 2116)*

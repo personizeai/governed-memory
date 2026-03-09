@@ -1,0 +1,192 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Tom Johnson <tom.johnson@shopfrontdigital.com>  
+Subject: Helping ShopFront Digital tackle scaling and messaging challenges during peak traffic  
+Date: Mon, Feb 2, 2026, 10:15 AM EST  
+
+Hi Tom,  
+
+I hope this email finds you well. I'm reaching out because I noticed ShopFront Digital has been growing rapidly as an e-commerce leader with around 161 employees, and your team is likely dealing with the usual pains of scaling during peak traffic periods—especially with your Rust and Actix backend on AWS, paired with PostgreSQL and NATS for messaging.  
+
+Our platform at TechnoNova specializes in AI-driven sales orchestration that ensures consistent messaging across your sales team while seamlessly integrating with your stack to handle spikes without downtime. We've helped similar e-commerce companies avoid the onboarding issues that led to losing major customers last quarter. Would love to chat about how we can support your evaluation?  
+
+Best,  
+Alex Morgan  
+Sales Executive  
+TechnoNova.io  
+(555) 123-4567  
+
+---
+
+From: Tom Johnson <tom.johnson@shopfrontdigital.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Helping ShopFront Digital tackle scaling and messaging challenges during peak traffic  
+Date: Tue, Feb 3, 2026, 2:45 PM EST  
+
+Hi Alex,  
+
+Thanks for the note. We've been experiencing exactly those scaling issues during peak traffic—our Actix services choke under load with NATS queuing up. Interesting that you mentioned onboarding; we did lose a major customer last quarter because of it.  
+
+Quick question: How does TechnoNova handle compliance for data handling in setups like ours on AWS and PostgreSQL? We're in the middle of evaluating two vendors including you guys.  
+
+Best,  
+Tom Johnson  
+Director of Sales Engineering  
+ShopFront Digital  
+(555) 987-6543  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Tom Johnson <tom.johnson@shopfrontdigital.com>  
+Subject: Re: Helping ShopFront Digital tackle scaling and messaging challenges during peak traffic  
+Date: Wed, Feb 4, 2026, 9:30 AM EST  
+
+> On Tue, Feb 3, 2026, 2:45 PM EST, Tom Johnson wrote:  
+> > Hi Alex,  
+> >   
+> > Thanks for the note. We've been experiencing exactly those scaling issues during peak traffic—our Actix services choke under load with NATS queuing up. Interesting that you mentioned onboarding; we did lose a major customer last quarter because of it.  
+> >   
+> > Quick question: How does TechnoNova handle compliance for data handling in setups like ours on AWS and PostgreSQL? We're in the middle of evaluating two vendors including you guys.  
+> >   
+> > Best,  
+> > Tom Johnson  
+> > Director of Sales Engineering  
+> > ShopFront Digital  
+> > (555) 987-6543  
+
+Hi Tom,  
+
+Great to hear from you—sorry about that customer loss; we've seen it happen too often with inconsistent sales messaging exacerbating onboarding delays. On compliance, TechnoNova is SOC 2 Type II certified and uses encrypted data pipelines that integrate directly with PostgreSQL on AWS, ensuring audit-proof handling. No more failures like you've faced recently.  
+
+As a light next step, our solution could unify your sales team's messaging (fixing those inconsistencies) while auto-scaling with your Rust/Actix setup for peaks. With your ~$120k budget allocated, this fits perfectly at an annual commitment around that range. You've also looked at HubSpot AI and Intercom—happy to compare how we outperform on your tech stack. Thoughts?  
+
+Best,  
+Alex Morgan  
+Sales Executive  
+TechnoNova.io  
+(555) 123-4567  
+
+---
+
+From: Tom Johnson <tom.johnson@shopfrontdigital.com>  
+To: Yusuf Fernandez <yusuf.fernandez@shopfrontdigital.com>  
+CC: Alex Morgan <alex.morgan@technova.io>  
+Subject: Fw: Helping ShopFront Digital tackle scaling and messaging challenges during peak traffic  
+Date: Thu, Feb 5, 2026, 11:20 AM EST  
+
+Yusuf,  
+
+Check this out from TechnoNova. Alex seems to get our scaling pains with Actix and NATS. I've been here 6 years and report directly to the CEO, so this is a priority. Can you review the tech fit, especially security concerns with our architecture and those compliance audit failures? We're evaluating them alongside HubSpot AI and Intercom.  
+
+Thanks,  
+Tom  
+
+---------- Forwarded message ---------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Wed, Feb 4, 2026, 9:30 AM EST  
+Subject: Re: Helping ShopFront Digital tackle scaling and messaging challenges during peak traffic  
+To: Tom Johnson <tom.johnson@shopfrontdigital.com>  
+
+> On Tue, Feb 3, 2026, 2:45 PM EST, Tom Johnson wrote: [truncated]  
+
+Hi Tom,  
+
+Great to hear from you... [content as above]  
+
+Best,  
+Alex Morgan  
+Sales Executive  
+TechnoNova.io  
+(555) 123-4567  
+
+Tom Johnson  
+Director of Sales Engineering  
+ShopFront Digital  
+(555) 987-6543  
+
+---
+
+From: Yusuf Fernandez <yusuf.fernandez@shopfrontdigital.com>  
+To: Tom Johnson <tom.johnson@shopfrontdigital.com>, Alex Morgan <alex.morgan@technova.io>  
+CC:  
+Subject: Re: Helping ShopFront Digital tackle scaling and messaging challenges during peak traffic  
+Date: Thu, Feb 5, 2026, 4:10 PM EST  
+
+> On Thu, Feb 5, 2026, 11:20 AM EST, Tom Johnson wrote:  
+> > Yusuf,  
+> >   
+> > Check this out from TechnoNova... [forwarded content truncated]  
+
+Hi Alex, Tom,  
+
+Thanks for looping me in, Tom. As our Solutions Architect, I'm digging into this. Your integration with Rust/Actix and NATS sounds promising for our peak traffic scaling, but we have security concerns with the current architecture—especially after those compliance audit failures on data handling.  
+
+Technically, how does TechnoNova ensure zero-downtime scaling on AWS with PostgreSQL persistence? Does it support NATS streaming for our sales messaging queues without introducing latency? Also, any benchmarks on e-commerce loads like ours (51-200 employees, but high volume)?  
+
+Yusuf Fernandez  
+Solutions Architect  
+ShopFront Digital  
+(555) 456-7890  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Yusuf Fernandez <yusuf.fernandez@shopfrontdigital.com>, Tom Johnson <tom.johnson@shopfrontdigital.com>  
+Subject: Re: Helping ShopFront Digital tackle scaling and messaging challenges during peak traffic  
+Date: Fri, Feb 6, 2026, 8:45 AM EST  
+
+> On Thu, Feb 5, 2026, 4:10 PM EST, Yusuf Fernandez wrote:  
+> > Hi Alex, Tom,  
+> >   
+> > Thanks for looping me in, Tom... [previous quotes truncated]  
+
+Hi Yusuf and Tom,  
+
+Appreciate the technical dive, Yusuf—great questions. TechnoNova uses Kubernetes-orchestrated auto-scaling proxies that hook into your Actix endpoints and NATS subjects, achieving zero-downtime deploys with sub-50ms latency on AWS (benchmarks available: 10x throughput during peaks vs. baseline Rust setups). For PostgreSQL, we layer on connection pooling with pgBouncer and row-level security for compliance, directly addressing your audit failures.  
+
+Security-wise, it's zero-trust with mTLS end-to-end, mitigating those architecture concerns—no vulnerabilities exposed in recent pen tests. This eliminates inconsistent sales messaging by AI-normalizing reps' outputs, preventing onboarding slips like last quarter's loss. Happy to share a POC tailored to your stack.  
+
+Best,  
+Alex Morgan  
+Sales Executive  
+TechnoNova.io  
+(555) 123-4567  
+
+---
+
+From: Tom Johnson <tom.johnson@shopfrontdigital.com>  
+To: Alex Morgan <alex.morgan@technova.io>, Yusuf Fernandez <yusuf.fernandez@shopfrontdigital.com>  
+Subject: Re: Helping ShopFront Digital tackle scaling and messaging challenges during peak traffic  
+Date: Mon, Feb 9, 2026, 1:30 PM EST  
+
+> On Fri, Feb 6, 2026, 8:45 AM EST, Alex Morgan wrote:  
+> > Hi Yusuf and Tom... [previous truncated]  
+
+Hi Alex,  
+
+Yusuf and I reviewed this over the weekend—he thinks it aligns well, especially for end of quarter pushes. As a decision maker reporting to the CEO, I'll present internally this week and circle back next week. Can we hop on a quick call to discuss next steps, like that POC? How's Wednesday work?  
+
+Tom Johnson  
+Director of Sales Engineering  
+ShopFront Digital  
+(555) 987-6543  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Tom Johnson <tom.johnson@shopfrontdigital.com>, Yusuf Fernandez <yusuf.fernandez@shopfrontdigital.com>  
+Subject: Re: Helping ShopFront Digital tackle scaling and messaging challenges during peak traffic  
+Date: Mon, Feb 9, 2026, 3:15 PM EST  
+
+> On Mon, Feb 9, 2026, 1:30 PM EST, Tom Johnson wrote:  
+> > Hi Alex,  
+> >   
+> > Yusuf and I reviewed... [previous truncated]  
+
+Perfect, Tom—Wednesday at 2 PM EST works great for me. I'll send a Calendly link shortly with agenda: POC demo, budget fit (~$120k aligns spot-on), and competitor comparison (HubSpot AI/Intercom lack your stack depth). Looking forward to it!  
+
+Best,  
+Alex Morgan  
+Sales Executive  
+TechnoNova.io  
+(555) 123-4567

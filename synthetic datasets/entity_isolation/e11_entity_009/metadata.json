@@ -1,0 +1,19 @@
+{
+  "entity_index": 9,
+  "name": "Amanda Williams",
+  "company": "Helix Software",
+  "industry": "Cybersecurity",
+  "email": "amanda.williams@helixsoftware.com",
+  "title": "CTO",
+  "facts": [
+    "Amanda Williams is CTO at Helix Software",
+    "Helix Software is a Cybersecurity company with 217 employees",
+    "Tech stack: Scala, Spark, Databricks, Snowflake, Airflow",
+    "Deal value: $400,000",
+    "Pain points: difficulty measuring ROI on AI initiatives; integration complexity with legacy systems",
+    "Competitors: Gong",
+    "Decision timeline: Q4 2026",
+    "Annual revenue: ~$130M"
+  ],
+  "actual_word_count": 355
+}

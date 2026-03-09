@@ -1,0 +1,16 @@
+### Account Overview
+Thistle AI is a prominent HRTech company specializing in AI-driven talent management and employee analytics solutions. With approximately 1658 employees and an annual revenue of ~$272M, Thistle AI serves enterprise clients seeking to optimize HR processes through advanced data insights. Our primary contact is Alex Okonkwo, Director of Analytics, reachable at alex.okonkwo@thistleai.com. Alex leads the analytics team, focusing on leveraging data to improve operational efficiency across HR functions. Thistle AI's growth trajectory positions it as a high-value B2B prospect, particularly as they scale their analytics capabilities amid competitive pressures in the HRTech space.
+
+### Key Details
+Thistle AI's tech stack includes TypeScript, React, Node.js, GCP, and MongoDB, enabling robust, scalable analytics platforms. Key pain points include high customer churn driven by slow support response times and inconsistent messaging across the sales team, which hampers retention and revenue growth. Currently, they rely on competitors like Chorus.ai, a custom internal tool, and HubSpot AI for conversation intelligence and sales enablement. These solutions fall short in delivering unified, real-time insights, creating opportunities for our platform to address gaps in analytics-driven support and messaging consistency. Alex Okonkwo has expressed frustration with fragmented tools, emphasizing the need for seamless integration with their existing GCP and MongoDB infrastructure.
+
+### Deal Status
+This opportunity carries a potential deal value of $250,000, targeting implementation of our analytics suite to tackle churn and sales alignment issues. Discussions with Alex have progressed positively, with initial demos highlighting synergies with Thistle AI's TypeScript/React/Node.js frontend and backend. The decision timeline is set for Q4 2026, aligned with their fiscal planning cycle. Competitive landscape remains fluid, with Chorus.ai as the frontrunner, but our tailored GCP compatibility provides a strong differentiator. Pipeline stage: Discovery/Qualification, with high intent signals from Alex's team.
+
+### Next Steps
+- Schedule follow-up call with Alex Okonkwo by end of next week to demo integrations with MongoDB and GCP.
+- Prepare customized ROI analysis addressing churn reduction from slow support (target: 20-30% improvement) and sales messaging consistency.
+- Engage technical stakeholders for POC on Node.js/React compatibility.
+- Monitor Q3 budget cycles for potential acceleration ahead of Q4 2026 decision.
+
+(Word count: 378)

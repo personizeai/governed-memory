@@ -1,0 +1,85 @@
+{
+  "sample_id": "document_037",
+  "content_type": "wiki_document",
+  "company": "ForgeNet Industries",
+  "industry": "Manufacturing",
+  "target_word_count": 2436,
+  "actual_word_count": 1530,
+  "expected_facts": [
+    {
+      "text": "Chloe Costa has been at ForgeNet Industries for 8 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with customer churn from slow support response times",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using Microsoft Dynamics with Power Automate",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 38% this fiscal year",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Java, Spring Boot, Azure, Oracle, Kafka",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with manual processes for customer onboarding",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "ForgeNet Industries is a Manufacturing company with about 24 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $169M",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $120,000",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Chief Revenue Officer",
+    "company_name": "ForgeNet Industries",
+    "company_size": "11-50",
+    "technology_stack": "Java, Spring Boot, Azure, Oracle, Kafka",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "customer churn from slow support response times",
+      "manual processes for customer onboarding"
+    ],
+    "deal_value": 120000,
+    "decision_maker": true,
+    "next_steps": "Schedule a technical deep-dive with Chloe's engineering team",
+    "buying_process": "Can sign off directly up to $200K, board approval above that",
+    "current_solution": "Microsoft Dynamics with Power Automate",
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Ivan Mueller",
+      "title": "VP of Operations",
+      "role": "Budget Owner"
+    },
+    {
+      "name": "Aisha Patel",
+      "title": "VP of Engineering",
+      "role": "Budget Owner"
+    }
+  ],
+  "property_coverage": 0.86
+}

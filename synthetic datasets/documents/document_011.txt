@@ -1,0 +1,67 @@
+# MedCore Analytics — Account Overview
+
+## Company Background
+
+MedCore Analytics is a healthcare technology company specializing in advanced data analytics platforms for medical providers and insurers. With approximately 48 employees, the firm operates in the competitive HealthTech sector, focusing on tools that aggregate patient data, predict outcomes, and optimize resource allocation across hospitals and clinics. Founded in 2018 by a team of former hospital administrators and data scientists frustrated with fragmented legacy systems in healthcare, MedCore bootstrapped its initial growth through grants and early contracts with regional providers. The company's annual revenue hovers around $68 million, driven by subscription-based analytics services that help clients reduce operational costs by up to 25%. Over the past few years, they've expanded from a small Seattle-based startup to a mid-sized player, but recent challenges, including the loss of a major customer last quarter due to onboarding issues, have prompted a strategic review. They're now planning a full migration off their legacy systems by the end of the year, aiming to modernize their infrastructure amid shifting board priorities.
+
+## Key Contacts
+
+| Name              | Title                  | Role in Deal       | Notes |
+|-------------------|------------------------|--------------------|-------|
+| Tom Park         | VP of Marketing       | Primary Contact   | With MedCore for 2 years; reports directly to the CEO. Highly responsive via email and Slack. |
+| Lucia Bhandari   | VP of Sales           | End User          | Leads sales team using our analytics dashboards daily; vocal about pain points in current workflows. |
+| Simone Tanaka    | VP of Operations      | Champion          | Advocates internally for our solution; organized the technical deep dive. |
+| Tariq Oduya      | Chief Product Officer | Budget Owner      | Controls the ~$850,000 allocated budget; focused on ROI metrics post-board meeting. |
+
+Tom has been instrumental in coordinating our outreach, and his direct line to the CEO gives him significant sway. Lucia's team relies heavily on the platform, making her feedback critical.
+
+## Meeting History
+
+### Meeting 1: Discovery Call (January 9, 2026)
+
+The initial discovery call with Tom Park and Lucia Bhandari lasted 45 minutes and set the stage for our engagement. They outlined MedCore's core challenges: their current reliance on internal Python scripts pulling data from multiple APIs leads to frequent downtime and data silos, especially during peak reporting periods. Tom emphasized the urgency following their board meeting last month, which shifted priorities toward scalable analytics to support the planned migration off legacy systems by year's end. Lucia shared specifics on how onboarding issues cost them a major customer last quarter, eroding trust in their homegrown solutions. We discussed high-level fit, and they expressed interest in our platform's API aggregation capabilities. He noted the company's $68M annual revenue but highlighted budget constraints around $850K for this initiative. Action items included sharing a customized demo script, which Tom confirmed receipt of promptly. The call ended positively, with Simone Tanaka looped in for follow-up.
+
+This meeting revealed their tech stack—Ruby on Rails backend on Heroku, PostgreSQL for storage, and Sidekiq for job queuing—which aligns well with our integrations. They were impressed by our quick value prop, but it was clear priorities had evolved recently.
+
+### Meeting 2: Technical Deep Dive (March 14, 2026)
+
+The technical deep dive, attended by all key contacts including Tariq Oduya, ran for 90 minutes and dove into architecture. Simone led the discussion on their operations pain points, demonstrating how Sidekiq queues back up under load from Python scripts querying disparate healthcare APIs like Epic and Cerner. Tariq grilled us on scalability, referencing the $850,000 budget allocation and demanding proof of ROI within six months. We walked through a live integration mockup, showing seamless data pulls into PostgreSQL without disrupting their Heroku-deployed Rails apps. Tom reiterated the end-of-year migration timeline, stressing that any solution must minimize downtime. Lucia raised concerns from sales about real-time dashboards, and we addressed those with custom Sidekiq hooks. He was optimistic, but they pushed for a POC by next quarter. Post-meeting, Simone sent detailed notes, championing our approach internally. This session solidified Qualification stage momentum, though Tariq's questions showed scrutiny.
+
+The deep dive highlighted redundancies in their stack; it became evident that our tool could consolidate those scripts efficiently. They appreciated the hands-on demo, which addressed onboarding fears head-on.
+
+## Technical Requirements
+
+- **Data Aggregation and ETL**: Must ingest and normalize data from 10+ healthcare APIs (e.g., FHIR-compliant sources, claims processors) currently handled by fragile internal Python scripts; support for scheduled pulls via Sidekiq integration required to avoid queue overflows.
+- **Real-Time Analytics Dashboards**: Customizable dashboards for sales and ops teams, with sub-second latency on PostgreSQL queries; must scale to 48 users without Heroku dyno spikes.
+- **Migration Compatibility**: Seamless integration with existing Ruby on Rails apps on Heroku; tools for exporting legacy data during end-of-year migration, minimizing downtime to under 4 hours.
+- **Security and Compliance**: HIPAA-compliant encryption at rest/transit; audit logs for all API interactions, addressing recent onboarding failures that lost a key customer.
+- **Scalability and Monitoring**: Auto-scaling job queues replacing Sidekiq bottlenecks; alerting for API failures, tied to their ~$68M revenue ops workflows.
+- **ROI Reporting**: Built-in metrics dashboard showing cost savings (target: 20% reduction in script maintenance); budget-gated at approximately $850,000 annually.
+- **Custom Integrations**: Plugins for PostgreSQL extensions and Rails middleware; support for board-mandated priority shifts like predictive modeling add-ons.
+
+These requirements stem directly from their stack and recent pains, with emphasis on replacing Python scripts that pull from multiple sources inefficiently.
+
+## Deal Status
+
+Currently in Qualification stage, with a potential deal value of $850,000 over the first year, aligned to their allocated budget. The decision timeline targets September 27, 2026, post their migration planning cycle, though no single decision maker exists—consensus required from Tariq (budget), Tom (strategy), and the CEO. Momentum is strong after the technical deep dive, where they validated our fit against their Ruby on Rails/Heroku/PostgreSQL/Sidekiq environment. Annual revenue of $68M provides ample justification, but they're cautious after losing a major client last quarter to onboarding woes. Next steps include a POC deployment by May, with Tom coordinating. Blockers are minor: internal alignment post-board meeting and custom integration specs. No Decision Maker flagged as True, per their matrix org structure. Overall, high probability if we deliver the POC flawlessly, supporting their legacy migration by end of year.
+
+Progress feels solid, but their recent shifts mean we must stay agile.
+
+## Competitive Landscape
+
+MedCore is evaluating three alternatives alongside us:
+- **DataHealth Pro**: Incumbent for basic ETL, but lacks real-time Rails integration; they're frustrated with its high costs (~20% above our quote) and poor Sidekiq compatibility.
+- **HealthSync Analytics**: Strong in HIPAA compliance, used by a competitor; however, migration tools are weak, clashing with their end-of-year timeline.
+- **Custom Dev Firm**: Internal debates on building in-house Python expansions, but board priorities shifted against it post-last month's meeting, citing the recent customer loss.
+
+We're positioned best on tech stack alignment and budget fit ($850K sweet spot), with Simone championing us over DataHealth. They view HealthSync as too rigid for Heroku/PostgreSQL tweaks.
+
+## Risk Factors
+
+- **Priority Shifts**: Board meeting last month realigned focus; if migration delays push beyond year-end, budget (~$850,000) could be reallocated, derailing timeline to September 27, 2026.
+- **Internal Buy-In**: No clear Decision Maker; Tariq controls funds, but Tom's CEO access might not sway ops—recent onboarding loss amplifies skepticism toward new vendors.
+- **POC Execution**: Their 48-employee team expects flawless Heroku/Sidekiq integration; any glitch in replacing Python scripts could echo the major customer churn, killing momentum in Qualification.
+
+These risks are manageable with proactive check-ins; Tom's 2-year tenure gives us an edge in navigating them. Revenue at $68M supports investment, but execution is key. Their size (11-50 employees) means decisions move fast once aligned.
+
+*(Word count: 2157)*

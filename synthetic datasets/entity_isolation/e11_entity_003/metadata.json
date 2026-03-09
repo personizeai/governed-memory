@@ -1,0 +1,19 @@
+{
+  "entity_index": 3,
+  "name": "Ivan Kaur",
+  "company": "Pinnacle Data",
+  "industry": "Healthcare Tech",
+  "email": "ivan.kaur@pinnacledata.com",
+  "title": "Head of Product",
+  "facts": [
+    "Ivan Kaur is Head of Product at Pinnacle Data",
+    "Pinnacle Data is a Healthcare Tech company with 1876 employees",
+    "Tech stack: Python, Django, AWS, PostgreSQL, Redis",
+    "Deal value: $250,000",
+    "Pain points: manual processes for customer onboarding; poor developer experience slowing feature velocity",
+    "Competitors: ZoomInfo, Salesforce Einstein",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$87M"
+  ],
+  "actual_word_count": 325
+}

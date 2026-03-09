@@ -1,0 +1,18 @@
+### Account Overview
+Nimbus Networks is a prominent FoodTech company specializing in innovative supply chain and logistics solutions for the food industry. With 2589 employees and an annual revenue of approximately $249M, they are scaling rapidly but facing operational hurdles. Our primary contact is Kevin O'Brien, VP of Operations at Nimbus Networks (kevin.o'brien@nimbusnetworks.com). Kevin oversees day-to-day operations, including engineering, sales alignment, and customer support processes. He's been instrumental in identifying inefficiencies that are impacting their growth trajectory.
+
+### Key Details
+Nimbus Networks runs on a modern tech stack including Python, Django, AWS, PostgreSQL, and Redis, which supports their data-heavy operations but has led to fragmented systems. Key pain points include data silos between engineering and sales teams, resulting in misaligned priorities; customer churn driven by slow support response times; and poor visibility into pipeline health, making forecasting unreliable. They're currently relying on a custom internal tool and Microsoft Copilot as competitors to our solution, but these fall short in integrating cross-functional data seamlessly.
+
+### Deal Status
+This is a high-potential opportunity with a projected deal value of $1,000,000. Kevin has expressed strong interest in addressing their pain points through our platform, which aligns perfectly with their tech stack for quick integration. The decision timeline is targeted for Q3 2026, pending alignment with their fiscal planning and a POC validation. Internal champions include Kevin and his ops team, with no major blockers identified yet. Competitive landscape shows frustration with the custom tool's scalability and Copilot's lack of FoodTech-specific features.
+
+### Next Steps
+1. Schedule a 30-minute deep-dive call with Kevin O'Brien next week to demo pipeline visibility features and map against their PostgreSQL/Redis setup.
+2. Prepare a customized ROI analysis highlighting churn reduction (targeting 20-30% improvement based on similar FoodTech clients) and silo-breaking integrations.
+3. Follow up with engineering leads for tech stack compatibility confirmation by end of month.
+4. Set internal reminder to track progress toward Q3 2026 decision, including stakeholder expansion if POC succeeds.
+
+Overall, this account represents a strategic win in FoodTech with Kevin as a decisive influencer. Prioritize momentum to displace incumbents.
+
+(Word count: 378)

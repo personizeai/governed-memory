@@ -1,0 +1,19 @@
+{
+  "entity_index": 85,
+  "name": "Felix Dubois",
+  "company": "Lotus AI",
+  "industry": "Manufacturing",
+  "email": "felix.dubois@lotusai.com",
+  "title": "Director of IT",
+  "facts": [
+    "Felix Dubois is Director of IT at Lotus AI",
+    "Lotus AI is a Manufacturing company with 2349 employees",
+    "Tech stack: Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+    "Deal value: $250,000",
+    "Pain points: data silos between engineering and sales teams; customer churn from slow support response times",
+    "Competitors: Clari, Salesforce Einstein",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$75M"
+  ],
+  "actual_word_count": 351
+}

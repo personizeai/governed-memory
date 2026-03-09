@@ -1,0 +1,73 @@
+{
+  "sample_id": "chat_028",
+  "content_type": "chat_log",
+  "company": "RetailNova",
+  "industry": "E-commerce",
+  "message_count_target": 42,
+  "actual_word_count": 640,
+  "expected_facts": [
+    {
+      "text": "They've also been evaluating Gong, building in-house",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Python, Django, AWS, PostgreSQL, Redis",
+      "type": "explicit"
+    },
+    {
+      "text": "RetailNova is a E-commerce company with about 158 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Nadia Park has been at RetailNova for 2 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $1,800,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with poor visibility into pipeline health",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with security concerns with current architecture",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Product",
+    "company_name": "RetailNova",
+    "company_size": "51-200",
+    "technology_stack": "Python, Django, AWS, PostgreSQL, Redis",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "security concerns with current architecture",
+      "poor visibility into pipeline health"
+    ],
+    "deal_value": 1800000,
+    "decision_timeline": "2026-08-27",
+    "competitors_mentioned": [
+      "Gong",
+      "building in-house"
+    ],
+    "next_steps": "Set up POC environment for Nadia's team to evaluate",
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 5,
+    "temporal_issues": 2,
+    "duplicate_facts": 2
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@keiko.e"
+  ],
+  "property_coverage": 0.79
+}

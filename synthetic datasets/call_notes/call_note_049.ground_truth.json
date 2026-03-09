@@ -1,0 +1,66 @@
+{
+  "sample_id": "call_note_049",
+  "content_type": "call_notes",
+  "company": "SyncWave",
+  "industry": "B2B SaaS",
+  "duration_minutes": 45,
+  "target_word_count": 510,
+  "actual_word_count": 304,
+  "expected_facts": [
+    {
+      "text": "They're dealing with manual processes for customer onboarding",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using legacy Java application maintained by one person",
+      "type": "explicit"
+    },
+    {
+      "text": "SyncWave is a B2B SaaS company with about 4947 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with difficulty measuring ROI on AI initiatives",
+      "type": "explicit"
+    },
+    {
+      "text": "Simone Johnson has been at SyncWave for 6 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $450,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Apollo.io, Microsoft Copilot, Intercom",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Sales Engineering",
+    "company_name": "SyncWave",
+    "company_size": "1000+",
+    "technology_stack": "Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "manual processes for customer onboarding",
+      "difficulty measuring ROI on AI initiatives"
+    ],
+    "deal_value": 450000,
+    "decision_timeline": "2026-05-31",
+    "competitors_mentioned": [
+      "Apollo.io",
+      "Microsoft Copilot",
+      "Intercom"
+    ],
+    "decision_maker": false,
+    "buying_process": "Procurement requires three competitive bids before decision",
+    "current_solution": "legacy Java application maintained by one person",
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1
+  },
+  "property_coverage": 0.93
+}

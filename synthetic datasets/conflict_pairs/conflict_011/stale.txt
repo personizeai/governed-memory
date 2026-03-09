@@ -1,0 +1,22 @@
+**Sales Meeting Note**  
+**Date:** October 20, 2025  
+**Contact:** Jennifer Tanaka, VP Engineering, Nimbus Networks (E-commerce)  
+**Duration:** 45 min via Zoom  
+**Attendees:** JT, me (SR), Nimbus Eng Lead (Alex Kim)  
+
+**Summary:** Productive intro call focused on Nimbus's e-commerce platform scaling needs. Company has approximately 150 total employees, with engineering team of ~25 driving rapid feature rollouts for their marketplace app serving 2M+ monthly users. JT highlighted Q4 growth targets amid holiday traffic surges.  
+
+**Key Discussion Points:**  
+- **Pain Points:** Frequent downtime during flash sales; legacy infra struggles with real-time inventory sync. Migrating from on-prem to hybrid cloud but facing 30% cost overruns.  
+- **Our Value Prop:** Pitched our AI-driven load balancer—demoed quick ROI calc showing 25% savings vs. their AWS setup. JT intrigued by auto-scaling features tailored for e-comm spikes.  
+- **Timeline/Budget:** Eng eval in Nov; budget ~$250K allocated Q1 2026, pending CTO sign-off. No hard blockers; they're phasing out competitor tool (Fastly).  
+- **Org Insights:** Recent funding round boosted headcount; prioritizing dev productivity tools alongside infra.  
+
+**Next Steps:**  
+- Send tailored demo link and e-comm case study (RetailX, 40% perf gain) by EOD tomorrow.  
+- Schedule technical deep-dive w/ Alex K for Nov 4.  
+- Follow up Nov 1 if no reply.  
+
+**Assessment:** Strong fit—hot lead, 80% close probability. JT responsive; nurture aggressively.  
+
+(Word count: 218)

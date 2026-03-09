@@ -1,0 +1,63 @@
+[09:45] @alex.m: @channel quick update on FreightPulse - had the call with James Mueller yesterday. They're a logistics co with ~1557 employees, 1000+ scale for sure.
+[👍 from @sarah.k]
+[09:46] @sarah.k: Nice, what's the vibe?
+[09:47] @alex.m: High urgency tbh. VP of Ops James has been there 4 years, struggling with compliance audit failures on data handling.
+[09:48]  ↳ @mike.r: Compliance issues? Like what specifically?
+[09:49] @alex.m: Yeah, data handling audits failing. Also difficulty hiring specialized engineers for their stack: Scala, Spark, Databricks, Snowflake, Airflow.
+[09:50] @brian.b: Got it, that stack sounds heavy. Makes sense why hiring's tough.
+[09:51] @sarah.k: They've been looking at Salesforce Einstein too, right? Competitors mentioned.
+[09:52] @alex.m: Yep, evaluating that. But ngl, they like our demo better imo.
+[09:53]  ↳ @sarah.k: She said that? Who's she?
+[09:54] @alex.m: James mentioned it. Budget's approx $1,200,000 allocated. Deal value lines up at 1.2M.
+[👍 from @mike.r]
+[09:55] @mike.r: Solid budget. Decision timeline?
+[09:56] @alex.m: 2026-08-26, but pushing for faster.
+[09:57] @brian.b: High urgency level confirmed?
+[09:58] @alex.m: Def high. Next steps: James will share RFP by end of week.
+[09:59] @sarah.k: End of week like tomorrow or Friday?
+[10:00] @mike.r: Lmk when you get it Alex.
+[10:01]  ↳ @alex.m: Tomorrow probably, he said end of week.
+[10:02] @brian.b: Fwiw, FreightPulse pricing page for ref [shared link: FreightPulse pricing page]
+[👍 from @alex.m] [👍 from @sarah.k]
+[10:03] @sarah.k: Thx Brian. Company size 1557 employees? Saw that in notes.
+[10:04] @mike.r: Yeah ~1557, logistics giant basically.
+[10:05] @alex.m: Pain points nailed: hiring engineers and compliance failures.
+[10:06]  ↳ @brian.b: They mentioned that last Friday too?
+[10:07] @sarah.k: Makes sense. Our solution fits their tech stack perfectly.
+[10:08] @mike.r: @here anyone free for demo prep next sprint?
+[10:09] @alex.m: I'm in. James loves the Airflow integration.
+[10:10] @brian.b: He does? Or was that someone else?
+[10:11] @sarah.k: Tbh excited, 1.2M deal potential.
+[10:12] @mike.r: Repeated but yeah budget $1,200,000 confirmed.
+[10:13] @alex.m: Got it Mike.
+[10:14]  ↳ @sarah.k: Who's confirming? James?
+[10:15] @brian.b: Urgency high so let's loop in eng for stack questions.
+[10:16] @mike.r: +1, Scala/Spark pains are real for them.
+[10:17] @sarah.k: They said they're not interested in Einstein anymore?
+[10:18] @alex.m: Not sure, but leaning our way.
+[10:19] @brian.b: Cool, RFP incoming end of week.
+[10:20] @mike.r: 👍
+[10:21] @alex.m: James Mueller, VP Ops, key contact.
+[10:22]  ↳ @sarah.k: Been there 4 years right?
+[10:23] @brian.b: Yep 4 years.
+[10:24] @mike.r: Difficulty hiring engineers is their biggest pain rn.
+[10:25] @sarah.k: And compliance audits failing on data handling.
+[10:26] @alex.m: Both pains yeah.
+[10:27] @brian.b: Snowflake/Airflow tweaks could seal it.
+[10:28] @mike.r: Fwiw I saw their pricing [shared link: FreightPulse pricing page] aligns with our quote.
+[10:29] @sarah.k: Thx for share.
+[10:30] @alex.m: Decision by 2026-08-26 but high urgency pushes earlier.
+[10:31]  ↳ @mike.r: Tomorrow's call confirm?
+[10:32] @brian.b: Lmk updates Alex.
+[10:33] @sarah.k: Got it.
+[10:34] @mike.r: Pain points: engineers + compliance. Nailed.
+[10:35] @alex.m: Tech stack deets: Scala, Spark etc.
+[10:36] @brian.b: Makes sense.
+[10:37] @sarah.k: Competitors out: Salesforce Einstein.
+[10:38]  ↳ @alex.m: She mentioned they're dropping it?
+[10:39] @mike.r: James will share RFP EOW.
+[10:40] @alex.m: @team pumped for this 1.2M close.
+[👍 from @brian.b] [👍 from @sarah.k]
+[10:41] @brian.b: High urgency = hustle time.
+[10:42] @sarah.k: Agreed imo.
+[10:43] @mike.r: All good, tracking.

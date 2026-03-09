@@ -1,0 +1,16 @@
+### Account Overview
+Ironclad AI is a CleanTech company specializing in AI-driven solutions for sustainable energy management. With 2280 employees and annual revenue of ~$279M, they are a high-growth prospect facing scalability challenges in their engineering operations. Primary contact is Chloe Nakamura, VP of Engineering (chloe.nakamura@ironcladai.com), who oversees development teams and is actively evaluating tools to optimize their tech infrastructure and customer support processes.
+
+### Key Details
+Ironclad AI's tech stack includes Java, Spring Boot, Azure, Oracle, and Kafka, supporting their complex data pipelines for CleanTech applications. Key pain points include difficulty measuring ROI on AI initiatives, which hampers strategic investments, and customer churn driven by slow support response times. Their current setup relies on competitors like Clari and existing CRM workflows, which are not fully addressing these gaps in analytics and efficiency.
+
+### Deal Status
+This opportunity represents a $250,000 deal targeting enhancements to their CRM and AI measurement capabilities. Chloe Nakamura has expressed strong interest in solutions that integrate seamlessly with their stack to resolve ROI tracking and support speed issues. Decision timeline is targeted for Q4 2026, aligned with their fiscal planning cycle. The prospect is in the evaluation stage, with initial demos completed and positive feedback on potential ROI improvements over Clari.
+
+### Next Steps
+- Schedule follow-up call with Chloe Nakamura by end of next week to demo ROI analytics tailored to Java/Spring Boot environments.
+- Prepare customized proposal addressing customer churn via Kafka-integrated support workflows.
+- Engage technical team for Azure/Oracle compatibility validation.
+- Monitor for any shifts in timeline and nurture with case studies from similar CleanTech firms.
+
+(Word count: 312)

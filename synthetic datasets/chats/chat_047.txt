@@ -1,0 +1,93 @@
+[09:15] @alex.m: Quick update from discovery call with Aisha Petrov @ StreamOps. They're a digital media co with 11-50 folks, she's been there 6 yrs as Dir of Sales Eng. Deal stage discovery, urgency critical tbh. [👍 from @sarah.k]
+
+[09:17] @sarah.k: Nice! What pains did she highlight?
+
+[09:18] @alex.m: Spreadsheets and manual data entry everywhere. Fragmented tooling across depts too.
+
+  ↳ [09:19] @mike.r: Spreadsheets? Oof, classic. Who's on that?
+
+[09:20] @alex.m: Security concerns with their current architecture as well. Ngl, sounds painful.
+
+[09:21] @keiko.f: Got it. Tech stack?
+
+[09:22] @alex.m: Rust, Actix, AWS, Postgres, NATS. Modern but fragmented imo.
+
+  ↳ [09:23] @sarah.k: Rust? That's cool, we integrate well there.
+
+[09:24] @mike.r: She mention budget or buying process?
+
+[09:25] @alex.m: Fast-track for under 150k with direct VP approval. Tomorrow we follow up?
+
+[09:26] @sarah.k: Makes sense. @here anyone free for next call prep?
+
+[09:27] @keiko.f: Yup, lmk time.
+
+[09:28] @alex.m: Also shared their pricing page fwiw [shared link: StreamOps pricing page]
+
+[09:29] @mike.r: Checking it now. Security stuff - did they say how bad?
+
+  ↳ [09:30] @alex.m: He said it's a blocker, but who is he? Wait, she actually, Aisha.
+
+[09:31] @sarah.k: Lol unclear, but yeah security is key.
+
+[09:32] @keiko.f: They using spreadsheets still? Heard that last Friday too.
+
+[09:33] @alex.m: Yep, manual entry killing them. Repeated it twice on call.
+
+[09:34] @mike.r: Fwiw our demo covers that perfectly.
+
+  ↳ [09:35] @sarah.k: +1 [👍 from @mike.r]
+
+[09:36] @alex.m: Dept fragmentation is big - eng vs sales tooling mismatch.
+
+[09:37] @keiko.f: She say timeline? Critical urgency means what?
+
+[09:38] @sarah.k: Prolly next sprint for POC.
+
+[09:39] @mike.r: NATS for messaging? We sync great with that.
+
+[09:40] @alex.m: Exactly. Aisha lit up when I mentioned it.
+
+[09:41] @keiko.f: Gotcha. Who else on buying committee?
+
+  ↳ [09:42] @alex.m: Not sure yet, she handles it mostly.
+
+[09:43] @sarah.k: Security concerns - patchable? Or full rewrite?
+
+[09:44] @mike.r: Their arch sounds solid but gaps.
+
+[09:45] @alex.m: Manual data entry is the real killer imo.
+
+[09:46] @keiko.f: Agreed, spreadsheets for 44 people? No way.
+
+[09:47] @sarah.k: Wait 11-50 or 44? Close enough.
+
+  ↳ [09:48] @mike.r: She confirmed ~44 last call? [🤔 from @keiko.f]
+
+[09:49] @alex.m: Yeah. Fast-track vp approval sounds easy.
+
+[09:50] @mike.r: Let's push demo tomorrow.
+
+[09:51] @keiko.f: 👍 Makes sense.
+
+[09:52] @sarah.k: Pain points nailed: fragmented tooling, security.
+
+[09:53] @alex.m: And current solution sucks - spreadsheets.
+
+  ↳ [09:54] @keiko.f: Spreadsheets yeah, mentioned it earlier too.
+
+[09:55] @mike.r: Tech stack repeat: AWS Postgres etc solid base.
+
+[09:56] @sarah.k: @channel eyes on this? Critical urgency!
+
+[09:57] @alex.m: Aisha been there 6 yrs, knows the pains deep.
+
+[09:58] @keiko.f: Who is "they" on security? Eng team?
+
+[09:59] @mike.r: Prolly, she didn't specify.
+
+[10:00] @sarah.k: Ngl excited, this could close fast.
+
+[10:01] @alex.m: Agreed. Next steps: schedule demo.
+
+  ↳ [10:02] @keiko.f: Got it, on it. [👍 from @alex.m]

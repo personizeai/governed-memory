@@ -1,0 +1,16 @@
+### Account Overview
+Hazel Tech is a SpaceTech company specializing in advanced satellite technologies and orbital data solutions, employing 1467 people with an annual revenue of ~$66M. Primary contact is Ivan Patel, VP of Sales at Hazel Tech (ivan.patel@hazeltech.com). As VP of Sales, Ivan oversees revenue operations and is actively evaluating solutions to streamline sales and dev workflows amid rapid growth in the competitive SpaceTech sector.
+
+### Key Details
+Hazel Tech's tech stack includes TypeScript, React, Node.js, GCP, and MongoDB, supporting their scalable cloud-native applications for mission-critical space operations. Key pain points include fragmented tooling across departments, which hinders cross-functional collaboration; poor developer experience slowing feature velocity and delaying product releases; and integration complexity with legacy systems, complicating data flows between sales, engineering, and ops teams. Competitors in consideration: Clari and HubSpot AI, as Hazel Tech seeks a unified platform to consolidate CRM, forecasting, and dev tools.
+
+### Deal Status
+This high-potential opportunity has a projected deal value of $1,000,000. Ivan Patel has expressed strong interest following initial demos, citing alignment with their tech stack and pain points. Decision timeline is targeted for Q4 2026, aligned with their fiscal planning cycle. Current stage: Proposal stage, with positive internal buy-in from sales leadership. Risks include budget approvals amid SpaceTech market volatility, but momentum is building with executive sponsorship.
+
+### Next Steps
+- Schedule follow-up call with Ivan Patel next week to demo integrations with GCP and MongoDB.
+- Prepare customized ROI analysis addressing fragmented tooling and dev velocity issues, benchmarking against Clari and HubSpot AI.
+- Engage technical stakeholders for proof-of-concept on legacy system compatibility.
+- Set internal review in 2 weeks to refine proposal ahead of Q4 timeline.
+
+(Word count: 348)

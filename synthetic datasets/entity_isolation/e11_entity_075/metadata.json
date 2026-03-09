@@ -1,0 +1,19 @@
+{
+  "entity_index": 75,
+  "name": "Aisha Chen",
+  "company": "Ivy Analytics",
+  "industry": "BioTech",
+  "email": "aisha.chen@ivyanalytics.com",
+  "title": "VP of Sales",
+  "facts": [
+    "Aisha Chen is VP of Sales at Ivy Analytics",
+    "Ivy Analytics is a BioTech company with 161 employees",
+    "Tech stack: Python, Django, AWS, PostgreSQL, Redis",
+    "Deal value: $650,000",
+    "Pain points: difficulty hiring specialized engineers; manual processes for customer onboarding",
+    "Competitors: Salesforce Einstein, ZoomInfo",
+    "Decision timeline: Q3 2026",
+    "Annual revenue: ~$33M"
+  ],
+  "actual_word_count": 304
+}

@@ -1,0 +1,97 @@
+[09:15] @alex.m: @here quick update on PayGrid Financial - just got off discovery call with James Kim, their Director of Analytics. He's been there 8 years, ngl seems like a decision maker. Deal stage is Discovery rn.
+
+[👍 from @sarah.k]
+
+[09:16] @sarah.k: Nice! What's their vibe? Budget talk?
+
+[09:17] @alex.m: Budget's approx $1.8M allocated. Annual revenue ~$112M, fintech with 183 employees (51-200 size). Tech stack is Python, Django, AWS, Postgres, Redis - perfect fit imo.
+
+[09:18]  ↳ @mike.r: $1.8M? Sweet, that's deal value territory.
+
+[09:19] @sarah.d: Got it. Pains?
+
+[09:20] @alex.m: Big ones: manual processes for customer onboarding, security concerns with current architecture. Also customer churn from slow support times, fragmented tooling across depts.
+
+[09:21]  ↳ @sarah.k: Manual onboarding sucks tbh, we've seen that kill deals elsewhere.
+
+[👍 from @mike.r]
+
+[09:22] @mike.r: Competitors? He mention any?
+
+[09:23] @alex.m: Yeah, evaluating Clari and Chorus.ai. But their stack screams us over those.
+
+[09:24]  ↳ @sarah.d: Clari's weak on security imo. She said they're not interested? Wait who.
+
+[09:25] @sarah.k: Decision timeline?
+
+[09:26] @alex.m: Aiming for 2026-08-20, like end of Q3 next year. Long runway but solid.
+
+[09:27] @mike.r: PayGrid's ~183 employees, fintech scaling fast. James Kim's tenure is key fwiw.
+
+[09:28]  ↳ @alex.m: Yep repeated that, solid point.
+
+[09:29] @sarah.d: Tech stack matches great: Python/Django/AWS/Postgres/Redis. Lmk if we need to demo that.
+
+[09:30] @alex.m: [shared link: PayGrid Financial pricing page] Check their public pricing, aligns with our $1.8M play.
+
+[09:31]  ↳ @mike.r: Looking now, makes sense for revenue scale.
+
+[09:32] @sarah.k: Security concerns - they say current arch is vulnerable? Need more deets.
+
+[09:33] @alex.m: He mentioned breaches last quarter, manual onboarding causing delays too.
+
+[09:34]  ↳ @sarah.d: He who? James?
+
+[09:35] @mike.r: Churn from slow support is huge, fragmented tooling across depts too.
+
+[09:36] @sarah.k: @channel let's prioritize this - discovery but high value.
+
+[09:37] @alex.m: Agreed. Next call tomorrow with James.
+
+[09:38]  ↳ @mike.r: Tomorrow works, got it.
+
+[👍 from @sarah.d]
+
+[09:39] @sarah.d: They're dealing with manual processes bad, and security. We've got proofs.
+
+[09:40] @alex.m: Yeah, Clari won't touch their stack like we do.
+
+[09:41]  ↳ @sarah.k: Chorus.ai either imo.
+
+[09:42] @mike.r: Fwiw, last Friday I checked Clari reviews - meh on fintech security.
+
+[09:43] @sarah.d: Makes sense. James been there 8 years, knows the pains inside out.
+
+[09:44]  ↳ @alex.m: For sure, decision maker vibes.
+
+[09:45] @sarah.k: Deal value $1,800,000 locked? Budget matches.
+
+[09:46] @alex.m: Approx yes. Revenue $112M supports it.
+
+[09:47]  ↳ @mike.r: Repeated revenue fact, bullish.
+
+[09:48] @mike.r: Timeline to 2026-08-20? We push earlier?
+
+[09:49] @sarah.d: Slow support churn is killer for them.
+
+[09:50]  ↳ @sarah.k: Yep, she mentioned it too. Who she tho.
+
+[09:51] @alex.m: Next sprint let's prep competitor matrix vs Clari/Chorus.
+
+[09:52] @sarah.k: 👍 on that.
+
+[09:53] @mike.r: Got it, I'll own the security angle.
+
+[09:54] @sarah.d: Cool, fragmented tooling pitch ready.
+
+[09:55] @alex.m: PayGrid 183 employees, scaling pains real.
+
+[09:56]  ↳ @sarah.k: Facts check out.
+
+[09:57] @mike.r: James Kim Director of Analytics - loop him on demo?
+
+[09:58] @alex.m: Yes, tomorrow.
+
+[09:59] @sarah.d: All good here.
+
+[10:00] @sarah.k: Thx team, this one's winnable.

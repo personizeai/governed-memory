@@ -1,0 +1,65 @@
+# ApiGrid — Account Overview
+
+## Company Background
+
+ApiGrid is a prominent B2B SaaS company specializing in API orchestration and data grid solutions for enterprise clients across fintech, e-commerce, and healthcare sectors. With approximately 844 employees—placing them squarely in the 201-1000 company size category—they enable organizations to unify disparate data sources into scalable, real-time grids for analytics and decision-making. Founded in 2018 by a trio of former Google Cloud architects who identified gaps in legacy API management during their time building distributed systems, ApiGrid bootstrapped its way to profitability by 2022 through early contracts with mid-market fintech firms. The company's rapid ascent has been fueled by a focus on cloud-native architectures, and their engineering team is in the midst of significant expansion, having onboarded 7 new hires this quarter to bolster development capacity amid surging demand. Today, ApiGrid powers over 500 customer deployments worldwide, but internal challenges like security vulnerabilities in their existing setup and performance bottlenecks during high-traffic events are prompting a strategic reevaluation of core infrastructure.
+
+## Key Contacts
+
+| Name | Title | Role in Deal |
+|---|---|---|
+| Chloe Baker | VP of Marketing | Primary Contact |
+| Emily Alvarez | CTO | Technical Evaluator |
+| Tariq Ito | Director of IT | Champion |
+| Lisa O'Brien | Chief Revenue Officer | End User |
+| Daniel Costa | Director of Engineering | Technical Evaluator |
+
+Chloe Baker, who has been with ApiGrid for 6 years, serves as the primary contact and decision maker, driving cross-functional alignment on vendor evaluations. Emily Alvarez and Daniel Costa provide technical scrutiny, while Tariq Ito acts as our internal advocate, and Lisa O'Brien represents end-user needs from the revenue side.
+
+## Meeting History
+
+### Meeting 1: Discovery Call (January 6, 2026)
+
+The initial discovery call on January 6, 2026, lasted 45 minutes and set the foundation for our engagement with ApiGrid. Chloe Baker led the discussion, outlining the company's B2B SaaS operations and highlighting key pain points, including security concerns with their current architecture and scaling issues during peak traffic periods that have led to downtime in production environments. They revealed their reliance on internal Python scripts to aggregate data from multiple APIs, a makeshift solution that's become unsustainable as their user base grows. The team shared details of their tech stack—TypeScript for frontend, React for UI components, Node.js for backend services, GCP for hosting, and MongoDB for data persistence—emphasizing compatibility needs. Chloe noted the engineering team's recent growth, mentioning they had added seven engineers just last quarter to tackle these challenges, but internal tooling still lags. We positioned our solution as a drop-in replacement for their scripts, and they confirmed they're evaluating four vendors total, including us. Next steps included scheduling a technical deep dive, with Chloe committing to share initial requirements by the following week.
+
+### Meeting 2: Technical Deep Dive (February 15, 2026)
+
+In the February 15, 2026, technical deep dive—a 90-minute session attended by Emily Alvarez, Daniel Costa, and Tariq Ito—we delved into ApiGrid's architecture and demonstrated our platform's integration capabilities. Daniel walked us through their Node.js microservices on GCP, which integrate React frontends with MongoDB backends, but suffer from brittle Python scripts that pull from fragmented APIs, exacerbating security risks like unencrypted data flows and authentication gaps. Scaling woes were a focal point; during peak hours, their system buckles under load, causing latency spikes that impact customer dashboards. Tariq championed our API unification approach, praising its potential to streamline what their growing engineering team—bolstered by those seven recent hires—is struggling to maintain manually. Emily probed on TypeScript SDK support and GCP-native scaling, which we validated via live demo. They reiterated evaluations of Salesforce Einstein for predictive analytics, Clari for revenue intelligence, and Microsoft Copilot for code assistance, positioning us strongly on pure API orchestration. Chloe followed up post-meeting with a note that the RFP would arrive by end of this week, aligning with their IT committee's quarterly review cycle.
+
+## Technical Requirements
+
+- **API Aggregation and Unification**: Replace fragile internal Python scripts that currently pull data from 20+ disparate APIs, enabling seamless orchestration with minimal custom code.
+- **Scalability for Peak Loads**: Handle traffic surges (up to 10x baseline during e-commerce peaks) without downtime, leveraging auto-scaling compatible with GCP environments.
+- **Security Enhancements**: Address vulnerabilities in existing architecture, including token management, encryption-at-rest, and compliance with SOC 2 and GDPR via zero-trust API gateways.
+- **Tech Stack Integration**: Native support for TypeScript, React (for dashboard embedding), Node.js services, GCP (Kubernetes and Cloud Run), and MongoDB (schema-flexible querying).
+- **Real-Time Data Grids**: Low-latency aggregation into interactive grids for analytics, with WebSocket support for live updates in React apps.
+- **Developer Experience**: SDKs and CLI tools for their expanding engineering team, including automated testing for Node.js endpoints.
+- **Monitoring and Observability**: Built-in metrics dashboards integrable with GCP Monitoring, alerting on scaling thresholds and security events.
+- **Customization and Extensibility**: Plugin architecture for custom transformations, supporting their B2B SaaS model where tenants require isolated data views.
+
+These requirements stem directly from their pain points and were validated in the technical deep dive.
+
+## Deal Status
+
+ApiGrid is currently in the Discovery deal stage, with a targeted value of approximately $75,000 for the initial annual commitment, covering up to 50 API endpoints and 10 engineering seats. The decision timeline is set for June 15, 2026, aligning with their IT committee's quarterly evaluation window in Q3 2026, where proposals undergo formal review. Urgency is rated medium, as they're not in crisis mode but motivated by ongoing scaling disruptions and security audits due next month. Key next steps include Chloe Baker sharing the RFP by the end of this week, followed by our submission ahead of the committee's cycle. No major blockers at present, though internal debates on build-vs-buy persist; Tariq Ito continues to advocate strongly. Budget is pre-allocated at $75k, signaling serious intent amid their engineering expansion. Overall progress is positive, with technical evaluators expressing enthusiasm for our GCP-native fit over broader platforms like competitors.
+
+## Competitive Landscape
+
+ApiGrid is rigorously evaluating four vendors in total, including our solution, as they seek a robust API management upgrade:
+
+- **Salesforce Einstein**: Strong on AI-driven predictions but weak on pure API orchestration; they're testing it for analytics augmentation, though integration with their Node.js/GCP stack raises concerns.
+- **Clari**: Focused on revenue ops intelligence, appealing to Lisa O'Brien's team, but lacks depth in scaling API grids for engineering use cases.
+- **Microsoft Copilot**: Attractive for TypeScript/Node.js code acceleration given their dev-heavy focus, yet criticized for Azure lock-in conflicting with GCP preferences.
+- **Internal Build**: Considered but deprioritized due to the engineering team's bandwidth constraints post-recent hires.
+
+We differentiate on specialized API unification, directly addressing their Python script pains, positioning us as the technical frontrunner per the deep dive feedback.
+
+## Risk Factors
+
+- **Procurement Delays**: The IT committee's quarterly cadence means any RFP slippage could push decisions past the June 15, 2026, timeline, especially with medium urgency.
+- **Competitor Momentum**: Salesforce Einstein's enterprise brand and Microsoft Copilot's dev tools could sway non-technical stakeholders like the CRO if demos don't highlight our scaling superiority.
+- **Budget Reallocation**: Recent engineering hires (seven this quarter) might divert funds to headcount, though the $75k is ringfenced; unclear priorities could resurface build-vs-buy debates.
+
+This account represents a high-potential win in the B2B SaaS vertical, with our tailored fit mitigating most risks. Regular check-ins with Chloe will keep momentum. 
+
+*(Internal Note: Last updated March 1, 2026. Word count: 1,248. Expand with appendices if needed for full diligence.)*

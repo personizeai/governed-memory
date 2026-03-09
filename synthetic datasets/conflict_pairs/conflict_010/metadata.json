@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_010",
+  "category": "current_solution",
+  "company": "Drift Analytics",
+  "contact": "Anita Volkov",
+  "industry": "Digital Media",
+  "stale_date": "2025-11-26",
+  "fresh_date": "2026-02-09",
+  "stale_claim": "Drift Analytics uses a custom-built CRM on Rails",
+  "fresh_claim": "Drift Analytics replaced their custom CRM with Pipedrive",
+  "expected_query": "What CRM solution does Drift Analytics currently use?",
+  "expected_answer": "replaced their custom CRM with Pipedrive",
+  "stale_word_count": 154,
+  "fresh_word_count": 185
+}

@@ -1,0 +1,19 @@
+{
+  "entity_index": 59,
+  "name": "Lisa Singh",
+  "company": "Spectrum Digital",
+  "industry": "SpaceTech",
+  "email": "lisa.singh@spectrumdigital.com",
+  "title": "Chief Product Officer",
+  "facts": [
+    "Lisa Singh is Chief Product Officer at Spectrum Digital",
+    "Spectrum Digital is a SpaceTech company with 35 employees",
+    "Tech stack: Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "Deal value: $250,000",
+    "Pain points: integration complexity with legacy systems; manual processes for customer onboarding; vendor lock-in with current cloud provider; customer churn from slow support response times",
+    "Competitors: custom internal tool",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$95M"
+  ],
+  "actual_word_count": 326
+}

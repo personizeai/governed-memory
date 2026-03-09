@@ -1,0 +1,19 @@
+{
+  "entity_index": 40,
+  "name": "Kevin O'Brien",
+  "company": "Nimbus Networks",
+  "industry": "FoodTech",
+  "email": "kevin.o'brien@nimbusnetworks.com",
+  "title": "VP of Operations",
+  "facts": [
+    "Kevin O'Brien is VP of Operations at Nimbus Networks",
+    "Nimbus Networks is a FoodTech company with 2589 employees",
+    "Tech stack: Python, Django, AWS, PostgreSQL, Redis",
+    "Deal value: $1,000,000",
+    "Pain points: data silos between engineering and sales teams; customer churn from slow support response times; poor visibility into pipeline health",
+    "Competitors: custom internal tool, Microsoft Copilot",
+    "Decision timeline: Q3 2026",
+    "Annual revenue: ~$249M"
+  ],
+  "actual_word_count": 348
+}

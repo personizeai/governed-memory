@@ -1,0 +1,92 @@
+{
+  "sample_id": "transcript_005",
+  "content_type": "meeting_transcript",
+  "company": "CastPoint",
+  "industry": "Manufacturing",
+  "duration_minutes": 45,
+  "target_word_count": 2582,
+  "actual_word_count": 2168,
+  "expected_facts": [
+    {
+      "text": "They're dealing with inconsistent messaging across sales team",
+      "type": "explicit"
+    },
+    {
+      "text": "CastPoint is a Manufacturing company with about 3259 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 9 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "Anita reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 4 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $850,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q3",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $72M",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with vendor lock-in with current cloud provider",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+      "type": "explicit"
+    },
+    {
+      "text": "Anita Garcia has been at CastPoint for 5 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in New York",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Engineering",
+    "company_name": "CastPoint",
+    "company_size": "1000+",
+    "technology_stack": "Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "inconsistent messaging across sales team",
+      "vendor lock-in with current cloud provider",
+      "slow deployment cycles taking 2-3 weeks per release"
+    ],
+    "deal_value": 850000,
+    "decision_maker": true,
+    "next_steps": "Anita will share the RFP by end of week",
+    "buying_process": "Procurement requires three competitive bids before decision",
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 4,
+    "duplicate_facts": 1
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.79,
+  "entity_id": "anita-castpoint",
+  "entity_email": "anita@castpoint.io",
+  "entity_website": "https://castpoint.io",
+  "contact_name": "Anita",
+  "record_id": "crm-anita-castpoint"
+}

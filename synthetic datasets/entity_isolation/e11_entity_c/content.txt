@@ -1,0 +1,24 @@
+Meeting Transcript — Discovery Call with CloudNova
+Date: February 7, 2026 | Duration: 35 minutes
+
+Alex: David, thanks for joining. I've heard great things about CloudNova.
+
+David: Thanks Alex. I'm David Chen, CTO and co-founder at CloudNova. We're a B2B SaaS company with about 250 employees. I have a 60-person engineering org.
+
+Alex: As CTO and co-founder, you must have a strong view of the technical direction.
+
+David: Absolutely. I report directly to the board. Our stack is Go and Kubernetes on the backend, DynamoDB for our primary database, all on GCP. We're planning a GCP migration — basically consolidating and optimizing our cloud footprint — targeting Q2 2026.
+
+Alex: What's the biggest technical challenge?
+
+David: Scaling. We get 10x traffic spikes during peak periods and our current architecture can't handle it gracefully. We need to solve this before it costs us customers.
+
+Alex: What does your vendor evaluation look like?
+
+David: We're looking at 2 vendors, plus we're seriously considering building something in-house. The deal value we're looking at is approximately $400K. We raised $35M in our Series A, also from Sequoia actually.
+
+Alex: Any compliance requirements?
+
+David: SOC 2 Type II renewal is due in Q4. That's important but not the primary driver. Revenue is about $28M. I was at AWS for 6 years before starting CloudNova, so I know the cloud infrastructure space well.
+
+Alex: Perfect context. Let me share how we could help with the scaling challenges...

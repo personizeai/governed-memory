@@ -1,0 +1,19 @@
+{
+  "entity_index": 70,
+  "name": "Chloe Fernandez",
+  "company": "Spruce Cloud",
+  "industry": "CleanTech",
+  "email": "chloe.fernandez@sprucecloud.com",
+  "title": "CTO",
+  "facts": [
+    "Chloe Fernandez is CTO at Spruce Cloud",
+    "Spruce Cloud is a CleanTech company with 2008 employees",
+    "Tech stack: Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+    "Deal value: $650,000",
+    "Pain points: integration complexity with legacy systems; scaling issues during peak traffic periods; poor developer experience slowing feature velocity",
+    "Competitors: Chorus.ai",
+    "Decision timeline: Q4 2026",
+    "Annual revenue: ~$185M"
+  ],
+  "actual_word_count": 318
+}

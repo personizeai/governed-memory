@@ -1,0 +1,77 @@
+{
+  "sample_id": "chat_048",
+  "content_type": "chat_log",
+  "company": "CourseForge",
+  "industry": "EdTech",
+  "message_count_target": 58,
+  "actual_word_count": 760,
+  "expected_facts": [
+    {
+      "text": "They're dealing with high infrastructure costs eating into margins",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Clari, Microsoft Copilot, Gong",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with scaling issues during peak traffic periods",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Rust, Actix, AWS, PostgreSQL, NATS",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using internal Python scripts pulling from multiple APIs",
+      "type": "explicit"
+    },
+    {
+      "text": "CourseForge is a EdTech company with about 4176 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Simone Petrov has been at CourseForge for 1 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 17 people this quarter",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Sales",
+    "company_name": "CourseForge",
+    "company_size": "1000+",
+    "technology_stack": "Rust, Actix, AWS, PostgreSQL, NATS",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "high infrastructure costs eating into margins",
+      "scaling issues during peak traffic periods",
+      "difficulty measuring ROI on AI initiatives",
+      "security concerns with current architecture"
+    ],
+    "decision_timeline": "2026-10-02",
+    "competitors_mentioned": [
+      "Clari",
+      "Microsoft Copilot",
+      "Gong"
+    ],
+    "decision_maker": true,
+    "next_steps": "Send pricing proposal to Simone by Friday",
+    "buying_process": "Fast-track available for deals under $150K with direct VP approval",
+    "current_solution": "internal Python scripts pulling from multiple APIs"
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 2,
+    "duplicate_facts": 2
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@tom.f"
+  ],
+  "property_coverage": 0.86
+}

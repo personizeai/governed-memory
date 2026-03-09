@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_020",
+  "category": "budget",
+  "company": "Crest Digital",
+  "contact": "David Cho",
+  "industry": "B2B SaaS",
+  "stale_date": "2025-10-19",
+  "fresh_date": "2026-02-18",
+  "stale_claim": "Crest Digital has a budget of approximately $200K for this initiative",
+  "fresh_claim": "Crest Digital increased their budget to $500K",
+  "expected_query": "What is Crest Digital's budget for this project?",
+  "expected_answer": "increased their budget to $500K",
+  "stale_word_count": 187,
+  "fresh_word_count": 191
+}

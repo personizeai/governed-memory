@@ -1,0 +1,19 @@
+{
+  "entity_index": 51,
+  "name": "Robert Johansson",
+  "company": "Apex Platforms",
+  "industry": "InsurTech",
+  "email": "robert.johansson@apexplatforms.com",
+  "title": "Head of Infrastructure",
+  "facts": [
+    "Robert Johansson is Head of Infrastructure at Apex Platforms",
+    "Apex Platforms is a InsurTech company with 393 employees",
+    "Tech stack: Rust, Actix, AWS, PostgreSQL, NATS",
+    "Deal value: $650,000",
+    "Pain points: integration complexity with legacy systems; technical debt from rapid early growth; difficulty hiring specialized engineers; lack of real-time analytics for decision making",
+    "Competitors: ZoomInfo",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$83M"
+  ],
+  "actual_word_count": 323
+}

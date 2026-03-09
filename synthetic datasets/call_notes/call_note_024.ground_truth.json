@@ -1,0 +1,55 @@
+{
+  "sample_id": "call_note_024",
+  "content_type": "call_notes",
+  "company": "SkillPulse",
+  "industry": "EdTech",
+  "duration_minutes": 45,
+  "target_word_count": 473,
+  "actual_word_count": 300,
+  "expected_facts": [
+    {
+      "text": "They're dealing with high infrastructure costs eating into margins",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Drift, Chorus.ai",
+      "type": "explicit"
+    },
+    {
+      "text": "SkillPulse is a EdTech company with about 553 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "David Petrov has been at SkillPulse for 7 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes PHP, Laravel, DigitalOcean, MySQL, Redis",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Data",
+    "company_name": "SkillPulse",
+    "company_size": "201-1000",
+    "technology_stack": "PHP, Laravel, DigitalOcean, MySQL, Redis",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "poor developer experience slowing feature velocity",
+      "high infrastructure costs eating into margins",
+      "fragmented tooling across departments"
+    ],
+    "deal_value": 350000,
+    "decision_timeline": "2026-07-22",
+    "competitors_mentioned": [
+      "Drift",
+      "Chorus.ai"
+    ],
+    "decision_maker": false
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2
+  },
+  "property_coverage": 0.71
+}

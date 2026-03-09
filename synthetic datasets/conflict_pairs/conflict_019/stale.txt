@@ -1,0 +1,25 @@
+**Sales Call Note**  
+**Date:** June 20, 2025  
+**Contact:** Keiko Volkov, VP Engineering, Aether IO (Manufacturing)  
+**Call Type:** 45-min discovery Zoom meeting with SE Alex Rivera  
+**Attendees:** Me, Alex, Keiko + 1 engineer  
+
+**Summary:** Initial deep-dive on Aether IO's production challenges. Aether IO is in the Discovery phase of our sales process—gathering reqs on IoT integration for legacy assembly lines. Keiko highlighted 15-20% downtime from predictive maintenance gaps, costing $500K quarterly. Expressed urgency to scale automation before Q4 expansion.  
+
+Strong fit for our EdgeAI platform: demoed quick ROI calc showing 25% uptime boost. Shared manufacturing case study (Acme Fabrics: 18% cost savings). No budget discussed yet; timeline targets POC by Aug.  
+
+**Pain Points:**  
+- Siloed sensors causing data silos.  
+- Need for real-time anomaly detection.  
+
+**Objections:** None raised; enthusiastic on edge computing security.  
+
+**Next Steps:**  
+- Send customized ROI spreadsheet (by EOD 6/21).  
+- Schedule technical demo + site visit (proposed 7/15).  
+- Follow up w/ Keiko 6/25 on stakeholder intro (CPO).  
+
+**Stage:** Discovery (validated pains, aligned on value prop).  
+**Confidence:** High (champion identified).  
+
+(Word count: 178)

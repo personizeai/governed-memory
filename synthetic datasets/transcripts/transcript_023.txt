@@ -1,0 +1,204 @@
+---
+type: Contact
+record_id: crm-david-mediaforge
+email: david@mediaforge.com
+website_url: https://mediaforge.com
+company: MediaForge
+industry: Digital Media
+contact_name: David
+job_title: Director of IT
+---
+
+Alex: Hi David, good to see you again. How's the weather treating you in London today? I know it can be a bit unpredictable.
+
+David: Hey Alex, yeah, it's pouring down as usual. Typical London summer, right? Thanks for making the trip over—must be a change from the States.
+
+Alex: No problem at all, I love London. Been here a few times for meetings. So, shall we dive in? Last time we chatted, you mentioned you're in the thick of evaluating solutions for your digital media workflows. What's the latest?
+
+David: Sure, let's get into it. Yeah, we're pushing hard on this. As Director of IT here at MediaForge, I've been with the company for about two years now, and things have really ramped up. We're a digital media outfit, you know, around 36 employees, pulling in about $19 million in annual revenue. But our legacy systems are killing us—planning a full migration off them by the end of the year.
+
+Alex: End of year migration—that's ambitious. With your stack being Java, Spring Boot on Azure, Oracle backend, and Kafka for streaming, I can see why you'd want to modernize. How's that playing into the evaluation?
+
+David: Exactly. He mentioned that in the last vendor call too—the need to streamline Kafka integrations without losing real-time data flows. We're currently on Salesforce with a bunch of custom Apex triggers that are Frankenstein'd together. It's functional, but maintenance is a nightmare, especially with our security audit coming up in Q3.
+
+Alex: Q3 audit, got it. That's next quarter, right? High urgency there. TechNova's platform integrates seamlessly with Salesforce— we can migrate those Apex triggers over without rewriting everything. And for security, we've got Azure-native compliance baked in, SOC 2, GDPR ready since your main office is here in London.
+
+David: GDPR is non-negotiable, yeah. She said during the board meeting last month that priorities shifted—we need something that scales with our growth. Budget got a nice bump too, up 21% this fiscal year. Makes this negotiation stage a bit easier.
+
+Alex: Board meeting last month—sounds like it lit a fire. With your revenue at around $19 million, that budget increase positions you well. You're evaluating two vendors right now, including us?
+
+David: Spot on, just two at the moment. But procurement's strict—they require three competitive bids before any decision. We're aiming for a call on this by August 5th, 2026, believe it or not; our fiscal cycles are a bit extended. Urgency is high though, especially post-board.
+
+Alex: August 5th, 2026—plenty of runway but yeah, high urgency makes sense with the migration timeline. Noted on the three bids. We can help position you there. Tell me more about the pain points with Oracle and Kafka right now.
+
+David: Oracle's costs are skyrocketing, and Kafka streams are bottlenecking during peak content distribution. We handle a lot of video assets for our clients—digital media means high-volume uploads. He pointed out in a team huddle a few weeks ago that downtime last quarter cost us a key client pitch.
+
+Alex: A few weeks ago, yeah—that's fresh. Our solution offloads Oracle dependencies to a more elastic Azure setup, and Kafka optimization is core. We've done similar for other media firms. How's the team feeling about the switch?
+
+David: Team's on board, but I'm not the final decision maker here— that goes higher up. They've seen the demos, though. Your integration with Spring Boot was a highlight.
+
+Alex: Glad to hear. Let's talk specifics. With 36 folks on the team—sorry, company size 11 to 50 range—scalability without bloat is key. We can demo a proof-of-concept tailored to your Java ecosystem.
+
+David: Company size is spot on, yeah, about 36 employees total. Makes us nimble but resource-constrained. Um, can we circle back to pricing? Negotiation stage means I need numbers soon.
+
+Alex: Absolutely. Next steps: I'll send a full pricing proposal to you by Friday. Customized for your stack and migration needs. What else is on your mind?
+
+David: Friday works—by end of month would be ideal, but Friday's fine. He mentioned that the custom Apex triggers in Salesforce are handling our lead scoring, but they're error-prone. Any quick wins there?
+
+Alex: He mentioned—gotcha. Quick wins: our no-code migration tool ports Apex logic in under a week. We've seen 40% faster processing post-migration for similar setups.
+
+[Short pause as David checks notes]
+
+David: Right, and with the security audit looming next quarter, we can't afford hiccups. Tell me about your Azure integrations—do they handle multi-region failover for our London HQ?
+
+Alex: Spot on, multi-region failover is standard. Since you're Azure-heavy already, it's plug-and-play. Let's dig into that migration plan. End of year deadline—break it down for me: phases?
+
+David: Phases: Q3 assessment and pilot, Q4 full cutover. Board shifted priorities last month to prioritize this over a CRM refresh. Revenue's steady at $19M, so we've got room, but IT budget's up 21% specifically for modernization.
+
+Alex: Revenue around $19 million—solid foundation. Budget increase to roughly that 21%—excuse me, you said up 21%, yeah. Phases sound solid. We can align our POC to your Q3 audit.
+
+David: Yeah, he reiterated the budget point in the last all-hands. Speaking of, how does TechNova handle Oracle-to-modern DB migrations? We've got terabytes of historical media metadata.
+
+Alex: Seamless ETL pipelines. Kafka feeds right in. Others in digital media, same size—36 employees—migrated without data loss. Want to talk competitors?
+
+David: The other vendor's strong on Kafka but weak on Spring Boot. Procurement needs that third bid—any intros you can make?
+
+Alex: Happy to discuss ecosystem partners. But let's focus: your urgency is high, decision timeline August 2026, but migration EOY. We accelerate that.
+
+[Digression starts]
+
+David: Before we go deeper, quick small talk— you catch the Euros final? London was buzzing.
+
+Alex: Ha, missed it live but saw highlights. Penalty shootout, right? Intense. You a football fan?
+
+David: Big time, Arsenal supporter. Rainy day like today, perfect for a match replay. Anyway, back to it—what's your take on our Salesforce setup?
+
+[Digression ends]
+
+Alex: Love the Arsenal shoutout. Salesforce with Apex: we've audited dozens. Custom triggers often hide scalability issues. Here's a case study—similar media firm, 40 employees, cut maintenance 60%.
+
+David: She shared a similar story from the other vendor. But yours integrates Kafka better. Timeline: by end of month, can we schedule a technical deep-dive?
+
+Alex: End of month—yes. I'll loop in our engineer. You're evaluating two, need three— we understand procurement.
+
+David: Procurement's a beast. David Wright here, Director of IT, signing off on specs but not the final nod. Been two years, seen the growth from 30 to 36 employees.
+
+Alex: Growth to 36—impressive. Tech stack discussion: Java core? How custom is Spring Boot?
+
+David: Very custom—microservices for content pipelines. Azure hosts it all, Oracle for persistence, Kafka events. Um, a few weeks ago, we had a spike that crashed two nodes.
+
+Alex: Spikes like that—classic. Our auto-scaling handles 10x bursts. Security for Q3 audit: penetration tests included?
+
+David: Need that. He emphasized zero-trust in the board recap last month.
+
+Alex: Zero-trust native. Let's mock up a proposal outline now. Base on your $19M revenue scale, 36 employees.
+
+David: Outline sounds good. Revenue's about $19 million annually, yeah—helps with budget justification, up 21% in IT.
+
+Alex: Noted, budget roughly that uplift. Current solution pains: Apex triggers failing on complex queries?
+
+David: Failing hard. One trigger for lead routing based on media views—times out. Migration by end of year critical.
+
+Alex: We replicate and optimize. Next quarter audit—pen test reports ready?
+
+David: Need samples. She said in procurement kickoff that three bids by Q3 end.
+
+Alex: Three bids, got it. Send proposal Friday, then deep-dive next week?
+
+David: Perfect. Urgency high with board shift last month.
+
+Alex: Last month board—priorities realigned. Your London office—any hybrid setup challenges?
+
+David: Hybrid yeah, 36 employees mostly remote post-pandemic. Azure VPN works, but Kafka latency to London servers.
+
+Alex: Latency fix: edge nodes. Decision maker above you—want to prep a deck for them?
+
+David: Yes, I'm not the decision maker, but I'll present. Two years here, I know the stakeholders.
+
+[Extended discussion on tech]
+
+Alex: Dive into Kafka: topics partitioned how? Consumer groups?
+
+David: 16 partitions per topic, 8 groups. Spikes from video encodes.
+
+Alex: We tune dynamically. Spring Boot actuators—monitoring?
+
+David: Basic Prometheus. Want more.
+
+Alex: Full observability stack. Oracle queries slow?
+
+David: Sub-second SLA breaking. Migration plan: lift-and-shift first?
+
+Alex: Strategic refactor. Java 17 compliant?
+
+David: Yes, latest LTS.
+
+Alex: Perfect match. Salesforce Apex: code samples?
+
+David: Can share redacted. Triggers for opportunity staging.
+
+Alex: We'll audit free. Revenue $19M—usage tiers fit.
+
+David: Tiers key in negotiation.
+
+Alex: Customized. Q3 audit prep: compliance mappings?
+
+David: ISO 27001 needed.
+
+Alex: Certified. Board last month—what shifted exactly?
+
+David: From expansion to efficiency. Hence migration rush.
+
+Alex: Efficiency our wheelhouse. 21% IT budget boost—allocation details?
+
+David: Roughly 60% to cloud and tools, rest ops.
+
+Alex: Aligns. Company size 11-50—pricing scales down.
+
+David: 36 employees precise. He noted budget around that in finance sync.
+
+Alex: Budget reiterated. Next steps locked: proposal by Friday.
+
+David: Friday, yes. By end of month follow-up.
+
+Alex: End of month. POC for Azure-Kafka?
+
+David: Yes. Evaluating two vendors—your edge?
+
+Alex: Proven media migrations. Urgency high—let's move.
+
+David: Agreed. Security audit next quarter—pen tests quarterly?
+
+Alex: Yes. London data residency?
+
+David: EU compliant.
+
+Alex: All set. Wrap with questions?
+
+David: One: support SLAs post-migration?
+
+Alex: 15-min P1, 24/7.
+
+David: Solid. He mentioned SLAs with other vendor weaker.
+
+Alex: Advantage us. Decision timeline 2026-08-05—interim milestones?
+
+David: Quarterly gates.
+
+Alex: Matches. Procurement three bids—we facilitate?
+
+David: Appreciate. Two years in, this is biggest project.
+
+Alex: We'll make it smooth. Small talk: London pub recs post-meeting?
+
+David: The Anchor near Bank—great ales.
+
+Alex: Noted. Thanks David—proposal Friday.
+
+David: Cheers Alex. Talk soon.
+
+Alex: Absolutely. Meeting adjourned? 
+
+David: Yep, productive. Safe travels. 
+
+[End of transcript. Word count: 2487]

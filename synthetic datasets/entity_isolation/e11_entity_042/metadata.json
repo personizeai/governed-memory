@@ -1,0 +1,19 @@
+{
+  "entity_index": 42,
+  "name": "Kevin Garcia",
+  "company": "Flint Security",
+  "industry": "Fintech",
+  "email": "kevin.garcia@flintsecurity.com",
+  "title": "VP of Customer Success",
+  "facts": [
+    "Kevin Garcia is VP of Customer Success at Flint Security",
+    "Flint Security is a Fintech company with 2927 employees",
+    "Tech stack: C#, .NET, Azure, SQL Server, RabbitMQ",
+    "Deal value: $650,000",
+    "Pain points: data silos between engineering and sales teams; lack of real-time analytics for decision making",
+    "Competitors: custom internal tool, Chorus.ai",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$107M"
+  ],
+  "actual_word_count": 357
+}

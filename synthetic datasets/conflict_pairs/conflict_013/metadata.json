@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_013",
+  "category": "framework",
+  "company": "Lunar Computing",
+  "contact": "Tariq Tanaka",
+  "industry": "Healthcare Tech",
+  "stale_date": "2025-12-11",
+  "fresh_date": "2026-01-21",
+  "stale_claim": "Lunar Computing uses Django as their primary web framework",
+  "fresh_claim": "Lunar Computing switched to FastAPI for their backend services",
+  "expected_query": "What web framework does Lunar Computing use?",
+  "expected_answer": "switched to FastAPI for their backend services",
+  "stale_word_count": 179,
+  "fresh_word_count": 173
+}

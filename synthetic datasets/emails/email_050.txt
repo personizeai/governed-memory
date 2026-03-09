@@ -1,0 +1,226 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Keiko Moreau <keiko.moreau@vaultedge.com>  
+Subject: Tailored solution for VaultEdge's data silos between sales and engineering  
+Date: Mon, Feb 09, 2026 10:15 AM PST  
+
+Hi Keiko,  
+
+I hope this email finds you well. I'm reaching out because I've noticed VaultEdge, as a growing fintech with around 69 employees, is likely grappling with data silos between your engineering and sales teams—something we've helped similar companies like yours resolve quickly.  
+
+Our platform at TechnoNova integrates seamlessly with stacks like Go, Kubernetes, AWS, DynamoDB, and gRPC, while enhancing your current Salesforce setup with custom Apex triggers to provide real-time analytics and clear ROI measurement on AI initiatives.  
+
+Would you be open to a 15-minute chat next week to discuss how we can address your pain points?  
+
+Best regards,  
+Alex Morgan  
+Sales Representative  
+TechnoNova  
++1 (415) 555-0123  
+alex.morgan@technova.io  
+
+---
+
+From: Keiko Moreau <keiko.moreau@vaultedge.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Tailored solution for VaultEdge's data silos between sales and engineering  
+Date: Tue, Feb 10, 2026 09:30 AM PST  
+
+Hi Alex,  
+
+Thanks for reaching out. I've been at VaultEdge for 4 years now as VP of Customer Success, and data silos are indeed a big issue for us—especially measuring ROI on our AI initiatives. We're currently evaluating Clari and a custom internal tool we're building in-house, alongside your proposal.  
+
+What makes TechnoNova stand out in terms of integration with our Salesforce custom Apex triggers?  
+
+Best,  
+Keiko Moreau  
+VP of Customer Success  
+VaultEdge  
++1 (650) 555-0987  
+keiko.moreau@vaultedge.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Keiko Moreau <keiko.moreau@vaultedge.com>  
+Subject: Re: Tailored solution for VaultEdge's data silos between sales and engineering  
+Date: Tue, Feb 10, 2026 02:45 PM PST  
+
+Hi Keiko,  
+
+Great to hear from you—thanks for the quick reply and for sharing that context.  
+
+> Thanks for reaching out. I've been at VaultEdge for 4 years now as VP of Customer Success, and data silos are indeed a big issue for us—especially measuring ROI on our AI initiatives. We're currently evaluating Clari and a custom internal tool we're building in-house, alongside your proposal.  
+
+TechnoNova excels here because we offer native, low-code integrations with Salesforce Apex triggers—no rip-and-replace needed. Unlike Clari's more sales-focused approach or the maintenance headaches of in-house builds, we bridge engineering data (e.g., from DynamoDB via gRPC) directly to sales pipelines, delivering real-time ROI dashboards for AI projects. We've seen teams like yours cut silo-related delays by 40% in the first quarter.  
+
+As a light next step, I'd propose a customized demo showing this in action with your tech stack (Go, Kubernetes, AWS). We have about $350,000 in budget alignment for deals like this, fitting your evaluation timeline toward April 17th. Available Thursday?  
+
+Looking forward to your thoughts.  
+
+Best,  
+Alex Morgan  
+Sales Representative  
+TechnoNova  
++1 (415) 555-0123  
+alex.morgan@technova.io  
+
+---
+
+From: Keiko Moreau <keiko.moreau@vaultedge.com>  
+To: Tariq Costa <tariq.costa@vaultedge.com>  
+CC: Alex Morgan <alex.morgan@technova.io>  
+Subject: Fwd: Tailored solution for VaultEdge's data silos between sales and engineering  
+Date: Wed, Feb 11, 2026 11:20 AM PST  
+
+Hi Tariq,  
+
+Forwarding this thread from TechnoNova. They're proposing an integration that sounds promising for our data silos and AI ROI measurement. Can you take a look at the technical side, especially with our Kubernetes and gRPC setup? We're evaluating alongside Clari and our in-house tool.  
+
+Thanks,  
+Keiko  
+
+---------- Forwarded message ---------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Tue, Feb 10, 2026 02:45 PM PST  
+Subject: Re: Tailored solution for VaultEdge's data silos between sales and engineering  
+To: Keiko Moreau <keiko.moreau@vaultedge.com>  
+
+Hi Keiko,  
+
+Great to hear from you—thanks for the quick reply and for sharing that context.  
+
+> Thanks for reaching out. I've been at VaultEdge for 4 years now as VP of Customer Success, and data silos are indeed a big issue for us—especially measuring ROI on our AI initiatives. We're currently evaluating Clari and a custom internal tool we're building in-house, alongside your proposal.  
+
+TechnoNova excels here because we offer native, low-code integrations with Salesforce Apex triggers—no rip-and-replace needed. Unlike Clari's more sales-focused approach or the maintenance headaches of in-house builds, we bridge engineering data (e.g., from DynamoDB via gRPC) directly to sales pipelines, delivering real-time ROI dashboards for AI projects. We've seen teams like yours cut silo-related delays by 40% in the first quarter.  
+
+As a light next step, I'd propose a customized demo showing this in action with your tech stack (Go, Kubernetes, AWS). We have about $350,000 in budget alignment for deals like this, fitting your evaluation timeline toward April 17th. Available Thursday?  
+
+Looking forward to your thoughts.  
+
+Best,  
+Alex Morgan  
+Sales Representative  
+TechnoNova  
++1 (415) 555-0123  
+alex.morgan@technova.io  
+
+--- Original message ---  
+[Previous emails quoted above for brevity in this simulation]  
+
+Best,  
+Keiko Moreau  
+VP of Customer Success  
+VaultEdge  
++1 (650) 555-0987  
+
+---
+
+From: Tariq Costa <tariq.costa@vaultedge.com>  
+To: Keiko Moreau <keiko.moreau@vaultedge.com>, Alex Morgan <alex.morgan@technova.io>  
+CC:  
+Subject: Re: Tailored solution for VaultEdge's data silos between sales and engineering  
+Date: Wed, Feb 11, 2026 03:15 PM PST  
+
+Hi Alex and Keiko,  
+
+Tariq here, Solutions Architect at VaultEdge. Thanks for looping me in, Keiko—this aligns with our pain points around real-time analytics lacking between eng and sales.  
+
+> TechnoNova excels here because we offer native, low-code integrations with Salesforce Apex triggers—no rip-and-replace needed. Unlike Clari's more sales-focused approach or the maintenance headaches of in-house builds, we bridge engineering data (e.g., from DynamoDB via gRPC) directly to sales pipelines...  
+
+On the technical side, how does TechnoNova handle scaling with our Go services on Kubernetes? Specifically, does it support gRPC streaming for DynamoDB real-time syncs without introducing latency in our AWS environment? We're in proposal stage now, post-demo, heading to security review.  
+
+Appreciate the details.  
+
+Regards,  
+Tariq Costa  
+Solutions Architect  
+VaultEdge  
++1 (650) 555-1122  
+tariq.costa@vaultedge.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Tariq Costa <tariq.costa@vaultedge.com>, Keiko Moreau <keiko.moreau@vaultedge.com>  
+CC:  
+Subject: Re: Tailored solution for VaultEdge's data silos between sales and engineering  
+Date: Thu, Feb 12, 2026 10:00 AM PST  
+
+Hi Tariq and Keiko,  
+
+Thanks for the intro, Tariq—excited to dive into the technicals.  
+
+> On the technical side, how does TechnoNova handle scaling with our Go services on Kubernetes? Specifically, does it support gRPC streaming for DynamoDB real-time syncs without introducing latency in our AWS environment? We're in proposal stage now, post-demo, heading to security review.  
+
+Absolutely, TechnoNova is built for this: Our agent runs as a lightweight sidecar in Kubernetes pods, auto-scaling with your Go services via Horizontal Pod Autoscaler integration. For gRPC streaming from DynamoDB, we use AWS Lambda triggers and our proprietary low-latency proxy (under 50ms p99), syncing data silos to Salesforce in real-time without custom Apex overhead. This has helped fintechs measure AI ROI precisely, avoiding the pitfalls of Clari or in-house tools that struggle with eng-sales bridging.  
+
+Our standard procurement flow (demo done, security/legal reviews, VP Finance sign-off) fits perfectly with your April 17 timeline and $350k budget. Here's a one-pager on our AWS/gRPC integrations: [Link: technova.io/vaultedge-tech-overview.pdf].  
+
+Shall we schedule a 30-min deep-dive next week? I'm free Tue 2pm or Wed 11am PST.  
+
+Best,  
+Alex Morgan  
+Sales Representative  
+TechnoNova  
++1 (415) 555-0123  
+alex.morgan@technova.io  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Tariq Costa <tariq.costa@vaultedge.com>, Keiko Moreau <keiko.moreau@vaultedge.com>  
+CC:  
+Subject: Re: Tailored solution for VaultEdge's data silos between sales and engineering  
+Date: Mon, Feb 17, 2026 09:45 AM PST  
+
+Hi Tariq and Keiko,  
+
+Following up on our thread—loved the technical questions, Tariq. With end of quarter approaching, let's lock in that demo to keep momentum toward your April 17 decision.  
+
+> Shall we schedule a 30-min deep-dive next week? I'm free Tue 2pm or Wed 11am PST.  
+
+Tariq, your gRPC concerns are spot-on; they mentioned it works seamlessly, but I want to confirm it doesn't hit latency snags like the other vendor did. Keiko, does this align with our buying process?  
+
+Available today at 3pm?  
+
+Thanks,  
+Alex Morgan  
+Sales Representative  
+Technova  
++1 (415) 555-0123  
+alex.morgan@technova.io  
+
+---
+
+From: Keiko Moreau <keiko.moreau@vaultedge.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+CC: Tariq Costa <tariq.costa@vaultedge.com>  
+Subject: Re: Tailored solution for VaultEdge's data silos between sales and engineering  
+Date: Mon, Feb 17, 2026 01:30 PM PST  
+
+Hi Alex,  
+
+Tariq and I reviewed—let's do Wed 11am PST. He'll join to cover security review prep. This moves us forward in our standard process: demo confirmed, then legal and VP Finance sign-off.  
+
+Keiko  
+
+> Hi Tariq and Keiko,  
+>   
+> Following up on our thread—loved the technical questions, Tariq. With end of quarter approaching, let's lock in that demo to keep momentum toward your April 17 decision.  
+>   
+> > Shall we schedule a 30-min deep-dive next week? I'm free Tue 2pm or Wed 11am PST.  
+>   
+> Tariq, your gRPC concerns are spot-on; they mentioned it works seamlessly, but I want to confirm it doesn't hit latency snags like the other vendor did. Keiko, does this align with our buying process?  
+>   
+> Available today at 3pm?  
+>   
+> Thanks,  
+> Alex Morgan  
+> ...  
+
+Best,  
+Keiko Moreau  
+VP of Customer Success  
+VaultEdge  
++1 (650) 555-0987  
+keiko.moreau@vaultedge.com

@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_001",
+  "category": "database",
+  "company": "Sterling Logic",
+  "contact": "Marcus Mueller",
+  "industry": "Fintech",
+  "stale_date": "2025-11-20",
+  "fresh_date": "2026-01-14",
+  "stale_claim": "Sterling Logic uses Oracle as their primary database",
+  "fresh_claim": "Sterling Logic migrated to PostgreSQL as their primary database",
+  "expected_query": "What database does Sterling Logic use?",
+  "expected_answer": "migrated to PostgreSQL as their primary database",
+  "stale_word_count": 204,
+  "fresh_word_count": 185
+}

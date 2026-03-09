@@ -1,0 +1,53 @@
+[10:15] @alex.m: Quick update on CargoNova @channel - had the call with Lucia Nakamura yesterday. They're a logistics co with ~2400 employees, deep in Rust/Actix/AWS/Postgres/NATS stack.  
+[👍 from @sarah.k]  
+[10:17] @sarah.k: Nice, what's their current setup?  
+[10:18] @alex.m: Combo of Notion and Airtable tbh. It's a mess for their scale.  
+[10:19] @yusuf.c: 2383 employees specifically? Saw that on LinkedIn. Logistics beast.  
+[10:20] @mike.r: Yeah CargoNova is 1000+ for sure. Lucia's been there 4 years as CPO right?  
+[10:21] @alex.m: Yep Chief Product Officer. She said they're evaluating HubSpot AI too.  
+[10:22] @sarah.k: HubSpot AI? That's our competitor? Ngl they're not even in our league for enterprise.  
+[10:23]  ↳ @alex.m: Exactly, but she mentioned it. Deal stage is proposal now.  
+[10:24] @yusuf.c: Budget?  
+[10:25] @alex.m: ~850k allocated. Solid.  
+[10:26] @mike.r: Got it. They can sign up to 200k direct? Above that board?  
+[10:27] @alex.m: Yup, buying process needs board for this size.  
+[10:28] @sarah.k: Makes sense. She push back on price?  
+[10:29] @yusuf.c: Who? Lucia?  
+[10:30] @alex.m: Yeah her. No pushback yet, but wants demo tomorrow. [shared link: CargoNova pricing page]  
+[10:31] @mike.r: 👍 pricing looks good imo.  
+[10:32] @sarah.k: Fwiw their tech stack screams they need us over Notion/Airtable.  
+[10:33]  ↳ @yusuf.c: Rust/Actix/AWS etc yeah perf heavy.  
+[10:34] @alex.m: Lucia's not the decision maker tho. Influencer only.  
+[10:35] @mike.r: Noted. Last Friday she said they're eyeing HubSpot AI hard?  
+[10:36] @sarah.k: Wait who said that?  
+[10:37] @alex.m: Her team lead I think. Anyway budget's 850k confirmed.  
+[10:38] @yusuf.c: Budget 850k yeah that's what I heard too.  
+[10:39] @mike.r: Cool, next sprint we prioritize their demo?  
+[10:40] @sarah.k: +1 lmk if need help prepping.  
+[10:41] @alex.m: Thx will do. They're at proposal stage, value 850000.  
+[10:42] @yusuf.c: CargoNova size 2383 emps? Huge opp.  
+[10:43] @mike.r: Yep repeated that earlier. Logistics + our stack fit perf.  
+[10:44]  ↳ @sarah.k: NATS streaming would kill it for them.  
+[10:45] @alex.m: She wants to chat competitors more.  
+[10:46] @sarah.k: Which she?  
+[10:47] @yusuf.c: Probably Lucia. HubSpot AI no match.  
+[10:48] @mike.r: Got it. Current solution Notion Airtable sucks for 1000+.  
+[10:49] @alex.m: Exactly. Board approval timeline?  
+[10:50] @sarah.k: They said 2 weeks post proposal?  
+[10:51] @yusuf.c: Who did?  
+[10:52] @mike.r: Makes sense either way. 👍  
+[👍 from @alex.m]  
+[10:53] @alex.m: @here thoughts on countering HubSpot pitch?  
+[10:54] @sarah.k: Emphasize our Rust native support.  
+[10:55] @yusuf.c: And Postgres scaling. They're on it.  
+[10:56] @mike.r: Fwiw Actix web perf blows HubSpot away.  
+[10:57]  ↳ @alex.m: Demo that tomorrow.  
+[10:58] @sarah.k: Lucia been there 4 years, knows pain points deep.  
+[10:59] @alex.m: Yup. Deal value locked at 850k.  
+[11:00] @yusuf.c: Sweet. Not decision maker but key influencer.  
+[11:01] @mike.r: Acknowledged.  
+[11:02] @sarah.k: Current Notion/Airtable combo is brittle af.  
+[11:03] @alex.m: Thx all. Will update post demo.  
+[11:04] @yusuf.c: Ngl excited, logistics scale like theirs is rare.  
+[11:05] @mike.r: +1  
+[👍 from @sarah.k] [👍 from @yusuf.c]

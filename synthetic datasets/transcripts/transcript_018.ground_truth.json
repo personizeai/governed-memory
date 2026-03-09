@@ -1,0 +1,83 @@
+{
+  "sample_id": "transcript_018",
+  "content_type": "meeting_transcript",
+  "company": "FinStack Labs",
+  "industry": "Fintech",
+  "duration_minutes": 45,
+  "target_word_count": 2874,
+  "actual_word_count": 2424,
+  "expected_facts": [
+    {
+      "text": "They're dealing with data silos between engineering and sales teams",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using internal Python scripts pulling from multiple APIs",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $50,000",
+      "type": "explicit"
+    },
+    {
+      "text": "FinStack Labs is a Fintech company with about 24 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+      "type": "explicit"
+    },
+    {
+      "text": "Robert Thompson has been at FinStack Labs for 7 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $160M",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating HubSpot AI, existing CRM workflows",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with manual processes for customer onboarding",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Marketing",
+    "company_name": "FinStack Labs",
+    "company_size": "11-50",
+    "technology_stack": "Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "manual processes for customer onboarding",
+      "data silos between engineering and sales teams"
+    ],
+    "deal_value": 50000,
+    "decision_timeline": "2026-06-30",
+    "competitors_mentioned": [
+      "HubSpot AI",
+      "existing CRM workflows"
+    ],
+    "decision_maker": true,
+    "buying_process": "Procurement requires three competitive bids before decision",
+    "current_solution": "internal Python scripts pulling from multiple APIs"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 4,
+    "duplicate_facts": 3
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.86,
+  "entity_id": "robert-finstack-labs",
+  "entity_email": "robert@finstacklabs.com",
+  "entity_website": "https://finstacklabs.com",
+  "contact_name": "Robert",
+  "record_id": "crm-robert-finstack-labs"
+}

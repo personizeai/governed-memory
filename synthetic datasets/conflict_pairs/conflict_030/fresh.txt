@@ -1,0 +1,19 @@
+**Call Note: Follow-up Sales Meeting**  
+**Date:** 02/22/2026  
+**Contact:** Tariq Ibrahim, VP Engineering, Cortex Systems (Digital Media)  
+**Duration:** 45 min | **Called by:** [Your Name]  
+
+**Key Discussion Points:**  
+- Tariq confirmed strong interest in our scalable CDN solution for their video streaming platform; aligns with their 40% YoY traffic growth.  
+- **UPDATE/CHANGE:** Cortex Systems relocated HQ to Austin, TX (supersedes prior SF location). This streamlines ops with local talent pool but introduces minor latency considerations for West Coast users—addressed via edge caching demo.  
+- Reviewed POC requirements: Integration with AWS Media Services and AdTech stack (e.g., FreeWheel). Tariq approved budget for Q2 pilot (~$150K initial).  
+- Pain points: Current provider (Akamai) downtime during peak events; seeking 99.99% SLA guarantee.  
+
+**Objections/Next Steps:**  
+- No major blockers; competitor eval (Cloudflare) wrapping up next week.  
+- Action: Send revised SOW reflecting Austin HQ by 02/28. Schedule technical deep-dive w/ their lead dev on 03/05.  
+- Follow-up call: 03/01 to confirm POC kickoff.  
+
+**Opportunity Stage:** Proposal | **Probability:** 75% | **Est. Value:** $750K ARR  
+
+(Word count: 178)

@@ -1,0 +1,63 @@
+{
+  "sample_id": "chat_006",
+  "content_type": "chat_log",
+  "company": "RouteWise",
+  "industry": "Logistics",
+  "message_count_target": 60,
+  "actual_word_count": 750,
+  "expected_facts": [
+    {
+      "text": "Their tech stack includes Scala, Spark, Databricks, Snowflake, Airflow",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using Microsoft Dynamics with Power Automate",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Outreach, Clari",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with compliance audit failures on data handling",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "RouteWise is a Logistics company with about 165 employees",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of IT",
+    "company_name": "RouteWise",
+    "company_size": "51-200",
+    "technology_stack": "Scala, Spark, Databricks, Snowflake, Airflow",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "compliance audit failures on data handling",
+      "vendor lock-in with current cloud provider"
+    ],
+    "deal_value": 200000,
+    "competitors_mentioned": [
+      "Outreach",
+      "Clari"
+    ],
+    "current_solution": "Microsoft Dynamics with Power Automate"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 3,
+    "duplicate_facts": 1
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@maya.a"
+  ],
+  "property_coverage": 0.64
+}

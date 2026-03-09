@@ -1,0 +1,70 @@
+{
+  "sample_id": "email_015",
+  "content_type": "email_thread",
+  "company": "AdStack",
+  "industry": "Digital Media",
+  "email_count": 8,
+  "actual_word_count": 1474,
+  "expected_facts": [
+    {
+      "text": "Marcus reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "Marcus Chen has been at AdStack for 4 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Go, Kubernetes, AWS, DynamoDB, gRPC",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with data silos between engineering and sales teams",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using HubSpot CRM with Zapier automations",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with customer churn from slow support response times",
+      "type": "explicit"
+    },
+    {
+      "text": "AdStack is a Digital Media company with about 828 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $350,000",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Marketing",
+    "company_size": "201-1000",
+    "technology_stack": "Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "customer churn from slow support response times",
+      "data silos between engineering and sales teams"
+    ],
+    "deal_value": 350000,
+    "decision_maker": false,
+    "current_solution": "HubSpot CRM with Zapier automations"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 1
+  },
+  "introduces_new_person": true,
+  "colleague": "Lisa Lee, Director of IT",
+  "property_coverage": 0.57
+}

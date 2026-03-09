@@ -1,0 +1,57 @@
+{
+  "sample_id": "call_note_009",
+  "content_type": "call_notes",
+  "company": "SyncWave",
+  "industry": "B2B SaaS",
+  "duration_minutes": 30,
+  "target_word_count": 456,
+  "actual_word_count": 246,
+  "expected_facts": [
+    {
+      "text": "Yusuf Santos has been at SyncWave for 4 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Gong",
+      "type": "explicit"
+    },
+    {
+      "text": "SyncWave is a B2B SaaS company with about 21 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with lack of real-time analytics for decision making",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using internal Python scripts pulling from multiple APIs",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of IT",
+    "company_size": "11-50",
+    "technology_stack": "Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "inconsistent messaging across sales team",
+      "lack of real-time analytics for decision making",
+      "poor developer experience slowing feature velocity",
+      "manual processes for customer onboarding"
+    ],
+    "decision_timeline": "2026-09-10",
+    "competitors_mentioned": [
+      "Gong"
+    ],
+    "current_solution": "internal Python scripts pulling from multiple APIs"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2
+  },
+  "property_coverage": 0.57
+}

@@ -1,0 +1,49 @@
+Call with: Keiko Hassan, Chief Product Officer at EduFlow  
+Date: February 11, 2026  
+Duration: 15 min  
+
+Key Points:  
+- Intro call, Keiko CPO 8yrs tenure  
+- EduFlow mid-size 201-1000 emps  
+- Stack heavy Go/K8s/AWS/DynamoDB/gRPC  
+- Big pain no real-time analytics, decisions blind  
+- Scaling kills during peak traffic spikes  
+- Legacy integrat nightmare  
+- Tech debt from early rapid growth  
+- Curr soln Pipedrive w/Slack notifs only  
+- Wants RT dash for prod decisions  
+- Budget alloc ~$850k deal value  
+- Stage: Negotiation  
+- She's def decision maker  
+- Timeline decision 2026-11-23  
+- Mentioned eng team frustrated w/cur setup  
+- He's pushing for Q2 rollout?  
+- Prob need POC on K8s scaling  
+- Asked re: our gRPC support - yes seamless  
+- Pain pts stack up: RT data, peaks, legacy, debt  
+- They crash 2x/mo peaks now  
+- Slack notifs too slow for CPO lvl  
+- I pitched RT analytics demo  
+- She nodded lots on scaling fix  
+- Budget locked, no issue there  
+- Team size prod 50+, overwhelmed  
+- F/U on integrat w/DDB  
+- He wants custom hooks? unclear  
+- Peak traffic 10x norm, Dynamo bottlenecks  
+- Early growth debt = monolith mess  
+- Pipedrive ok but no RT viz  
+- Deal heat high, she's buying in  
+- Next mtg? by EOQ push  
+- Asked for case study sim stack  
+- Gave verbal IOI on $850k  
+
+Action Items:  
+- [ ] Send RT analytics spec + gRPC POC plan (me) by EOD Fri  
+- [ ] F/U call w/Keiko next week re: eng intro (me)  
+- [ ] Schedule 30min demo w/her + leads by 2/18 (me)  
+- [ ] Pull EduFlow sim clients on Go/AWS scaling (sales ops)  
+
+Notes:  
+Quick vibe good, Keiko engaged fast-talker, knows pains cold bc 8yrs in. She's DM pushing hard, mentioned eng lead "he's" all over scaling fixes but wants proof our RT beats Pipedrive/Slack lag. Deal negotiates smooth @850k, timeline tight to 11/23 but budget ready. Peak issues def killer, they lose users hourly crashes—our K8s play lands perfect.  
+
+Action next week critical, she's teeing up eng mtg but he's skeptical on legacy migrat. EOQ pressure from her side, prob close if demo wows. Notes rushed, mtg cut short her next call. Stage to Proposal post-f/u.

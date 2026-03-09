@@ -1,0 +1,188 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Felix Rivera <felix.rivera@castpoint.com>  
+Subject: Streamlining Manual Onboarding Processes at CastPoint Manufacturing  
+Date: Tue, Feb 10, 2026, 10:15 AM EST  
+
+Hi Felix,  
+
+I hope this email finds you well. My name is Alex Morgan, and I'm an Account Executive at Technova, where we specialize in automation platforms that eliminate manual bottlenecks for growing manufacturing firms like CastPoint. With your 3,336 employees driving around $18M in annual revenue, I imagine scaling customer onboarding efficiently is a top priority—especially after last month's board meeting shifted focus toward digital transformation priorities.  
+
+Many CTOs in your space tell us they're bogged down by manual processes for customer onboarding, leading to delays, errors, and poor visibility into pipeline health. Our NovaFlow platform integrates seamlessly to automate these workflows, giving real-time pipeline insights without disrupting your existing tech stack.  
+
+Would you be open to a 15-minute chat next week to discuss how we've helped similar mid-sized manufacturers (1000+ employees) cut onboarding time by 40%?  
+
+Best regards,  
+Alex Morgan  
+Account Executive  
+Technova  
++1 (415) 555-0101  
+alex.morgan@technova.io  
+www.technova.io  
+
+---
+
+From: Felix Rivera <felix.rivera@castpoint.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Streamlining Manual Onboarding Processes at CastPoint Manufacturing  
+Date: Wed, Feb 11, 2026, 2:45 PM EST  
+
+Hi Alex,  
+
+Thanks for reaching out. You're spot on—manual processes for customer onboarding have been a headache here at CastPoint, and we've also struggled with poor visibility into pipeline health, especially as our manufacturing ops scale. I've been with the company for 5 years now, reporting directly to the CEO, and these issues have only intensified post our board meeting last month.  
+
+Our IT budget got a nice 26% bump this fiscal year, so we're looking to invest. That said, can you tell me more about pricing tiers and how NovaFlow would fit into our decision timeline? We're aiming for a resolution by October 17, 2026, aligned with our fiscal planning.  
+
+Best,  
+Felix Rivera  
+CTO  
+CastPoint  
++1 (212) 555-0202  
+felix.rivera@castpoint.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Felix Rivera <felix.rivera@castpoint.com>  
+Subject: Re: Streamlining Manual Onboarding Processes at CastPoint Manufacturing  
+Date: Thu, Feb 12, 2026, 9:20 AM EST  
+
+> Hi Alex,  
+> 
+> Thanks for reaching out. You're spot on—manual processes for customer onboarding have been a headache here at CastPoint, and we've also struggled with poor visibility into pipeline health, especially as our manufacturing ops scale. I've been with the company for 5 years now, reporting directly to the CEO, and these issues have only intensified post our board meeting last month.  
+> 
+> Our IT budget got a nice 26% bump this fiscal year, so we're looking to invest. That said, can you tell me more about pricing tiers and how NovaFlow would fit into our decision timeline? We're aiming for a resolution by October 17, 2026, aligned with our fiscal planning.  
+> 
+> Best,  
+> Felix Rivera  
+> CTO  
+> CastPoint  
+> +1 (212) 555-0202  
+> felix.rivera@castpoint.com  
+
+Hi Felix,  
+
+Great to hear from you—thanks for the quick reply and for sharing those details. Congrats on the 5-year mark at CastPoint; that's impressive tenure as CTO reporting straight to the CEO in a 3,336-employee manufacturing powerhouse generating ~$18M annually. The 26% IT budget increase positions you perfectly to tackle those onboarding and pipeline visibility pains, especially with priorities shifting after January's board meeting.  
+
+On pricing: NovaFlow starts at $15K/year for teams your size (1000+), scaling to $45K for enterprise features like advanced pipeline dashboards. We offer flexible tiers—no long-term lock-in, with ROI typically hit in 3-6 months via 40% faster onboarding. Your October 17, 2026 decision timeline fits great; most clients pilot by end of quarter to align with fiscal cycles.  
+
+As a light next step, how about a tailored demo next week? I can walk through a proof-of-concept using your pipeline data (anonymized, of course) to show immediate wins.  
+
+Looking forward to your thoughts!  
+
+Best,  
+Alex Morgan  
+Account Executive  
+Technova  
++1 (415) 555-0101  
+alex.morgan@technova.io  
+www.technova.io  
+
+---
+
+From: Felix Rivera <felix.rivera@castpoint.com>  
+To: Michael Reyes <michael.reyes@castpoint.com>  
+CC: Alex Morgan <alex.morgan@technova.io>  
+Subject: Fwd: Re: Streamlining Manual Onboarding Processes at CastPoint Manufacturing  
+Date: Fri, Feb 13, 2026, 11:10 AM EST  
+
+Michael,  
+
+FYI—thought this thread might interest you as Director of IT. Alex from Technova has some promising ideas for our manual customer onboarding issues and pipeline visibility gaps. With our tech stack (Python, FastAPI, AWS Lambda, DynamoDB, SQS), it could be a good fit, especially post-board meeting shifts. Let's loop him in.  
+
+Thanks,  
+Felix  
+
+CTO, CastPoint (5 years) | Reporting to CEO  
+
+---------- Forwarded message ---------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Thu, Feb 12, 2026, 9:20 AM EST  
+Subject: Re: Streamlining Manual Onboarding Processes at CastPoint Manufacturing  
+To: Felix Rivera <felix.rivera@castpoint.com>  
+
+> Hi Alex,  
+> 
+> [previous quoted text as above]  
+
+Hi Felix,  
+
+[full body of Email 3 as above]  
+
+Best,  
+Alex Morgan  
+[signature]  
+
+---
+
+From: Michael Reyes <michael.reyes@castpoint.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+CC: Felix Rivera <felix.rivera@castpoint.com>  
+Subject: Re: Streamlining Manual Onboarding Processes at CastPoint Manufacturing  
+Date: Mon, Feb 14, 2026, 3:30 PM EST  
+
+> Michael,  
+> 
+> FYI—thought this thread might interest you as Director of IT. Alex from Technova has some promising ideas for our manual customer onboarding issues and pipeline visibility gaps. With our tech stack (Python, FastAPI, AWS Lambda, DynamoDB, SQS), it could be a good fit, especially post-board meeting shifts. Let's loop him in.  
+> 
+> Thanks,  
+> Felix  
+> 
+> CTO, CastPoint (5 years) | Reporting to CEO  
+> 
+> ---------- Forwarded message ---------  
+> From: Alex Morgan <alex.morgan@technova.io>  
+> [full forwarded Email 3 headers and body as above]  
+
+Hi Alex,  
+
+Michael Reyes here, Director of IT at CastPoint—Felix forwarded this to me. He mentioned you've got a handle on our pains around manual processes for customer onboarding and poor visibility into pipeline health. Our 3,336-employee manufacturing operation pulls in about $18M yearly, and the recent 26% IT budget increase has us prioritizing integrations.  
+
+A key question: Does NovaFlow support serverless deployments on AWS Lambda with DynamoDB and SQS queues? We heavily use Python and FastAPI for backend services—can it hook into those without custom dev? Felix reports to the CEO, so he'd need to sign off, but I'm evaluating tech fit first. Decision timeline is October 17, 2026, but we'd like POC by end of quarter if viable.  
+
+Thanks,  
+Michael Reyes  
+Director of IT  
+CastPoint  
++1 (212) 555-0203  
+michael.reyes@castpoint.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Michael Reyes <michael.reyes@castpoint.com>  
+CC: Felix Rivera <felix.rivera@castpoint.com>  
+Subject: Re: Streamlining Manual Onboarding Processes at CastPoint Manufacturing  
+Date: Thu, Feb 17, 2026, 8:45 AM EST  
+
+> Hi Alex,  
+> 
+> Michael Reyes here, Director of IT at CastPoint—Felix forwarded this to me. He mentioned you've got a handle on our pains around manual processes for customer onboarding and poor visibility into pipeline health. Our 3,336-employee manufacturing operation pulls in about $18M yearly, and the recent 26% IT budget increase has us prioritizing integrations.  
+> 
+> A key question: Does NovaFlow support serverless deployments on AWS Lambda with DynamoDB and SQS queues? We heavily use Python and FastAPI for backend services—can it hook into those without custom dev? Felix reports to the CEO, so he'd need to sign off, but I'm evaluating tech fit first. Decision timeline is October 17, 2026, but we'd like POC by end of quarter if viable.  
+> 
+> Thanks,  
+> Michael Reyes  
+> Director of IT  
+> CastPoint  
+> +1 (212) 555-0203  
+> michael.reyes@castpoint.com  
+> 
+> > [previous quoted Email 4 forward and Email 3 chain]  
+
+Hi Michael (and Felix),  
+
+Thanks for the intro, Felix—great to have Director of IT perspective looped in. Appreciate you jumping on this, Michael; he nailed the context on CastPoint's scale (1000+ employees, $18M revenue) and post-board meeting push after last month's shifts. Your 26% IT budget uplift is timely for tackling those onboarding manuals and pipeline blind spots.  
+
+Absolutely on tech: NovaFlow is built serverless-native on AWS Lambda, with first-class support for DynamoDB (for stateful pipeline data) and SQS (for event-driven onboarding triggers). It deploys as a Python/FastAPI-compatible microservice—zero custom dev needed. We provide SDKs for seamless integration: e.g., trigger Lambda functions from your FastAPI endpoints to automate onboarding workflows, syncing pipeline health metrics to DynamoDB tables in real-time. No vendor lock-in; it's all IaC via CDK.  
+
+Clients in manufacturing (similar stack) see 50% better pipeline visibility out-of-box. He mentioned the October 17, 2026 timeline—perfect, as our POCs wrap in 2 weeks. They align well since it supports your queue-based async processing without refactoring. Let's hop on a 30-min tech deep-dive next week? I can share a sandbox POC pre-configured for Python/FastAPI + your stack by end of quarter kickoff.  
+
+What days work?  
+
+Best regards,  
+Alex Morgan  
+Account Executive  
+Technova  
++1 (415) 555-0101  
+alex.morgan@technova.io  
+www.technova.io

@@ -1,0 +1,19 @@
+{
+  "entity_index": 54,
+  "name": "Michael Anderson",
+  "company": "Granite Solutions",
+  "industry": "AgriTech",
+  "email": "michael.anderson@granitesolutions.com",
+  "title": "Director of IT",
+  "facts": [
+    "Michael Anderson is Director of IT at Granite Solutions",
+    "Granite Solutions is a AgriTech company with 2254 employees",
+    "Tech stack: Python, Django, AWS, PostgreSQL, Redis",
+    "Deal value: $50,000",
+    "Pain points: security concerns with current architecture; integration complexity with legacy systems",
+    "Competitors: Gong, Microsoft Copilot",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$242M"
+  ],
+  "actual_word_count": 338
+}

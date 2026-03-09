@@ -1,0 +1,16 @@
+### Account Overview
+Frost Computing is a prominent FoodTech company specializing in innovative computing solutions for the food industry, boasting 2213 employees and generating approximately $88M in annual revenue. Our primary contact is David Alvarez, VP of Sales, reachable at david.alvarez@frostcomputing.com. David leads the sales organization and is deeply involved in addressing operational challenges that impact revenue growth and customer retention. Frost Computing's scale and tech-forward approach make it an ideal prospect for our CRM enhancements, positioning us to help streamline their sales processes amid rapid industry expansion.
+
+### Key Details
+Frost Computing's engineering backbone relies on a modern tech stack including Go, Kubernetes, AWS, DynamoDB, and gRPC, enabling scalable food supply chain analytics and real-time processing. However, David highlighted several pain points during our initial discussions: inconsistent messaging across the sales team leading to missed opportunities; difficulty hiring specialized engineers proficient in their stack; data silos between engineering and sales teams hindering collaboration; and customer churn driven by slow support response times. These issues are exacerbated by their current reliance on competitors like HubSpot AI, Microsoft Copilot, and legacy CRM workflows, which fail to integrate seamlessly with their infrastructure.
+
+### Deal Status
+We've progressed to a qualified opportunity with a potential deal value of $250,000. David has expressed strong interest in our solution to unify sales messaging, break down data silos, accelerate hiring through talent insights, and improve support SLAs to reduce churn. The decision timeline is targeted for Q3 2026, aligned with their fiscal planning cycle. Internal champions include David's sales leadership team, with buy-in from engineering stakeholders pending a deeper tech stack demo.
+
+### Next Steps
+- Schedule a technical deep-dive demo showcasing integration with Go, Kubernetes, AWS, DynamoDB, and gRPC (target: week of [current week +2]).
+- Share customized ROI analysis addressing pain points and competitor gaps (deliver by EOD Friday).
+- Follow up with David Alvarez via email to confirm attendance and gather engineering feedback.
+- Prepare case studies on similar FoodTech wins to build urgency ahead of Q3 2026 timeline.
+
+(Word count: 378)

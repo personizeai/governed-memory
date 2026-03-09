@@ -1,0 +1,20 @@
+**Call Note: Sales Meeting Follow-Up**  
+**Date:** October 08, 2025  
+**Contact:** Alex Anderson, VP of Engineering, Nimbus Networks (Manufacturing)  
+**Duration:** 45 minutes (virtual via Zoom)  
+
+Met with Alex to discuss our IoT platform for predictive maintenance in manufacturing assembly lines. Alex outlined key pain points: current downtime averaging 12-15% monthly due to unplanned equipment failures on robotic welders, impacting Q4 production targets. They are evaluating solutions to reduce this by 40% next year but face budget scrutiny post recent capex freeze.
+
+Nimbus Networks described the initiative as low priority, ranking it below ERP upgrades and supply chain automation. Alex noted internal stakeholders prioritize cost savings over new tech adoption in the short term. Expressed mild interest in our edge computing features, citing competitor trials with Siemens MindSphere showing mixed ROI.
+
+Demo requested for early 2026 if priorities shift. Alex shared org chart; key decision-makers include CTO Elena Vasquez and Plant Manager Raj Patel. No immediate objections to pricing; ballparked at $250K annual for 5 sites.
+
+**Next Steps:**  
+- Send case study on similar manufacturing client (reduced downtime 35%).  
+- Schedule Q1 check-in (Jan 15, 2026).  
+- Monitor for RFP release via their procurement portal.  
+
+**Opportunity Stage:** Prospecting (Low Priority). Score: 3/10.  
+**Owner:** [My Name]  
+
+(Word count: 218)

@@ -1,0 +1,84 @@
+{
+  "sample_id": "document_042",
+  "content_type": "wiki_document",
+  "company": "LedgerPoint",
+  "industry": "Fintech",
+  "target_word_count": 1581,
+  "actual_word_count": 1021,
+  "expected_facts": [
+    {
+      "text": "They're dealing with lack of real-time analytics for decision making",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Rust, Actix, AWS, PostgreSQL, NATS",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Gong",
+      "type": "explicit"
+    },
+    {
+      "text": "LedgerPoint is a Fintech company with about 45 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $50,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Maria O'Brien has been at LedgerPoint for 1 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with security concerns with current architecture",
+      "type": "explicit"
+    },
+    {
+      "text": "Maria reports to the CEO directly",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Engineering",
+    "company_size": "11-50",
+    "technology_stack": "Rust, Actix, AWS, PostgreSQL, NATS",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "lack of real-time analytics for decision making",
+      "security concerns with current architecture",
+      "fragmented tooling across departments"
+    ],
+    "deal_value": 50000,
+    "decision_timeline": "2026-07-28",
+    "competitors_mentioned": [
+      "Gong"
+    ],
+    "decision_maker": true,
+    "next_steps": "Set up POC environment for Maria's team to evaluate",
+    "buying_process": "Fast-track available for deals under $150K with direct VP approval"
+  },
+  "planted_issues": {
+    "pronoun_issues": 1,
+    "temporal_issues": 1,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Chen Tanaka",
+      "title": "Chief Product Officer",
+      "role": "Technical Evaluator"
+    },
+    {
+      "name": "Maria Alvarez",
+      "title": "Director of Analytics",
+      "role": "Champion"
+    },
+    {
+      "name": "Yusuf Rivera",
+      "title": "VP of Engineering",
+      "role": "Technical Evaluator"
+    }
+  ],
+  "property_coverage": 0.79
+}

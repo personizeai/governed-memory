@@ -1,0 +1,101 @@
+[09:15] alex.m: @here quick update on ApiGrid deal - we're in negotiation stage now, target close 2026-09-21  
+[👍 from @sarah.k]  
+[09:16] sarah.k: nice! what's the vibe?  
+[09:17] alex.m: solid tbh, they're a B2B SaaS with 1000+ employees, perfect fit  
+[09:18] mike.r: 1806 exactly fwiw, checked LinkedIn  
+[09:19] brian.f: their stack is TypeScript, React, Node.js, GCP, MongoDB - we align great imo  
+[09:20] sarah.k: yeah Chloe O'Brien is key there, been at ApiGrid 7 years  
+[09:21] alex.m: she said security audit coming up in Q3, big push for us  
+[09:22]  ↳ mike.r: who is she? Chloe?  
+[09:23]  ↳ alex.m: yep  
+[09:24] mike.r: they lost a major customer last quarter due to onboarding issues ngl  
+[09:25] sarah.k: that sucks, makes sense why they're shopping  
+[09:26] alex.m: evaluating 5 vendors incl us, Microsoft Copilot, Gong  
+[09:27] brian.f: Copilot? that's wild for their stack  
+[09:28] mike.r: Gong too, but we're better on integration  
+[09:29] sarah.k: budget ~350k allocated, deal value matches  
+[09:30] alex.m: got it, but buying process: they can sign up to 200k direct, board above that  
+[09:31] brian.f: so 350k needs approval? pain  
+[09:32] sarah.k: yeah he mentioned it last call  
+[09:33]  ↳ mike.r: he who?  
+[09:34]  ↳ sarah.k: their VP idk name  
+[09:35] alex.m: [shared link: ApiGrid pricing page] check this, matches our quote  
+[09:36] mike.r: looks good 👍  
+[09:37] brian.f: decision maker? nah, we're mid-level but Chloe pushes  
+[09:38] sarah.k: makes sense, timeline is end of Sept 2026? long but ok  
+[09:39] alex.m: yeah next sprint we demo security features  
+[09:40] mike.r: tomorrow's call with them?  
+[09:41] brian.f: confirmed, prep onboarding fixes  
+[09:42] sarah.k: they repeated the lost customer story, hit home  
+[09:43] alex.m: fwiw their tech stack screams us over Copilot  
+[09:44] mike.r: agreed, Node.js GCP perfect  
+[09:45] sarah.k: budget 350k confirmed again on last Friday's notes  
+[09:46] brian.f: cool, repeated for emphasis lmk if changes  
+[09:47] alex.m: she wants audit proof by Q3  
+[09:48]  ↳ mike.r: she=Chloe right?  
+[09:49]  ↳ sarah.k: yes  
+[09:50] mike.r: got it  
+[09:51] brian.f: we're not decision maker but close  
+[09:52] alex.m: true, board hurdle at 350k  
+[09:53] sarah.k: imo we win on stack fit  
+[09:54] mike.r: yeah React MongoDB etc  
+[09:55] brian.f: Gong's weak there  
+[09:56] alex.m: @channel anyone free for demo prep tomorrow?  
+[09:57] sarah.k: me 👍  
+[09:58] mike.r: +1  
+[09:59] brian.f: solid  
+[10:00] alex.m: they said competitors lagging on security  
+[10:01] sarah.k: perfect for Q3 audit  
+[10:02] mike.r: Chloe's been pushing that  
+[10:03] brian.f: 7 years loyalty helps  
+[10:04] alex.m: lost customer still stings them  
+[10:05] sarah.k: onboarding demo must kill  
+[10:06] mike.r: will do  
+[10:07] brian.f: budget locked at 350k?  
+[10:08] alex.m: yep as per notes  
+[10:09] sarah.k: board approval timeline?  
+[10:10] brian.f: post demo next week maybe  
+[10:11] mike.r: makes sense  
+[10:12] alex.m: evaluating 5 total, us top?  
+[10:13] sarah.k: she thinks so  
+[10:14]  ↳ mike.r: unclear who  
+[10:15]  ↳ sarah.k: ops lead  
+[10:16] brian.f: Copilot no go for GCP  
+[10:17] alex.m: exactly  
+[10:18] mike.r: Gong pricing higher?  
+[10:19] sarah.k: dunno but we win value  
+[10:20] brian.f: 👍  
+[10:21] alex.m: deal stage still negot  
+[10:22] sarah.k: push for LOI  
+[10:23] mike.r: good call  
+[10:24] brian.f: timeline Sept 21 ok?  
+[10:25] alex.m: yeah Q3 aligns  
+[10:26] sarah.k: got it  
+[10:27] mike.r: stack repeat: TypeScript React etc  
+[10:28] brian.f: yes confirmed  
+[10:29] alex.m: all good?  
+[10:30] sarah.k: thumbs up  
+[👍 from @mike.r]  
+[10:31] brian.f: prep done tomorrow  
+[10:32] mike.r: last Friday they loved proposal  
+[10:33] alex.m: awesome  
+[10:34] sarah.k: Chloe 7 yrs fact helps trust  
+[10:35] brian.f: true  
+[10:36] alex.m: onboarding fix seals it  
+[10:37] mike.r: ngl excited  
+[10:38] sarah.k: me too  
+[10:39] brian.f: 350k in bag?  
+[10:40] alex.m: board pending but yeah  
+[10:41] mike.r: they can sign 200k direct  
+[10:42] sarah.k: split deal? nah  
+[10:43] brian.f: push full  
+[10:44] alex.m: will do  
+[10:45] mike.r: Q3 audit pressure high  
+[10:46] sarah.k: our edge  
+[10:47] brian.f: competitors mentioned Copilot Gong mainly  
+[10:48] alex.m: 5 total yes  
+[10:49] sarah.k: we diff on stack  
+[10:50] mike.r: 1806 emps big win  
+[10:51] brian.f: company size 1000+ perfect  
+[10:52] alex.m: wrapping, lmk updates  
+[👍 from @sarah.k] [👍 from @brian.f]

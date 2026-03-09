@@ -1,0 +1,19 @@
+{
+  "entity_index": 17,
+  "name": "Victor Anderson",
+  "company": "Harbor Tech",
+  "industry": "HRTech",
+  "email": "victor.anderson@harbortech.com",
+  "title": "VP of Customer Success",
+  "facts": [
+    "Victor Anderson is VP of Customer Success at Harbor Tech",
+    "Harbor Tech is a HRTech company with 2787 employees",
+    "Tech stack: Java, Micronaut, GCP, Spanner, Pub/Sub",
+    "Deal value: $650,000",
+    "Pain points: poor visibility into pipeline health; lack of real-time analytics for decision making; inconsistent messaging across sales team",
+    "Competitors: Outreach, custom internal tool, ZoomInfo",
+    "Decision timeline: Q4 2026",
+    "Annual revenue: ~$282M"
+  ],
+  "actual_word_count": 328
+}

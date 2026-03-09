@@ -1,0 +1,21 @@
+**Call Note: Follow-up Sales Meeting**  
+**Date:** January 25, 2026  
+**Contact:** Elena Johansson, VP of Engineering, Orion Platforms (Healthcare Tech)  
+**Duration:** 45 min | **Attendees:** Elena Johansson, [My Name]  
+
+**Summary:** Follow-up on initial demo. Elena provided strong positive feedback on platform's HIPAA-compliant AI analytics for patient data processing. Confirmed seamless integration potential with their Epic EHR system—pilot team excited about real-time predictive modeling reducing readmission rates by up to 20% based on our case studies.  
+
+**Key Update (Change):** **Orion Platforms clarified VP of Engineering now owns the buying decision.** This supersedes previous intel where Procurement led evaluations. Elena confirmed full authority for greenlight, bypassing committee delays.  
+
+**Other Details:**  
+- Competitive landscape: Downselected from 3 vendors; ours leads due to superior edge computing for telehealth scalability. They dropped Vendor B over latency issues.  
+- Budget alignment: Fits their $750K Q2 allocation; requested customized ROI model showing 18-month payback.  
+- Timeline: Targeting POC kickoff Feb 10-15; internal approval expected by Feb 5.  
+
+**Next Steps/Actions:**  
+- Send ROI calculator and POC SOW by Jan 28 (me).  
+- Schedule POC planning call for Jan 30 (Elena to confirm stakeholders).  
+- Flag for pipeline update: Decision-maker shift accelerates close probability to 75%.  
+
+**Overall Sentiment:** High enthusiasm; deal momentum building.  
+*(Word count: 218)*

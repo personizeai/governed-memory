@@ -1,0 +1,17 @@
+**Follow-up Sales Call Note**  
+**Date:** February 28, 2026  
+**Contact:** Kevin Mueller, VP Engineering, Zenith Analytics (Digital Media)  
+**Duration:** 45 min | **Called by:** [Your Name]  
+
+Followed up on Q1 proposal for DB optimization suite. Kevin provided key update: **Zenith Analytics has fully migrated to PostgreSQL as primary database**—superseding prior MySQL setup completed last quarter. This shift supports their 3x data growth from ad analytics streams, but they're hitting query latency spikes during peak traffic (up 40% YoY).
+
+Discussed pain points: Scaling read replicas strained ops team; seeking auto-sharding and AI query tuning. Expressed strong interest in our PostgreSQL-native tools—aligned perfectly post-migration. Budget approved at $250K for FY26 rollout; decision timeline targets end of Q2.
+
+Action items:  
+- Send customized PostgreSQL demo link and POC plan by 3/5.  
+- Schedule technical deep-dive with their Sr. DBA next week (proposed 3/12).  
+- Kevin to loop in CTO for buy-in.  
+
+Prospect hot—migration timing is ideal entry point. High confidence in close.  
+
+(Word count: 178)

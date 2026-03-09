@@ -1,0 +1,19 @@
+{
+  "entity_index": 49,
+  "name": "Maria Bhandari",
+  "company": "Aurora Systems",
+  "industry": "Cybersecurity",
+  "email": "maria.bhandari@aurorasystems.com",
+  "title": "Chief Product Officer",
+  "facts": [
+    "Maria Bhandari is Chief Product Officer at Aurora Systems",
+    "Aurora Systems is a Cybersecurity company with 1550 employees",
+    "Tech stack: Python, Django, AWS, PostgreSQL, Redis",
+    "Deal value: $650,000",
+    "Pain points: manual processes for customer onboarding; poor visibility into pipeline health; poor developer experience slowing feature velocity; difficulty hiring specialized engineers",
+    "Competitors: Apollo.io, Intercom, ZoomInfo",
+    "Decision timeline: Q4 2026",
+    "Annual revenue: ~$21M"
+  ],
+  "actual_word_count": 309
+}

@@ -1,0 +1,70 @@
+{
+  "sample_id": "email_046",
+  "content_type": "email_thread",
+  "company": "RouteWise",
+  "industry": "Logistics",
+  "email_count": 6,
+  "actual_word_count": 1383,
+  "expected_facts": [
+    {
+      "text": "RouteWise is a Logistics company with about 3283 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with data silos between engineering and sales teams",
+      "type": "explicit"
+    },
+    {
+      "text": "Brandon Hassan has been at RouteWise for 3 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $450,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using Salesforce with custom Apex triggers",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 2 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with slow deployment cycles taking 2-3 weeks per release",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Sales Engineering",
+    "company_name": "RouteWise",
+    "company_size": "1000+",
+    "technology_stack": "Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "data silos between engineering and sales teams",
+      "slow deployment cycles taking 2-3 weeks per release"
+    ],
+    "deal_value": 450000,
+    "decision_timeline": "2026-12-02",
+    "decision_maker": true,
+    "next_steps": "Brandon to present internally and circle back next week",
+    "buying_process": "Can sign off directly up to $200K, board approval above that",
+    "current_solution": "Salesforce with custom Apex triggers"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 1
+  },
+  "introduces_new_person": true,
+  "colleague": "Raj O'Brien, Director of IT",
+  "property_coverage": 0.86
+}

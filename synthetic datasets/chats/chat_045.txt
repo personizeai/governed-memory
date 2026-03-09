@@ -1,0 +1,195 @@
+[09:45] alex.m: @here quick sync on CastPoint call? Just wrapped with Sarah Singh, their VP Eng
+
+[09:46] sarah.k: On it! She's been at CastPoint only 1 year tbh
+
+[09:47] mike.r: Got it. Manufacturing co, right? How many employees?
+
+[09:47]   ↳ [09:48] alex.m: Yeah ~2942 peeps, solid mid-size imo
+
+[09:49] sarah.k: Ngl they lost a major customer last qtr due to onboarding mess
+
+👍 from @mike.r
+
+[09:50] michael.f: Oof that sucks. What's their stack?
+
+[09:51] alex.m: Java, Micronaut, GCP, Spanner, Pub/Sub — all GCP heavy
+
+[09:52] sarah.k: Deal stage is Discovery rn
+
+[09:53] mike.r: Budget? They spill any nums?
+
+[09:54] alex.m: ~850k allocated fwiw
+
+[09:55] sarah.k: They're eval'ing 5 vendors incl us
+
+[09:56] michael.f: Fragmented tooling across depts is killing them she said
+
+[09:57] alex.m: Yup + hiring specialized engs is tough
+
+[09:58] mike.r: Security concerns too? With that stack?
+
+[09:59] sarah.k: Big time, poor visibility into pipeline health ngl
+
+[10:00] alex.m: Makes sense
+
+👍 from @sarah.k
+
+[10:01] michael.f: She mention timeline?
+
+[10:02]   ↳ [10:03] sarah.k: Next steps: she'll present internally and circle back next week
+
+[10:04] mike.r: Company size 1000+ confirmed?
+
+[10:05] alex.m: Yeah 2942 exactly
+
+[10:06] sarah.k: [shared link: CastPoint pricing page]
+
+[10:07] michael.f: Thx, checking that
+
+[10:08] alex.m: Pain points nailed: hiring, tooling, security, visibility
+
+[10:09] mike.r: Got it
+
+[10:10] sarah.k: Tbh she's sharp, only 1 yr in but knows pains cold
+
+[10:11] michael.f: He said they're not interested in X? Wait who?
+
+[10:12] alex.m: Sarah meant the other vendor lol
+
+[10:13] mike.r: Lmk if we need demo prep tomorrow
+
+[10:14] sarah.k: Yes pls, next sprint too
+
+[10:15] michael.f: Budget 850k solid?
+
+[10:16]   ↳ [10:17] alex.m: Confirmed twice
+
+[10:18] mike.r: Tech stack repeat: GCP Spanner Pub/Sub yeah?
+
+[10:19] sarah.k: Spot on
+
+👍 from @michael.f
+
+[10:20] alex.m: @channel anyone talk to their sales side?
+
+[10:21] michael.f: Not yet, but onboarding fail lost them big acct
+
+[10:22] sarah.k: Last Friday she emailed followups
+
+[10:23] mike.r: She? Sarah?
+
+[10:24] alex.m: Yeah Singh
+
+[10:25] michael.f: Difficulty hiring engs — that's our angle imo
+
+[10:26] sarah.k: 100%
+
+[10:27] mike.r: Fragmented tooling everywhere depts don't talk
+
+[10:28] alex.m: Visibility sucks too
+
+[10:29] sarah.k: Security w/ current arch is a nightmare
+
+[10:30] michael.f: Gotcha
+
+[10:31] mike.r: Deal value 850k — push for upsell?
+
+[10:32] alex.m: Later, Discovery first
+
+[10:33] sarah.k: She presents internally tomorrow?
+
+[10:34]   ↳ [10:35] michael.f: Next week circle back yes
+
+[10:36] mike.r: CastPoint manufacturing w/ 2942 emps fwiw
+
+[10:37] alex.m: Noted, repeat but good
+
+👍 from @sarah.k
+
+[10:38] sarah.k: VP Eng title perfect for our soln
+
+[10:39] michael.f: Stack: Java Micronaut heavy
+
+[10:40] mike.r: Pub/Sub for events?
+
+[10:41]   ↳ [10:42] alex.m: Yep they confirmed
+
+[10:43] sarah.k: 5 vendors: us, CompetitorA, B, C, D
+
+[10:44] michael.f: We win on hiring pain
+
+[10:45] alex.m: And tooling frag
+
+[10:46] mike.r: She didn't like their demo? Whose?
+
+[10:47] sarah.k: One of the others lol unclear but yeah
+
+[10:48] michael.f: Last qtr customer loss hurts bad
+
+[10:49] alex.m: Onboarding issues key
+
+[10:50] sarah.k: Budget ~850k locked
+
+[10:51] mike.r: Thx Sarah
+
+[10:52] michael.f: Next week followup critical
+
+[10:53] alex.m: Agreed, lmk updates
+
+[10:54] sarah.k: Will do!
+
+👍 from @mike.r
+
+[10:55] mike.r: Pipeline health visibility — they need it bad
+
+[10:56] alex.m: Security too
+
+[10:57] michael.f: Makes sense
+
+[15:22] sarah.k: Quick ping: Sarah Singh looped back early?
+
+[15:23] alex.m: Nope, next week still
+
+[15:24] mike.r: Her 1 year tenure means fresh eyes on pains
+
+[15:25] michael.f: Yeah hiring engs tough in mfg
+
+[15:26] sarah.k: Tooling fragmented af
+
+[15:27] alex.m: Got it
+
+[15:28] mike.r: Stack GCP all in
+
+[15:29] sarah.k: Spanner scaling issues?
+
+[15:30]   ↳ [15:31] michael.f: They hinted yes
+
+[15:32] alex.m: Deal stage Discovery, stay sharp
+
+[15:33] mike.r: 850k budget pumped
+
+[15:34] sarah.k: Evaluating 5, we top?
+
+[15:35] michael.f: Imo yes
+
+[15:36] alex.m: Lost customer onboarding — leverage that
+
+[15:37] mike.r: Tomorrow demo tweaks?
+
+[15:38] sarah.k: Next sprint integrate feedback
+
+[15:39] michael.f: She said no to VendorX — which she?
+
+[15:40] alex.m: Sarah obv
+
+[15:41] sarah.k: Security concerns mounting
+
+[15:42] mike.r: Visibility poor rn
+
+[15:43] michael.f: Acknowledged
+
+👍 from @alex.m
+
+[15:44] alex.m: Great thread everyone
+
+[15:45] sarah.k: Next steps locked: present internally, ping next week

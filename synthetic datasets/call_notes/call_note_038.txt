@@ -1,0 +1,41 @@
+Call with: Priya Ito, VP of Operations at CargoNova
+Date: February 15, 2026
+Duration: 45 min
+
+Key Points:
+- CargoNova logistics, ~187 emp (51-200 range)
+- Priya 3yrs @ co
+- Tech stk: TS, React, Node.js, GCP, MongoDB
+- Pains: scaling issues peak traffic, vendor lock-in curr cloud (GCP?), slow deploys 2-3wks/release
+- Eval alts: build in-house, MS Copilot, Apollo.io
+- Def our edge on scaling/no lock-in
+- Deal stage: Proposal
+- Urgency: Critical - peaks killing them now
+- She's bought in, but he's pushing Q2 close? 
+- Mtg w/ her team next week
+- Prob send POC demo re: React integration
+- They hate 2-3wk cycles, want daily deploys
+- GCP lock-in bad, migrating? 
+- In-house build stalled, Copilot too gen, Apollo not logistics-fit
+- Priya champions ops efficiency
+- Peak traffic = holiday surges, 10x load
+- I pitched our Node/GCP compat w/ zero vendor risk
+- She nodded on Mongo scaling fix
+- Competitors weak on custom logistics flows
+- Critical need by EOQ - budget locked
+- Her: "We can't wait, peaks incoming"
+- He's internal dev lead? Skeptical but open
+- F/U on pricing tiers
+- 45min deep dive, good rapport
+
+Action Items:
+- [ ] Send revised proposal w/ scaling benchmarks - Me by EOD Fri
+- [ ] Sch POC mtg w/ her eng team - Priya next week
+- [ ] F/U call re: dev lead intro - Me 2/22
+- [ ] Circ internote to AM/Eng on tech fit - Me
+- [ ] Quote migration from GCP lock-in - Eng team
+
+Notes:
+Priya solid contact, 3yrs in, knows pains inside out. CargoNova scaling hell during peaks - traffic 10x, deploys lag 2-3wks killing agility. Vendor lock-in GCP squeezing them hard, eval'd in-house (stalled), Copilot (too basic), Apollo (sales-only not ops). She's urgent, critical by EOQ, but he's dragging? Pushed our Proposal hard, TS/React/Node fit perfect, no lock-in. Good energy, she'll loop devs.
+
+Deal heating, Proposal stage locked. Urgency critical w/ peaks soon. I owned tech align, she lit up on fast deploys. Next week her mtg key - get POC in. He's prob dev head pushing back on switch, but Priya overrides. Logistics focus our win vs comps. F/U tight.

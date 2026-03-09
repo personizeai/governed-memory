@@ -1,0 +1,78 @@
+{
+  "sample_id": "document_003",
+  "content_type": "wiki_document",
+  "company": "CareStack",
+  "industry": "Healthcare Tech",
+  "target_word_count": 2116,
+  "actual_word_count": 1284,
+  "expected_facts": [
+    {
+      "text": "They're dealing with data silos between engineering and sales teams",
+      "type": "explicit"
+    },
+    {
+      "text": "Raj Wright has been at CareStack for 1 years",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 30% this fiscal year",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with integration complexity with legacy systems",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 3 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "CareStack is a Healthcare Tech company with about 24 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes C#, .NET, Azure, SQL Server, RabbitMQ",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "CTO",
+    "company_name": "CareStack",
+    "company_size": "11-50",
+    "technology_stack": "C#, .NET, Azure, SQL Server, RabbitMQ",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "data silos between engineering and sales teams",
+      "integration complexity with legacy systems",
+      "lack of real-time analytics for decision making"
+    ],
+    "decision_timeline": "2026-06-08",
+    "decision_maker": false
+  },
+  "planted_issues": {
+    "pronoun_issues": 1,
+    "temporal_issues": 1,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Aisha Dubois",
+      "title": "VP of Sales",
+      "role": "End User"
+    },
+    {
+      "name": "Amanda Petrov",
+      "title": "CTO",
+      "role": "End User"
+    }
+  ],
+  "property_coverage": 0.57
+}

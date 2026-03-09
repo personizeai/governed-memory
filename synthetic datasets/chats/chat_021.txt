@@ -1,0 +1,141 @@
+[09:15] @alex.m: @channel quick update on BuildTech Corp call yesterday with Simone Bhandari. She's Director of Engineering, reports directly to CEO. Deal stage: Qualification. [👍 from @sarah.k]
+
+[09:17] @sarah.k: Nice! What's their tech stack? 
+
+[09:18] @alex.m: Python, Django, AWS, Postgres, Redis. They're manufacturing, ~83 employees (51-200 range).
+
+[09:19]  ↳ @mike.r: AWS? That explains the vendor lock-in pain they mentioned.
+
+[09:20] @sarah.k: Budget? Deal value around 850k? lmk
+
+[09:21] @alex.m: Yeah approx $850,000 allocated. Urgency medium, decision by 2026-07-30.
+
+[09:22] @mike.r: Got it. Pains: no real-time analytics for decisions, vendor lock-in with cloud prov.
+
+[09:23]  ↳ @omar.e: And slow deploys? 2-3 weeks per release sounds brutal tbh.
+
+[09:24] @alex.m: Yep, plus inconsistent messaging across their sales team. Simone's been there 1 year.
+
+[09:25] @sarah.k: Competitors? She said they're looking at others.
+
+[09:26] @alex.m: ZoomInfo, Apollo.io, and some custom internal tool.
+
+[09:27] @mike.r: Makes sense. She's evaluating those rn?
+
+[09:28]  ↳ @alex.m: Yeah she said they're not interested in one—wait which one?
+
+[09:29] @omar.e: Simone reports to CEO directly, that's good access imo.
+
+[09:30] @sarah.k: [shared link: BuildTech Corp pricing page] Fyi their current setup costs.
+
+[09:31]  ↳ @mike.r: Looking now, oof expensive. 👍
+
+[09:32] @alex.m: Ngl vendor lock-in is killing them on AWS.
+
+[09:33] @mike.r: Repeated from call notes: tech stack Python/Django/AWS/Postgres/Redis.
+
+[09:34] @sarah.k: Pain points list: lack real-time analytics, vendor lock-in, inconsistent sales msgs, slow deploys 2-3wks.
+
+[09:35] @omar.e: She mentioned that last Friday in email too.
+
+[09:36]  ↳ @alex.m: Who? Simone?
+
+[09:37] @mike.r: Budget 850k confirmed? Alex you said approx.
+
+[09:38] @alex.m: Yep $850,000. Deal value matches.
+
+[09:39] @sarah.k: Company size 83 emp, manufacturing—fits mid-market.
+
+[09:40] @omar.e: @here next steps? Demo next sprint?
+
+[09:41] @mike.r: Makes sense. Qual stage, push on pains.
+
+[09:42]  ↳ @sarah.k: Yeah tomorrow call with her team?
+
+[09:43] @alex.m: Urgency medium so no rush, but lmk if we book.
+
+[09:44] @omar.e: He said they're dealing with inconsistent messaging—who's he?
+
+[09:45] @sarah.k: Got it on competitors: ZoomInfo, Apollo, custom tool.
+
+[09:46]  ↳ @mike.r: She shut down Apollo quick tho.
+
+[09:47] @alex.m: Timeline 2026-07-30 fwiw.
+
+[09:48] @mike.r: 👍
+
+[09:49] @sarah.k: Simone at BuildTech 1 year, fresh eyes on pains.
+
+[09:50]  ↳ @omar.e: Reports to CEO, key.
+
+[09:51] @alex.m: Tech stack repeat: Python Django AWS Postgres Redis. Matches their stack pains.
+
+[09:52] @mike.r: Vendor lock-in top pain imo.
+
+[09:53] @omar.e: Real-time analytics lacking for decisions, yeah.
+
+[09:54] @sarah.k: Slow cycles 2-3 weeks per release—our edge there.
+
+[09:55] @alex.m: They said it yesterday.
+
+[09:56]  ↳ @mike.r: Who said? Her team?
+
+[09:57] @omar.e: Deal value 850k, solid if we close.
+
+[09:58] @sarah.k: Qualification stage, need more qual q's tomorrow.
+
+[09:59] @mike.r: Fwiw BuildTech manufacturing, scaling issues.
+
+[10:00] @alex.m: Got it. Thread on pains closed?
+
+[10:01]  ↳ @sarah.k: Yep 👍 [👍 from @mike.r]
+
+[10:02] @omar.e: Next sprint integrate their stack demo.
+
+[10:03] @mike.r: Makes sense.
+
+[10:04] @alex.m: Simone Bhandari deets: Dir Eng, 1yr tenure.
+
+[10:05] @sarah.k: Budget allocated ~850k, confirmed twice now.
+
+[10:06]  ↳ @omar.e: Good repeat.
+
+[10:07] @mike.r: Competitors eval: ZoomInfo Apollo custom.
+
+[10:08] @alex.m: Pain: inconsistent sales team msgs.
+
+[10:09] @sarah.k: Vendor lock-in AWS heavy.
+
+[10:10] @omar.e: Urgency medium, timeline end July '26.
+
+[10:11] @mike.r: 2026-07-30 yeah.
+
+[10:12] @alex.m: All good? 
+
+[10:13] @sarah.k: 👍
+
+[10:14] @omar.e: Gotcha.
+
+[10:15] @mike.r: They mentioned last Friday vendor lock-in bad.
+
+[10:16]  ↳ @alex.m: Simone's team?
+
+[10:17] @sarah.k: Tomorrow follow-up call lmk times.
+
+[10:18] @alex.m: Sure, book it.
+
+[10:19] @mike.r: Company 83 emp manufacturing.
+
+[10:20] @omar.e: Tech: Python etc solid match.
+
+[10:21] @sarah.k: Pains embedded: analytics, lock-in, msgs, deploys.
+
+[10:22] @alex.m: Deal stage qual, pushing forward.
+
+[10:23]  ↳ @mike.r: 👍 [👍 from @sarah.k]
+
+[10:24] @omar.e: She said custom tool sucks—who she?
+
+[10:25] @sarah.k: All set imo.
+
+[10:26] @alex.m: Thanks team.

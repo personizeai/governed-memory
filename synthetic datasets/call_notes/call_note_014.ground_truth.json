@@ -1,0 +1,50 @@
+{
+  "sample_id": "call_note_014",
+  "content_type": "call_notes",
+  "company": "FreightPulse",
+  "industry": "Logistics",
+  "duration_minutes": 15,
+  "target_word_count": 439,
+  "actual_word_count": 304,
+  "expected_facts": [
+    {
+      "text": "Their main office is in Seattle",
+      "type": "explicit"
+    },
+    {
+      "text": "FreightPulse is a Logistics company with about 456 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q3",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Go, Kubernetes, AWS, DynamoDB, gRPC",
+      "type": "explicit"
+    },
+    {
+      "text": "Daniel Petrov has been at FreightPulse for 3 years",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Sales",
+    "company_name": "FreightPulse",
+    "company_size": "201-1000",
+    "technology_stack": "Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "deal_stage": "Qualification",
+    "decision_timeline": "2026-11-19",
+    "buying_process": "Fast-track available for deals under $150K with direct VP approval",
+    "urgency_level": "Critical"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 2
+  },
+  "property_coverage": 0.57
+}

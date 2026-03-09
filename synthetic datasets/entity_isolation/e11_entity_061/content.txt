@@ -1,0 +1,16 @@
+### Account Overview
+Pike Engineering is a B2B SaaS company specializing in scalable engineering solutions, with approximately 2605 employees and annual revenue of ~$275M. Our primary contact is Nina Johnson, VP of Sales, reachable at nina.johnson@pikeengineering.com. Nina oversees sales operations and is actively evaluating CRM enhancements to streamline their growth amid expanding customer bases. Their tech-forward environment, leveraging Go, Kubernetes, AWS, DynamoDB, and gRPC, positions them as a high-value prospect facing operational bottlenecks in a competitive landscape.
+
+### Key Details
+Pike Engineering grapples with several pain points hindering efficiency: manual processes for customer onboarding that slow down revenue cycles; compliance audit failures on data handling, risking regulatory penalties; difficulty measuring ROI on AI initiatives, complicating budget justifications; and scaling issues during peak traffic periods that disrupt service reliability. They currently rely on existing CRM workflows and Microsoft Copilot as competitors, but these fall short in addressing integrated automation and analytics needs. Nina has highlighted these challenges in recent discussions, emphasizing the need for a robust solution to support their aggressive expansion.
+
+### Deal Status
+This opportunity carries a potential deal value of $250,000, with a decision timeline targeted for Q2 2026. Initial discovery calls have validated alignment with their pain points, and Nina has expressed strong interest in a proof-of-concept demo tailored to their tech stack. Competitive positioning against their current tools is favorable, as we've demonstrated superior handling of onboarding automation and compliance features. Pipeline stage: Qualified Opportunity, with positive internal buy-in from Nina's team.
+
+### Next Steps
+- Schedule a technical deep-dive demo with Nina and her engineering leads by end of next week to showcase integrations with Go, Kubernetes, AWS, DynamoDB, and gRPC.
+- Prepare customized ROI calculator addressing AI measurement and scaling challenges, to be shared post-demo.
+- Follow up on compliance case studies to counter audit failure concerns.
+- Set quarterly check-in to track progress toward Q2 2026 decision, nurturing relationship ahead of budget cycles.
+
+(Word count: 348)

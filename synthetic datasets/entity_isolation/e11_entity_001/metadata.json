@@ -1,0 +1,19 @@
+{
+  "entity_index": 1,
+  "name": "Anita Cho",
+  "company": "NovaCrest Solutions",
+  "industry": "B2B SaaS",
+  "email": "anita.cho@novacrestsolutions.com",
+  "title": "Director of IT",
+  "facts": [
+    "Anita Cho is Director of IT at NovaCrest Solutions",
+    "NovaCrest Solutions is a B2B SaaS company with 2985 employees",
+    "Tech stack: PHP, Laravel, DigitalOcean, MySQL, Redis",
+    "Deal value: $400,000",
+    "Pain points: inconsistent messaging across sales team; scaling issues during peak traffic periods",
+    "Competitors: Drift, Intercom",
+    "Decision timeline: Q3 2026",
+    "Annual revenue: ~$74M"
+  ],
+  "actual_word_count": 361
+}

@@ -1,0 +1,221 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Sarah Singh <sarah.singh@pricematrix.com>  
+Subject: Streamlining customer onboarding at PriceMatrix?  
+Date: Thu, 12 Feb 2026 10:45:32 -0500  
+
+Hi Sarah,  
+
+I hope this email finds you well. I'm Alex Morgan, Account Executive at Technova, and I came across PriceMatrix while researching fast-growing e-commerce companies leveraging Go and Kubernetes stacks. With your team's focus on AWS and DynamoDB, I imagine scaling customer onboarding without manual processes is a constant challenge—especially as you've grown to 34 employees.  
+
+Our platform automates onboarding workflows, integrates seamlessly with gRPC services, and helps avoid vendor lock-in by supporting multi-cloud setups. Companies like yours have cut onboarding time by 60% and reduced churn from slow support responses.  
+
+Would you be open to a quick 15-minute chat next week to see if it aligns with your goals, especially with your IT budget up 34% this fiscal year?  
+
+Best regards,  
+Alex Morgan  
+Account Executive  
+Technova  
+(555) 123-4567  
+alex.morgan@technova.io  
+
+---
+
+From: Sarah Singh <sarah.singh@pricematrix.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Streamlining customer onboarding at PriceMatrix?  
+Date: Fri, 13 Feb 2026 14:22:17 -0500  
+
+Hi Alex,  
+
+Thanks for reaching out. I've been at PriceMatrix for 2 years as Director of Sales Engineering, and manual processes for customer onboarding are indeed a pain point—we're still handling a lot of it by hand, which ties into our customer churn from slow support response times. We've been evaluating Drift as one option.  
+
+How does Technova compare specifically on integration with our stack (Kubernetes, AWS, DynamoDB, gRPC)? And what's the typical pricing for a company our size (11-50 employees)?  
+
+Best,  
+Sarah Singh  
+Director of Sales Engineering  
+PriceMatrix  
+(555) 987-6543  
+sarah.singh@pricematrix.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Sarah Singh <sarah.singh@pricematrix.com>  
+Subject: Re: Streamlining customer onboarding at PriceMatrix?  
+Date: Sat, 14 Feb 2026 09:30:45 -0500  
+
+> Hi Alex,  
+>  
+> Thanks for reaching out. I've been at PriceMatrix for 2 years as Director of Sales Engineering, and manual processes for customer onboarding are indeed a pain point—we're still handling a lot of it by hand, which ties into our customer churn from slow support response times. We've been evaluating Drift as one option.  
+>  
+> How does Technova compare specifically on integration with our stack (Kubernetes, AWS, DynamoDB, gRPC)? And what's the typical pricing for a company our size (11-50 employees)?  
+>  
+> Best,  
+> Sarah Singh  
+> Director of Sales Engineering  
+> PriceMatrix  
+> (555) 987-6543  
+> sarah.singh@pricematrix.com  
+
+Hi Sarah,  
+
+Great to hear from you—thanks for the context on your onboarding challenges and Drift evaluation. Technova integrates natively with Kubernetes via Helm charts, pulls data from DynamoDB for personalized workflows, supports gRPC for real-time comms, and runs on AWS while offering easy migration paths to avoid your current vendor lock-in.  
+
+For pricing, teams your size typically start at around $50,000 annually, which fits well within your allocated IT budget—especially post the 34% increase. This gets you full automation, AI-driven support to slash response times, and SOC 2 compliance ahead of your Q2 security audit.  
+
+As a light next step, how about a 20-minute demo tailored to PriceMatrix? I'm free Tuesday or Wednesday.  
+
+Cheers,  
+Alex Morgan  
+Account Executive  
+Technova  
+(555) 123-4567  
+alex.morgan@technova.io  
+
+---
+
+From: Sarah Singh <sarah.singh@pricematrix.com>  
+To: David Ibrahim <david.ibrahim@pricematrix.com>  
+CC: Alex Morgan <alex.morgan@technova.io>  
+Subject: Fwd: Re: Streamlining customer onboarding at PriceMatrix?  
+Date: Mon, 16 Feb 2026 11:15:09 -0500  
+
+David,  
+
+Thoughts on this? They seem to address our manual onboarding and lock-in issues. I've been looking at Drift too, but this might integrate better. Can you weigh in technically?  
+
+---------- Forwarded message ----------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Sat, 14 Feb 2026 09:30:45 -0500  
+Subject: Re: Streamlining customer onboarding at PriceMatrix?  
+To: Sarah Singh <sarah.singh@pricematrix.com>  
+
+> [Previous thread quoted]  
+
+Hi Sarah,  
+
+[Full body as above]  
+
+Cheers,  
+Alex Morgan  
+[...signature]  
+
+Best,  
+Sarah Singh  
+Director of Sales Engineering  
+PriceMatrix  
+(555) 987-6543  
+sarah.singh@pricematrix.com  
+
+---
+
+From: David Ibrahim <david.ibrahim@pricematrix.com>  
+To: Sarah Singh <sarah.singh@pricematrix.com>, Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Streamlining customer onboarding at PriceMatrix?  
+Date: Tue, 17 Feb 2026 16:47:22 -0500  
+
+> Sarah,  
+>  
+> Thoughts on this? They seem to address our manual onboarding and lock-in issues. I've been looking at Drift too, but this might integrate better. Can you weigh in technically?  
+>  
+> ---------- Forwarded message ----------  
+> [Full previous chain]  
+
+Hi Alex and Sarah,  
+
+David Ibrahim, Director of IT here. The gRPC integration sounds promising for our Go services, but how does Technova handle high-availability in Kubernetes clusters? We're running DynamoDB on AWS and worry about lock-in exacerbating our slow support responses leading to churn. Also, with procurement requiring three competitive bids and our decision timeline around December 5th, what's your SLA on security features for our upcoming Q2 audit?  
+
+He mentioned the $50k budget fits, but does that include everything?  
+
+Thanks,  
+David Ibrahim  
+Director of IT  
+PriceMatrix  
+(555) 456-7890  
+david.ibrahim@pricematrix.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: David Ibrahim <david.ibrahim@pricematrix.com>, Sarah Singh <sarah.singh@pricematrix.com>  
+Subject: Re: Streamlining customer onboarding at PriceMatrix?  
+Date: Wed, 18 Feb 2026 13:20:11 -0500  
+
+> Hi Alex and Sarah,  
+>  
+> David Ibrahim, Director of IT here. The gRPC integration sounds promising for our Go services, but how does Technova handle high-availability in Kubernetes clusters? We're running DynamoDB on AWS and worry about lock-in exacerbating our slow support responses leading to churn. Also, with procurement requiring three competitive bids and our decision timeline around December 5th, what's your SLA on security features for our upcoming Q2 audit?  
+>  
+> He mentioned the $50k budget fits, but does that include everything?  
+>  
+> Thanks,  
+> David Ibrahim  
+> Director of IT  
+> PriceMatrix  
+> (555) 456-7890  
+> david.ibrahim@pricematrix.com  
+
+Hi David and Sarah,  
+
+Thanks for looping in, David—appreciate the technical depth. On HA in Kubernetes, Technova deploys as a StatefulSet with replicas across nodes, using Horizontal Pod Autoscaler tied to your gRPC traffic. It reads DynamoDB for state and supports blue-green deploys to minimize downtime, directly tackling your vendor lock-in by exporting configs to Terraform for multi-cloud (e.g., GCP fallback). This has helped similar e-com teams reduce support response churn by 40%.  
+
+Security: 99.99% SLA uptime with end-to-end encryption, RBAC for gRPC, and audit logs exportable for your Q2 review—all included in the $50k deal value (yes, full platform, unlimited users, first-year onboarding support). We're qualification stage now, but happy to provide a POC to stack against Drift and another bidder.  
+
+It aligns with your buying process. Shall we schedule a technical deep-dive with your engineering team next week? I'm flexible Thu/Fri.  
+
+Best,  
+Alex Morgan  
+Account Executive  
+Technova  
+(555) 123-4567  
+alex.morgan@technova.io  
+
+---
+
+From: Sarah Singh <sarah.singh@pricematrix.com>  
+To: Alex Morgan <alex.morgan@technova.io>, David Ibrahim <david.ibrahim@pricematrix.com>  
+Subject: Re: Streamlining customer onboarding at PriceMatrix?  
+Date: Fri, 20 Feb 2026 10:05:38 -0500  
+
+> [Previous chain quoted, including David's unclear "He mentioned..."]  
+
+Hi Alex,  
+
+David and I reviewed—looks solid for our stack and audit prep. Let's do the deep-dive Thursday at 2pm EST? That works for the eng team too. She can join if needed, but they'll cover the Kubernetes side.  
+
+Procurement will want those bids by end of quarter, so timeline fits our Dec 5 goal.  
+
+Thanks,  
+Sarah Singh  
+Director of Sales Engineering  
+PriceMatrix  
+(555) 987-6543  
+sarah.singh@pricematrix.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Sarah Singh <sarah.singh@pricematrix.com>, David Ibrahim <david.ibrahim@pricematrix.com>  
+Subject: Re: Streamlining customer onboarding at PriceMatrix?  
+Date: Fri, 20 Feb 2026 12:33:14 -0500  
+
+> Hi Alex,  
+>  
+> David and I reviewed—looks solid for our stack and audit prep. Let's do the deep-dive Thursday at 2pm EST? That works for the eng team too. She can join if needed, but they'll cover the Kubernetes side.  
+>  
+> Procurement will want those bids by end of quarter, so timeline fits our Dec 5 goal.  
+>  
+> Thanks,  
+> Sarah Singh  
+> [...signature]  
+
+Perfect, Sarah and David—Thursday 2pm EST confirmed for the technical deep-dive. I'll send a Zoom link and agenda focusing on your Go/gRPC onboarding flows, HA demos, and lock-in escape hatches. CC'ing our solutions engineer who handled a similar DynamoDB setup last month.  
+
+They'll love diving into how we beat Drift on response times. Looking forward!  
+
+Cheers,  
+Alex Morgan  
+Account Executive  
+Technova  
+(555) 123-4567  
+alex.morgan@technova.io

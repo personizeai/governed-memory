@@ -1,0 +1,62 @@
+{
+  "sample_id": "chat_010",
+  "content_type": "chat_log",
+  "company": "VaultEdge",
+  "industry": "Fintech",
+  "message_count_target": 44,
+  "actual_word_count": 430,
+  "expected_facts": [
+    {
+      "text": "They're dealing with difficulty hiring specialized engineers",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Clari",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using spreadsheets and manual data entry",
+      "type": "explicit"
+    },
+    {
+      "text": "Elena Okonkwo has been at VaultEdge for 1 years",
+      "type": "explicit"
+    },
+    {
+      "text": "VaultEdge is a Fintech company with about 579 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Java, Spring Boot, Azure, Oracle, Kafka",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Customer Success",
+    "company_name": "VaultEdge",
+    "company_size": "201-1000",
+    "technology_stack": "Java, Spring Boot, Azure, Oracle, Kafka",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "compliance audit failures on data handling",
+      "difficulty hiring specialized engineers"
+    ],
+    "competitors_mentioned": [
+      "Clari"
+    ],
+    "next_steps": "Set up POC environment for Elena's team to evaluate",
+    "current_solution": "spreadsheets and manual data entry"
+  },
+  "planted_issues": {
+    "pronoun_issues": 5,
+    "temporal_issues": 3,
+    "duplicate_facts": 2
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@brandon.a"
+  ],
+  "property_coverage": 0.64
+}

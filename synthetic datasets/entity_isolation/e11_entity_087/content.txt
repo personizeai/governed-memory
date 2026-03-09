@@ -1,0 +1,16 @@
+### Account Overview
+Jasmine Tech is a Digital Media company with 2850 employees and annual revenue of ~$37M. Sarah Lee serves as CTO, overseeing technology strategy and innovation in a competitive landscape. The company specializes in digital content delivery and media platforms, facing challenges in scaling operations amid rapid industry growth. As a key prospect, Jasmine Tech aligns well with our solutions, particularly given their emphasis on AI-driven efficiencies and customer engagement tools.
+
+### Key Details
+Sarah Lee, CTO at Jasmine Tech, has highlighted several critical pain points during initial discussions: integration complexity with legacy systems, difficulty measuring ROI on AI initiatives, and customer churn stemming from slow support response times. Their current tech stack includes Java, Spring Boot, Azure, Oracle, and Kafka, which supports robust backend operations but creates bottlenecks in real-time data processing and analytics. Competitors like Chorus.ai are actively in play, positioning them as a strong alternative for conversation intelligence, underscoring the urgency for our differentiated offering in AI-powered CRM enhancements.
+
+### Deal Status
+This opportunity carries a potential deal value of $250,000, targeting deployment across their media analytics and support platforms. Sarah has expressed strong interest, with internal alignment on evaluating solutions to address their pain points. Decision timeline is set for Q3 2026, allowing time for proof-of-concept demos and ROI modeling. Current stage: Discovery complete; moving to proposal.
+
+### Next Steps
+- Schedule technical deep-dive call with Sarah Lee by end of next week to demo integration with their Java/Spring Boot and Kafka stack on Azure.
+- Prepare customized ROI calculator addressing AI initiative measurement and churn reduction, benchmarking against Chorus.ai.
+- Follow up with Oracle compatibility assessment to mitigate legacy integration risks.
+- Set quarterly check-in to track progress toward Q3 2026 decision, including stakeholder expansion if needed.
+
+(Word count: 348)

@@ -1,0 +1,111 @@
+#deals-cloudnova
+
+[10:15] @alex.m: @here quick update on CloudNova. They're in negotiation stage now, budget around $1.2M. Thoughts?
+
+[👍 from @sarah.k]
+
+[10:16] @sarah.k: Nice! Sarah Volkov looped me in yesterday. She's been there 5 years, knows the pain points inside out.
+
+[10:17] @mike.r:  ↳ @sarah.k: Sarah who? Volkov right? She mentioned slow deployments taking 2-3 weeks per release. Brutal tbh.
+
+[10:18]  ↳ @mike.r: That's killing their velocity imo.
+
+[10:19] @aisha.c: Yeah their stack is PHP, Laravel, DO, MySQL, Redis. We match perfectly fwiw.
+
+[10:20] @alex.m: Got it. Pain points: slow deploys, hiring specialized engineers is tough for them, and customer churn from slow support.
+
+[10:21] @sarah.k: Ngl, the hiring thing is big. They're at ~126 employees, mid-size 51-200, hard to attract talent.
+
+[10:22] @mike.r: She said they're not interested in custom yet? Who is she btw.
+
+[👍 from @alex.m]
+
+[10:23] @aisha.c: IT budget up 15% this FY. That's why $1.2M allocated. Makes sense.
+
+[10:24] @sarah.k: Exactly, repeated that in our last call. Urgency medium tho, no fire drills.
+
+[10:25] @alex.m: Deal value 1.2M confirmed? No decision maker locked yet.
+
+[10:26] @mike.r: Nope, false on DM. Sarah will share RFP by end of week tho.
+
+[10:27]  ↳ @alex.m: Next steps solid. Lmk if she sends it tomorrow.
+
+[10:28] @sarah.k: Will do. [shared link: CloudNova pricing page] Check this, aligns with our pitch.
+
+[10:29] @aisha.c: Looking now. Pricing looks competitive.
+
+[10:30] @mike.r: Their deploys are 2-3 weeks? We can cut that to days.
+
+[10:31] @alex.m: Yep, that's the hook. She agreed last Friday.
+
+[10:32] @sarah.k: Who? Volkov? She's key, 5 years in.
+
+[10:33] @aisha.c: Got it. Churn from slow support too, they lose customers waiting.
+
+[10:34] @mike.r: Fwiw, stack repeat: PHP/Laravel on DO. Easy migration.
+
+[10:35] @alex.m: Makes sense. Let's prep for RFP next sprint.
+
+[👍 from @sarah.k][👏 from @aisha.c]
+
+[10:36] @sarah.k: On it.
+
+[14:05] @mike.r: Quick ping @alex.m - they hiring struggles mentioned again?
+
+[14:06] @alex.m: Yeah he said it's bad. Wait who.
+
+[14:07] @aisha.c: Engineers probs. Specialized ones.
+
+[14:08] @sarah.k: Volkov confirmed, tough market for them at 126 heads.
+
+[14:09] @mike.r: Budget 1.2M still good? Alex you confirm?
+
+[14:10] @alex.m: Yep, she said so.
+
+[14:11] @aisha.c: IT bump 15% helps. No single DM tho.
+
+[14:12] @sarah.k: RFP tomorrow? She promised EOW.
+
+[14:13] @mike.r: Cool, urgency medium so no rush.
+
+[14:14] @alex.m: Got it.
+
+[15:42] @sarah.k: Update: Sarah Volkov just said deploys pain is top priority.
+
+[15:43] @aisha.c:  ↳ @sarah.k: 2-3 weeks yeah? We fix that.
+
+[15:44]  ↳ @aisha.c: Churn too from support lags.
+
+[15:45] @mike.r: She mention hiring again? They can't find Laravel devs easy.
+
+[15:46] @alex.m: Probably her team. Tbh.
+
+[15:47] @sarah.k: Stack locked: PHP, Laravel, DigitalOcean, MySQL, Redis.
+
+[15:48] @aisha.c: Perfect match 👍
+
+[15:49] @mike.r: Deal stage negotiation, next RFP.
+
+[15:50] @alex.m: Lmk when it lands.
+
+[16:12] @sarah.k: Pricing page link still relevant? They compared us.
+
+[16:13] @aisha.c: Yeah [shared link: CloudNova pricing page] wait no, ours.
+
+[16:14] @mike.r: Gotcha.
+
+[16:15] @alex.m: All good. 1.2M potential solid.
+
+[16:16] @sarah.k: Sarah been there 5 years, trusts us more now.
+
+[16:17] @aisha.c: Nice. Pain points nailed.
+
+[16:18] @mike.r: He said last Friday they're in.
+
+[16:19] @alex.m: Who he? Anyway, makes sense.
+
+[16:20] @sarah.k: RFP EOW confirmed.
+
+[👍 from @mike.r]
+
+[16:21] @aisha.c: 👍

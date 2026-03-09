@@ -1,0 +1,16 @@
+### Account Overview
+Birch Software is a prominent player in the Logistics industry, employing 871 professionals and generating approximately $199M in annual revenue. As a mid-sized enterprise focused on streamlining supply chain operations, the company faces intensifying demands for scalable, efficient software solutions. Our primary point of contact is Chen Wright, Chief Product Officer, reachable at chen.wright@birchsoftware.com. Chen oversees product strategy and development, making him a pivotal decision-maker for technology investments aimed at enhancing operational resilience.
+
+### Key Details
+Birch Software's current tech stack includes Ruby on Rails for application development, Heroku for deployment, PostgreSQL as the primary database, and Sidekiq for background job processing. These tools have served them well but are revealing limitations amid rapid growth. Key pain points include scaling issues during peak traffic periods, which disrupt service reliability, and poor developer experience that slows feature velocity and hampers innovation. Competitors in their evaluation mix include building solutions in-house, HubSpot AI for marketing automation extensions, and Salesforce Einstein for predictive analytics. Chen has expressed frustration with these alternatives, seeking a more integrated platform to address scalability without overhauling their stack.
+
+### Deal Status
+This opportunity represents a $120,000 deal targeting Birch Software's core product platform enhancements. Discussions have progressed positively, with Chen validating our solution's fit against their pain points in initial demos. The decision timeline is set for Q2 2026, aligned with their fiscal planning cycle and upcoming peak season preparations. Current stage: Proposal stage, with strong internal buy-in from product and engineering leads. Risks include internal advocacy for in-house builds, but our differentiation in seamless Ruby on Rails integration positions us favorably.
+
+### Next Steps
+- Schedule follow-up call with Chen Wright by end of next week to review customized POC addressing peak traffic scaling.
+- Share case studies benchmarking against HubSpot AI and Salesforce Einstein, tailored to Logistics use cases.
+- Coordinate intro to Birch's CTO for tech stack validation session in early December.
+- Update forecast to reflect $120,000 pipeline value; monitor for acceleration if Q2 timeline shifts.
+
+(Word count: 378)

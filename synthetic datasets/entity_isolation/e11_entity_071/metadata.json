@@ -1,0 +1,19 @@
+{
+  "entity_index": 71,
+  "name": "Brian Singh",
+  "company": "Elm Solutions",
+  "industry": "InsurTech",
+  "email": "brian.singh@elmsolutions.com",
+  "title": "VP of Sales",
+  "facts": [
+    "Brian Singh is VP of Sales at Elm Solutions",
+    "Elm Solutions is a InsurTech company with 2179 employees",
+    "Tech stack: Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "Deal value: $120,000",
+    "Pain points: difficulty hiring specialized engineers; inconsistent messaging across sales team; customer churn from slow support response times",
+    "Competitors: Intercom, HubSpot AI, Clari",
+    "Decision timeline: Q4 2026",
+    "Annual revenue: ~$67M"
+  ],
+  "actual_word_count": 320
+}

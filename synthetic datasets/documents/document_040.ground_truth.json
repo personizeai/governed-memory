@@ -1,0 +1,90 @@
+{
+  "sample_id": "document_040",
+  "content_type": "wiki_document",
+  "company": "ClassGrid",
+  "industry": "EdTech",
+  "target_word_count": 1968,
+  "actual_word_count": 1327,
+  "expected_facts": [
+    {
+      "text": "Currently using HubSpot CRM with Zapier automations",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with high infrastructure costs eating into margins",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 5 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "Amanda Singh has been at ClassGrid for 7 years",
+      "type": "explicit"
+    },
+    {
+      "text": "ClassGrid is a EdTech company with about 452 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with security concerns with current architecture",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $450,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Go, Kubernetes, AWS, DynamoDB, gRPC",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Clari",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Chief Product Officer",
+    "company_name": "ClassGrid",
+    "company_size": "201-1000",
+    "technology_stack": "Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "security concerns with current architecture",
+      "high infrastructure costs eating into margins",
+      "difficulty hiring specialized engineers",
+      "customer churn from slow support response times"
+    ],
+    "deal_value": 450000,
+    "decision_timeline": "2026-06-17",
+    "competitors_mentioned": [
+      "Clari"
+    ],
+    "decision_maker": false,
+    "next_steps": "Amanda will share the RFP by end of week",
+    "buying_process": "Can sign off directly up to $200K, board approval above that",
+    "current_solution": "HubSpot CRM with Zapier automations"
+  },
+  "planted_issues": {
+    "pronoun_issues": 1,
+    "temporal_issues": 1,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Amanda Thompson",
+      "title": "Director of Sales Engineering",
+      "role": "End User"
+    },
+    {
+      "name": "Daniel Patel",
+      "title": "CTO",
+      "role": "Champion"
+    }
+  ],
+  "property_coverage": 0.93
+}

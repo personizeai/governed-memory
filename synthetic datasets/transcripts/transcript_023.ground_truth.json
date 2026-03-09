@@ -1,0 +1,80 @@
+{
+  "sample_id": "transcript_023",
+  "content_type": "meeting_transcript",
+  "company": "MediaForge",
+  "industry": "Digital Media",
+  "duration_minutes": 30,
+  "target_word_count": 2157,
+  "actual_word_count": 1642,
+  "expected_facts": [
+    {
+      "text": "Their tech stack includes Java, Spring Boot, Azure, Oracle, Kafka",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "MediaForge is a Digital Media company with about 36 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "David Wright has been at MediaForge for 2 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 2 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $19M",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q3",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using Salesforce with custom Apex triggers",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in London",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 21% this fiscal year",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of IT",
+    "company_name": "MediaForge",
+    "company_size": "11-50",
+    "technology_stack": "Java, Spring Boot, Azure, Oracle, Kafka",
+    "deal_stage": "Negotiation",
+    "decision_timeline": "2026-08-05",
+    "decision_maker": false,
+    "next_steps": "Send pricing proposal to David by Friday",
+    "buying_process": "Procurement requires three competitive bids before decision",
+    "current_solution": "Salesforce with custom Apex triggers",
+    "urgency_level": "High"
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 3,
+    "duplicate_facts": 1
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.79,
+  "entity_id": "david-mediaforge",
+  "entity_email": "david@mediaforge.com",
+  "entity_website": "https://mediaforge.com",
+  "contact_name": "David",
+  "record_id": "crm-david-mediaforge"
+}

@@ -1,0 +1,28 @@
+Call with: Jennifer Patel, Head of Product at RetailNova
+Date: February 10, 2026
+Duration: 25 min
+
+Key Points:
+- Eval 2 vendors inc us + MS Copilot
+- Jen at RetailNova 2yrs
+- E-comm co ~38 emps (11-50 sz)
+- Stack: Go, K8s, AWS, DDB, gRPC
+- Eng team growing fast - hired 8 this qtr
+- She's pushing Qual stage
+- Timeline target 9/13/26
+- Not DM - eng leads dec
+- Likes our gRPC fit
+- Prob w/ Copilot cost
+- He wants demo ASAP
+- Def int in deep-dive
+- BC small team, need scale
+
+Action Items:
+- [ ] Sch tech deep-dive w/ Jen's eng team (me - next wk)
+- [ ] Send stack compat matrix (me - by EOQ)
+- [ ] F/u on eval prog (Jen)
+
+Notes:
+Quick intro call, Jennifer solid PoC. She's been there 2yrs, knows stack inside out - Go/K8s heavy, AWS/DDB/gRPC everywhere. Eng expanding quick w/ 8 new hires this qtr, prob scaling pains. Mentioned Copilot eval but hes on price, they're eyeing us as #2. Not the final call but gatekeeper to eng. He kept circling back to timeline, wants Q3 locked. Def traction, she's bullish on fit.
+
+Vague on budget but hinted EOQ push. Next wk mtg critical, get eng buy-in. RetailNova tight crew ~38, e-comm grind. She's def not DM but owns prod roadmap - defer to leads on tech. F/u sent stack deets, chase her reply. Solid qual, they're motivated.

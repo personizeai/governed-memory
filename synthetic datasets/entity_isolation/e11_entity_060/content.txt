@@ -1,0 +1,18 @@
+### Account Overview
+Terrain Analytics is a prominent FoodTech company specializing in advanced analytics for the food supply chain. With approximately 1,028 employees and ~$40M in annual revenue, they are experiencing rapid growth but face significant operational challenges. Our primary contact is Yusuf Novak, Head of Product (yusuf.novak@terrainanalytics.com). Yusuf is spearheading product innovation and is actively evaluating solutions to address scaling and deployment bottlenecks that hinder their competitive edge in the fast-paced FoodTech sector.
+
+### Key Details
+Terrain Analytics operates on a modern tech stack including Ruby on Rails, Heroku, PostgreSQL, and Sidekiq. However, they are grappling with critical pain points: scaling issues during peak traffic periods that cause downtime; slow deployment cycles taking 2-3 weeks per release, delaying time-to-market; compliance audit failures on data handling, risking regulatory penalties; and poor developer experience slowing feature velocity, which frustrates their engineering team and impacts innovation.
+
+Currently, they are comparing us against competitors like Salesforce Einstein and are also building solutions in-house to mitigate these issues. Yusuf has expressed frustration with the status quo, noting that these challenges are directly impacting their ability to handle surging demand from food industry clients during high seasons.
+
+### Deal Status
+This is a high-potential B2B prospect with an estimated deal value of $50,000. The opportunity aligns perfectly with their tech stack and pain points, positioning our platform as a scalable alternative to Salesforce Einstein or further in-house development. Decision timeline is targeted for Q2 2026, giving us ample runway to demonstrate ROI through demos and POCs. Engagement level is strong—Yusuf has attended two webinars and requested a tailored tech stack compatibility assessment.
+
+### Next Steps
+1. Schedule a 30-minute discovery call with Yusuf Novak next week to deep-dive into pain points and map our solution to their Ruby on Rails/Heroku environment.
+2. Prepare a customized POC addressing scaling during peak traffic and deployment acceleration from 2-3 weeks to days.
+3. Follow up on compliance audit feedback with a joint session to showcase data handling features.
+4. Track competitor intel on Salesforce Einstein and in-house builds; aim to secure a pilot commitment by end of Q1 2026.
+
+Total word count: 378

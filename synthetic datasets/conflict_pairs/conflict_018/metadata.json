@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_018",
+  "category": "team_size",
+  "company": "Drift Analytics",
+  "contact": "Ivan Xu",
+  "industry": "Healthcare Tech",
+  "stale_date": "2025-09-12",
+  "fresh_date": "2026-01-27",
+  "stale_claim": "Drift Analytics has an engineering team of about 40 people",
+  "fresh_claim": "Drift Analytics grew their engineering team to 85 people",
+  "expected_query": "How large is Drift Analytics's engineering team?",
+  "expected_answer": "grew their engineering team to 85 people",
+  "stale_word_count": 173,
+  "fresh_word_count": 164
+}

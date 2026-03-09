@@ -1,0 +1,16 @@
+### Account Overview
+Sequoia Data is an E-commerce company with 1259 employees and annual revenue of ~$107M. They specialize in scalable online retail platforms, having experienced rapid early growth that has left them grappling with technical debt. Primary contact is Emily Novak, Director of Analytics (emily.novak@sequoiadata.com), who oversees data-driven insights and platform optimization. Their tech stack includes Ruby on Rails, Heroku, PostgreSQL, and Sidekiq, which supports their high-velocity development needs but is straining under current demands.
+
+### Key Details
+Emily Novak leads analytics efforts at Sequoia Data, focusing on improving operational efficiency amid expansion. Key pain points include poor developer experience slowing feature velocity, inconsistent messaging across the sales team, and lingering technical debt from rapid early growth. These issues are hindering their ability to innovate quickly in the competitive E-commerce space. Current competitors in their evaluation include Microsoft Copilot, Drift, and Intercom, as they seek solutions to streamline developer workflows, unify sales communications, and modernize their infrastructure.
+
+### Deal Status
+This is a high-potential B2B prospect with an estimated deal value of $650,000. Sequoia Data is actively assessing options to address their core challenges, with Emily Novak as the key decision influencer. They've expressed frustration with legacy tools impacting productivity, positioning our solution as a strong fit given their Ruby on Rails and Heroku environment. Decision timeline is targeted for Q3 2026, allowing time for a customized POC to demonstrate ROI on developer velocity and sales alignment.
+
+### Next Steps
+1. Schedule a 30-min discovery call with Emily Novak next week to dive deeper into pain points and map our solution to their PostgreSQL/Sidekiq stack.
+2. Prepare a tailored demo highlighting integrations with Ruby on Rails and Heroku, contrasting against competitors like Drift and Intercom.
+3. Follow up with a one-pager on how we mitigate technical debt and inconsistent sales messaging, aiming for POC initiation by end of Q1 2026.
+4. Engage internal champ to align on budget and escalate to procurement if needed.
+
+(Word count: 348)

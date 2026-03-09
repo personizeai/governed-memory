@@ -1,0 +1,57 @@
+{
+  "sample_id": "call_note_050",
+  "content_type": "call_notes",
+  "company": "VaultEdge",
+  "industry": "Fintech",
+  "duration_minutes": 15,
+  "target_word_count": 679,
+  "actual_word_count": 440,
+  "expected_facts": [
+    {
+      "text": "They've also been evaluating Gong, Chorus.ai, existing CRM workflows",
+      "type": "explicit"
+    },
+    {
+      "text": "Omar reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Java, Micronaut, GCP, Spanner, Pub/Sub",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $120,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Omar Johnson has been at VaultEdge for 5 years",
+      "type": "explicit"
+    },
+    {
+      "text": "VaultEdge is a Fintech company with about 792 employees",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Data",
+    "company_name": "VaultEdge",
+    "company_size": "201-1000",
+    "technology_stack": "Java, Micronaut, GCP, Spanner, Pub/Sub",
+    "deal_stage": "Negotiation",
+    "deal_value": 120000,
+    "decision_timeline": "2026-10-21",
+    "competitors_mentioned": [
+      "Gong",
+      "Chorus.ai",
+      "existing CRM workflows"
+    ],
+    "decision_maker": true,
+    "buying_process": "Two-phase: technical POC first, then business case to leadership",
+    "urgency_level": "High"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1
+  },
+  "property_coverage": 0.79
+}

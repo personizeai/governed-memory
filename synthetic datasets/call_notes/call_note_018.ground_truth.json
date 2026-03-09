@@ -1,0 +1,55 @@
+{
+  "sample_id": "call_note_018",
+  "content_type": "call_notes",
+  "company": "FinStack Labs",
+  "industry": "Fintech",
+  "duration_minutes": 15,
+  "target_word_count": 428,
+  "actual_word_count": 270,
+  "expected_facts": [
+    {
+      "text": "They've also been evaluating building in-house, Intercom, existing CRM workflows",
+      "type": "explicit"
+    },
+    {
+      "text": "Lucia Ibrahim has been at FinStack Labs for 1 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with fragmented tooling across departments",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Scala, Spark, Databricks, Snowflake, Airflow",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with difficulty hiring specialized engineers",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Engineering",
+    "company_name": "FinStack Labs",
+    "company_size": "11-50",
+    "technology_stack": "Scala, Spark, Databricks, Snowflake, Airflow",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "difficulty hiring specialized engineers",
+      "fragmented tooling across departments",
+      "poor developer experience slowing feature velocity",
+      "compliance audit failures on data handling"
+    ],
+    "competitors_mentioned": [
+      "building in-house",
+      "Intercom",
+      "existing CRM workflows"
+    ],
+    "decision_maker": false
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 1
+  },
+  "property_coverage": 0.57
+}

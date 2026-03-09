@@ -1,0 +1,42 @@
+Call with: Aisha Anderson, Head of Product at MedCore Analytics
+Date: February 08, 2026
+Duration: 20 min
+
+Key Points:
+- MedCore Analytics HC tech co ~739 emps (201-1000 size)
+- Aisha 2 yrs @ co
+- pains: inconsistent sales team msging across org, vendor lock-in Heroku cloud, legacy sys integ complexity, manual cust onboarding procs
+- stack: Ruby Rails, Heroku, PGSQL, Sidekiq — def lock-in issues w/ current prov
+- budget alloc ~120k, deal value 120k qualif stage
+- comp: custom internal tool (scaling probs)
+- not DM but key influencer Head Prod
+- vendor lock-in biggest — costs spiking, flexibility gone
+- sales msg inconsistency hurting pipeline — reps all over map
+- legacy integ nightmare, slows everything
+- manual onboarding = hours per cust, killing efficiency
+- excited abt our soln for Rails/Heroku mig
+- she's pushing hard internally but he's resisting timeline
+- wants POC env setup quick for team eval
+- mentioned internal tool ok for now but won't scale w/ growth
+- qualif'd pains/budget fit — next week demo?
+- by EOQ decision prob, budget locked
+- Aisha tenure helps — knows stack inside out
+- team size supports enterp license @ 120k
+- lock-in w/ Heroku killing migrations — they trapped
+- inconsistent msging = lost deals last qtr
+- she's on board, but he wants proof via POC first
+- manual procs esp bad for onboarding new HC clients
+- deal qualif — pains validated, budget yes
+- comp internal not cutting it long-term
+- POC to address integ/lock-in pains head-on
+
+Action Items:
+- [ ] Set up POC env for Aisha's team eval (me by Fri)
+- [ ] F/u call next week re: POC access + legacy integ deets (me)
+- [ ] Send budget breakdown vs 120k alloc (me)
+- [ ] Loop in her on sales msg consistency case study (me)
+
+Notes:
+Aisha solid contact, 2 yrs in knows pains cold — vendor lock-in w/ Heroku top gripe, sales msg scatter killing closes. She's influential but not final DM, pushing team internally but he's dragging on timeline, wants POC as proof before commit. Budget 120k ring-fenced, qualif stage green on all pains: msging, lock-in, legacy, manual onboard. Comp internal tool patchwork, won't hold.
+
+Excited vibe, def traction — stack match perfect (Rails/PG/Sidekiq). She's def for next week POC kickoff, by EOQ could close if integ smooth. Not DM but gatekept well, f/u critical. Quick mtg, she took notes heavy.

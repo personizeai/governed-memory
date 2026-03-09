@@ -1,0 +1,57 @@
+Call with: Tariq Johnson, VP of Marketing at ContentHQ
+Date: February 27, 2026
+Duration: 30 min
+
+Key Points:
+- Tariq VP Mktg ContentHQ
+- 6 yrs there
+- Dig media co ~1730 emp 1000+
+- Cur sol Notion + Airtable combo
+- Stack TS React Node GCP MongoDB
+- Sec audit Q3 incoming
+- Budget ~75k alloc'd
+- Deal stage Discovery
+- Deal val 75000
+- Urgency low
+- Not dec maker
+- Buying proc std demo sec rev legal VP Fin signoff
+- Timeline decision 2026-08-27
+- Likes POC idea
+- Team eval needed
+- Pain pt org chaos Notion/Airtable mismatch
+- Wants integ w/ GCP/Node
+- He's bullish on React side
+- Pushing Q2? Nah low urg
+- Mentioned Mongo perf issues
+- Audit prob killer
+- Def needs sec focus
+- F/U on stack deets
+- No VP Fin intro yet
+- Tariq handles initial
+- Demo sched?
+- POC env key next
+- He's looping eng
+- Budget locked Q3?
+- Low buy-in rn
+- ContentHQ scale pain
+- Airtable limits hit
+- Notion collab weak
+- React/Node heavy
+- GCP costs up
+- Mongo scale Qs
+- Audit by EOQ?
+- Team 20+ mktg
+- He's vet 1st
+- No rush
+
+Action Items:
+- [ ] Set up POC env for Tariq team eval (me by 3/6)
+- [ ] Send stack compat matrix re: TS/React/Node/GCP/Mongo (me next week)
+- [ ] F/u sec audit prep docs (me)
+- [ ] Req VP Fin intro if poss (Tariq)
+- [ ] Book demo post-POC (shared)
+
+Notes:
+Quick disc w/ Tariq—solid guy, 6yrs at ContentHQ dig media spot ~1730 heads. Diving Discovery, low urg but Q3 sec audit looms big, they're scrambling Notion/Airtable mess, stack TS/React/Node/GCP/Mongo screams our fit. Budget 75k sits there, std proc demo->sec->legal->VP Fin nod, decision 8/27 but he's not the dec maker, prob eng/VP Fin gate. He dug POC for team eval, said they'd test React flows heavy, Mongo integ key bc perf lags now. Pushing internal buy-in slow, no rush vibe.
+
+He's flagging Airtable limits at scale, Notion collab falls flat for 20+ mktg crew, wants GCP tie-in seamless. Mentioned audit prep next week maybe, EOQ push? Low prio rn, but if POC shines he'll loop eng fast. No VP Fin deets yet, gotta nudge. Feels warmish, stack align def helps, f/u POC setup crit. Tariq owns initial vet, said he'd ping back post-review. Deal val 75k realistic, timeline holds if audit heats. He's eyeing Q3 budget drop, prob.

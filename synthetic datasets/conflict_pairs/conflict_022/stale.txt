@@ -1,0 +1,19 @@
+**Call Note: Sales Meeting - Robert Lindgren, VP Engineering, Tidal Solutions (EdTech)**  
+**Date:** October 22, 2025  
+**Duration:** 45 min via Zoom  
+**Attendees:** Me, Robert Lindgren  
+
+Discussed potential partnership for our AI-driven analytics platform to enhance Tidal's student engagement tools. Robert confirmed strong alignment with their LMS (Canvas integration). They are prioritizing scalability for K-12 districts, with current pilot yielding 25% uplift in retention metrics.  
+
+Key update: Tidal Solutions targeting Q4 2026 for full deployment across 15 partner schools, pending board approval on $750K budget. Expressed concerns over data privacy compliance (FERPA/GDPR); demoed our zero-trust architecture, which addressed most points.  
+
+Robert highlighted need for custom API hooks to sync with their proprietary grading engine—agreed to provide POC by Nov 5. Competitive landscape: Evaluating Blackboard and Instructure; our pricing edge (20% below) positioned favorably.  
+
+Next steps:  
+- Send revised SOW with Canvas specs by EOW.  
+- Schedule technical deep-dive with their dev team Nov 12.  
+- Follow up on budget timeline post-board mtg (mid-Nov).  
+
+Opportunity rated High; close probability 65%. Positive tone—Robert enthusiastic about joint webinar at EdTech Conf Dec 2025.  
+
+**Word count: 178**

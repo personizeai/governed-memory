@@ -1,0 +1,62 @@
+# RouteWise — Account Overview
+
+## Company Background
+
+RouteWise is a mid-sized logistics and supply chain management company operating in the transportation and distribution sector, with approximately 638 employees fitting squarely within the 201-1000 company size range. Founded in 2012 by a group of former UPS executives who identified gaps in real-time route optimization and fleet management software, the company has grown rapidly by providing SaaS-based solutions for last-mile delivery, warehouse automation, and predictive analytics for carriers. Headquartered in Austin, Texas, RouteWise serves over 500 enterprise clients across North America, focusing on e-commerce fulfillment and grocery delivery networks. Their core platform integrates IoT sensors with AI-driven dispatching, helping clients reduce fuel costs by up to 25% and improve on-time delivery rates. Currently, they rely heavily on spreadsheets and manual data entry for internal route planning and sales forecasting, which exacerbates issues like fragmented tooling across departments. The company's technology stack is modern and cloud-native, built primarily on Python with FastAPI for backend APIs, AWS Lambda for serverless functions, DynamoDB for NoSQL storage, and SQS for message queuing—though this setup has led to vendor lock-in with their current cloud provider. A recent board meeting last month shifted priorities toward operational efficiency and security hardening ahead of an upcoming Q2 security audit, underscoring the critical urgency level for modernizing their tooling.
+
+## Key Contacts
+
+| Name | Title | Role in Deal | Decision Maker |
+|---|---|---|---|
+| Raj Kaur | VP of Sales | Primary Contact | True |
+| Brandon Alvarez | Director of Sales Engineering | End User | False |
+| Anita Okonkwo | Chief Product Officer | Champion | False |
+| Simone Reyes | Head of Infrastructure | Champion | False |
+| Sarah Anderson | VP of Engineering | Champion | False |
+
+Raj Kaur, who has been with RouteWise for 6 years and reports directly to the CEO, remains our primary point of contact and key decision maker. Her deep institutional knowledge of sales operations makes her instrumental in driving internal buy-in.
+
+## Meeting History
+
+### Meeting 1: Discovery Call (January 7, 2026)
+
+In this initial 45-minute discovery call, we uncovered RouteWise's core pain points, including their reliance on spreadsheets and manual data entry for route optimization and sales pipeline management, which leads to frequent errors and delays in decision-making. Raj Kaur led the discussion, highlighting fragmented tooling across sales, engineering, and infrastructure teams, as well as growing concerns over vendor lock-in with their AWS-centric stack comprising Python, FastAPI, AWS Lambda, DynamoDB, and SQS. The team expressed critical urgency driven by a board meeting last month that realigned priorities toward scalable, integrated platforms. We aligned on high-level requirements like real-time data syncing and API interoperability, positioning our solution as a direct upgrade. Action items included sharing a tailored demo deck, which was delivered promptly, and scheduling a technical deep-dive. Attendees noted enthusiasm from champions Anita Okonkwo and Sarah Anderson, who emphasized the need to avoid further siloed tools.
+
+### Meeting 2: Technical Deep Dive (March 2, 2026)
+
+This 90-minute session dove into architecture compatibility, with Brandon Alvarez and Simone Reyes from engineering grilling our team on integration specifics. They detailed their Python-FastAPI backend running on AWS Lambda, paired with DynamoDB and SQS for high-throughput logistics data flows, but lamented the manual data entry workflows still bottlenecking operations—echoing the fragmented tooling issues raised earlier. Raj reinforced her direct reporting line to the CEO, stressing that any solution must support a fast-track buying process for deals under $150K with VP approval, though our proposed scope exceeds that threshold. Discussions covered security postures ahead of their Q2 audit, with our zero-trust model resonating strongly. Pain points like vendor lock-in were quantified: 40% of engineering time wasted on AWS-specific optimizations. We demoed seamless migrations and custom Python SDKs, earning verbal commitment to POC from Sarah Anderson. Next steps outlined were to schedule another technical deep-dive with Raj's full engineering team, refine the proposal, and align on budget parameters around the allocated $1,800,000. The call ended on a high note, with all champions actively advocating internally post a recent board shift in priorities.
+
+## Technical Requirements
+
+- **Real-time Route Optimization Integration**: Must ingest live telemetry from IoT devices and sync with existing Python/FastAPI services on AWS Lambda, eliminating manual spreadsheet updates for dispatch planning.
+- **Scalable Data Storage and Queuing**: Compatibility with DynamoDB for NoSQL logistics datasets and SQS for event-driven workflows; support for multi-cloud egress to mitigate vendor lock-in risks.
+- **Cross-Departmental Tool Unification**: Single pane of glass dashboard replacing fragmented tooling across sales (led by Raj Kaur), engineering (Sarah Anderson), and infrastructure (Simone Reyes) teams.
+- **Security and Compliance Features**: Audit-ready logging, encryption at rest/transit, and SOC 2 Type II alignment for Q2 security audit; zero-trust access controls for 638-employee organization.
+- **API-First Extensibility**: RESTful endpoints with Python SDK for custom FastAPI plugins, ensuring seamless upgrade from current manual data entry processes.
+- **High Availability and Performance**: Serverless scaling to handle peak logistics volumes (e.g., holiday surges), with <100ms latency on SQS-triggered updates.
+- **Reporting and Analytics**: Advanced dashboards for sales forecasting, reducing reliance on spreadsheets; ML-driven predictions integrated into existing stack.
+- **Migration Support**: Phased rollout tools to transition from legacy manual processes without downtime, addressing board-mandated efficiency gains.
+
+These requirements stem directly from their tech stack and pain points, with a critical urgency to deploy before Q2.
+
+## Deal Status
+
+The deal is currently in the Proposal stage, with a total value of $1,800,000 allocated from their FY2027 ops budget—far exceeding the $150K threshold for fast-track approval via direct VP sign-off, thus entering standard procurement with CEO escalation via Raj Kaur. Timeline targets contract signature by end of Q2 2026, aligning with their security audit and post-board priority shifts from last month. We've submitted a formal proposal outlining the technical deep-dive next steps with Raj's engineering team, including POC scoping and pricing tiers. Blockers include internal alignment on vendor lock-in escape hatches and fragmented tooling demos; however, urgency is rated Critical due to operational drags from spreadsheets/manual entry. Champions are mobilized, and Raj's decision-maker status (reporting to CEO) positions us favorably. Close probability: 75%, with revenue recognition split over 36 months.
+
+## Competitive Landscape
+
+RouteWise is evaluating a shortlist of three alternatives alongside our solution:
+
+- **OptiRoute Pro**: Incumbent for basic routing; strong in spreadsheets integration but lacks AWS-native scalability and Python/FastAPI support, criticized for exacerbating vendor lock-in.
+- **LogiFlow Enterprise**: Cloud-agnostic platform with DynamoDB compatibility; appealing for fragmented tooling unification but weaker on real-time SQS queuing and Q2 audit readiness.
+- **FleetSync AI**: Emerging player with ML focus; budget-competitive under $1.5M but unproven at RouteWise's 638-employee scale, with manual data entry migration tools seen as inadequate.
+
+Our edge lies in seamless tech stack alignment (Python, FastAPI, Lambda, DynamoDB, SQS) and addressing core pain points like departmental fragmentation and cloud lock-in, bolstered by Raj's 6-year tenure championing modernization.
+
+## Risk Factors
+
+- **Priority Shifts Post-Board Meeting**: Last month's board session emphasized cost controls, potentially delaying the $1.8M commitment if spreadsheets/manual processes are deemed "good enough" short-term.
+- **Q2 Security Audit Delays**: Upcoming audit could impose unforeseen requirements on integrations, stalling technical deep-dives with engineering and exposing vendor lock-in vulnerabilities in their AWS stack.
+- **Internal Fragmentation**: Champions like Anita and Sarah may face pushback from end-users wedded to current tooling, risking stalled next steps despite Raj's CEO reporting line and critical urgency. 
+
+*(Word count: 1769)*

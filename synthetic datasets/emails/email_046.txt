@@ -1,0 +1,197 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Brandon Hassan <brandon.hassan@routewise.com>  
+Subject: Streamlining data silos between sales and engineering at RouteWise  
+Date: Tue, 10 Feb 2026 09:45:32 -0500  
+
+Hi Brandon,  
+
+I hope this email finds you well. I came across your profile on LinkedIn and noticed you've been with RouteWise for 3 years now as Director of Sales Engineering—congrats on that tenure at a growing logistics firm with around 3283 employees.  
+
+We're seeing a lot of companies like yours struggling with data silos between engineering and sales teams, especially when paired with slow deployment cycles that drag on for 2-3 weeks per release. At Technova, our platform integrates seamlessly with stacks like Python, FastAPI, AWS Lambda, DynamoDB, and SQS to cut those times down dramatically while unifying your data flows.  
+
+I'd love to hop on a quick 15-minute call to discuss how we've helped similar mid-sized logistics players. Are you available next week?  
+
+Best regards,  
+Alex Morgan  
+Sales Executive  
+Technova  
+(555) 123-4567  
+alex.morgan@technova.io  
+
+---
+
+From: Brandon Hassan <brandon.hassan@routewise.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Streamlining data silos between sales and engineering at RouteWise  
+Date: Wed, 11 Feb 2026 14:22:17 -0500  
+
+Hi Alex,  
+
+Thanks for reaching out. Yeah, data silos are a real pain here—our sales and eng teams are constantly chasing the same data points. We're currently on Salesforce with custom Apex triggers, but deployments are killing us at 2-3 weeks each.  
+
+Quick question: How does your solution handle integration with our AWS setup, specifically Lambda and DynamoDB? We're evaluating a couple vendors right now, including you folks.  
+
+Best,  
+Brandon Hassan  
+Director of Sales Engineering  
+RouteWise  
+(555) 987-6543  
+brandon.hassan@routewise.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Brandon Hassan <brandon.hassan@routewise.com>  
+Subject: Re: Streamlining data silos between sales and engineering at RouteWise  
+Date: Wed, 11 Feb 2026 16:30:45 -0500  
+
+Hi Brandon,  
+
+Great to hear from you—thanks for the quick reply. To answer your question directly: Our platform deploys as a serverless layer on top of AWS Lambda, with native connectors to DynamoDB and SQS for event-driven syncing. This bypasses your Salesforce Apex triggers entirely, pulling sales data into engineering workflows in real-time without the 2-3 week cycles.  
+
+We've got a light proposal ready that aligns with your ~$450K budget allocation—it's tailored for 1000+ employee companies like RouteWise facing these exact silos. It would get you to POC in days, not weeks. Your recent board meeting shifted priorities toward faster integrations, right? This fits perfectly as you're evaluating us against one other vendor.  
+
+Next steps: Let's schedule that call. How's Thursday? Or feel free to suggest a time.  
+
+Best,  
+Alex Morgan  
+Sales Executive  
+Technova  
+(555) 123-4567  
+alex.morgan@technova.io  
+
+> Hi Alex,  
+>  
+> Thanks for reaching out. Yeah, data silos are a real pain here—our sales and eng teams are constantly chasing the same data points. We're currently on Salesforce with custom Apex triggers, but deployments are killing us at 2-3 weeks each.  
+>  
+> Quick question: How does your solution handle integration with our AWS setup, specifically Lambda and DynamoDB? We're evaluating a couple vendors right now, including you folks.  
+>  
+> Best,  
+> Brandon Hassan  
+> Director of Sales Engineering  
+> RouteWise  
+> (555) 987-6543  
+> brandon.hassan@routewise.com  
+
+---
+
+From: Brandon Hassan <brandon.hassan@routewise.com>  
+To: Raj O'Brien <raj.obrien@routewise.com>  
+CC: Alex Morgan <alex.morgan@technova.io>  
+Subject: Fwd: Re: Streamlining data silos between sales and engineering at RouteWise  
+Date: Thu, 12 Feb 2026 10:15:09 -0500  
+
+Raj,  
+
+Forwarding this thread from Technova. They're one of the two vendors we're evaluating, and their proposal looks promising for our data silo issues and deployment delays. Budget's around $450K, and I can sign off up to $200K directly—above that needs board approval. Decision timeline is Dec 2nd, but we shifted priorities post-board meeting last month.  
+
+Can you take a look at the tech integration piece? They mention Python/FastAPI compatibility with our Lambda/DynamoDB/SQS stack. Thoughts?  
+
+Thanks,  
+Brandon Hassan  
+Director of Sales Engineering  
+RouteWise  
+(555) 987-6543  
+brandon.hassan@routewise.com  
+
+---------- Forwarded message ----------
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Wed, 11 Feb 2026 16:30:45 -0500  
+Subject: Re: Streamlining data silos between sales and engineering at RouteWise  
+To: Brandon Hassan <brandon.hassan@routewise.com>  
+
+Hi Brandon,  
+
+Great to hear from you—thanks for the quick reply. To answer your question directly: Our platform deploys as a serverless layer on top of AWS Lambda, with native connectors to DynamoDB and SQS for event-driven syncing. This bypasses your Salesforce Apex triggers entirely, pulling sales data into engineering workflows in real-time without the 2-3 week cycles.  
+
+We've got a light proposal ready that aligns with your ~$450K budget allocation—it's tailored for 1000+ employee companies like RouteWise facing these exact silos. It would get you to POC in days, not weeks. Your recent board meeting shifted priorities toward faster integrations, right? This fits perfectly as you're evaluating us against one other vendor.  
+
+Next steps: Let's schedule that call. How's Thursday? Or feel free to suggest a time.  
+
+Best,  
+Alex Morgan  
+Sales Executive  
+Technova  
+(555) 123-4567  
+alex.morgan@technova.io  
+
+> [Previous quoted text omitted for brevity]  
+
+---
+
+From: Raj O'Brien <raj.obrien@routewise.com>  
+To: Brandon Hassan <brandon.hassan@routewise.com>, Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Streamlining data silos between sales and engineering at RouteWise  
+Date: Thu, 12 Feb 2026 15:47:22 -0500  
+
+Hi Alex and Brandon,  
+
+Thanks for looping me in, Brandon. As Director of IT here at RouteWise, I'm overseeing our tech stack: Python backends with FastAPI, all on AWS Lambda, DynamoDB for storage, and SQS for queuing.  
+
+A few technical questions on your integration claims: How does it handle high-volume SQS message bursts during peak logistics seasons without spiking Lambda costs? Also, does it support custom Apex migrations from Salesforce without full re-engineering? We're at proposal stage now, and I need details before Brandon presents internally next week.  
+
+Looking forward to your thoughts.  
+
+Regards,  
+Raj O'Brien  
+Director of IT  
+RouteWise  
+(555) 456-7890  
+raj.obrien@routewise.com  
+
+> Raj,  
+>  
+> Forwarding this thread from Technova. They're one of the two vendors we're evaluating, and their proposal looks promising for our data silo issues and deployment delays. Budget's around $450K, and I can sign off up to $200K directly—above that needs board approval. Decision timeline is Dec 2nd, but we shifted priorities post-board meeting last month.  
+>  
+> Can you take a look at the tech integration piece? They mention Python/FastAPI compatibility with our Lambda/DynamoDB/SQS stack. Thoughts?  
+>  
+> Thanks,  
+> Brandon Hassan  
+> Director of Sales Engineering  
+> RouteWise  
+> (555) 987-6543  
+> brandon.hassan@routewise.com  
+>  
+> ---------- Forwarded message ----------  
+> [Earlier thread quoted]  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Raj O'Brien <raj.obrien@routewise.com>, Brandon Hassan <brandon.hassan@routewise.com>  
+Subject: Re: Streamlining data silos between sales and engineering at RouteWise  
+Date: Fri, 13 Feb 2026 11:20:18 -0500  
+
+Hi Raj and Brandon,  
+
+Thanks for the questions, Raj—happy to dive into the technicals. On SQS bursts: Our agent auto-scales Lambda invocations with reserved concurrency limits tied to your DynamoDB throughput, throttling non-critical messages during peaks to keep costs under 20% above baseline. We've handled 10x volume spikes for logistics clients without downtime.  
+
+For Apex migrations: We provide a no-code migrator that scans your Salesforce triggers and rewrites them as Python/FastAPI endpoints, deployable to your stack in under a day. No full re-engineering needed—it preserves logic while eliminating the 2-3 week cycles. They mentioned it handles data silos perfectly by syncing sales leads directly to eng dashboards.  
+
+This puts us firmly in proposal stage, and with your $450K budget, Brandon can present internally next week as planned—you're the decision maker here up to $200K. End of quarter is approaching, but Dec 2nd timeline gives plenty of runway. Here's a shared doc with diagrams: [link to technova-proposal-diagrams].  
+
+Let's align on next steps—available for a call Monday?  
+
+Best,  
+Alex Morgan  
+Sales Executive  
+Technova  
+(555) 123-4567  
+alex.morgan@technova.io  
+
+> Hi Alex and Brandon,  
+>  
+> Thanks for looping me in, Brandon. As Director of IT here at RouteWise, I'm overseeing our tech stack: Python backends with FastAPI, all on AWS Lambda, DynamoDB for storage, and SQS for queuing.  
+>  
+> A few technical questions on your integration claims: How does it handle high-volume SQS message bursts during peak logistics seasons without spiking Lambda costs? Also, does it support custom Apex migrations from Salesforce without full re-engineering? We're at proposal stage now, and I need details before Brandon presents internally next week.  
+>  
+> Looking forward to your thoughts.  
+>  
+> Regards,  
+> Raj O'Brien  
+> Director of IT  
+> RouteWise  
+> (555) 456-7890  
+> raj.obrien@routewise.com  
+>  
+> > [Previous forwards and quotes omitted]

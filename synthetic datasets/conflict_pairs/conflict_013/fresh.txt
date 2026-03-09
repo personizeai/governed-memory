@@ -1,0 +1,19 @@
+**Call Note: Follow-up Sales Meeting**  
+**Date:** January 21, 2026  
+**Contact:** Tariq Tanaka, VP of Engineering, Lunar Computing (Healthcare Tech)  
+**Duration:** 45 min | **Called via Zoom**
+
+Followed up on API gateway proposal. Tariq provided key tech stack update: Lunar Computing has fully switched to FastAPI for all backend services—superseding prior Node.js/Express setup completed last quarter. Migration driven by performance needs for high-volume patient data processing; now handling 2x throughput with reduced latency.
+
+Discussed integration fit: Our solution aligns well with FastAPI's async capabilities, especially for HIPAA-secure endpoints in their telehealth platform expansion (targeting 500K users by EOY). Pain point: Current monitoring gaps causing 15% downtime in sync ops—demoed our dashboard, strong interest.
+
+Budget: $300K approved for Q2, prioritizing vendor with FastAPI plugins. Evaluating vs. Kong (shorter ramp-up cited as edge).
+
+Next steps:  
+- Send FastAPI-specific case study and POC scope by Jan 28.  
+- Schedule technical demo w/ their lead dev Feb 3.  
+- Follow up Feb 10 post-review.
+
+Prospect hot; tech alignment improved post-switch. Update opportunity stage to "Proposal."  
+
+(Word count: 178)

@@ -1,0 +1,85 @@
+{
+  "sample_id": "document_045",
+  "content_type": "wiki_document",
+  "company": "CastPoint",
+  "industry": "Manufacturing",
+  "target_word_count": 2068,
+  "actual_word_count": 1348,
+  "expected_facts": [
+    {
+      "text": "CastPoint is a Manufacturing company with about 640 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Emily Patel has been at CastPoint for 4 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with security concerns with current architecture",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes TypeScript, React, Node.js, GCP, MongoDB",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with data silos between engineering and sales teams",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $83M",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $75,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in London",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "company_name": "CastPoint",
+    "company_size": "201-1000",
+    "technology_stack": "TypeScript, React, Node.js, GCP, MongoDB",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "data silos between engineering and sales teams",
+      "security concerns with current architecture",
+      "vendor lock-in with current cloud provider"
+    ],
+    "deal_value": 75000,
+    "decision_timeline": "2026-09-07",
+    "decision_maker": false,
+    "next_steps": "Emily will share the RFP by end of week",
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 1,
+    "temporal_issues": 1,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Raj Chen",
+      "title": "Head of Infrastructure",
+      "role": "Technical Evaluator"
+    },
+    {
+      "name": "Lucia Lindgren",
+      "title": "VP of Operations",
+      "role": "Budget Owner"
+    },
+    {
+      "name": "Tom Xu",
+      "title": "Head of Product",
+      "role": "End User"
+    }
+  ],
+  "property_coverage": 0.71
+}

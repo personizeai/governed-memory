@@ -1,0 +1,34 @@
+Call with: Lisa Lee, Director of Analytics at RouteWise  
+Date: February 24, 2026  
+Duration: 15 min  
+
+Key Points:  
+- Lisa 1yr @ RouteWise, logistics co 1000+ emps (1253?)  
+- Lost major cust last qtr — onboarding issues killed it  
+- Curr soln: mix Google Sheets + custom dashes, pain w/ scaling  
+- Also eval'ing custom internal tool — competitor angle  
+- She's not DM, pushing to intro her boss next  
+- Deal stage Proposal, timeline 2026-11-15 decision  
+- He mentioned budget freeze but prob flex by EOQ  
+- Likes our demo, def interest in API integ w/ their stack  
+- Pain: sheets too manual, cust churn from bad vis  
+- They want POC next week?  
+- She's frustrated w/ dashboards lagging real-time  
+- Competitor custom tool — slow build, over budget  
+- RouteWise growing fast, need better analytics for routes  
+- I pitched onboarding ease — addressed their loss  
+- She said team's burned out on maint custom stuff  
+- He’s skeptical on price but open to discount talk  
+- Def need f/u on ROI calc for their 1253 headcount  
+- Quick mtg, she cut short for internal call  
+
+Action Items:  
+- [ ] Send ROI model w/ their cust loss factored (me, by EOD)  
+- [ ] Schedule intro to DM boss (Lisa to f/u, next wk)  
+- [ ] Prep POC demo script re: sheets migration (me)  
+- [ ] Log competitor intel in CRM (me)  
+
+Notes:  
+Lisa newish at RouteWise (1yr), knows pains firsthand from lost cust—onboarding delays cost them big logistics client last qtr. They're 1000+ emps, scrambling w/ Sheets + custom dashes that can't keep up. She's eval'ing that internal tool too but it's dragging, overpromised on features. Not the decider tho, keeps deferring to "him" upstairs—prob the VP? Pushed hard on our proposal timeline to Nov 15, said budget might unlock by EOQ if we show quick wins. She's def leaning our way bc onboarding story hit home, but he’s the holdout on cost. Quick call, she was rushed but positive—feels like momentum if we f/u fast on POC.  
+
+They’re hurting bad post-churn, vis gaps killing route opt. I recapped demo wins, she nodded on API fit. Custom competitor mentioned again—slow dev, no supp. She's got pull internally but needs boss buy-in. Actioned ROI to counter price push. Next week critical for mtg setup. Deal stage Proposal solid, watch timeline. She's sharp, knows her analytics cold.

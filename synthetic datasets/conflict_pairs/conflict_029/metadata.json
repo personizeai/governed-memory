@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_029",
+  "category": "funding",
+  "company": "Summit Computing",
+  "contact": "Chen Costa",
+  "industry": "EdTech",
+  "stale_date": "2025-07-12",
+  "fresh_date": "2026-01-06",
+  "stale_claim": "Summit Computing raised a $20M Series A",
+  "fresh_claim": "Summit Computing closed a $60M Series B led by Andreessen Horowitz",
+  "expected_query": "What is Summit Computing's latest funding round?",
+  "expected_answer": "closed a $60M Series B led by Andreessen Horowitz",
+  "stale_word_count": 203,
+  "fresh_word_count": 179
+}

@@ -1,0 +1,30 @@
+Call with: Anita Petrov, Chief Revenue Officer at ChannelBridge
+Date: February 19, 2026
+Duration: 25 min
+
+Key Points:
+- e-comm co, 1000+ emps (~2.8k), Java/Micronaut/GCP/Spanner/PubSub stack
+- CRO, reports dir to CEO, 7 yrs @ co
+- eval 3 vendors incl us — Chorus.ai + building in-house
+- budget alloc ~$1.8M, deal stage discovery
+- not decision maker, IT comm evals qtrly — next window Q3 '26
+- crit urgency, she's pushing hard but he's dragging on timeline
+- likes our fit w/ their GCP/Spanner setup, prob over Chorus
+- team wants POC asap to diff vs in-house build
+- buying proc formal, comm revu by EOQ? next week mtg w/ her eng leads
+- def interest, but they need quick win demo — competitor heat high
+- mentioned in-house soln falling short on real-time analytics
+- Q: timeline? A: Q3 def, but she's eyeing sooner if POC shines
+- urgency crit bc revenue ops bottleneck now
+- he wants Q2 close? unclear who signs off final
+
+Action Items:
+- [ ] Set up POC env for Anita's team to eval — me by next week
+- [ ] F/u w/ eng on GCP/Spanner integ deets — her team next week
+- [ ] Sch mtg w/ IT comm leads re: Q3 window — me by EOQ
+- [ ] Send Chorus cmp matrix tailored to their stack — me EOD today
+
+Notes:
+Quick discovery call w/ Anita — solid rapport, she's bought in on value prop esp vs Chorus/in-house. Crit urgency around rev ops scaling, their PubSub flows bottlenecked. Not DM but influences heavy, reports to CEO. Prob fast-tracks if POC wows eng team next week. She's been 7 yrs, knows pain pts cold — e-comm vol high @ 2.8k scale.
+
+Eval 3 vendors, we stack up best on Java/Micronaut compat. Budget $1.8M locked, stage discovery. IT comm qtrly, Q3 next but she's nudging for Q2 push? He's hesitant IDK who. F/U POC setup critical, send matrix EOD to arm her vs comps. Urgency def high, mtg her leads next week.

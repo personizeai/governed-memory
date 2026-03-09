@@ -1,0 +1,70 @@
+{
+  "sample_id": "email_047",
+  "content_type": "email_thread",
+  "company": "StreamOps",
+  "industry": "Digital Media",
+  "email_count": 4,
+  "actual_word_count": 816,
+  "expected_facts": [
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with fragmented tooling across departments",
+      "type": "explicit"
+    },
+    {
+      "text": "StreamOps is a Digital Media company with about 2247 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Alex Volkov has been at StreamOps for 7 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with difficulty hiring specialized engineers",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $120,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Rust, Actix, AWS, PostgreSQL, NATS",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Gong, Apollo.io",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Engineering",
+    "company_name": "StreamOps",
+    "technology_stack": "Rust, Actix, AWS, PostgreSQL, NATS",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "difficulty hiring specialized engineers",
+      "fragmented tooling across departments",
+      "customer churn from slow support response times",
+      "poor developer experience slowing feature velocity"
+    ],
+    "deal_value": 120000,
+    "decision_timeline": "2026-05-06",
+    "competitors_mentioned": [
+      "Gong",
+      "Apollo.io"
+    ],
+    "decision_maker": true,
+    "next_steps": "Alex will share the RFP by end of week",
+    "urgency_level": "Critical"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 1
+  },
+  "introduces_new_person": true,
+  "colleague": "Sarah Park, Engineering Manager",
+  "property_coverage": 0.79
+}

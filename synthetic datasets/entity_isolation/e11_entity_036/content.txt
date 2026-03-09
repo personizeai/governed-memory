@@ -1,0 +1,17 @@
+### Account Overview
+Glacier Software is a prominent MarTech company specializing in marketing technology solutions, boasting 2110 employees and generating approximately $214M in annual revenue. As a key prospect in the MarTech space, they are grappling with scaling challenges amid rapid growth. Primary contact is Fatima Park, VP of Sales at Glacier Software (fatima.park@glaciersoftware.com). Fatima oversees the sales organization and is directly involved in evaluating tools to streamline operations and boost efficiency. Their tech stack includes TypeScript, React, Node.js, GCP, and MongoDB, reflecting a modern, cloud-native environment.
+
+### Key Details
+Glacier Software faces several critical pain points: high infrastructure costs eating into margins, inconsistent messaging across the sales team, manual processes for customer onboarding, and integration complexity with legacy systems. These issues are hindering their ability to scale sales efforts effectively. Competitors in their evaluation mix include Apollo.io, HubSpot AI, and Chorus.ai, positioning our solution as a strong fit for addressing sales enablement and automation gaps. Fatima has expressed frustration with current tools not aligning seamlessly with their GCP and MongoDB backbone, leading to prolonged onboarding and suboptimal performance.
+
+### Deal Status
+This opportunity represents a high-value deal at $400,000 ACV. Discussions have progressed to the evaluation stage, with Fatima Park confirming interest in a proof-of-concept tailored to their Node.js/React ecosystem. The decision timeline is targeted for Q4 2026, aligning with their fiscal planning cycle. Internal champions include Fatima and her sales ops lead, with buy-in from engineering on integration feasibility. Risks include budget scrutiny due to infrastructure cost pressures, but momentum is strong given our competitive edge over Apollo.io and Chorus.ai in cost efficiency and messaging consistency.
+
+### Next Steps
+- Schedule demo with Fatima Park and sales team by end of next week to showcase integrations with GCP/MongoDB and address onboarding automation.
+- Follow up on POC requirements document sent 10/15; aim for approval by 10/22.
+- Prepare customized ROI analysis highlighting margin improvements from reduced infra costs (target 20-30% savings).
+- Coordinate intro to CTO for legacy system integration deep-dive in early November.
+- Monitor competitor activity and nurture with case studies vs. HubSpot AI.
+
+(Word count: 378)

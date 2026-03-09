@@ -1,0 +1,85 @@
+{
+  "sample_id": "transcript_036",
+  "content_type": "meeting_transcript",
+  "company": "ShopFront Digital",
+  "industry": "E-commerce",
+  "duration_minutes": 30,
+  "target_word_count": 1958,
+  "actual_word_count": 1541,
+  "expected_facts": [
+    {
+      "text": "Annual revenue is around $46M",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Go, Kubernetes, AWS, DynamoDB, gRPC",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with customer churn from slow support response times",
+      "type": "explicit"
+    },
+    {
+      "text": "Robert Kim has been at ShopFront Digital for 6 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Robert reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with technical debt from rapid early growth",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q2",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 3 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 23% this fiscal year",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using a mix of Google Sheets and custom dashboards",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "ShopFront Digital is a E-commerce company with about 4572 employees",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Data",
+    "company_name": "ShopFront Digital",
+    "company_size": "1000+",
+    "technology_stack": "Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "technical debt from rapid early growth",
+      "customer churn from slow support response times"
+    ],
+    "deal_value": 200000,
+    "buying_process": "Fast-track available for deals under $150K with direct VP approval",
+    "current_solution": "a mix of Google Sheets and custom dashboards"
+  },
+  "planted_issues": {
+    "pronoun_issues": 5,
+    "temporal_issues": 4,
+    "duplicate_facts": 1
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.64,
+  "entity_id": "robert-shopfront-digital",
+  "entity_email": "robert@shopfront.io",
+  "entity_website": "https://shopfront.io",
+  "contact_name": "Robert",
+  "record_id": "crm-robert-shopfront-digital"
+}

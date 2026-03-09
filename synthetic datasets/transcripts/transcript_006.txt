@@ -1,0 +1,162 @@
+---
+type: Contact
+record_id: crm-jennifer-routewise
+email: jennifer@routewise.com
+website_url: https://routewise.com
+company: RouteWise
+industry: Logistics
+contact_name: Jennifer
+job_title: Head of Data
+---
+
+Alex: Hi Jennifer, thanks so much for hopping on this call. I know you're busy over there at RouteWise. How's your day going so far?
+
+Jennifer: Hey Alex, no problem at all. It's been a whirlwind, you know, typical Monday. Just wrapped up a stand-up with the data team. Yours?
+
+Alex: Oh yeah, same here. Mondays are always chaos. Anyway, I appreciate you carving out this 30 minutes. So, last time we chatted, we were digging into your challenges with real-time analytics and those legacy integrations. Today, since we're at the proposal stage, I wanted to walk through how TechNova fits, address any questions, and map out next steps. Sound good?
+
+Jennifer: Absolutely, yeah. Proposal stage feels right—we're definitely evaluating seriously. We've got critical urgency on this because decisions need to happen by October 1st, 2026, to align with our fiscal planning. Lay it on me.
+
+Alex: Got it, critical urgency noted. So, first off, just to level-set: RouteWise is about 458 employees strong in logistics, right? Scaling operations, but hitting walls with lack of real-time analytics for decision-making and integration complexity with those legacy systems.
+
+Jennifer: Spot on. We've been at RouteWise for three years now as Head of Data, and yeah, 458 folks hustling in logistics. It's grown, but our tech stack—C#, .NET, Azure, SQL Server, RabbitMQ—is solid on paper, but tying it all together with legacy stuff is a nightmare. You know, every integration feels like a custom puzzle.
+
+Alex: Totally get that. And you're currently on Microsoft Dynamics with Power Automate, which I hear is clunky for real-time stuff. We've seen that a lot in logistics. TechNova plugs right into your stack—no rip-and-replace. We handle the Azure and RabbitMQ handshakes seamlessly, giving you live dashboards for route optimization and fleet decisions.
+
+Jennifer: Microsoft Dynamics with Power Automate has been our workhorse, but um, it's not cutting it for real-time. A few weeks ago, we had a major delay because analytics were stale by hours. That's killer in logistics. How does TechNova handle that exactly?
+
+Alex: Great question. Our platform streams data via RabbitMQ queues directly into Azure SQL, processing in sub-seconds. No more batch jobs. Imagine your team seeing live ETAs, traffic impacts, all in one pane. And for legacy? We have pre-built connectors that abstract the complexity.
+
+Jennifer: Hmm, pre-built sounds promising. We've been looking at Clari too—they pitch similar revenue ops stuff, but we're in logistics, so forecasting routes is key. How do you stack up?
+
+Alex: Clari's great for sales forecasting, but TechNova's laser-focused on logistics ops. Real-time analytics tailored for supply chain. We've got clients like you—mid-size logistics firms—who switched from Clari eval and saw 30% faster decisions. Budget-wise, our proposal comes in around $200,000 annually, which fits your allocated envelope.
+
+Jennifer: Yeah, budget's roughly two hundred thousand set aside for this. Good to hear it aligns. But integrations... he mentioned last week that our .NET apps are ancient, and RabbitMQ is overloaded sometimes.
+
+Alex: He did? Who's that—your dev lead?
+
+Jennifer: Yeah, sorry, Tom from engineering. He was venting in our last sync. Anyway, overload is real. By end of month, we need a POC to test that.
+
+Alex: No worries, we can spin up a POC fast. Next quarter, we could have it running in your Azure env. Speaking of, Jennifer, before we dive deeper, how was that conference you mentioned last time? The logistics one in Chicago?
+
+Jennifer: Oh, that? Digression time—ha, it was brutal. Windy City lived up to the name, and the keynotes were meh. But networked with some folks from similar firms griping about the same pains. Got back a few weeks ago, still recovering.
+
+Alex: Haha, sounds about right. Conferences are 90% schmoozing, 10% value. Alright, back on track. So, pain point one: lack of real-time analytics. Walk me through a day-in-the-life. What's the biggest miss?
+
+Jennifer: Okay, so mornings, our ops team pulls reports from Dynamics—static, outdated. By the time they decide on reroutes, traffic's changed. Power Automate workflows help, but they're not real-time. We lose hours, margins shrink.
+
+Alex: Exactly. TechNova changes that. Live feeds from IoT sensors, GPS, integrated via SQL Server views you query natively in C#. No ETL headaches. She showed me a demo last month—wait, our solutions engineer did during discovery.
+
+Jennifer: She? Who?
+
+Alex: Lisa, from our team. Anyway, point is, it resolves instantly. And integration complexity? Your legacy systems—we map them without code changes.
+
+Jennifer: Legacy is the beast. We've sunk months into custom .NET bridges for RabbitMQ. He said it again yesterday—Tom—it's unsustainable.
+
+Alex: Understood. Our adapter layer handles it. Proposal includes setup for under 20% of the deal value.
+
+Jennifer: Deal value at 200k, yeah. But buying process here: fast-track for under 150K with direct VP approval. Since we're at 200K, it'll need committee. Timeline to October 2026 is firm.
+
+Alex: Right, noted—not fast-track eligible. But critical urgency means we prioritize. What objections from Clari? They evaluating too?
+
+Jennifer: Clari's been in play. They promise forecasting, but not logistics-specific real-time. A few weeks ago, their demo lagged on Azure integration. Yours sounds tighter.
+
+Alex: We are. Let me share screen—boom, here's the proposal deck. Slide 3: ROI model. With your 458 employees, scaling to real-time saves 15% on fuel alone.
+
+Jennifer: Nice visual. Budget around 200K matches what we discussed internally. Jennifer Wright here, Head of Data at RouteWise, signing off on that pain alignment.
+
+Alex: Perfect. Now, deeper on tech stack. C# apps publish to RabbitMQ—we subscribe, enrich in Azure, serve via APIs. SQL Server as the backbone.
+
+Jennifer: That's our exact stack. Dynamics pulls from SQL, but slowly. Power Automate automates some, but not enough.
+
+Alex: We've augmented Dynamics for others. Hybrid mode.
+
+Jennifer: Hybrid intrigues me. He pitched that to the team earlier—our CTO. Thumbs up.
+
+Alex: Great. Next quarter rollout feasible post-POC?
+
+Jennifer: By end of month POC, then pilot next quarter. Urgency is critical—downtime costs us daily.
+
+Alex: Aligned. Objections? Pricing pushback?
+
+Jennifer: Not yet. 200K is allocated, roughly two hundred thousand. But prove the integration.
+
+Alex: Will do. She emailed the POC scope yesterday—Lisa.
+
+Jennifer: Got it. Forward me again?
+
+Alex: On it now. Also, decision timeline October 1, 2026—any milestones before?
+
+Jennifer: Q4 review next quarter, then board in Q1 2026. Fast-track's tempting but we're over.
+
+Alex: Understood. Digress for a sec—logistics weather this season? Hurricanes messing routes?
+
+Jennifer: You know it. East Coast delays up 20%. Real-time would save us.
+
+Alex: Precisely why TechNova shines. Back to proposal: custom for RouteWise, Azure-native.
+
+Jennifer: Proposal stage feels solid. Clari's out—too salesy.
+
+Alex: Win. What's the champion internally? You?
+
+Jennifer: Me and Tom. He's the one flagging RabbitMQ pains.
+
+Alex: Loop him on POC. He mentioned overload—mitigated by our queuing.
+
+Jennifer: Will do. A few weeks ago, we benchmarked Dynamics—too slow.
+
+Alex: Common. Our benchmarks: 99.9% uptime, sub-second latency.
+
+Jennifer: Metrics matter. Budget's set at approximately $200,000—confirm?
+
+Alex: Yes, locked.
+
+Jennifer: Good. Integration complexity demo?
+
+Alex: Sharing now. Watch: legacy sim to RabbitMQ to dashboard. Boom.
+
+Jennifer: Impressive. No code changes?
+
+Alex: Zero. .NET compatible.
+
+Alex: Pain resolved. Real-time analytics next.
+
+Jennifer: Yes—live route viz. Dynamics can't.
+
+Alex: Here's it. GPS feeds, SQL aggregates, .NET queries it.
+
+Jennifer: Clean. We've evaluated Clari—nice but not this.
+
+Alex: Logistics edge. Urgency critical—when POC?
+
+Jennifer: Next week?
+
+Alex: Done. Env details?
+
+Jennifer: Azure tenant shared prior.
+
+Alex: Perfect. Next steps: POC by end of month, review proposal, VP intro.
+
+Jennifer: Agreed. 458 employees counting on this.
+
+Alex: RouteWise wins. Questions?
+
+Jennifer: One—scaling to 500+?
+
+Alex: Horizontal, Azure scales it.
+
+Jennifer: Solid. He loved that—Tom.
+
+Alex: Feedback loop.
+
+Jennifer: Thanks Alex. Productive.
+
+Alex: Likewise. Calendar for follow-up?
+
+Jennifer: Next Thursday.
+
+Alex: Booked. Talk soon.
+
+Jennifer: Bye.
+
+(Word count: 1923)

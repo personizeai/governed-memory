@@ -1,0 +1,56 @@
+{
+  "sample_id": "call_note_039",
+  "content_type": "call_notes",
+  "company": "PixelGrid",
+  "industry": "Digital Media",
+  "duration_minutes": 15,
+  "target_word_count": 693,
+  "actual_word_count": 408,
+  "expected_facts": [
+    {
+      "text": "Nina Ibrahim has been at PixelGrid for 3 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Java, Spring Boot, Azure, Oracle, Kafka",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with poor developer experience slowing feature velocity",
+      "type": "explicit"
+    },
+    {
+      "text": "PixelGrid is a Digital Media company with about 29 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using internal Python scripts pulling from multiple APIs",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $1,200,000",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Data",
+    "company_name": "PixelGrid",
+    "company_size": "11-50",
+    "technology_stack": "Java, Spring Boot, Azure, Oracle, Kafka",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "poor developer experience slowing feature velocity",
+      "difficulty hiring specialized engineers",
+      "security concerns with current architecture"
+    ],
+    "deal_value": 1200000,
+    "decision_timeline": "2026-12-08",
+    "current_solution": "internal Python scripts pulling from multiple APIs",
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2
+  },
+  "property_coverage": 0.71
+}

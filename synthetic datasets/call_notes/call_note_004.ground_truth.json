@@ -1,0 +1,60 @@
+{
+  "sample_id": "call_note_004",
+  "content_type": "call_notes",
+  "company": "ChannelBridge",
+  "industry": "E-commerce",
+  "duration_minutes": 25,
+  "target_word_count": 580,
+  "actual_word_count": 342,
+  "expected_facts": [
+    {
+      "text": "They've also been evaluating Chorus.ai, building in-house",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 3 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "ChannelBridge is a E-commerce company with about 2865 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $1,800,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Anita reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "Anita Petrov has been at ChannelBridge for 7 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Java, Micronaut, GCP, Spanner, Pub/Sub",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Chief Revenue Officer",
+    "company_name": "ChannelBridge",
+    "company_size": "1000+",
+    "technology_stack": "Java, Micronaut, GCP, Spanner, Pub/Sub",
+    "deal_stage": "Discovery",
+    "deal_value": 1800000,
+    "competitors_mentioned": [
+      "Chorus.ai",
+      "building in-house"
+    ],
+    "decision_maker": false,
+    "next_steps": "Set up POC environment for Anita's team to evaluate",
+    "buying_process": "IT committee evaluates quarterly, next window is Q3 2026",
+    "urgency_level": "Critical"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2
+  },
+  "property_coverage": 0.79
+}

@@ -1,0 +1,19 @@
+{
+  "entity_index": 12,
+  "name": "Raj Hassan",
+  "company": "Forge Platform",
+  "industry": "LegalTech",
+  "email": "raj.hassan@forgeplatform.com",
+  "title": "VP of Marketing",
+  "facts": [
+    "Raj Hassan is VP of Marketing at Forge Platform",
+    "Forge Platform is a LegalTech company with 1631 employees",
+    "Tech stack: Java, Spring Boot, Azure, Oracle, Kafka",
+    "Deal value: $1,000,000",
+    "Pain points: vendor lock-in with current cloud provider; customer churn from slow support response times; slow deployment cycles taking 2-3 weeks per release",
+    "Competitors: Microsoft Copilot, HubSpot AI",
+    "Decision timeline: Q3 2026",
+    "Annual revenue: ~$268M"
+  ],
+  "actual_word_count": 306
+}

@@ -1,0 +1,17 @@
+### Account Overview
+Willow Computing is a dynamic EdTech company specializing in innovative learning platforms, boasting 1031 employees and generating approximately $155M in annual revenue. As a key decision-maker, Nina Kim serves as VP of Operations at Willow Computing. Nina oversees operational efficiency, including developer workflows and data-driven decision-making processes. The company is actively evaluating solutions to enhance their tech infrastructure amid rapid growth in the competitive EdTech landscape.
+
+### Key Details
+Willow Computing's current tech stack includes Rust for backend development, Actix web framework, AWS cloud services, PostgreSQL for database management, and NATS for messaging. They face significant pain points: poor developer experience is slowing feature velocity, leading to delayed product releases, while the lack of real-time analytics hampers timely decision-making for operations and product teams. Competitors in their evaluation mix include Drift, Apollo.io, and Chorus.ai, as Willow seeks a robust alternative to streamline these challenges and accelerate growth.
+
+### Deal Status
+This opportunity represents a high-value prospect with a potential deal value of $400,000. Nina Kim has expressed strong interest in addressing their developer and analytics bottlenecks, aligning perfectly with our platform's capabilities. The decision timeline is targeted for Q2 2026, providing ample runway for nurturing the relationship. Initial discussions have been positive, with Willow Computing prioritizing solutions that integrate seamlessly with their Rust-Actix-AWS-PostgreSQL-NATS stack. No major roadblocks identified yet, but competitive pressure from Drift, Apollo.io, and Chorus.ai requires us to differentiate on real-time features and dev productivity gains.
+
+### Next Steps
+- Schedule a 30-minute demo call with Nina Kim next week to showcase real-time analytics tailored to EdTech ops.
+- Prepare customized ROI analysis highlighting $400k value prop against their $155M revenue scale.
+- Follow up on tech stack compatibility proof-of-concept using Rust/Actix integration.
+- Monitor Q2 2026 timeline and engage stakeholders for multi-threaded approach.
+- Track competitor intel on Drift, Apollo.io, Chorus.ai to refine pitch.
+
+(Word count: 348)

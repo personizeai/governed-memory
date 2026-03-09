@@ -1,0 +1,268 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Lucia Okonkwo <lucia.okonkwo@syncwave.com>  
+CC: Amanda Chen <amanda.chen@syncwave.com>  
+Subject: Re: Re: Exploring better CRM options for SyncWave - Technical details on integration  
+Date: Mon, Feb 17, 2026, 10:45 AM PST  
+
+Hi Lucia and Amanda,  
+
+Thanks for looping in Amanda—happy to address the technical side. To answer your question about integration with your stack (Scala, Spark, Databricks, Snowflake, and Airflow), Technova's API is fully compatible and we've successfully integrated with similar big data environments for other B2B SaaS clients. Our Spark connectors allow real-time data syncing without custom code, and we handle Snowflake queries natively for reporting.  
+
+Here's a quick overview:  
+- **Scala/Spark**: Direct JVM compatibility; pipeline data into Technova via Airflow DAGs.  
+- **Databricks**: Pre-built Lakehouse integration for ML-enriched lead scoring.  
+- **Snowflake**: Zero-ETL syncing with role-based access controls.  
+
+We can set up a POC next week to demo this live against your Pipedrive + Slack setup. Given your board meeting last month shifted priorities toward scalable sales ops, and with your June 6 decision timeline, this aligns perfectly before end-of-quarter pushes.  
+
+Since you're evaluating us alongside Apollo.io (and one other vendor), our edge is in the procurement flow: seamless demo, security review (SOC2 Type II compliant), legal (standard MSA), and VP Finance sign-off. No one else matches your 818-employee scale at $172M ARR from Seattle HQ.  
+
+Lucia, you've been at SyncWave for 7 years—curious if engineering's input changes anything here? Let's schedule that demo.  
+
+Best,  
+Alex Morgan  
+Account Executive  
+Technova  
++1 (555) 123-4567  
+alex.morgan@technova.io  
+
+> On Fri, Feb 14, 2026 at 3:20 PM PST, Amanda Chen <amanda.chen@syncwave.com> wrote:  
+> >  
+> > Hi Alex,  
+> >  
+> > Lucia forwarded this to me as Engineering Manager. Quick technical question: how does Technova integrate with our Scala/Spark pipelines on Databricks and Snowflake? We're heavy Airflow users too, and Pipedrive's Slack notifications aren't cutting it for our workflows. Can it handle real-time syncing without breaking our stack?  
+> >  
+> > Thanks,  
+> > Amanda Chen  
+> > Engineering Manager  
+> > SyncWave  
+> > +1 (555) 987-6543  
+> > amanda.chen@syncwave.com  
+> >  
+> > ---------- Forwarded message ---------  
+> > From: Lucia Okonkwo <lucia.okonkwo@syncwave.com>  
+> > Date: Thu, Feb 13, 2026, 2:15 PM PST  
+> > Subject: Fwd: Re: Exploring better CRM options for SyncWave  
+> > To: Amanda Chen <amanda.chen@syncwave.com>  
+> >  
+> > > Hi Amanda,  
+> > >  
+> > > Forwarding Alex's response from Technova. They're one of the two vendors we're evaluating besides Apollo.io. Our Pipedrive + Slack setup is outdated post-board meeting—thoughts on their proposal? Standard process: demo, security, legal, VP Finance sign-off. Timeline is June 6.  
+> > >  
+> > > Lucia  
+> > >  
+> > > ---------- Forwarded message ---------  
+> > > From: Alex Morgan <alex.morgan@technova.io>  
+> > > Date: Wed, Feb 12, 2026, 11:30 AM PST  
+> > > Subject: Re: Exploring better CRM options for SyncWave  
+> > > To: Lucia Okonkwo <lucia.okonkwo@syncwave.com>  
+> > >  
+> > > > Hi Lucia,  
+> > > >  
+> > > > Quick follow-up on your question about our Slack alternatives. Yes, Technova has native Slack + MS Teams integrations that pull Pipedrive data intelligently—deal updates, lead alerts, without the notification spam you're dealing with.  
+> > > >  
+> > > > Light proposal: 30-min demo next week to walk through migrating your 201-1000 employee team's workflows. We've helped similar B2B SaaS firms at your scale cut sales cycle time by 25%. Given the recent board shift, this could accelerate your priorities.  
+> > > >  
+> > > > Thoughts?  
+> > > >  
+> > > > Best,  
+> > > > Alex Morgan  
+> > > > Account Executive  
+> > > > Technova  
+> > > > +1 (555) 123-4567  
+
+---
+
+From: Amanda Chen <amanda.chen@syncwave.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+CC: Lucia Okonkwo <lucia.okonkwo@syncwave.com>  
+Subject: Re: Re: Exploring better CRM options for SyncWave  
+Date: Fri, Feb 14, 2026, 3:20 PM PST  
+
+Hi Alex,  
+
+Lucia forwarded this to me as Engineering Manager. Quick technical question: how does Technova integrate with our Scala/Spark pipelines on Databricks and Snowflake? We're heavy Airflow users too, and Pipedrive's Slack notifications aren't cutting it for our workflows. Can it handle real-time syncing without breaking our stack?  
+
+Thanks,  
+Amanda Chen  
+Engineering Manager  
+SyncWave  
++1 (555) 987-6543  
+amanda.chen@syncwave.com  
+
+---------- Forwarded message ----------  
+From: Lucia Okonkwo <lucia.okonkwo@syncwave.com>  
+Date: Thu, Feb 13, 2026, 2:15 PM PST  
+Subject: Fwd: Re: Exploring better CRM options for SyncWave  
+To: Amanda Chen <amanda.chen@syncwave.com>  
+
+Hi Amanda,  
+
+Forwarding Alex's response from Technova. They're one of the two vendors we're evaluating besides Apollo.io. Our Pipedrive + Slack setup is outdated post-board meeting—thoughts on their proposal? Standard process: demo, security, legal, VP Finance sign-off. Timeline is June 6.  
+
+Lucia  
+
+---------- Forwarded message ----------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Wed, Feb 12, 2026, 11:30 AM PST  
+Subject: Re: Exploring better CRM options for SyncWave  
+To: Lucia Okonkwo <lucia.okonkwo@syncwave.com>  
+
+> On Tue, Feb 11, 2026 at 4:10 PM PST, Lucia Okonkwo <lucia.okonkwo@syncwave.com> wrote:  
+> >  
+> > Hi Alex,  
+> >  
+> > Thanks for reaching out. We've been on Pipedrive with Slack notifications for years, but it's not scaling. How does Technova improve on that specifically?  
+> >  
+> > Best,  
+> > Lucia Okonkwo  
+> > Director of Engineering  
+> > SyncWave  
+> > +1 (555) 456-7890  
+> > lucia.okonkwo@syncwave.com  
+> >  
+> > ---------- Forwarded message ----------  
+> > From: Alex Morgan <alex.morgan@technova.io>  
+> > Date: Tue, Feb 10, 2026, 9:00 AM PST  
+> > Subject: Exploring better CRM options for SyncWave  
+> > To: Lucia Okonkwo <lucia.okonkwo@syncwave.com>  
+
+Hi Lucia,  
+
+Quick follow-up on your question about our Slack alternatives. Yes, Technova has native Slack + MS Teams integrations that pull Pipedrive data intelligently—deal updates, lead alerts, without the notification spam you're dealing with.  
+
+Light proposal: 30-min demo next week to walk through migrating your 201-1000 employee team's workflows. We've helped similar B2B SaaS firms at your scale cut sales cycle time by 25%. Given the recent board shift, this could accelerate your priorities.  
+
+Thoughts?  
+
+Best,  
+Alex Morgan  
+Account Executive  
+Technova  
++1 (555) 123-4567  
+alex.morgan@technova.io  
+
+---
+
+From: Lucia Okonkwo <lucia.okonkwo@syncwave.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Exploring better CRM options for SyncWave  
+Date: Tue, Feb 11, 2026, 4:10 PM PST  
+
+Hi Alex,  
+
+Thanks for reaching out. We've been on Pipedrive with Slack notifications for years, but it's not scaling. How does Technova improve on that specifically?  
+
+Best,  
+Lucia Okonkwo  
+Director of Engineering  
+SyncWave  
++1 (555) 456-7890  
+lucia.okonkwo@syncwave.com  
+
+---------- Forwarded message ----------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Tue, Feb 10, 2026, 9:00 AM PST  
+Subject: Exploring better CRM options for SyncWave  
+To: Lucia Okonkwo <lucia.okonkwo@syncwave.com>  
+
+---
+
+From: Lucia Okonkwo <lucia.okonkwo@syncwave.com>  
+To: Amanda Chen <amanda.chen@syncwave.com>  
+Subject: Fwd: Re: Exploring better CRM options for SyncWave  
+Date: Thu, Feb 13, 2026, 2:15 PM PST  
+
+Hi Amanda,  
+
+Forwarding Alex's response from Technova. They're one of the two vendors we're evaluating besides Apollo.io. Our Pipedrive + Slack setup is outdated post-board meeting—thoughts on their proposal? Standard process: demo, security, legal, VP Finance sign-off. Timeline is June 6.  
+
+Lucia Okonkwo  
+Director of Engineering  
+SyncWave  
++1 (555) 456-7890  
+lucia.okonkwo@syncwave.com  
+
+---------- Forwarded message ----------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Wed, Feb 12, 2026, 11:30 AM PST  
+Subject: Re: Exploring better CRM options for SyncWave  
+To: Lucia Okonkwo <lucia.okonkwo@syncwave.com>  
+
+> On Tue, Feb 11, 2026 at 4:10 PM PST, Lucia Okonkwo wrote:  
+> > Hi Alex,  
+> >  
+> > Thanks for reaching out. We've been on Pipedrive with Slack notifications for years, but it's not scaling. How does Technova improve on that specifically?  
+> >  
+> > Best,  
+> > Lucia  
+
+Hi Lucia,  
+
+Quick follow-up on your question about our Slack alternatives. Yes, Technova has native Slack + MS Teams integrations that pull Pipedrive data intelligently—deal updates, lead alerts, without the notification spam you're dealing with. It learns from your team's patterns to prioritize, reducing noise by 40% for clients like yours.  
+
+Light proposal: Let's hop on a 30-min demo next week to migrate your workflows seamlessly. With SyncWave's growth to 818 employees and $172M ARR from your Seattle HQ, we've seen B2B SaaS peers cut sales cycles by 25% post-switch. Your board's recent priority shift toward ops efficiency makes this timely, especially evaluating against Apollo.io.  
+
+As Director of Engineering with 7 years at SyncWave, your take on tech fit?  
+
+Best,  
+Alex Morgan  
+Account Executive  
+Technova  
++1 (555) 123-4567  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Lucia Okonkwo <lucia.okonkwo@syncwave.com>  
+Subject: Re: Exploring better CRM options for SyncWave  
+Date: Wed, Feb 12, 2026, 11:30 AM PST  
+
+> On Tue, Feb 11, 2026 at 4:10 PM PST, Lucia Okonkwo <lucia.okonkwo@syncwave.com> wrote:  
+>  
+> Hi Alex,  
+> 
+> Thanks for reaching out. We've been on Pipedrive with Slack notifications for years, but it's not scaling. How does Technova improve on that specifically?  
+> 
+> Best,  
+> Lucia Okonkwo  
+> Director of Engineering  
+> SyncWave  
+> +1 (555) 456-7890  
+
+Hi Lucia,  
+
+Quick follow-up on your Slack question. Technova improves by offering AI-driven notifications that integrate directly with Slack—smarter than Pipedrive's basic pings, filtering for high-value alerts based on your deal stages and team roles. No more alert fatigue.  
+
+Light proposal attached: tailored for your standard buying process (demo, security review, legal, VP Finance sign-off). With your June 6 timeline and post-board reprioritization last month, we can align before end of quarter. Happy to demo how it meshes with your Scala/Spark/Databricks/Snowflake/Airflow stack.  
+
+What does your team need most right now?  
+
+Best,  
+Alex Morgan  
+Account Executive  
+Technova  
++1 (555) 123-4567  
+alex.morgan@technova.io  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Lucia Okonkwo <lucia.okonkwo@syncwave.com>  
+Subject: Exploring better CRM options for SyncWave  
+Date: Tue, Feb 10, 2026, 9:00 AM PST  
+
+Hi Lucia,  
+
+Saw SyncWave's recent board meeting shifted sales ops priorities—congrats on the momentum at $172M ARR with 818 employees out of Seattle. As Director of Engineering (7 years strong!), you're likely feeling the pain of Pipedrive's limitations with Slack notifications not scaling for your growing B2B SaaS pipelines.  
+
+Technova replaces that with intelligent automation, AI lead scoring, and seamless integrations—perfect for teams evaluating options like Apollo.io. We're one of the two vendors in play; our clients see 30% faster deal velocity.  
+
+Interested in a quick chat?  
+
+Best,  
+Alex Morgan  
+Account Executive  
+Technova  
++1 (555) 123-4567  
+alex.morgan@technova.io

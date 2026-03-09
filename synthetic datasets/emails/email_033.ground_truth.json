@@ -1,0 +1,79 @@
+{
+  "sample_id": "email_033",
+  "content_type": "email_thread",
+  "company": "DataPulse Systems",
+  "industry": "B2B SaaS",
+  "email_count": 8,
+  "actual_word_count": 1331,
+  "expected_facts": [
+    {
+      "text": "DataPulse Systems is a B2B SaaS company with about 43 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 28% this fiscal year",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with technical debt from rapid early growth",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in San Francisco",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating HubSpot AI, Chorus.ai, Salesforce Einstein",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with manual processes for customer onboarding",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes C#, .NET, Azure, SQL Server, RabbitMQ",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 5 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using legacy Java application maintained by one person",
+      "type": "explicit"
+    },
+    {
+      "text": "Keiko Chen has been at DataPulse Systems for 8 years",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Product",
+    "company_name": "DataPulse Systems",
+    "company_size": "11-50",
+    "technology_stack": "C#, .NET, Azure, SQL Server, RabbitMQ",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "manual processes for customer onboarding",
+      "technical debt from rapid early growth",
+      "data silos between engineering and sales teams",
+      "high infrastructure costs eating into margins"
+    ],
+    "competitors_mentioned": [
+      "HubSpot AI",
+      "Chorus.ai",
+      "Salesforce Einstein"
+    ],
+    "decision_maker": false,
+    "next_steps": "Schedule a technical deep-dive with Keiko's engineering team",
+    "current_solution": "legacy Java application maintained by one person",
+    "urgency_level": "High"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 2
+  },
+  "introduces_new_person": true,
+  "colleague": "Michael Xu, Engineering Manager",
+  "property_coverage": 0.79
+}

@@ -1,0 +1,13 @@
+### Account Overview
+Indigo Systems is a prominent player in the Cybersecurity industry, employing 1922 professionals and generating approximately $222M in annual revenue. As Chief Product Officer, Chen Thompson leads product strategy at Indigo Systems, overseeing development and innovation in a competitive landscape. Contacted via chen.thompson@indigosystems.com, Chen is the primary decision-maker for this opportunity. Indigo Systems faces intensifying pressures in cybersecurity, where rapid feature delivery and data-driven insights are critical for maintaining market edge against rivals.
+
+### Key Details
+Indigo Systems' engineering team relies heavily on a modern tech stack including Python, FastAPI for APIs, AWS Lambda for serverless computing, DynamoDB for NoSQL storage, and SQS for message queuing. However, they are grappling with significant pain points: poor developer experience is slowing feature velocity, hindering agile iterations; lack of real-time analytics impedes timely decision-making; and integration complexity with legacy systems creates bottlenecks in deployment pipelines. Current competitors in their evaluation include Chorus.ai and Drift, highlighting a need for superior tools to streamline workflows and enhance productivity.
+
+### Deal Status
+This prospect represents a high-value opportunity with an estimated deal value of $650,000. Chen Thompson has expressed strong interest in addressing these challenges, aligning our solution directly with their tech stack and pain points. The decision timeline is targeted for Q3 2026, providing ample runway for nurturing while they assess alternatives. Internal buy-in from product and engineering leads appears solid, positioning us favorably against Chorus.ai and Drift.
+
+### Next Steps
+Schedule a technical demo tailored to Python/FastAPI integrations and AWS services to showcase real-time analytics and simplified legacy system bridging. Follow up with Chen Thompson by end of next week to share case studies from similar cybersecurity firms. Align on POC scope focusing on developer experience improvements to accelerate feature velocity. Monitor competitor activity and prepare Q4 proposal outlining $650,000 value prop. Reassess timeline in bi-weekly check-ins to stay ahead of Q3 2026 decision.
+
+(Word count: 348)

@@ -1,0 +1,89 @@
+{
+  "sample_id": "document_026",
+  "content_type": "wiki_document",
+  "company": "PayGrid Financial",
+  "industry": "Fintech",
+  "target_word_count": 2168,
+  "actual_word_count": 1211,
+  "expected_facts": [
+    {
+      "text": "They're dealing with security concerns with current architecture",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 11 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with compliance audit failures on data handling",
+      "type": "explicit"
+    },
+    {
+      "text": "Victor Alvarez has been at PayGrid Financial for 8 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $75,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+      "type": "explicit"
+    },
+    {
+      "text": "PayGrid Financial is a Fintech company with about 49 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Chorus.ai, Microsoft Copilot, custom internal tool",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Engineering",
+    "company_name": "PayGrid Financial",
+    "technology_stack": "Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "security concerns with current architecture",
+      "compliance audit failures on data handling"
+    ],
+    "deal_value": 75000,
+    "competitors_mentioned": [
+      "Chorus.ai",
+      "Microsoft Copilot",
+      "custom internal tool"
+    ],
+    "decision_maker": true,
+    "next_steps": "Victor will share the RFP by end of week",
+    "buying_process": "Need approval from their CFO (CFO) for anything over $100K"
+  },
+  "planted_issues": {
+    "pronoun_issues": 1,
+    "temporal_issues": 1,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Elena Wright",
+      "title": "VP of Operations",
+      "role": "Champion"
+    },
+    {
+      "name": "Omar Xu",
+      "title": "VP of Sales",
+      "role": "End User"
+    },
+    {
+      "name": "Anita Moreau",
+      "title": "Head of Infrastructure",
+      "role": "Champion"
+    },
+    {
+      "name": "Brian Mueller",
+      "title": "Director of Engineering",
+      "role": "Champion"
+    }
+  ],
+  "property_coverage": 0.71
+}

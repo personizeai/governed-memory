@@ -1,0 +1,61 @@
+# CastPoint — Account Overview
+
+## Company Background
+
+CastPoint is a prominent manufacturing company specializing in precision-engineered components for the automotive and aerospace sectors, with a workforce of approximately 640 employees spread across its primary operations in London and satellite facilities in Eastern Europe. Founded in 2012 by a trio of mechanical engineers—David Hargrove, Lena Kowalski, and Marcus Finch—who met while working at a legacy auto parts supplier, the company quickly carved out a niche by leveraging advanced CNC machining and additive manufacturing techniques to deliver high-tolerance parts at competitive prices. Starting from a modest 50-person shop in London's industrial outskirts, CastPoint scaled rapidly during the EV boom of the mid-2010s, securing major contracts with OEMs like Jaguar Land Rover and Airbus suppliers. Today, it boasts annual revenues of around $83 million, driven by a 25% CAGR over the past five years, though recent supply chain disruptions have tempered growth to single digits. The company's main office in London serves as the hub for executive leadership, R&D, and sales, while production is optimized for just-in-time delivery to European clients. CastPoint's commitment to innovation is evident in its adoption of modern web technologies for internal tools, including a TypeScript, React, Node.js stack hosted on GCP with MongoDB for data persistence, reflecting a pivot from legacy on-prem systems about three years ago. However, this shift has introduced challenges like vendor lock-in with their current cloud provider, which leadership is keen to address.
+
+## Key Contacts
+
+| Name          | Title                  | Role in Deal                  | Notes                                                                 |
+|---------------|------------------------|-------------------------------|-----------------------------------------------------------------------|
+| Emily Patel  | VP of Engineering     | Primary Contact              | At CastPoint for 4 years; champions the project internally; will share RFP by end of week. |
+| Raj Chen     | Head of Infrastructure| Technical Evaluator          | Leads GCP/MongoDB ops; focused on security audits.                    |
+| Lucia Lindgren| VP of Operations      | Budget Owner                 | Controls $75K allocation; post-board meeting, prioritizing cost efficiencies. |
+| Tom Xu       | Head of Product       | End User                     | Represents sales team needs; frustrated with data access issues.      |
+
+These contacts were identified during initial outreach, with Emily Patel emerging as the linchpin due to her cross-functional influence. Regular check-ins are scheduled bi-weekly via Zoom, accommodating their London time zone (GMT).
+
+## Meeting History
+
+### Meeting 1: Discovery Call (January 15, 2026)
+
+The discovery call, attended by Emily Patel, Tom Xu, and two sales reps from CastPoint, lasted 45 minutes and set the stage for deeper engagement. They outlined their operations as a mid-sized manufacturer—roughly 600-strong in headcount—grappling with data silos that hinder collaboration between engineering and sales teams, leading to delayed quoting and production ramps. Security concerns with their current architecture were a recurring theme; Emily noted recent penetration tests revealing vulnerabilities in their Node.js APIs exposed on GCP. The team expressed frustration over vendor lock-in, particularly with GCP's proprietary services locking them into escalating costs without easy egress paths. We positioned our solution as a seamless integrator for their TypeScript/React frontend and MongoDB backend, promising unified dashboards to bridge silos. They shared that a board meeting last month had shifted priorities toward digital transformation, greenlighting this initiative with a $75,000 budget envelope. Action items included NDA signing and stack diagrams, which we delivered promptly. The call ended positively, with Tom Xu requesting a demo tailored to sales forecasting use cases.
+
+### Meeting 2: Technical Deep Dive (February 9, 2026)
+
+This 90-minute session involved Raj Chen, Emily Patel, and our engineering leads, diving into their tech stack: TypeScript for type-safe development, React for dynamic UIs, Node.js for scalable services, GCP for hosting, and MongoDB for flexible schema handling. Raj walked us through their architecture, highlighting pain points like data silos—engineering's production metrics trapped in MongoDB collections inaccessible to sales CRMs—and security gaps, such as unpatched Node.js dependencies and GCP firewall misconfigurations that failed recent audits. They demonstrated real-time issues: a sales query taking hours due to manual ETL from GCP buckets to local tools. We prototyped integrations, showcasing how our platform ingests MongoDB change streams and React-compatible APIs to unify views, alleviating vendor lock-in by supporting multi-cloud exports. Emily praised the low-friction setup, noting it aligns with post-board priorities from last month, which emphasized agility. Concerns arose around scalability for their 640-employee footprint, but benchmarks quelled doubts. Next steps: Raj to provide load test data; we committed to a POC by mid-March. The meeting reinforced medium urgency, with a decision timeline targeting early September.
+
+## Technical Requirements
+
+- **Unified Data Access**: Break down silos between engineering (MongoDB production logs on GCP) and sales teams (CRM silos), enabling real-time dashboards queryable via TypeScript/React apps; must support federated queries without data duplication.
+- **Security Enhancements**: Address vulnerabilities in current Node.js/GCP architecture, including automated vuln scanning, zero-trust API gateways, and compliance with ISO 27001—critical after recent arch reviews flagged exposed endpoints.
+- **Cloud Agnosticism**: Mitigate GCP vendor lock-in with portable data pipelines; support seamless migration to alternatives like AWS or Azure, preserving MongoDB schemas and React frontend integrations.
+- **Scalability for Mid-Sized Ops**: Handle 640-user concurrency peaks during quarter-ends, with Node.js microservices scaling horizontally; low-latency (<200ms) for London-based HQ and remote EU sites.
+- **Integration Depth**: Native hooks for their stack—TypeScript SDKs, React components for embedding, Node.js middleware; ETL from GCP BigQuery to centralized lake for sales forecasting.
+- **Budget-Aligned Customization**: Features capped at $75K annual value, prioritizing MVP with engineering/sales unification over advanced ML; easy self-serve config for ops team.
+- **Reporting and Analytics**: Custom KPIs like part yield rates (eng) vs. quote win rates (sales), visualized in React apps; exportable to tools like Tableau for board-level reviews.
+- **Reliability SLOs**: 99.9% uptime, with GCP failover; audit trails for security compliance, addressing concerns from their architecture that led to downtime incidents last quarter.
+
+These requirements were refined iteratively, stemming from their pain points and stack constraints.
+
+## Deal Status
+
+Currently in Negotiation stage, with a projected deal value of $75,000 ARR. The opportunity aligns with CastPoint's $83M revenue base and medium urgency level, driven by post-board realignments. Decision timeline is set for September 7, 2026, allowing time for POC validation and legal reviews. Budget is firmly allocated at ~$75K under Lucia Lindgren's oversight, covering core integrations for their TypeScript/React/Node.js/GCP/MongoDB environment. Next steps include Emily Patel sharing the RFP by end of this week, followed by our formal proposal submission. Blockers are minimal but include internal alignment post their recent board meeting, which shifted some focus to cost controls, and pending security sign-off from Raj Chen. No decision maker is fully committed yet (Decision Maker: False), but Emily's advocacy positions us strongly. We've teed up a stakeholder workshop for late February to accelerate. Overall, momentum is solid, with competitive positioning favoring us on silo-breaking capabilities.
+
+## Competitive Landscape
+
+CastPoint is evaluating three alternatives alongside us:
+
+- **SyncForge**: Incumbent for sales CRM integrations; strong on React/Node.js but weak on GCP/MongoDB security, per Emily's feedback. They're locked in but facing renewal pushback due to silos.
+- **DataLink Pro**: GCP-native tool from Google Cloud Marketplace; excels in vendor lock-in avoidance ironically, but lacks cross-team unification for manufacturing workflows—Raj cited poor React embeddability.
+- **NexusHub**: Open-source darling with TypeScript support; budget-friendly but unproven at 640-employee scale, with security concerns mirroring CastPoint's current issues. Tom Xu dismissed it for lacking enterprise SLAs.
+
+Our edge lies in holistic pain point resolution—silos, security, lock-in—tailored to their London ops and stack. No single competitor checks all boxes, positioning us for win assuming RFP responsiveness.
+
+## Risk Factors
+
+- **Priority Shifts**: The board meeting last month introduced cost-cutting mandates, potentially squeezing the $75K budget if economic headwinds worsen; their 640-employee size amplifies sensitivity to revenue dips in manufacturing.
+- **Technical Hurdles**: Ongoing security concerns with GCP architecture could delay POC if our integrations trigger false positives in audits—Raj has flagged this as a red line, and it might require extra engineering cycles.
+- **Stakeholder Misalignment**: Data silos persist culturally; sales (Tom Xu) vs. eng (Emily) friction could resurface, especially since no single decision maker owns the process, risking veto at late stages. They discussed it and agreed it was critical, but follow-through is uncertain.
+
+*(Word count: 2072)*

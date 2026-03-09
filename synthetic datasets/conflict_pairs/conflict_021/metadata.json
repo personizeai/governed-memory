@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_021",
+  "category": "decision_maker",
+  "company": "Orion Platforms",
+  "contact": "Elena Johansson",
+  "industry": "Healthcare Tech",
+  "stale_date": "2025-07-10",
+  "fresh_date": "2026-01-25",
+  "stale_claim": "Orion Platforms said their CTO makes the final decision",
+  "fresh_claim": "Orion Platforms clarified that the VP of Engineering now owns the decision",
+  "expected_query": "Who is the decision maker at Orion Platforms?",
+  "expected_answer": "clarified that the VP of Engineering now owns the decision",
+  "stale_word_count": 182,
+  "fresh_word_count": 206
+}

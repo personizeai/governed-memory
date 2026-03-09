@@ -1,0 +1,75 @@
+{
+  "sample_id": "email_014",
+  "content_type": "email_thread",
+  "company": "FreightPulse",
+  "industry": "Logistics",
+  "email_count": 6,
+  "actual_word_count": 1574,
+  "expected_facts": [
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Go, Kubernetes, AWS, DynamoDB, gRPC",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $850,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Nina Garcia has been at FreightPulse for 4 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with compliance audit failures on data handling",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with technical debt from rapid early growth",
+      "type": "explicit"
+    },
+    {
+      "text": "FreightPulse is a Logistics company with about 3615 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 18 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using custom-built CRM on Rails",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Customer Success",
+    "company_name": "FreightPulse",
+    "company_size": "1000+",
+    "technology_stack": "Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "technical debt from rapid early growth",
+      "compliance audit failures on data handling",
+      "poor developer experience slowing feature velocity"
+    ],
+    "deal_value": 850000,
+    "decision_timeline": "2026-10-23",
+    "decision_maker": true,
+    "next_steps": "Set up POC environment for Nina's team to evaluate",
+    "current_solution": "custom-built CRM on Rails",
+    "urgency_level": "High"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2
+  },
+  "introduces_new_person": true,
+  "colleague": "Alex Chen, Director of IT",
+  "property_coverage": 0.86
+}

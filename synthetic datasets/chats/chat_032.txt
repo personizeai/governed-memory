@@ -1,0 +1,79 @@
+[09:15] alex.m: Quick update @channel - just got off call with Omar Garcia from EduFlow. He's VP Engineering, been there 4 years. Solid guy.  
+[👍 from @sarah.k]  
+[09:16] sarah.k: Nice! What's the vibe?  
+[09:17] alex.m: They're hurting on integration complexity with their legacy systems. Ngl, it's messy.  
+  ↳ [09:18] mike.r: Legacy how old?  
+  ↳ [09:19] alex.m: Like 10+ years, custom stuff. Makes sense why they're looking at us.  
+[09:20] elena.g: EduFlow is EdTech right? How big are they?  
+[09:21] alex.m: Yeah, about 3164 employees. 1000+ for sure.  
+[09:22] sarah.k: Got it. Tech stack match?  
+[09:23] alex.m: Perfect - TypeScript, React, Node.js, GCP, MongoDB. We're a slam dunk there imo.  
+[👍 from @mike.r]  
+[09:24] mike.r: Fwiw, I saw their pricing page. [shared link: EduFlow pricing page]  
+  ↳ [09:25] sarah.k: Thx Mike, bookmarked.  
+[09:26] alex.m: Big pain: compliance audit failures on data handling. Failed last one badly.  
+[09:27] elena.g: Oof. And security audit coming up in Q3?  
+[09:28] alex.m: Yep, that's pressing. He mentioned it twice.  
+[09:29] sarah.k: Who's "he"? Omar?  
+[09:30] mike.r: Timeline?  
+[09:31] alex.m: Decision by 2026-07-09. Kinda far out tbh.  
+[09:32] elena.g: Can he sign off directly?  
+[09:33] alex.m: Up to $200K yes, board above that. Decision maker for sure.  
+[09:34] sarah.k: Makes sense. Pain points align perfect.  
+[09:35] mike.r: They also have inconsistent messaging across sales team. She said it last Friday.  
+[👍 from @alex.m]  
+[09:36] elena.g: Who's "she"? Their sales lead?  
+[09:37] alex.m: Yeah prob. Anyway, next step: demo tomorrow?  
+[09:38] sarah.k: I'm free. Lmk time.  
+  ↳ [09:39] mike.r: 2pm works?  
+  ↳ [09:40] alex.m: Booked.  
+[09:41] elena.g: @here - anyone got notes from last call? Integration deets?  
+[09:42] mike.r: Their stack is TypeScript, React etc. We match.  
+[09:43] sarah.k: Yeah heard that already.  
+[09:44] alex.m: Omar's been there 4 years, knows the legacy crap inside out.  
+[09:45] elena.g: Got it. Compliance failures are key hook.  
+[09:46] mike.r: Ngl, Q3 audit is tight. Push that.  
+[09:47] sarah.k: Thx all. I'll prep deck.  
+[👍 from @elena.g]  
+[09:48] alex.m: One more: they need it for next sprint.  
+[09:49] elena.g: Which sprint? Theirs?  
+[09:50] mike.r: He wants POC by EOY.  
+[09:51] sarah.k: "He" Omar right?  
+[09:52] alex.m: Yep. Company size 3164, scaling fast.  
+[09:53] elena.g: Pain on data handling failures - weave that in demo.  
+[09:54] mike.r: +1. Legacy integration demo too.  
+[09:55] sarah.k: On it.  
+[09:56] alex.m: Fwiw, board approval might drag if over 200k.  
+[09:57] elena.g: Stay under then?  
+[09:58] mike.r: Smart.  
+[09:59] sarah.k: Agreed. 👍  
+[10:00] alex.m: Thread on pricing? Their page shows tiers.  
+  ↳ [10:01] elena.g: VP Eng might push enterprise.  
+  ↳ [10:02] mike.r: Up to 200k safe.  
+  ↳ [10:03] alex.m: Cool.  
+[10:04] sarah.k: Security audit Q3 - highlight our certs.  
+[10:05] elena.g: Yes!  
+[10:06] mike.r: Tech stack repeat: GCP Mongo love it.  
+[10:07] alex.m: Matches ours perfect.  
+[10:08] sarah.k: Last Friday Omar said legacy is nightmare.  
+[10:09] elena.g: Gotcha. Demo tomorrow locked?  
+[10:10] mike.r: Yep 2pm.  
+[👍 from @sarah.k]  
+[10:11] alex.m: Inconsistent messaging pain - their sales team issue?  
+[10:12] sarah.k: Think so. She complained.  
+[10:13] elena.g: "She" who?  
+[10:14] mike.r: Prob their CMO or something.  
+[10:15] alex.m: Doesn't matter, we fix it.  
+[10:16] sarah.k: Timeline 2026-07-09 fiscal close?  
+[10:17] elena.g: Far but plant seed.  
+[10:18] mike.r: Omar 4 yrs tenure = knows pains deep.  
+[10:19] alex.m: True. EduFlow 3164 emps, growing.  
+[10:20] sarah.k: Stack: React Node GCP etc. Check.  
+[10:21] elena.g: Compliance failures - our win.  
+[10:22] mike.r: Integration complexity demo key.  
+[10:23] alex.m: All good?  
+[10:24] sarah.k: 👍  
+[10:25] elena.g: Makes sense.  
+[10:26] mike.r: Got it.  
+[10:27] alex.m: Cool, circling back post-demo tomorrow.  
+[👍 from @sarah.k][👍 from @elena.g]

@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_030",
+  "category": "location",
+  "company": "Cortex Systems",
+  "contact": "Tariq Ibrahim",
+  "industry": "Digital Media",
+  "stale_date": "2025-08-13",
+  "fresh_date": "2026-02-22",
+  "stale_claim": "Cortex Systems is headquartered in San Francisco",
+  "fresh_claim": "Cortex Systems relocated their headquarters to Austin",
+  "expected_query": "Where is Cortex Systems headquartered?",
+  "expected_answer": "relocated their headquarters to Austin",
+  "stale_word_count": 186,
+  "fresh_word_count": 172
+}

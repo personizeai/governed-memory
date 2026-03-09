@@ -1,0 +1,19 @@
+{
+  "entity_index": 90,
+  "name": "Victor Baker",
+  "company": "Crimson Logic",
+  "industry": "CleanTech",
+  "email": "victor.baker@crimsonlogic.com",
+  "title": "VP of Operations",
+  "facts": [
+    "Victor Baker is VP of Operations at Crimson Logic",
+    "Crimson Logic is a CleanTech company with 1306 employees",
+    "Tech stack: TypeScript, React, Node.js, GCP, MongoDB",
+    "Deal value: $250,000",
+    "Pain points: compliance audit failures on data handling; technical debt from rapid early growth",
+    "Competitors: custom internal tool",
+    "Decision timeline: Q4 2026",
+    "Annual revenue: ~$53M"
+  ],
+  "actual_word_count": 327
+}

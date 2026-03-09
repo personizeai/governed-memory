@@ -1,0 +1,294 @@
+---
+type: Contact
+record_id: crm-rachel-cloudnova
+email: rachel@cloudnova.io
+website_url: https://cloudnova.io
+company: CloudNova
+industry: B2B SaaS
+contact_name: Rachel
+job_title: VP of Customer Success
+---
+
+Alex: Hi Rachel, thanks for jumping on this call. I know it's midday there in London—how's the weather treating you today?
+
+Rachel: Hey Alex, good to see you too. Yeah, it's a bit grey and drizzly as usual, but nothing a hot tea can't fix. You know London. How's your side of the pond?
+
+Alex: Ha, sunny and warm here in San Francisco, but I'll trade you for that tea culture any day. Anyway, I appreciate you carving out time for this proposal review. We've been chatting over the last few calls, and I wanted to walk through how TechNova fits into your world at CloudNova.
+
+Rachel: Absolutely, timing's good. We've got our engineering team heads-down right now, but I squeezed this in. So, yeah, lay it on me—what've you got?
+
+Alex: Great. First off, just to level-set, you're a B2B SaaS shop with about 78 employees, scaling up nicely. VP of Customer Success reporting directly to the CEO, right? That's a solid spot to influence these decisions.
+
+Rachel: Spot on. Been here two years now, and yeah, straight line to the CEO. Keeps things efficient, you know?
+
+Alex: Love that structure. Okay, so from what you've shared, you're running on these internal Python scripts pulling data from multiple APIs—it's getting messy as you grow. And with the engineering team hiring six people just this quarter, those scripts aren't scaling.
+
+Rachel: Um, exactly. Our stack's Go, Kubernetes on AWS, DynamoDB, gRPC—pretty modern there—but customer data aggregation? It's a patchwork. Those scripts break every time an API changes, and we're wasting dev time fixing them.
+
+Alex: Right, and that's where we shine. TechNova's platform unifies all that—no more Frankenstein scripts. We ingest from 200+ APIs out of the box, normalize the data, and push it into your stack seamlessly. Think real-time customer 360s without the headache.
+
+Rachel: Sounds promising. We've been evaluating four vendors total, including you folks and Intercom. Intercom's strong on messaging, but we're after deeper integration.
+
+Alex: Smart move casting a wide net. Intercom's great for what it does, but for your use case—customer success at scale—they don't touch the data unification we do. We've got clients in similar B2B SaaS spots, mid-size like your 51 to 200 employee range, migrating off legacy stuff just like you plan by end of year.
+
+Rachel: Yeah, migration's top priority. Board meeting last month shifted everything—now it's all about streamlining ops before we blow past 100 heads.
+
+Alex: He mentioned that shift in your last email. Priorities realigning post-board makes total sense. And with IT budget up 33% this fiscal year, you've got room to invest.
+
+Rachel: We do. Allocated about $200,000 for this specifically. Roughly two hundred grand to nail customer success tools.
+
+Alex: Perfect alignment. Our proposal comes in right at that $200k mark for the enterprise tier—full implementation, support, the works. Deal stage is proposal now, but we can fast-track to POC if you're game.
+
+Rachel: POC's key. Our buying process is two-phase: technical proof-of-concept first, then business case to leadership. Can't skip that.
+
+Alex: Totally get it. You're not the final decision maker here, but as VP Customer Success, you're driving the tech eval—huge.
+
+Rachel: Yeah, I spearhead it, then it goes up. Security audit's coming up in Q3, so integration has to be airtight.
+
+Alex: Noted. Our SOC 2 Type II and GDPR compliance covers that. We plug right into your AWS and DynamoDB—no vendor lock-in.
+
+Rachel: Good, because we're all-in on AWS. Hey, quick side note—did you catch that Arsenal game last night? Office here was buzzing.
+
+Alex: Haha, no, I'm not much of a footie guy, but I know London takes it seriously. Tell me more—win or what?
+
+Rachel: Massive win, 3-1. Whole team's hyped today. Anyway, back on track—those Python scripts, they're pulling from like five APIs now, and it's killing our CSMs' productivity.
+
+Alex: Brutal. She said in our discovery call it takes hours per customer profile. With TechNova, it's seconds—AI-enriched profiles, churn predictions baked in.
+
+Rachel: Churn's our nightmare. With eng growing, we need to offload this yesterday.
+
+Alex: And decision timeline's set for September 23rd, 2026? That's giving you plenty of runway post-POC.
+
+Rachel: Yeah, end of Q3 next year, but we're pushing to close sooner if POC wows. By end of month, we want vendor shortlist locked.
+
+Alex: Aggressive—love it. Let's demo the key flows. Sharing screen now... See here, ingesting from your APIs into a unified view. Filters by customer segment, boom.
+
+Rachel: Okay, that's slick. How's the gRPC support? We use it heavy for microservices.
+
+Alex: Native. We generate gRPC stubs on the fly—your Go devs will love it. No rewrites needed.
+
+Rachel: Nice. He was worried about that—our lead engineer. Said last week it has to be drop-in.
+
+Alex: Tell him no sweat. We've done this for Kubernetes-heavy shops exactly like yours. A few weeks ago, we onboarded a fintech with similar stack—night and day.
+
+Rachel: Fintech? Interesting. Our main office is here in London, but we've got remote devs everywhere. Latency okay for EU data?
+
+Rachel: Fintech? Interesting. Our main office is here in London, but we've got remote devs everywhere. Latency okay for EU data?
+
+Alex: Sub-50ms to London. Edge nodes in Dublin handle it. And for your migration by end of year, we stage it in phases—no big bang.
+
+Rachel: Phases are crucial. Board last month—they flipped priorities hard after seeing churn metrics. Now CS is front and center.
+
+Alex: Makes sense. With budget up 33%, you're positioned to strike. That two hundred thousand allocation—we can optimize it across modules.
+
+Rachel: Yep, around $200k ballpark. We've said it internally too—roughly two hundred grand earmarked.
+
+Alex: Echoing that. Now, objections-wise—what's holding you back from greenlighting POC?
+
+Rachel: Mainly, does it scale with our growth? Hired six eng this quarter alone—team's exploding.
+
+Alex: Scales to millions of events/sec. We've got CloudNova-sized clients—78 employees now, but growing fast—hitting enterprise volumes.
+
+Rachel: CloudNova's that size, yeah. B2B SaaS, niche in workflow automation. But CS needs better data to hit quotas.
+
+Alex: Precisely. Let's talk ROI. Typical client sees 40% faster resolution times, 25% churn drop. For your $200k, payback in 6-9 months.
+
+Rachel: Numbers check out? Intercom quoted similar, but lighter on data.
+
+Alex: Ours is deeper. They mentioned in their pitch? We're apples-to-oranges better on unification.
+
+Rachel: They did, yeah. Four vendors total—Intercom, you, two others. POC will decide.
+
+Alex: Fair. She pushed for that two-phase process in your last team huddle. Tech first, then business case.
+
+Rachel: Exactly. Leadership won't budge without it. CEO's all about data-driven now post-board.
+
+Alex: He mentioned that shift. Priorities realigned last month—classic board pivot.
+
+Alex: Smart. And Q3 security audit—our platform's audit-ready. We handle encryption at rest/transit, your DynamoDB keys stay yours.
+
+Rachel: Key point. Python scripts have zero security—hardcoded creds everywhere. Nightmare waiting.
+
+Alex: Yikes. We've seen breaches from that. TechNova's zero-trust model fixes it day one.
+
+Rachel: Digging it. Hey, coffee break? Nah, keep going—what's onboarding like?
+
+Alex: Two weeks to MVP. Your team maps APIs, we configure. Go/K8s hooks auto-deploy.
+
+Rachel: Two weeks? Aggressive. A few weeks ago, we tried a tool—took a month, flopped.
+
+Alex: We streamline. Post-POC, full rollout by end of month if you want.
+
+Rachel: End of this month? Possible, but timeline's 2026-09-23 firm for contract.
+
+Alex: Flexible. POC next week? I can loop in our solutions eng.
+
+Rachel: Let's do it. Send calendar invite. But budget—confirming, $200k covers unlimited users?
+
+Alex: Yes, enterprise includes it. With IT up 33% fiscal year, you're golden.
+
+Rachel: Right, that bump helped. Eng hires too—six this quarter—need tools now.
+
+Alex: Understood. Any other pain points? Legacy migration—details?
+
+Rachel: Off by end of year, full stop. Scripts to something unified.
+
+Alex: We lead those migrations. Phased: shadow run first, then cutover.
+
+Rachel: Shadow's smart. He sketched that in our planning—lead eng.
+
+Alex: Perfect sync. Now, competitors: Intercom aside, who else?
+
+Rachel: Couple niche players. But your stack fit wins.
+
+Alex: Appreciate it. Small talk—London office vibe? Post-pandemic full?
+
+Rachel: Hybrid mostly. Rainy days like today, everyone's in. Arsenal chat earlier? Still buzzing.
+
+Alex: Ha, sounds fun. Alright, wrapping proposal: $200k, POC to decision by 2026-09-23.
+
+Rachel: Matches our alloc—two hundred thousand range.
+
+Alex: Twice confirmed. Next steps: POC slot, proposal tweaks?
+
+Rachel: Yes. And security deets for Q3 audit.
+
+Alex: Sending now. Thanks, Rachel—this feels aligned.
+
+Rachel: Agreed. Talk soon.
+
+Alex: Cheers.
+
+[Pause, as they wrap up screenshares and such]
+
+Rachel: One more—gRPC latency in K8s? Tested?
+
+Alex: Battle-tested. Sub-10ms internal. Your DynamoDB queries federate perfectly.
+
+Rachel: Sold. Our Python mess pulls from APIs async—yours sync?
+
+Alex: Bi-directional sync. Real-time gRPC streams.
+
+Rachel: Game-changer. Board last month saw demo of clunky tool—hated it.
+
+Alex: They would. We polish it. With eng growth, six new hires, bandwidth frees up.
+
+Rachel: Totally. CSMs thank us. Intercom lacks that depth.
+
+Alex: Exactly. Four vendors, but we're the fit. POC proves it.
+
+Rachel: Bet. Decision maker wise, I tee it up—CEO signs.
+
+Alex: You got this. Reports direct—power position.
+
+Rachel: Two years paying off. London HQ helps too—EU compliance easy.
+
+Alex: Seamless for us. Next quarter's audit? Prep materials included.
+
+Rachel: Next quarter yeah, Q3. Thanks.
+
+Alex: No prob. Let's book that POC.
+
+[They continue discussing scheduling details, specifics on integration points, ROI calculators, and more back-and-forth on tech stack compatibility, objections handling, and future-proofing for growth.]
+
+Alex: So, on the ROI calc I shared—plug in your churn rate, it spits out payback. Typical B2B SaaS like CloudNova sees...
+
+Rachel: Our churn's 12% annual—ouch. Run it.
+
+Alex: Boom, 7 months payback on $200k. Solid.
+
+Rachel: Impressive. He ran similar for Intercom—longer.
+
+Alex: Depth matters. Your stack—Go services calling gRPC? We proxy transparently.
+
+Rachel: Yes! Devs hate proxies usually, but if seamless...
+
+Alex: Is. Kubernetes operators deploy it. AWS marketplace too.
+
+Rachel: Marketplace? Faster procure.
+
+Alex: Yep. With budget increase 33%, approvals fly.
+
+Rachel: Did. Allocated two hundred grand precisely.
+
+Alex: Locked. Migration timeline—end of year, we hit it.
+
+Rachel: Must. Board breathing down necks post-meeting.
+
+Alex: Classic. She noted priorities shifted hard.
+
+Rachel: Yeah. Small digression—weekend plans? Rainy London, pub crawl?
+
+Alex: Haha, virtual pint. You?
+
+Rachel: Family time. Back to it—POC scope?
+
+Alex: Full: API ingest, CS dashboard, gRPC export.
+
+Rachel: Perfect. Four weeks max?
+
+Alex: Two. A few weeks ago, similar client did it in 10 days.
+
+Rachel: Fast. By end of month shortlist?
+
+Alex: Yes. Decision 2026-09-23 gives buffer.
+
+Rachel: Right. Security—Q3 audit details?
+
+Alex: Full report incoming. DynamoDB IAM roles, no creds exposed.
+
+Rachel: From Python hell—huge win.
+
+Alex: Agreed. Team size 78—per user pricing? Nah, flat $200k.
+
+Rachel: Love flat. Eng six hires—scales free.
+
+Alex: Unlimited. CloudNova future-proof.
+
+Rachel: Feels right. Intercom eval ongoing?
+
+Alex: Smart compare. We win on data.
+
+Rachel: Likely. Thanks Alex—strong pitch.
+
+Alex: Pleasure. Next call POC kickoff.
+
+[Extended discussion on case studies, custom integrations, support SLAs, and competitive differentiators, with natural interruptions and affirmations.]
+
+Alex: Case study: SaaS firm, 90 employees, same stack. Cut CS time 35%.
+
+Rachel: Metrics? Proof?
+
+Alex: Attached deck. Names redacted, but verifiable.
+
+Rachel: Cool. gRPC throughput?
+
+Alex: 10k req/sec sustained.
+
+Rachel: Matches us. Kubernetes namespaces?
+
+Alex: Multi-tenant aware.
+
+Rachel: Dig. Budget twice over—$200k good?
+
+Alex: Spot on. IT 33% up enables.
+
+Rachel: Yep. Hires fueling it.
+
+Alex: Growth story. London office—timezone support 24/7?
+
+Rachel: Need it. US clients.
+
+Alex: Global SOC.
+
+Rachel: Set. POC date?
+
+Alex: Propose Thursday?
+
+Rachel: Works. Invite sent.
+
+Alex: Confirmed. Excited.
+
+Rachel: Me too. Ciao.
+
+[Call ends after thorough Q&A, totaling around 30 minutes of dialogue.]

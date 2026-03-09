@@ -1,0 +1,77 @@
+{
+  "sample_id": "transcript_039",
+  "content_type": "meeting_transcript",
+  "company": "PixelGrid",
+  "industry": "Digital Media",
+  "duration_minutes": 30,
+  "target_word_count": 2107,
+  "actual_word_count": 1271,
+  "expected_facts": [
+    {
+      "text": "They're dealing with vendor lock-in with current cloud provider",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $1,200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using Pipedrive with Slack notifications",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Java, Micronaut, GCP, Spanner, Pub/Sub",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $86M",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with data silos between engineering and sales teams",
+      "type": "explicit"
+    },
+    {
+      "text": "Emily Kim has been at PixelGrid for 4 years",
+      "type": "explicit"
+    },
+    {
+      "text": "PixelGrid is a Digital Media company with about 3080 employees",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Sales Engineering",
+    "company_name": "PixelGrid",
+    "company_size": "1000+",
+    "technology_stack": "Java, Micronaut, GCP, Spanner, Pub/Sub",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "data silos between engineering and sales teams",
+      "vendor lock-in with current cloud provider",
+      "difficulty hiring specialized engineers"
+    ],
+    "deal_value": 1200000,
+    "decision_maker": true,
+    "next_steps": "Schedule a technical deep-dive with Emily's engineering team",
+    "buying_process": "Fast-track available for deals under $150K with direct VP approval",
+    "current_solution": "Pipedrive with Slack notifications",
+    "urgency_level": "Low"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1,
+    "duplicate_facts": 1
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.86,
+  "entity_id": "emily-pixelgrid",
+  "entity_email": "emily@pixelgrid.com",
+  "entity_website": "https://pixelgrid.com",
+  "contact_name": "Emily",
+  "record_id": "crm-emily-pixelgrid"
+}

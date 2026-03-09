@@ -1,0 +1,17 @@
+### Account Overview
+Keystone Labs is a leading BioTech company with 1960 employees and annual revenue of ~$178M. The primary contact is James Thompson, VP of Engineering (james.thompson@keystonelabs.com). As a key decision-maker, James oversees engineering operations amid rapid scaling challenges in the BioTech sector, where data-intensive R&D demands robust infrastructure.
+
+### Key Details
+Keystone Labs' tech stack includes Scala, Spark, Databricks, Snowflake, and Airflow, supporting complex AI-driven biotech workflows. Key pain points include security concerns with their current architecture, technical debt accumulated from rapid early growth, difficulty measuring ROI on AI initiatives, and inconsistent messaging across the sales team. These issues hinder efficient data processing and innovation velocity. Competitors in consideration: HubSpot AI, Apollo.io, Microsoft Copilot.
+
+### Deal Status
+This high-potential opportunity targets a $1,000,000 deal to address core engineering bottlenecks. James Thompson has expressed strong interest in solutions that enhance security, reduce technical debt, and provide clear AI ROI metrics. The decision timeline is Q2 2026, aligned with their fiscal planning cycle. Internal champions identified within engineering; sales team alignment needed to counter inconsistent messaging.
+
+### Next Steps
+- Schedule technical demo with James Thompson by end of Q1 2025 to showcase integration with Scala/Spark/Databricks/Snowflake/Airflow.
+- Share customized ROI case studies addressing BioTech security and technical debt.
+- Coordinate with Keystone's sales team for unified messaging workshop.
+- Follow up on Q4 2025 budget approval; escalate to C-suite if delays arise.
+- Monitor competitor activity (HubSpot AI, Apollo.io, Microsoft Copilot) via monthly intel updates.
+
+(Word count: 312)

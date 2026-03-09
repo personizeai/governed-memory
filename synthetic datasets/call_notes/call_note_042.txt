@@ -1,0 +1,32 @@
+Call with: Daniel Thompson, Head of Data at LedgerPoint
+Date: February 18, 2026
+Duration: 20 min
+
+Key Points:
+- Fintech co, ~860 emps (201-1000 range)
+- Stack: Java/Micronaut/GCP/Spanner/Pub/Sub
+- Pain: tough meas ROI on AI inits — no clear metrics yet
+- Also legacy integ complex — slows everything
+- Eval'ing in-house build vs us
+- Budget ~$50k allocated
+- He's DM, pushing Q2 close (5/12 target?)
+- Procure needs 3 bids — they're shopping comps
+- Likes our ROI dash — demo'd quick win
+- They on GCP heavy, Spanner scaling issues
+- Pub/Sub queues backing up w/ AI load
+- Def inter'd in our plug-n-play
+- He's frustrated w/ current silos
+- Mentioned in-house team small, risk high
+- ROI pain biggest — execs grilling him
+- Integ w/ legacy COBOL mess — nightmare
+- Next wk f/u after his internal pres
+
+Action Items:
+- [ ] Send ROI case study + GCP integ guide (me, by EOD)
+- [ ] Schedule f/u mtg next week (Daniel to confirm internal pres)
+- [ ] Ping procure contact for bid process deets (me)
+
+Notes:
+Quick rapport — Daniel vented on ROI black hole right off bat, said execs def pulling back on AI spend bc no visib. He's key DM, got budget greenlit but procure slowwals w/ 3-bid rule. They eyeing in-house but he admits risky w/ small team, our stack match perf (Java/Micronaut sync). Pain on legacy integ hit home — prob why Pub/Sub bottlenecking.
+
+He's pres internally this wk, circle back next. Q2 timeline aggressive but doable if we nail bid. Watch in-house — they're half serious. Sent feeler on $50k POC, bit but fits. He seemed bought in, just needs ammo for team.

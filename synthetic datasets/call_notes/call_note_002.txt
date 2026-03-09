@@ -1,0 +1,40 @@
+Call with: Tariq Patel, Chief Product Officer at LedgerPoint
+Date: February 01, 2026
+Duration: 25 min
+
+Key Points:
+- Fintech, 11-50 emp (49 total)
+- TP at LedgerPoint 6 yrs
+- Big pain: manual processes cust onboarding — reps wasting hrs
+- Inconsistent messaging across sales team, killing deals
+- He's eval'ing Gong, likes their IO but price high
+- Budget alloc'd ~120k, def for this yr
+- He's DM, pushing team internally
+- Stage: Discovery
+- Timeline: 2026-10-31 target close
+- Wants our take on Gong diffs
+- He mentioned onboarding bottlenecks slowing ramp
+- Sales team misalignment — no std playbook
+- Prob w/ Gong: too sales-only, needs prod tie-in
+- He's frustrated w/ current manual f/u
+- Def interested in demo
+- Next week works for mtg
+- He said they're growing fast, need scale now
+- Pain deeper than thought — onboarding 2-3 days manual
+- Gong eval stalled bc setup complex
+- Budget locked 120k, he's approving
+- Q for us: intg w/ their stack?
+- He wants proof on msg consistency
+- Team of 49 stretched thin
+- Closing push by EOQ?
+
+Action Items:
+- [ ] Send Gong vs us one-pager + onboarding case study (me, by EOD)
+- [ ] Sch demo next week w/ his sales lead (me)
+- [ ] F/u on budget proof + timeline (me, Fri)
+- [ ] Ping eng re: LedgerPoint stack compat (eng team)
+
+Notes:
+TP solid convo, opened up on pains quick. Manual onboarding killing their velocity — reps copy-pasting docs, errors everywhere. Inconsistent sales messaging leading to lost opps, he's pushing for fix bc growth exploding at 49 emp fintech. Eval'd Gong but it's not clicking fully, too clunky setup, wants our edge on prod-sales align. I probed budget, confirmed 120k ringfenced, he's the DM calling shots after 6 yrs there. He wants next week demo to show onboarding auto + msg standardization. Def momentum, but he's eyeing Q4 close hard.
+
+He's internal champ but sales head skeptical post-Gong. Need to arm him w/ ammo — that one-pager will help differentiate. Timeline Oct 31 aggressive but doable if we nail demo. Noted their stack, will loop eng fast. Felt good, he's bought in on vision. F/U critical by EOQ to keep heat on.

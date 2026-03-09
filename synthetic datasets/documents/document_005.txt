@@ -1,0 +1,54 @@
+# CastPoint — Account Overview
+
+## Company Background
+
+CastPoint is a mid-sized manufacturing company specializing in precision-engineered components for the automotive and aerospace sectors, with a workforce of approximately 151 employees and annual revenue hovering around $41 million. Founded in 2015 by a team of engineers who identified gaps in the supply chain for high-tolerance metal parts, the company quickly scaled from a garage operation in Detroit to a key player in the Midwest manufacturing hub. Their core offerings include custom CNC machining, additive manufacturing services, and just-in-time inventory solutions tailored for OEMs facing volatile demand cycles. Over the years, CastPoint has invested heavily in data-driven operations to optimize production lines, leveraging their tech stack of Scala for backend services, Spark for big data processing, Databricks for collaborative analytics, Snowflake for cloud data warehousing, and Airflow for orchestrating complex ETL pipelines. This technological foundation supported their rapid early growth, but it has also introduced challenges like technical debt from hasty implementations during boom periods. Recently, they experienced customer churn, including the loss of a major client last quarter due to protracted onboarding issues that exposed weaknesses in their support response times. Despite these hurdles, CastPoint remains committed to innovation, positioning itself as a resilient partner in an industry plagued by supply disruptions and rising material costs. With a company size in the 51-200 employee range, they maintain a lean structure that emphasizes cross-functional teams, though scaling pains have become evident as they push toward $50M in revenue.
+
+## Key Contacts
+
+| Name          | Title                  | Role in Deal              |
+|---------------|------------------------|---------------------------|
+| Michael Garcia| VP of Sales            | Primary Contact           |
+| Derek Ito     | VP of Marketing        | Technical Evaluator       |
+| Chloe Alvarez | CTO                    | Budget Owner              |
+| Chen Singh    | Head of Infrastructure | Budget Owner              |
+
+Michael Garcia, who has been with CastPoint for just one year, serves as the primary point of contact and reports directly to the CEO, giving him significant influence over strategic purchasing decisions. Derek Ito brings marketing expertise to evaluate how solutions align with customer-facing narratives. Chloe Alvarez and Chen Singh jointly control the approximately $120,000 budget allocated for this initiative, focusing on infrastructure upgrades to address pressing operational bottlenecks.
+
+## Meeting History
+
+### Meeting 1: Discovery Call (January 9, 2026)
+
+The initial discovery call on January 9, 2026, set the stage for our engagement with CastPoint, lasting 45 minutes and involving Michael Garcia as the host alongside Chloe Alvarez. They outlined the company's manufacturing focus, highlighting their 151-employee operation and $41M revenue stream, while emphasizing pain points like slow deployment cycles that currently take 2-3 weeks per release, crippling their ability to iterate on production software. Security concerns with the existing architecture were a dominant theme; Michael noted that vulnerabilities in their Scala and Spark-based systems have led to compliance audits flagging risks, especially after losing a major customer last quarter to onboarding delays tied to insecure data flows. We discussed their tech stack—Databricks for analytics, Snowflake for storage, and Airflow for workflows—and probed their rapid early growth, which amassed technical debt now hindering scalability. Chloe stressed the need for faster support response times to curb further churn. They appreciated our probing questions on integration feasibility, and Michael committed to circulating an internal summary. It was clear from their tone that urgency remains low, but the conversation built rapport, with next steps including sharing the RFP by the end of this week. One area of ambiguity arose when they referenced "it" as the core blocker, leaving unclear whether they meant deployments or security specifically, though context suggested both intertwined issues.
+
+### Meeting 2: Technical Deep Dive (March 14, 2026)
+
+Building on the discovery call, the technical deep dive on March 14, 2026, ran for two hours with Derek Ito, Chen Singh, and Chloe Alvarez leading from CastPoint's side, while Michael Garcia joined midway. This session dove into their infrastructure challenges, dissecting how Airflow orchestrations struggle with Snowflake data loads amid Spark processing bottlenecks in their Scala monoliths. Chen detailed the 2-3 week deployment cycles, attributing them to manual gates in Databricks environments that exacerbate technical debt from the company's explosive growth phase a few years back. Security emerged as paramount; they walked through recent incidents where architecture flaws exposed PII during manufacturing workflows, echoing the onboarding fiasco that cost them a key client just last quarter. We demoed our platform's seamless integration potential, showcasing how it could slash deployment times to days and enforce zero-trust security overlays compatible with their stack. Derek evaluated messaging around customer churn mitigation, noting slow support responses have eroded trust with OEM partners. Chloe, as budget owner, confirmed the $120K allocation but outlined their two-phase buying process: a technical POC first, followed by a business case pitch to leadership. Michael reiterated his direct line to the CEO, promising RFP delivery by end of week—though that timeline has since slipped slightly. Discussions on competitive options surfaced briefly, with them wary of vendor lock-in. They left optimistic, scheduling a POC kickoff, but flagged low urgency due to fiscal quarter-end priorities. Pronoun confusion cropped up when Chen said, "We've been dealing with them for months," without specifying if "them" referred to vendors or internal teams, yet the demo clarified alignments.
+
+## Technical Requirements
+
+- **Accelerated Deployment Pipelines**: Reduce current 2-3 week cycles to under 48 hours, integrating with Airflow and Databricks for automated CI/CD in Scala/Spark environments.
+- **Enhanced Security Architecture**: Address vulnerabilities in existing setup via zero-trust models, encryption at rest/transit for Snowflake data, and compliance with manufacturing regs like ITAR.
+- **Technical Debt Refactoring**: Tools to modernize legacy Scala codebases accumulated from rapid early growth, enabling modular Spark jobs without full rewrites.
+- **Improved Support and Onboarding**: Sub-4-hour response SLAs to prevent customer churn, with self-service portals for faster manufacturing client integrations.
+- **Scalable Analytics**: Seamless interoperability across Spark, Databricks, and Snowflake for real-time production insights, supporting 151-employee ops at $41M scale.
+- **Budget-Conscious Implementation**: Solutions fitting within ~$120K envelope, prioritizing POC validation before leadership buy-in.
+
+## Deal Status
+
+CastPoint's deal remains in the Discovery stage, with an estimated value of $120,000 tied to a comprehensive infrastructure overhaul. The timeline anticipates RFP receipt by the end of this week from Michael Garcia, followed by a technical POC in Q2 2026 and business case approval by Q3, aligning with their two-phase buying process that starts with hands-on validation before escalating to C-suite review. Urgency level is low, as fiscal constraints post-last quarter's customer loss have deferred non-critical spends, though pain points like security gaps and protracted deployments keep momentum simmering. Blockers include internal alignment between Chloe and Chen on budget specifics and Derek's marketing vetting for churn narratives. We've positioned strongly by embedding their tech stack needs—Scala, Spark, Databricks, Snowflake, Airflow—into tailored proposals, with Michael leveraging his year-long tenure and CEO reporting line to advocate. Recent relative progress includes shared architecture diagrams two weeks ago, signaling intent despite the measured pace.
+
+## Competitive Landscape
+
+- **Primary Competitor: VendorX**: CastPoint evaluated VendorX last year for Spark optimizations but shelved due to high costs and poor Airflow compatibility; they're circling back amid security pushes.
+- **Secondary: PlatformY**: In POC with PlatformY for Snowflake integrations, praised for speed but criticized for weak manufacturing compliance, potentially a shortlister.
+- **Tertiary: SolutionZ**: Internal buzz around SolutionZ's low-code tools for technical debt, though lacks Databricks depth; low threat given CastPoint's Scala loyalty.
+- No dominant leader yet; our edge lies in full-stack coverage addressing their 2-3 week deployments and recent churn triggers.
+
+Overall, the landscape is fragmented, with CastPoint wary of switching costs after past vendor disappointments, favoring partners who grasp their 51-200 employee manufacturing dynamics.
+
+## Risk Factors
+
+- **Budget Scrutiny**: With $120K allocated but low urgency, Q3 fiscal shifts could reallocate funds, especially post-last quarter's revenue dip from client loss.
+- **Internal Misalignment**: Chloe and Chen's joint ownership risks delays if POC priorities diverge; Michael's short one-year stint may limit sway despite CEO access.
+- **Competitive Incursion**: PlatformY's POC momentum could sway Derek if they demo faster onboarding, exploiting our still-nascent rapport.

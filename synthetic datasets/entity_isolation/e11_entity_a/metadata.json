@@ -1,0 +1,15 @@
+{
+  "entity_id": "e11_entity_a",
+  "name": "Sarah Chen",
+  "title": "VP of Engineering",
+  "company": "TechFlow Inc",
+  "email": "sarah.chen@techflow-e11.test",
+  "industry": "B2B SaaS",
+  "employees": 280,
+  "unique_markers": [
+    "TechFlow",
+    "Sarah Chen",
+    "Mark Thompson",
+    "Sequoia"
+  ]
+}

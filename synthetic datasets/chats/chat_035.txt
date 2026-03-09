@@ -1,0 +1,111 @@
+[09:15] @alex.m: @channel quick update on PharmaPipe - had a call with Heather Lee yesterday, she's VP of Marketing there, been with them 6 years. Deal stage is qualification rn. [👍 from @sarah.k]
+
+[09:17] @sarah.k: nice! what's their pain? scaling issues?
+
+[09:18] @alex.m: yeah tbh, scaling during peak traffic is killing them. Also inconsistent messaging across sales team.
+
+  ↳ [09:19] @mike.r: sales team? they have a big one? company size 1000+ right?
+
+[09:20] @yusuf.f: fwiw they're healthcare tech, about 2777 employees. Saw it on LinkedIn.
+
+[09:21] @alex.m: exactly. Tech stack is Python, FastAPI, AWS Lambda, DynamoDB, SQS. Matches what we do.
+
+[09:22] @sarah.k: Chorus.ai is in play too? she mentioned them?
+
+[09:23] @alex.m: yep, evaluating Chorus.ai. But they're on HubSpot CRM w/ Zapier automations now, not happy.
+
+  ↳ [09:24] @yusuf.f: HubSpot + Zapier? got it, classic bandaid.
+
+[09:25] @mike.r: board meeting last month shifted priorities, that's why slow?
+
+[09:26] @alex.m: ngl yeah, she said they're not interested yet bc of that. Timeline is 2026-08-14 lol.
+
+[09:27] @sarah.k: 2026?? urgency is critical tho?
+
+[09:28] @alex.m: yeah poor visibility into pipeline health is critical pain. Also measuring ROI on AI initiatives tough.
+
+[09:29] @yusuf.f: makes sense. Heather's not the decision maker fwiw.
+
+[09:30] @mike.r: who is then? she didn't say?
+
+[09:31] @alex.m: nah, unclear. But they're dealing w/ scaling issues during peak traffic periods big time.
+
+[09:32] @sarah.k: [shared link: PharmaPipe pricing page] check this, their own site. Confirms tech stack: Python etc.
+
+[09:33] @yusuf.f: thx, bookmarked. Current solution HubSpot w/ Zapier automations - we can beat that easy imo.
+
+  ↳ [09:34] @alex.m:  ↳ yeah lmk if you want call notes.
+
+[09:35] @mike.r: next sprint we push demo?
+
+[09:36] @sarah.k: +1, tomorrow's good for prep?
+
+[09:37] @alex.m: they had a board meeting last month that shifted priorities, so she's hesitant.
+
+[09:38] @yusuf.f: got it. Pain points: scaling, messaging inconsistency, ROI measurement.
+
+[09:39] @mike.r: and poor pipeline visibility. Repeated that twice now lol.
+
+[09:40] @sarah.k: @here thoughts on Chorus.ai counter? They're evaluating it hard.
+
+[09:41] @alex.m: she said they're not interested in switching yet.
+
+[09:42] @yusuf.f: who said? Heather?
+
+[09:43] @mike.r: probs. Urgency critical but timeline far out - weird.
+
+[09:44] @sarah.k: yeah they need help w/ inconsistent messaging across sales team asap imo.
+
+[09:45] @alex.m: true. Tech stack Python, FastAPI etc - perfect fit.
+
+[09:46] @yusuf.f: 👍 PharmaPipe 2777 employees, enterprise play.
+
+[09:47] @mike.r: Heather been there 6 years, loyal but frustrated.
+
+[09:48] @sarah.k: last Friday she mentioned scaling during peaks.
+
+[09:49] @alex.m: makes sense. Not decision maker tho.
+
+[09:50] @yusuf.f: gotcha. Deal stage qualification - what's next?
+
+  ↳ [09:51] @mike.r:  ↳ nurture till 2026? Nah urgency critical.
+
+[09:52] @sarah.k: poor visibility into pipeline health is key unlock.
+
+[09:53] @alex.m: yeah they struggle measuring ROI on AI initiatives too.
+
+[09:54] @mike.r: she said it'll help? Unclear who.
+
+[09:55] @yusuf.f: probs sales team. HubSpot + Zapier not cutting it.
+
+[09:56] @sarah.k: fwiw board meeting last month changed everything.
+
+[09:57] @alex.m: true. Tomorrow we align on pitch?
+
+[09:58] @mike.r: yes. Chorus.ai weak on scaling.
+
+[09:59] @yusuf.f: lmk when. PharmaPipe healthcare tech beast.
+
+[10:00] @sarah.k: [👍 from @alex.m] perfect.
+
+[15:20] @alex.m: update: Heather looped in eng lead, they confirmed scaling issues peak traffic.
+
+[15:21] @mike.r: nice! Decision maker yet?
+
+[15:22] @yusuf.f: doubtful. Timeline still 2026-08-14.
+
+[15:23] @sarah.k: urgency critical tho ngl.
+
+[15:24] @alex.m: yeah inconsistent messaging killing deals.
+
+  ↳ [15:25] @mike.r:  ↳ sales team pain yeah.
+
+[15:26] @yusuf.f: got it. Our stack matches theirs perfectly.
+
+[15:27] @sarah.k: poor pipeline health visibility next call topic.
+
+[15:28] @alex.m: thx team. Next sprint demo prep?
+
+[15:29] @mike.r: makes sense 👍
+
+[15:30] @yusuf.f: on it. [👍 from @sarah.k]

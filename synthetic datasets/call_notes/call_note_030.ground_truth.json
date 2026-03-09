@@ -1,0 +1,65 @@
+{
+  "sample_id": "call_note_030",
+  "content_type": "call_notes",
+  "company": "DockSmart",
+  "industry": "Logistics",
+  "duration_minutes": 25,
+  "target_word_count": 482,
+  "actual_word_count": 263,
+  "expected_facts": [
+    {
+      "text": "Their tech stack includes Java, Spring Boot, Azure, Oracle, Kafka",
+      "type": "explicit"
+    },
+    {
+      "text": "DockSmart is a Logistics company with about 1390 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating building in-house, HubSpot AI, Salesforce Einstein",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $350,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with customer churn from slow support response times",
+      "type": "explicit"
+    },
+    {
+      "text": "Chloe Nakamura has been at DockSmart for 8 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with lack of real-time analytics for decision making",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Product",
+    "company_name": "DockSmart",
+    "company_size": "1000+",
+    "technology_stack": "Java, Spring Boot, Azure, Oracle, Kafka",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "customer churn from slow support response times",
+      "lack of real-time analytics for decision making",
+      "slow deployment cycles taking 2-3 weeks per release"
+    ],
+    "deal_value": 350000,
+    "decision_timeline": "2026-07-15",
+    "competitors_mentioned": [
+      "building in-house",
+      "HubSpot AI",
+      "Salesforce Einstein"
+    ],
+    "decision_maker": false,
+    "next_steps": "Send pricing proposal to Chloe by Friday"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 1
+  },
+  "property_coverage": 0.79
+}

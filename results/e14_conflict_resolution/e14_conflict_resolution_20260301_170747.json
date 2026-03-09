@@ -1,0 +1,1327 @@
+{
+  "experiment_id": "e14_conflict_resolution",
+  "started_at": "2026-03-01T16:22:29.413045",
+  "completed_at": "2026-03-01T17:07:47.858645",
+  "metadata": {
+    "recency_accuracy_pct": 33.3,
+    "conflict_detection_pct": 83.3,
+    "total_pairs": 30
+  },
+  "record_count": 30,
+  "records": [
+    {
+      "pair_id": "conflict_001",
+      "category": "database",
+      "company": "Sterling Logic",
+      "stale_date": "2025-11-20",
+      "fresh_date": "2026-01-14",
+      "query": "What database does Sterling Logic use?",
+      "stale_claim": "Sterling Logic uses Oracle as their primary database",
+      "fresh_claim": "Sterling Logic migrated to PostgreSQL as their primary database",
+      "outcome": "correct_fresh",
+      "fresh_match": true,
+      "stale_match": false,
+      "answer_preview": "Sterling Logic uses PostgreSQL as their primary database, having completed the migration in December 2025.",
+      "results_count": 5,
+      "stale_memories": 12,
+      "fresh_memories": 10,
+      "duration_ms": 3671.8,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-01-22T00:00:00Z",
+          "score": 0.11120626582721338,
+          "text": "A hands-on session with Sterling Logic's developers is scheduled for the week of"
+        },
+        {
+          "ts": "2026-01-14T10:00:00Z",
+          "score": 0.10575770728324592,
+          "text": "rag_memory: [{\"text\":\"Marcus Mueller, VP Engineering at Sterling Logic, confirme"
+        },
+        {
+          "ts": "2026-01-14T10:00:00Z",
+          "score": 0.09986885628595504,
+          "text": "The sales opportunity with Sterling Logic is progressing positively with momentu"
+        },
+        {
+          "ts": "2026-01-14T10:00:00Z",
+          "score": 0.09029447458915786,
+          "text": "Sterling Logic experiences latency spikes during peak hours that increased by 30"
+        },
+        {
+          "ts": "2026-01-14T10:00:00Z",
+          "score": 0.08091067451936725,
+          "text": "Sterling Logic has no incumbent vendor lock-in and is open to issuing a Request "
+        }
+      ],
+      "_timestamp": "2026-03-01T16:24:09.829248"
+    },
+    {
+      "pair_id": "conflict_002",
+      "category": "cloud_provider",
+      "company": "Forge Platform",
+      "stale_date": "2025-11-12",
+      "fresh_date": "2026-01-20",
+      "query": "What cloud provider does Forge Platform use?",
+      "stale_claim": "Forge Platform runs their infrastructure on AWS",
+      "fresh_claim": "Forge Platform migrated their infrastructure to Google Cloud",
+      "outcome": "both_present",
+      "fresh_match": true,
+      "stale_match": true,
+      "answer_preview": "Forge Platform currently uses Google Cloud as its cloud provider, having fully migrated from AWS as of January 20, 2026.",
+      "results_count": 4,
+      "stale_memories": 12,
+      "fresh_memories": 8,
+      "duration_ms": 3742.8,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-01-20T00:00:00Z",
+          "score": 0.15133948373960152,
+          "text": "On January 20, 2026, Brian Moreau, VP Engineering at Forge Platform, confirmed t"
+        },
+        {
+          "ts": "2026-01-20T00:00:00Z",
+          "score": 0.12089477241503319,
+          "text": "On January 20, 2026, Brian Moreau stated that the migration to Google Cloud acce"
+        },
+        {
+          "ts": "2026-01-20T00:00:00Z",
+          "score": 0.10131294911462141,
+          "text": "On January 20, 2026, Brian Moreau identified a pain point that Forge Platform's "
+        },
+        {
+          "ts": "2026-01-20T00:00:00Z",
+          "score": 0.064857338612945,
+          "text": "On January 20, 2026, Brian Moreau confirmed that Forge Platform has an approved "
+        }
+      ],
+      "_timestamp": "2026-03-01T16:25:41.567794"
+    },
+    {
+      "pair_id": "conflict_003",
+      "category": "team_size",
+      "company": "Cortex Systems",
+      "stale_date": "2025-08-10",
+      "fresh_date": "2026-02-02",
+      "query": "How large is Cortex Systems's engineering team?",
+      "stale_claim": "Cortex Systems has an engineering team of about 40 people",
+      "fresh_claim": "Cortex Systems grew their engineering team to 85 people",
+      "outcome": "neither",
+      "fresh_match": false,
+      "stale_match": false,
+      "answer_preview": "As of February 2, 2026, Cortex Systems's engineering team has 85 people.",
+      "results_count": 5,
+      "stale_memories": 11,
+      "fresh_memories": 6,
+      "duration_ms": 4226.1,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-02-02T10:00:00Z",
+          "score": 0.19092642474371252,
+          "text": "Contact Company: Cortex Systems"
+        },
+        {
+          "ts": "2026-02-02T10:00:00Z",
+          "score": 0.16747615682433564,
+          "text": "contact_company: Cortex Systems"
+        },
+        {
+          "ts": "2026-02-02T10:00:00Z",
+          "score": 0.1568262408725534,
+          "text": "rag_memory: [{\"text\":\"On February 2, 2026, Alex Costa, VP of Engineering at Cort"
+        },
+        {
+          "ts": "2025-08-10T00:00:00Z",
+          "score": 0.0023950964117173015,
+          "text": "On August 10, 2025, Alex Costa, VP of Engineering at Cortex Systems, discussed w"
+        },
+        {
+          "ts": "2025-08-10T00:00:00Z",
+          "score": 0.001258599712079398,
+          "text": "On August 10, 2025, Alex Costa confirmed that Cortex Systems has an approved bud"
+        }
+      ],
+      "_timestamp": "2026-03-01T16:27:00.333152"
+    },
+    {
+      "pair_id": "conflict_004",
+      "category": "deal_stage",
+      "company": "Stratos AI",
+      "stale_date": "2025-08-01",
+      "fresh_date": "2026-02-10",
+      "query": "What deal stage is Stratos AI at?",
+      "stale_claim": "Stratos AI is in the Discovery phase of the sales process",
+      "fresh_claim": "Stratos AI has moved to the Proposal stage",
+      "outcome": "both_present",
+      "fresh_match": true,
+      "stale_match": true,
+      "answer_preview": "As of February 10, 2026, Stratos AI is at the Proposal stage in their sales process.",
+      "results_count": 5,
+      "stale_memories": 12,
+      "fresh_memories": 6,
+      "duration_ms": 5499.5,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-02-10T00:00:00Z",
+          "score": 0.3136900952962245,
+          "text": "On February 10, 2026, Stratos AI advanced to the Proposal stage from the previou"
+        },
+        {
+          "ts": "2026-02-10T10:00:00Z",
+          "score": 0.2694638521013639,
+          "text": "rag_memory: [{\"text\":\"On February 10, 2026, Nina Wright, VP of Engineering at St"
+        },
+        {
+          "ts": "2025-08-01T10:00:00Z",
+          "score": 0.001956475243798738,
+          "text": "The sales process stage for Stratos AI was updated to Discovery on August 1, 202"
+        },
+        {
+          "ts": "2025-08-01T10:00:00Z",
+          "score": 0.0019246997248546372,
+          "text": "Stratos AI is currently in the Discovery phase of their sales process as of Augu"
+        },
+        {
+          "ts": "2025-08-01T10:00:00Z",
+          "score": 0.0013423272764313409,
+          "text": "Stratos AI has allocated a budget of $500,000 for new tools as of August 1, 2025"
+        }
+      ],
+      "_timestamp": "2026-03-01T16:28:08.550022"
+    },
+    {
+      "pair_id": "conflict_005",
+      "category": "budget",
+      "company": "Atlas Engineering",
+      "stale_date": "2025-06-26",
+      "fresh_date": "2026-01-08",
+      "query": "What is Atlas Engineering's budget for this project?",
+      "stale_claim": "Atlas Engineering has a budget of approximately $200K for this initiative",
+      "fresh_claim": "Atlas Engineering increased their budget to $500K",
+      "outcome": "both_present",
+      "fresh_match": true,
+      "stale_match": true,
+      "answer_preview": "Atlas Engineering's budget for the AI-driven logistics optimization platform project was increased to $500,000 as of January 8, 2026.",
+      "results_count": 3,
+      "stale_memories": 9,
+      "fresh_memories": 9,
+      "duration_ms": 4960.7,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-01-08T00:00:00Z",
+          "score": 0.12277496331197642,
+          "text": "On January 8, 2026, the budget for the AI-driven logistics optimization platform"
+        },
+        {
+          "ts": "2025-06-26T00:00:00Z",
+          "score": 0.0006622470390535873,
+          "text": "Atlas Engineering has allocated a budget of approximately $200,000 for the logis"
+        },
+        {
+          "ts": "2025-06-26T00:00:00Z",
+          "score": 0.0005605040615588669,
+          "text": "The sales opportunity with Atlas Engineering is rated high and aligns perfectly "
+        }
+      ],
+      "_timestamp": "2026-03-01T16:29:10.277883"
+    },
+    {
+      "pair_id": "conflict_006",
+      "category": "decision_maker",
+      "company": "Nimbus Networks",
+      "stale_date": "2025-10-21",
+      "fresh_date": "2026-02-16",
+      "query": "Who is the decision maker at Nimbus Networks?",
+      "stale_claim": "Nimbus Networks said their CTO makes the final decision",
+      "fresh_claim": "Nimbus Networks clarified that the VP of Engineering now owns the decision",
+      "outcome": "both_present",
+      "fresh_match": true,
+      "stale_match": true,
+      "answer_preview": "As of February 16, 2026, Alex Singh, VP of Engineering at Nimbus Networks, is the decision maker who owns the final decision on procurement.",
+      "results_count": 5,
+      "stale_memories": 9,
+      "fresh_memories": 10,
+      "duration_ms": 4021.6,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-02-16T00:00:00Z",
+          "score": 0.34683795510226495,
+          "text": "On February 16, 2026, Nimbus Networks clarified that Alex Singh, VP of Engineeri"
+        },
+        {
+          "ts": "2026-02-28T00:00:00Z",
+          "score": 0.28807993909288304,
+          "text": "By February 28, 2026, Alex Singh planned to involve the Chief Revenue Officer (C"
+        },
+        {
+          "ts": "2026-02-23T00:00:00Z",
+          "score": 0.23545595222175342,
+          "text": "During the week of February 23, 2026, the sales team planned to schedule an engi"
+        },
+        {
+          "ts": "2026-02-16T10:00:00Z",
+          "score": 0.203159293368452,
+          "text": "rag_memory: [{\"text\":\"On February 16, 2026, a virtual follow-up sales meeting wa"
+        },
+        {
+          "ts": "2026-02-16T00:00:00Z",
+          "score": 0.16755601652748728,
+          "text": "On February 16, 2026, the prospect heat for the deal with Nimbus Networks was as"
+        }
+      ],
+      "_timestamp": "2026-03-01T16:30:18.195339"
+    },
+    {
+      "pair_id": "conflict_007",
+      "category": "timeline",
+      "company": "Redwood Analytics",
+      "stale_date": "2025-12-14",
+      "fresh_date": "2026-01-10",
+      "query": "When does Redwood Analytics plan to deploy?",
+      "stale_claim": "Redwood Analytics is targeting Q4 2026 for deployment",
+      "fresh_claim": "Redwood Analytics accelerated their timeline to Q2 2026",
+      "outcome": "correct_fresh",
+      "fresh_match": true,
+      "stale_match": false,
+      "answer_preview": "Redwood Analytics plans to deploy in Q2 2026, having accelerated the project rollout timeline from Q3/Q4 2026 to Q2 2026.",
+      "results_count": 5,
+      "stale_memories": 7,
+      "fresh_memories": 13,
+      "duration_ms": 4440.3,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-01-10T00:00:00Z",
+          "score": 0.12688365782571134,
+          "text": "On January 10, 2026, Redwood Analytics accelerated the project rollout timeline "
+        },
+        {
+          "ts": "2026-01-10T00:00:00Z",
+          "score": 0.11458747740496837,
+          "text": "On January 10, 2026, Heather Nakamura cited that Redwood Analytics achieved 20% "
+        },
+        {
+          "ts": "2026-01-10T00:00:00Z",
+          "score": 0.09595086660272796,
+          "text": "On January 10, 2026, the deal with Redwood Analytics showed high intent and buil"
+        },
+        {
+          "ts": "2026-01-10T10:00:00Z",
+          "score": 0.08890605386118894,
+          "text": "rag_memory: [{\"text\":\"On January 10, 2026, Heather Nakamura, VP Engineering at R"
+        },
+        {
+          "ts": "2026-01-10T00:00:00Z",
+          "score": 0.08829635118197109,
+          "text": "On January 10, 2026, the plan was to follow up on January 12, 2026, if there was"
+        }
+      ],
+      "_timestamp": "2026-03-01T16:31:43.531514"
+    },
+    {
+      "pair_id": "conflict_008",
+      "category": "competitor",
+      "company": "Tempest Software",
+      "stale_date": "2025-06-26",
+      "fresh_date": "2026-01-24",
+      "query": "What competitors is Tempest Software considering?",
+      "stale_claim": "Tempest Software is evaluating Salesforce Einstein as an alternative",
+      "fresh_claim": "Tempest Software dropped Salesforce and is now evaluating HubSpot AI",
+      "outcome": "correct_fresh",
+      "fresh_match": true,
+      "stale_match": false,
+      "answer_preview": "Tempest Software is considering HubSpot AI as a competitor to Salesforce CRM.",
+      "results_count": 5,
+      "stale_memories": 12,
+      "fresh_memories": 10,
+      "duration_ms": 3817.2,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-01-24T10:00:00Z",
+          "score": 0.12012858694288293,
+          "text": "The sales disposition for Tempest Software as of January 24, 2026, was classifie"
+        },
+        {
+          "ts": "2026-01-24T10:00:00Z",
+          "score": 0.08351411431708033,
+          "text": "On January 24, 2026, Tempest Software was actively evaluating HubSpot AI as the "
+        },
+        {
+          "ts": "2025-06-26T00:00:00Z",
+          "score": 0.0005119629088937324,
+          "text": "On June 26, 2025, the sales opportunity with Tempest Software was rated as stron"
+        },
+        {
+          "ts": "2025-06-26T00:00:00Z",
+          "score": 0.0005001989537590421,
+          "text": "On June 26, 2025, the sales team planned to follow up with a CTO introduction re"
+        },
+        {
+          "ts": "2025-06-26T00:00:00Z",
+          "score": 0.0004890178767423672,
+          "text": "On June 26, 2025, Tempest Software had an approved budget of $500,000 annual spe"
+        }
+      ],
+      "_timestamp": "2026-03-01T16:33:26.282492"
+    },
+    {
+      "pair_id": "conflict_009",
+      "category": "urgency",
+      "company": "Nimbus Networks",
+      "stale_date": "2025-10-08",
+      "fresh_date": "2026-01-25",
+      "query": "How urgent is Nimbus Networks's project?",
+      "stale_claim": "Nimbus Networks described the initiative as low priority",
+      "fresh_claim": "Nimbus Networks escalated the project to critical priority after a board review",
+      "outcome": "correct_fresh",
+      "fresh_match": true,
+      "stale_match": false,
+      "answer_preview": "Nimbus Networks's automation platform project is currently classified as critical priority as of January 25, 2026.",
+      "results_count": 5,
+      "stale_memories": 11,
+      "fresh_memories": 9,
+      "duration_ms": 4201.4,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-01-25T10:00:00Z",
+          "score": 0.18789030800548606,
+          "text": "On January 25, 2026, Alex Anderson, VP of Engineering at Nimbus Networks, provid"
+        },
+        {
+          "ts": "2026-01-18T00:00:00Z",
+          "score": 0.17246358988080476,
+          "text": "The board of Nimbus Networks cited competitive pressures from rising material co"
+        },
+        {
+          "ts": "2026-01-25T10:00:00Z",
+          "score": 0.1328695195749337,
+          "text": "The opportunity value for the automation platform project with Nimbus Networks i"
+        },
+        {
+          "ts": "2026-04-01T00:00:00Z",
+          "score": 0.10888294393516221,
+          "text": "The full rollout of the automation platform for Nimbus Networks is scheduled for"
+        },
+        {
+          "ts": "2026-01-25T10:00:00Z",
+          "score": 0.08144864574495299,
+          "text": "Nimbus Networks approved an $850,000 budget for the initial deployment of the au"
+        }
+      ],
+      "_timestamp": "2026-03-01T16:34:53.196726"
+    },
+    {
+      "pair_id": "conflict_010",
+      "category": "current_solution",
+      "company": "Drift Analytics",
+      "stale_date": "2025-11-26",
+      "fresh_date": "2026-02-09",
+      "query": "What CRM solution does Drift Analytics currently use?",
+      "stale_claim": "Drift Analytics uses a custom-built CRM on Rails",
+      "fresh_claim": "Drift Analytics replaced their custom CRM with Pipedrive",
+      "outcome": "both_present",
+      "fresh_match": true,
+      "stale_match": true,
+      "answer_preview": "Drift Analytics currently uses Pipedrive as their CRM solution, having fully replaced their custom-built CRM with Pipedrive in January 2026.",
+      "results_count": 5,
+      "stale_memories": 8,
+      "fresh_memories": 8,
+      "duration_ms": 4692.0,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-02-09T10:00:00Z",
+          "score": 0.2926181950397161,
+          "text": "rag_memory: [{\"text\":\"On February 9, 2026, Anita Volkov, VP of Engineering at Dr"
+        },
+        {
+          "ts": "2026-02-09T00:00:00Z",
+          "score": 0.2840228919960204,
+          "text": "On February 9, 2026, Anita Volkov, VP of Engineering at Drift Analytics, provide"
+        },
+        {
+          "ts": "2026-02-09T00:00:00Z",
+          "score": 0.2661113489614251,
+          "text": "The sales opportunity with Drift Analytics was estimated at $120,000 annual recu"
+        },
+        {
+          "ts": "2026-02-09T00:00:00Z",
+          "score": 0.2605830539001595,
+          "text": "Drift Analytics uses Pipedrive to handle core sales pipelines but finds that Pip"
+        },
+        {
+          "ts": "2026-02-09T00:00:00Z",
+          "score": 0.25879208133286263,
+          "text": "Drift Analytics dismissed HubSpot as a competitor solution because it was consid"
+        }
+      ],
+      "_timestamp": "2026-03-01T16:35:58.368673"
+    },
+    {
+      "pair_id": "conflict_011",
+      "category": "headcount",
+      "company": "Nimbus Networks",
+      "stale_date": "2025-10-20",
+      "fresh_date": "2026-02-07",
+      "query": "How many employees does Nimbus Networks have?",
+      "stale_claim": "Nimbus Networks has approximately 150 total employees",
+      "fresh_claim": "Nimbus Networks grew to over 300 employees after a recent acquisition",
+      "outcome": "both_present",
+      "fresh_match": true,
+      "stale_match": true,
+      "answer_preview": "Nimbus Networks has over 300 employees as of February 7, 2026.",
+      "results_count": 5,
+      "stale_memories": 14,
+      "fresh_memories": 10,
+      "duration_ms": 4436.6,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-02-07T10:00:00Z",
+          "score": 0.3486114784720737,
+          "text": "On February 7, 2026, Nimbus Networks' headcount exceeded 300 employees following"
+        },
+        {
+          "ts": "2026-02-07T10:00:00Z",
+          "score": 0.18727458852762982,
+          "text": "On February 7, 2026, Nimbus Networks targeted a 5x increase in compute capacity "
+        },
+        {
+          "ts": "2026-02-07T10:00:00Z",
+          "score": 0.17881627598958114,
+          "text": "On February 7, 2026, Nimbus Networks' engineering team was at capacity and the p"
+        },
+        {
+          "ts": "2026-02-07T10:00:00Z",
+          "score": 0.14201697866851723,
+          "text": "On February 7, 2026, the RFP timeline for Nimbus Networks was impacted by the ur"
+        },
+        {
+          "ts": "2025-10-20T10:00:00Z",
+          "score": 0.022101261669845024,
+          "text": "Nimbus Networks has approximately 150 total employees, with an engineering team "
+        }
+      ],
+      "_timestamp": "2026-03-01T16:37:36.093862"
+    },
+    {
+      "pair_id": "conflict_012",
+      "category": "pain_point",
+      "company": "Meridian Labs",
+      "stale_date": "2025-12-12",
+      "fresh_date": "2026-01-24",
+      "query": "What is Meridian Labs's primary pain point?",
+      "stale_claim": "Meridian Labs identified slow deployment cycles as their primary pain point",
+      "fresh_claim": "Meridian Labs said their main concern shifted to data silos between teams",
+      "outcome": "neither",
+      "fresh_match": false,
+      "stale_match": false,
+      "answer_preview": "",
+      "results_count": 0,
+      "stale_memories": 12,
+      "fresh_memories": 9,
+      "duration_ms": 2388.3,
+      "recalled_timestamps": [],
+      "_timestamp": "2026-03-01T16:40:02.681751"
+    },
+    {
+      "pair_id": "conflict_013",
+      "category": "framework",
+      "company": "Lunar Computing",
+      "stale_date": "2025-12-11",
+      "fresh_date": "2026-01-21",
+      "query": "What web framework does Lunar Computing use?",
+      "stale_claim": "Lunar Computing uses Django as their primary web framework",
+      "fresh_claim": "Lunar Computing switched to FastAPI for their backend services",
+      "outcome": "both_present",
+      "fresh_match": true,
+      "stale_match": true,
+      "answer_preview": "Lunar Computing currently uses FastAPI as their web framework for all backend services as of January 21, 2026.",
+      "results_count": 2,
+      "stale_memories": 13,
+      "fresh_memories": 9,
+      "duration_ms": 4465.9,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-01-21T10:00:00Z",
+          "score": 0.08558350348794995,
+          "text": "On January 21, 2026, Tariq Tanaka, Vice President of Engineering at Lunar Comput"
+        },
+        {
+          "ts": "2025-12-11T10:00:00Z",
+          "score": 0.045820263361794164,
+          "text": "On December 11, 2025, Lunar Computing uses Django as their primary web framework"
+        }
+      ],
+      "_timestamp": "2026-03-01T16:41:26.956711"
+    },
+    {
+      "pair_id": "conflict_014",
+      "category": "funding",
+      "company": "Tidal Solutions",
+      "stale_date": "2025-10-04",
+      "fresh_date": "2026-02-14",
+      "query": "What is Tidal Solutions's latest funding round?",
+      "stale_claim": "Tidal Solutions raised a $20M Series A",
+      "fresh_claim": "Tidal Solutions closed a $60M Series B led by Andreessen Horowitz",
+      "outcome": "correct_fresh",
+      "fresh_match": true,
+      "stale_match": false,
+      "answer_preview": "Tidal Solutions's latest funding round is a $60 million Series B, led by Andreessen Horowitz, closed in the week prior to February 14, 2026.",
+      "results_count": 5,
+      "stale_memories": 12,
+      "fresh_memories": 12,
+      "duration_ms": 4354.3,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-02-14T00:00:00Z",
+          "score": 0.4831505136318744,
+          "text": "Tidal Solutions closed a $60 million Series B funding round led by Andreessen Ho"
+        },
+        {
+          "ts": "2026-02-14T00:00:00Z",
+          "score": 0.4416061027035673,
+          "text": "The $60 million funding round closed by Tidal Solutions supersedes the previous "
+        },
+        {
+          "ts": "2026-02-14T10:00:00Z",
+          "score": 0.343275559074558,
+          "text": "rag_memory: [{\"text\":\"Tidal Solutions closed a $60 million Series B funding roun"
+        },
+        {
+          "ts": "2026-02-14T00:00:00Z",
+          "score": 0.30476364878868767,
+          "text": "Tom O'Brien noted on February 14, 2026, that the funding accelerates Tidal Solut"
+        },
+        {
+          "ts": "2026-02-14T00:00:00Z",
+          "score": 0.30005850805742024,
+          "text": "Tidal Solutions approved a budget of $750,000 ARR for a pilot of the discussed p"
+        }
+      ],
+      "_timestamp": "2026-03-01T16:42:57.241706"
+    },
+    {
+      "pair_id": "conflict_015",
+      "category": "location",
+      "company": "Helix Software",
+      "stale_date": "2025-12-16",
+      "fresh_date": "2026-01-02",
+      "query": "Where is Helix Software headquartered?",
+      "stale_claim": "Helix Software is headquartered in San Francisco",
+      "fresh_claim": "Helix Software relocated their headquarters to Austin",
+      "outcome": "both_present",
+      "fresh_match": true,
+      "stale_match": true,
+      "answer_preview": "Helix Software is headquartered in Austin, Texas as of January 2, 2026.",
+      "results_count": 5,
+      "stale_memories": 9,
+      "fresh_memories": 9,
+      "duration_ms": 4593.4,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-01-02T00:00:00Z",
+          "score": 0.11781314867875889,
+          "text": "On January 2, 2026, Helix Software relocated its headquarters from Seattle to Au"
+        },
+        {
+          "ts": "2026-01-02T00:00:00Z",
+          "score": 0.09807681887227448,
+          "text": "On January 2, 2026, Helix Software prefers vendors with a local presence in Aust"
+        },
+        {
+          "ts": "2025-12-16T00:00:00Z",
+          "score": 0.0707257660253516,
+          "text": "Helix Software, headquartered in San Francisco, seeks scalable API integrations "
+        },
+        {
+          "ts": "2025-12-16T00:00:00Z",
+          "score": 0.06196417231834683,
+          "text": "The sales opportunity with Helix Software was rated High with a score of 8 out o"
+        },
+        {
+          "ts": "2026-01-02T00:00:00Z",
+          "score": 0.060231172543812266,
+          "text": "On January 2, 2026, Helix Software allocated a budget of $450,000 for a Q1 2026 "
+        }
+      ],
+      "_timestamp": "2026-03-01T16:44:11.930719"
+    },
+    {
+      "pair_id": "conflict_016",
+      "category": "database",
+      "company": "Zenith Analytics",
+      "stale_date": "2025-11-19",
+      "fresh_date": "2026-02-28",
+      "query": "What database does Zenith Analytics use?",
+      "stale_claim": "Zenith Analytics uses Oracle as their primary database",
+      "fresh_claim": "Zenith Analytics migrated to PostgreSQL as their primary database",
+      "outcome": "correct_fresh",
+      "fresh_match": true,
+      "stale_match": false,
+      "answer_preview": "Zenith Analytics uses PostgreSQL as their primary database as of February 28, 2026, having fully migrated from MySQL in the last quarter of 2025.",
+      "results_count": 5,
+      "stale_memories": 8,
+      "fresh_memories": 9,
+      "duration_ms": 4352.0,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-02-28T00:00:00Z",
+          "score": 0.47816933757267954,
+          "text": "On February 28, 2026, Kevin Mueller, VP Engineering at Zenith Analytics, provide"
+        },
+        {
+          "ts": "2026-02-28T00:00:00Z",
+          "score": 0.35694913915556026,
+          "text": "On February 28, 2026, Kevin Mueller confirmed that Zenith Analytics has approved"
+        },
+        {
+          "ts": "2026-02-28T00:00:00Z",
+          "score": 0.31859399591596077,
+          "text": "On February 28, 2026, Kevin Mueller reported that Zenith Analytics is experienci"
+        },
+        {
+          "ts": "2026-02-28T00:00:00Z",
+          "score": 0.31690633507161087,
+          "text": "On February 28, 2026, Kevin Mueller committed to involving the CTO of Zenith Ana"
+        },
+        {
+          "ts": "2026-02-28T00:00:00Z",
+          "score": 0.214074590422193,
+          "text": "On February 28, 2026, the caller planned to schedule a technical deep-dive meeti"
+        }
+      ],
+      "_timestamp": "2026-03-01T16:45:21.484731"
+    },
+    {
+      "pair_id": "conflict_017",
+      "category": "cloud_provider",
+      "company": "Solstice AI",
+      "stale_date": "2025-12-12",
+      "fresh_date": "2026-01-02",
+      "query": "What cloud provider does Solstice AI use?",
+      "stale_claim": "Solstice AI runs their infrastructure on AWS",
+      "fresh_claim": "Solstice AI migrated their infrastructure to Google Cloud",
+      "outcome": "both_present",
+      "fresh_match": true,
+      "stale_match": true,
+      "answer_preview": "Solstice AI currently uses Google Cloud Platform (GCP) as their cloud provider, having fully migrated from AWS in late Q4 2025.",
+      "results_count": 5,
+      "stale_memories": 12,
+      "fresh_memories": 9,
+      "duration_ms": 5023.3,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-01-02T10:00:00Z",
+          "score": 0.08410323960468984,
+          "text": "On January 2, 2026, Rachel Novak, VP of Engineering at Solstice AI, confirmed th"
+        },
+        {
+          "ts": "2026-01-02T10:00:00Z",
+          "score": 0.06006611905058988,
+          "text": "Rachel Novak stated on January 2, 2026, that Solstice AI achieved a 30% cost sav"
+        },
+        {
+          "ts": "2026-01-08T00:00:00Z",
+          "score": 0.043372156353868,
+          "text": "A one-hour demo with Solstice AI's DevOps lead is scheduled for January 8, 2026,"
+        },
+        {
+          "ts": "2025-12-12T00:00:00Z",
+          "score": 0.03887961003582148,
+          "text": "Solstice AI runs its entire infrastructure on AWS, leveraging EC2, S3, and Lambd"
+        },
+        {
+          "ts": "2025-12-12T00:00:00Z",
+          "score": 0.03010549212047216,
+          "text": "As of December 12, 2025, Solstice AI handles over 5 million daily transactions b"
+        }
+      ],
+      "_timestamp": "2026-03-01T16:47:01.553965"
+    },
+    {
+      "pair_id": "conflict_018",
+      "category": "team_size",
+      "company": "Drift Analytics",
+      "stale_date": "2025-09-12",
+      "fresh_date": "2026-01-27",
+      "query": "How large is Drift Analytics's engineering team?",
+      "stale_claim": "Drift Analytics has an engineering team of about 40 people",
+      "fresh_claim": "Drift Analytics grew their engineering team to 85 people",
+      "outcome": "correct_fresh",
+      "fresh_match": true,
+      "stale_match": false,
+      "answer_preview": "Drift Analytics's engineering team is currently 85 members strong, having grown from 55 members as of January 27, 2026.",
+      "results_count": 5,
+      "stale_memories": 10,
+      "fresh_memories": 9,
+      "duration_ms": 4332.3,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-01-27T10:00:00Z",
+          "score": 0.15650881211213938,
+          "text": "rag_memory: [{\"text\":\"Ivan Xu, VP Engineering at Drift Analytics, discussed on J"
+        },
+        {
+          "ts": "2026-01-27T00:00:00Z",
+          "score": 0.1147479131902722,
+          "text": "Budget approval for the project at Drift Analytics is pending from the CTO and e"
+        },
+        {
+          "ts": "2026-01-27T00:00:00Z",
+          "score": 0.10220393397404617,
+          "text": "Drift Analytics is preparing a Series B funding round targeting close in April 2"
+        },
+        {
+          "ts": "2026-01-27T00:00:00Z",
+          "score": 0.09866586588868138,
+          "text": "Ivan Xu confirmed on January 27, 2026, that Drift Analytics plans a Q1 push for "
+        },
+        {
+          "ts": "2026-01-27T00:00:00Z",
+          "score": 0.0951833577904787,
+          "text": "Drift Analytics experiences 40% downtime during peak testing windows as of Janua"
+        }
+      ],
+      "_timestamp": "2026-03-01T16:48:32.014937"
+    },
+    {
+      "pair_id": "conflict_019",
+      "category": "deal_stage",
+      "company": "Aether IO",
+      "stale_date": "2025-06-20",
+      "fresh_date": "2026-02-16",
+      "query": "What deal stage is Aether IO at?",
+      "stale_claim": "Aether IO is in the Discovery phase of the sales process",
+      "fresh_claim": "Aether IO has moved to the Proposal stage",
+      "outcome": "both_present",
+      "fresh_match": true,
+      "stale_match": true,
+      "answer_preview": "Aether IO is currently at the Proposal stage as of February 16, 2026.",
+      "results_count": 5,
+      "stale_memories": 9,
+      "fresh_memories": 8,
+      "duration_ms": 5058.9,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-02-16T00:00:00Z",
+          "score": 0.36675680179068243,
+          "text": "The account status for Aether IO changed from Discovery to Proposal stage on Feb"
+        },
+        {
+          "ts": "2026-02-16T10:00:00Z",
+          "score": 0.1861536483795311,
+          "text": "rag_memory: [{\"text\":\"Keiko Volkov, Vice President of Engineering at Aether IO, "
+        },
+        {
+          "ts": "2026-02-16T00:00:00Z",
+          "score": 0.14660567373479197,
+          "text": "The confirmed budget range for the Phase 1 rollout of the ERP integration at Aet"
+        },
+        {
+          "ts": "2026-02-16T00:00:00Z",
+          "score": 0.14070554046899192,
+          "text": "[Your Name] is responsible for drafting and sending the proposal to Aether IO as"
+        },
+        {
+          "ts": "2025-06-20T10:00:00Z",
+          "score": 0.000727943130389473,
+          "text": "The sales stage for Aether IO was Discovery on June 20, 2025, with pains validat"
+        }
+      ],
+      "_timestamp": "2026-03-01T16:50:07.528307"
+    },
+    {
+      "pair_id": "conflict_020",
+      "category": "budget",
+      "company": "Crest Digital",
+      "stale_date": "2025-10-19",
+      "fresh_date": "2026-02-18",
+      "query": "What is Crest Digital's budget for this project?",
+      "stale_claim": "Crest Digital has a budget of approximately $200K for this initiative",
+      "fresh_claim": "Crest Digital increased their budget to $500K",
+      "outcome": "neither",
+      "fresh_match": false,
+      "stale_match": false,
+      "answer_preview": "Crest Digital's budget for this project is $500,000 for FY2026, as approved by the board on February 18, 2026.",
+      "results_count": 5,
+      "stale_memories": 9,
+      "fresh_memories": 10,
+      "duration_ms": 4698.3,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-02-18T10:00:00Z",
+          "score": 0.3653068694571111,
+          "text": "On February 18, 2026, David Cho confirmed that Crest Digital's FY2026 budget inc"
+        },
+        {
+          "ts": "2026-02-18T10:00:00Z",
+          "score": 0.2641857274993571,
+          "text": "On February 18, 2026, Crest Digital planned to make a decision by March 15, 2026"
+        },
+        {
+          "ts": "2026-02-18T10:00:00Z",
+          "score": 0.25845174036819457,
+          "text": "rag_memory: [{\"text\":\"On February 18, 2026, David Cho, VP of Engineering at Cres"
+        },
+        {
+          "ts": "2026-02-18T10:00:00Z",
+          "score": 0.21358817505605654,
+          "text": "On February 18, 2026, the deal momentum with Crest Digital was high, with the pr"
+        },
+        {
+          "ts": "2026-02-18T10:00:00Z",
+          "score": 0.19475151113980696,
+          "text": "On February 18, 2026, Crest Digital experienced legacy CRM integration delays co"
+        }
+      ],
+      "_timestamp": "2026-03-01T16:51:30.242960"
+    },
+    {
+      "pair_id": "conflict_021",
+      "category": "decision_maker",
+      "company": "Orion Platforms",
+      "stale_date": "2025-07-10",
+      "fresh_date": "2026-01-25",
+      "query": "Who is the decision maker at Orion Platforms?",
+      "stale_claim": "Orion Platforms said their CTO makes the final decision",
+      "fresh_claim": "Orion Platforms clarified that the VP of Engineering now owns the decision",
+      "outcome": "correct_fresh",
+      "fresh_match": true,
+      "stale_match": false,
+      "answer_preview": "Elena Johansson, VP of Engineering at Orion Platforms, is the decision maker who owns the buying decision for the AI analytics platform as of January 25, 2026.",
+      "results_count": 5,
+      "stale_memories": 14,
+      "fresh_memories": 9,
+      "duration_ms": 4972.0,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-01-25T00:00:00Z",
+          "score": 0.18839936416452563,
+          "text": "On January 25, 2026, Orion Platforms clarified that Elena Johansson, VP of Engin"
+        },
+        {
+          "ts": "2026-01-25T10:00:00Z",
+          "score": 0.14998068271417472,
+          "text": "rag_memory: [{\"text\":\"On January 25, 2026, Elena Johansson, VP of Engineering at"
+        },
+        {
+          "ts": "2026-01-25T00:00:00Z",
+          "score": 0.13749560215048245,
+          "text": "On January 25, 2026, Elena Johansson confirmed that she has full authority to gr"
+        },
+        {
+          "ts": "2026-01-25T00:00:00Z",
+          "score": 0.12023006356857352,
+          "text": "On January 25, 2026, Elena Johansson, VP of Engineering at Orion Platforms, prov"
+        },
+        {
+          "ts": "2026-01-25T00:00:00Z",
+          "score": 0.10787483908139693,
+          "text": "On January 25, 2026, Orion Platforms downselected from three vendors, with the A"
+        }
+      ],
+      "_timestamp": "2026-03-01T16:52:56.668800"
+    },
+    {
+      "pair_id": "conflict_022",
+      "category": "timeline",
+      "company": "Tidal Solutions",
+      "stale_date": "2025-10-22",
+      "fresh_date": "2026-02-23",
+      "query": "When does Tidal Solutions plan to deploy?",
+      "stale_claim": "Tidal Solutions is targeting Q4 2026 for deployment",
+      "fresh_claim": "Tidal Solutions accelerated their timeline to Q2 2026",
+      "outcome": "correct_fresh",
+      "fresh_match": true,
+      "stale_match": false,
+      "answer_preview": "Tidal Solutions plans to deploy in the second quarter of 2026.",
+      "results_count": 5,
+      "stale_memories": 10,
+      "fresh_memories": 11,
+      "duration_ms": 4100.2,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-02-23T00:00:00Z",
+          "score": 0.3504013229690067,
+          "text": "On February 23, 2026, the rollout timeline for the product integration with Tida"
+        },
+        {
+          "ts": "2026-03-02T00:00:00Z",
+          "score": 0.31740649049968833,
+          "text": "During the week of March 2, 2026, a technical deep-dive meeting will be schedule"
+        },
+        {
+          "ts": "2026-02-23T00:00:00Z",
+          "score": 0.2959915927071351,
+          "text": "On February 23, 2026, Tidal Solutions approved an initial budget of $250,000 for"
+        },
+        {
+          "ts": "2026-02-24T23:59:59Z",
+          "score": 0.2747908188238908,
+          "text": "By the end of day on February 24, 2026, the revised Statement of Work reflecting"
+        },
+        {
+          "ts": "2026-02-23T00:00:00Z",
+          "score": 0.24485790100414334,
+          "text": "As of February 23, 2026, the sales process with Robert Lindgren at Tidal Solutio"
+        }
+      ],
+      "_timestamp": "2026-03-01T16:54:20.555652"
+    },
+    {
+      "pair_id": "conflict_023",
+      "category": "competitor",
+      "company": "Ridge Computing",
+      "stale_date": "2025-11-27",
+      "fresh_date": "2026-01-23",
+      "query": "What competitors is Ridge Computing considering?",
+      "stale_claim": "Ridge Computing is evaluating Salesforce Einstein as an alternative",
+      "fresh_claim": "Ridge Computing dropped Salesforce and is now evaluating HubSpot AI",
+      "outcome": "neither",
+      "fresh_match": false,
+      "stale_match": false,
+      "answer_preview": "The provided context does not specify which competitors Ridge Computing is considering.",
+      "results_count": 5,
+      "stale_memories": 10,
+      "fresh_memories": 12,
+      "duration_ms": 4451.7,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-01-23T00:00:00Z",
+          "score": 0.14333105660800702,
+          "text": "Ridge Computing is flagged as a hot lead with high intent following their exit f"
+        },
+        {
+          "ts": "2026-01-23T00:00:00Z",
+          "score": 0.11838073923057528,
+          "text": "Ridge Computing allocated a budget of $250,000 for a Q2 2026 rollout of the new "
+        },
+        {
+          "ts": "2026-01-23T00:00:00Z",
+          "score": 0.10657623257527452,
+          "text": "An executive introduction call with the Chief Technology Officer of Ridge Comput"
+        },
+        {
+          "ts": "2026-01-23T00:00:00Z",
+          "score": 0.09904107400937823,
+          "text": "Priya Anderson confirmed on January 23, 2026, that Ridge Computing has targeted "
+        },
+        {
+          "ts": "2026-01-23T00:00:00Z",
+          "score": 0.09839084872544562,
+          "text": "On January 23, 2026, Priya Anderson, Vice President of Engineering at Ridge Comp"
+        }
+      ],
+      "_timestamp": "2026-03-01T16:55:59.998619"
+    },
+    {
+      "pair_id": "conflict_024",
+      "category": "urgency",
+      "company": "Cirrus Cloud",
+      "stale_date": "2025-11-07",
+      "fresh_date": "2026-01-21",
+      "query": "How urgent is Cirrus Cloud's project?",
+      "stale_claim": "Cirrus Cloud described the initiative as low priority",
+      "fresh_claim": "Cirrus Cloud escalated the project to critical priority after a board review",
+      "outcome": "both_present",
+      "fresh_match": true,
+      "stale_match": true,
+      "answer_preview": "Cirrus Cloud's project is currently classified as critical priority, escalated during the week of January 12, 2026, due to competitive pressures and Q1 scaling needs, making it very urgent.",
+      "results_count": 5,
+      "stale_memories": 9,
+      "fresh_memories": 11,
+      "duration_ms": 5114.3,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-01-21T10:00:00Z",
+          "score": 0.1281087971946775,
+          "text": "rag_memory: [{\"text\":\"On January 21, 2026, James Thompson, VP Engineering at Cir"
+        },
+        {
+          "ts": "2026-01-12T00:00:00Z",
+          "score": 0.11456253451939141,
+          "text": "Cirrus escalated the project to critical priority after a board review during th"
+        },
+        {
+          "ts": "2026-01-21T10:00:00Z",
+          "score": 0.09173038586073537,
+          "text": "Cirrus unlocked a $300,000 budget allocation for the pilot project on January 21"
+        },
+        {
+          "ts": "2026-01-21T10:00:00Z",
+          "score": 0.06997476019037825,
+          "text": "The sales opportunity with Cirrus is currently in the Proposal stage with a high"
+        },
+        {
+          "ts": "2025-11-07T10:00:00Z",
+          "score": 0.020591195714442966,
+          "text": "Cirrus Cloud described the cloud-native SaaS platform initiative as low priority"
+        }
+      ],
+      "_timestamp": "2026-03-01T16:57:43.273428"
+    },
+    {
+      "pair_id": "conflict_025",
+      "category": "current_solution",
+      "company": "Keystone Labs",
+      "stale_date": "2025-06-02",
+      "fresh_date": "2026-01-05",
+      "query": "What CRM solution does Keystone Labs currently use?",
+      "stale_claim": "Keystone Labs uses a custom-built CRM on Rails",
+      "fresh_claim": "Keystone Labs replaced their custom CRM with Pipedrive",
+      "outcome": "both_present",
+      "fresh_match": true,
+      "stale_match": true,
+      "answer_preview": "Keystone Labs currently uses Pipedrive as their CRM solution, having fully replaced their legacy custom-built CRM with Pipedrive as of December 2025.",
+      "results_count": 5,
+      "stale_memories": 11,
+      "fresh_memories": 9,
+      "duration_ms": 5371.3,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-01-05T10:00:00Z",
+          "score": 0.09976441167157954,
+          "text": "The previous custom CRM at Keystone Labs lacked mobile access, whereas Pipedrive"
+        },
+        {
+          "ts": "2026-01-05T10:00:00Z",
+          "score": 0.09061998120344557,
+          "text": "On January 5, 2026, Aisha Oduya, VP of Engineering at Keystone Labs, confirmed t"
+        },
+        {
+          "ts": "2026-01-05T10:00:00Z",
+          "score": 0.08945597138054412,
+          "text": "Keystone Labs has an annual budget of $150,000 for Pipedrive Pro plus custom wor"
+        },
+        {
+          "ts": "2026-01-05T10:00:00Z",
+          "score": 0.08818086103468159,
+          "text": "rag_memory: [{\"text\":\"On January 5, 2026, Aisha Oduya, VP of Engineering at Keys"
+        },
+        {
+          "ts": "2026-01-05T10:00:00Z",
+          "score": 0.07116703335199755,
+          "text": "Early return on investment from Pipedrive at Keystone Labs includes a 20% faster"
+        }
+      ],
+      "_timestamp": "2026-03-01T16:59:03.782007"
+    },
+    {
+      "pair_id": "conflict_026",
+      "category": "headcount",
+      "company": "Catalyst IO",
+      "stale_date": "2025-07-11",
+      "fresh_date": "2026-01-20",
+      "query": "How many employees does Catalyst IO have?",
+      "stale_claim": "Catalyst IO has approximately 150 total employees",
+      "fresh_claim": "Catalyst IO grew to over 300 employees after a recent acquisition",
+      "outcome": "both_present",
+      "fresh_match": true,
+      "stale_match": true,
+      "answer_preview": "Catalyst IO has grown to over 300 employees as of January 20, 2026.",
+      "results_count": 5,
+      "stale_memories": 11,
+      "fresh_memories": 8,
+      "duration_ms": 4413.7,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-01-20T10:00:00Z",
+          "score": 0.1971491861859964,
+          "text": "On January 20, 2026, Alex Williams, VP Engineering at Catalyst IO, discussed pos"
+        },
+        {
+          "ts": "2026-01-20T10:00:00Z",
+          "score": 0.0972806199300661,
+          "text": "On January 20, 2026, Alex Williams confirmed that Catalyst IO allocated approxim"
+        },
+        {
+          "ts": "2026-01-20T10:00:00Z",
+          "score": 0.08692867979790415,
+          "text": "On January 20, 2026, there were no blockers noted for the sales opportunity with"
+        },
+        {
+          "ts": "2026-01-20T10:00:00Z",
+          "score": 0.06964646747162956,
+          "text": "On January 20, 2026, Alex Williams expressed an urgent need for robust API infra"
+        },
+        {
+          "ts": "2025-07-11T10:00:00Z",
+          "score": 0.0015435637571895391,
+          "text": "Catalyst IO has approximately 150 total employees, with an engineering team of a"
+        }
+      ],
+      "_timestamp": "2026-03-01T17:00:35.730154"
+    },
+    {
+      "pair_id": "conflict_027",
+      "category": "pain_point",
+      "company": "Aether IO",
+      "stale_date": "2025-08-14",
+      "fresh_date": "2026-02-20",
+      "query": "What is Aether IO's primary pain point?",
+      "stale_claim": "Aether IO identified slow deployment cycles as their primary pain point",
+      "fresh_claim": "Aether IO said their main concern shifted to data silos between teams",
+      "outcome": "incorrect_stale",
+      "fresh_match": false,
+      "stale_match": true,
+      "answer_preview": "Aether IO's primary pain point is slow deployment cycles, with current AWS EKS and Jenkins pipelines taking more than 48 hours per release, which delays updates to over 10,000 teacher users.",
+      "results_count": 3,
+      "stale_memories": 10,
+      "fresh_memories": 8,
+      "duration_ms": 6055.8,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-02-20T00:00:00Z",
+          "score": 0.11771612395588649,
+          "text": "On February 20, 2026, Aether IO's Q2 budget was locked at $75,000 for core imple"
+        },
+        {
+          "ts": "2025-08-14T10:00:00Z",
+          "score": 0.002193321261022458,
+          "text": "On August 14, 2025, Aether IO identified slow deployment cycles as their primary"
+        },
+        {
+          "ts": "2025-08-14T10:00:00Z",
+          "score": 0.0008125958673588304,
+          "text": "On August 14, 2025, Keiko O'Brien shared that Aether IO is migrating from a mono"
+        }
+      ],
+      "_timestamp": "2026-03-01T17:02:03.787479"
+    },
+    {
+      "pair_id": "conflict_028",
+      "category": "framework",
+      "company": "Drift Analytics",
+      "stale_date": "2025-11-24",
+      "fresh_date": "2026-01-11",
+      "query": "What web framework does Drift Analytics use?",
+      "stale_claim": "Drift Analytics uses Django as their primary web framework",
+      "fresh_claim": "Drift Analytics switched to FastAPI for their backend services",
+      "outcome": "both_present",
+      "fresh_match": true,
+      "stale_match": true,
+      "answer_preview": "Drift Analytics currently uses FastAPI as their web framework, having fully switched from a Node.js stack by December 2025.",
+      "results_count": 5,
+      "stale_memories": 13,
+      "fresh_memories": 9,
+      "duration_ms": 4648.2,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-01-11T00:00:00Z",
+          "score": 0.0605551531829614,
+          "text": "Drift Analytics fully switched its backend services to FastAPI, replacing the pr"
+        },
+        {
+          "ts": "2026-01-11T00:00:00Z",
+          "score": 0.0552024432019601,
+          "text": "Drift Analytics' pain points include legacy monitoring with Datadog being insuff"
+        },
+        {
+          "ts": "2026-01-11T00:00:00Z",
+          "score": 0.05128445095107022,
+          "text": "On January 11, 2026, Alex Ito, VP Engineering at Drift Analytics, confirmed that"
+        },
+        {
+          "ts": "2025-11-24T10:00:00Z",
+          "score": 0.042826021772355304,
+          "text": "Drift Analytics uses Django as their primary web framework, which is currently h"
+        },
+        {
+          "ts": "2025-11-24T10:00:00Z",
+          "score": 0.017273869529563755,
+          "text": "Alex Ito confirmed that Drift Analytics has Q1 budget approval for a $150,000 te"
+        }
+      ],
+      "_timestamp": "2026-03-01T17:04:07.001124"
+    },
+    {
+      "pair_id": "conflict_029",
+      "category": "funding",
+      "company": "Summit Computing",
+      "stale_date": "2025-07-12",
+      "fresh_date": "2026-01-06",
+      "query": "What is Summit Computing's latest funding round?",
+      "stale_claim": "Summit Computing raised a $20M Series A",
+      "fresh_claim": "Summit Computing closed a $60M Series B led by Andreessen Horowitz",
+      "outcome": "correct_fresh",
+      "fresh_match": true,
+      "stale_match": false,
+      "answer_preview": "Summit Computing's latest funding round is a $60 million Series B round led by Andreessen Horowitz, closed on January 6, 2026.",
+      "results_count": 5,
+      "stale_memories": 8,
+      "fresh_memories": 8,
+      "duration_ms": 6711.5,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-01-06T00:00:00Z",
+          "score": 0.1319810355746472,
+          "text": "On January 6, 2026, Chen Costa, VP Engineering at Summit Computing, provided an "
+        },
+        {
+          "ts": "2026-01-06T00:00:00Z",
+          "score": 0.12876915448644918,
+          "text": "Following the Series B funding round, Summit Computing unlocked a $15 million op"
+        },
+        {
+          "ts": "2026-01-06T10:00:00Z",
+          "score": 0.09087150726028842,
+          "text": "rag_memory: [{\"text\":\"On January 6, 2026, Chen Costa, VP Engineering at Summit C"
+        },
+        {
+          "ts": "2025-07-12T00:00:00Z",
+          "score": 0.0009527606985301773,
+          "text": "Summit Computing raised $20 million in Series A funding in June 2025 from LeadEd"
+        },
+        {
+          "ts": "2025-07-12T00:00:00Z",
+          "score": 0.0007597058782013228,
+          "text": "The sales opportunity with Summit Computing is heating up post-Series A funding "
+        }
+      ],
+      "_timestamp": "2026-03-01T17:05:25.986793"
+    },
+    {
+      "pair_id": "conflict_030",
+      "category": "location",
+      "company": "Cortex Systems",
+      "stale_date": "2025-08-13",
+      "fresh_date": "2026-02-22",
+      "query": "Where is Cortex Systems headquartered?",
+      "stale_claim": "Cortex Systems is headquartered in San Francisco",
+      "fresh_claim": "Cortex Systems relocated their headquarters to Austin",
+      "outcome": "both_present",
+      "fresh_match": true,
+      "stale_match": true,
+      "answer_preview": "Cortex Systems is headquartered in Austin, Texas as of February 22, 2026.",
+      "results_count": 5,
+      "stale_memories": 11,
+      "fresh_memories": 6,
+      "duration_ms": 4726.4,
+      "recalled_timestamps": [
+        {
+          "ts": "2026-02-22T00:00:00Z",
+          "score": 0.3595186355362451,
+          "text": "Cortex Systems relocated its headquarters to Austin, Texas, superseding the prio"
+        },
+        {
+          "ts": "2026-02-22T00:00:00Z",
+          "score": 0.2462561616671231,
+          "text": "Tariq Ibrahim, VP Engineering at Cortex Systems, confirmed strong interest in th"
+        },
+        {
+          "ts": "2025-08-13T00:00:00Z",
+          "score": 0.0023285559439761593,
+          "text": "Cortex Systems, headquartered in San Francisco, operates a leading streaming pla"
+        },
+        {
+          "ts": "2025-08-13T00:00:00Z",
+          "score": 0.0015976601137483765,
+          "text": "On August 13, 2025, Tariq Ibrahim, Vice President of Engineering at Cortex Syste"
+        },
+        {
+          "ts": "2025-08-13T00:00:00Z",
+          "score": 0.0013945950652009614,
+          "text": "Cortex Systems approved a budget of up to $250,000 annually for the new solution"
+        }
+      ],
+      "_timestamp": "2026-03-01T17:07:47.858280"
+    }
+  ]
+}

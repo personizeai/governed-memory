@@ -1,0 +1,39 @@
+Call with: Jennifer Hassan, VP of Engineering at CastPoint
+Date: February 04, 2026
+Duration: 25 min
+
+Key Points:
+- Jen Hassan, VP Eng, 2yrs @ CastPoint
+- Mfg co, ~100 emps (51-200 range)
+- Pains: no real-time analytics -> slow dec mking; scaling probs peak traffic
+- Stack: PHP/Laravel/DO/MySQL/Redis
+- She's pushing eval of our soln for realtime dash
+- Deal stage: Negotiation, $600k potl
+- Timeline: decision by 2026-11-25, low urgency
+- He mentioned budget freeze Q1, but they're def interstd
+- Pain w/ current: queries lag 10-15min peaks, kills ops
+- Wants POC on scaling + analytics
+- Competitor: they're on New Relic but lacks realtime drilldown
+- She ok'd intro to their ops lead next week
+- Urgency low bc post-EOQ planning
+- Tech fit good - Laravel hooks easy
+- She's got buyin from CEO on trial
+- They hit walls last Black Friday peak, lost 20% orders
+- No cust-facing realtime yet, manual reports suck
+- Deal val $600k ARR if lands
+- He said team size constraint, only 5 devs
+- Low urg - waiting on FY budget 11/25
+- Jen strong champion, but CFO gatekeep
+- Analytics gap kills mtgs w/ execs
+
+Action Items:
+- [ ] Send tailored POC demo (Laravel/Redis integ) by EOW - me
+- [ ] F/u call w/ Jen + ops lead next week - me
+- [ ] Quote $600k renewals pkg to Jen by Fri - me
+- [ ] Ping CFO intro req from Jen - her
+- [ ] Update stage Negotiation in CRM - me
+
+Notes:
+Jen solid contact, 2yrs in, knows pains inside out. CastPoint mfg, scaling kills em peaks (Black Friday eg), no realtime analytics = dec delays, manual MySQL dumps. Stack PHP/Laravel/DO/Redis/MySQL perf bottleneck. Low urg, timeline drags to Nov '26 post-budget. She's champ but he (CFO?) slow. Deal $600k Negotiation, POC key unlock.
+
+Talked thru demo flow, she lit up on realtime scaling sim. They lost rev last peak bc laggy queries. F/U next wk w/ her ops guy, get buyin. Urg low, EOQ budget lock. Tech meshes perfect, she's pushing internal. Keep momentum, quote soon. He mentioned dev constraints, only ~5 on eng team.

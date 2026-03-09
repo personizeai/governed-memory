@@ -1,0 +1,97 @@
+{
+  "sample_id": "transcript_001",
+  "content_type": "meeting_transcript",
+  "company": "TechFlow Inc",
+  "industry": "B2B SaaS",
+  "duration_minutes": 30,
+  "target_word_count": 2054,
+  "actual_word_count": 2422,
+  "expected_facts": [
+    {
+      "text": "They're dealing with security concerns with current architecture",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Denver",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with inconsistent messaging across sales team",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "TechFlow Inc is a B2B SaaS company with about 2759 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using legacy Java application maintained by one person",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 40% this fiscal year",
+      "type": "explicit"
+    },
+    {
+      "text": "Priya Fernandez has been at TechFlow Inc for 4 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Salesforce Einstein, ZoomInfo, Outreach",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q2",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 19 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Rust, Actix, AWS, PostgreSQL, NATS",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Product",
+    "company_name": "TechFlow Inc",
+    "company_size": "1000+",
+    "technology_stack": "Rust, Actix, AWS, PostgreSQL, NATS",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "inconsistent messaging across sales team",
+      "security concerns with current architecture",
+      "data silos between engineering and sales teams"
+    ],
+    "decision_timeline": "2026-06-21",
+    "competitors_mentioned": [
+      "Salesforce Einstein",
+      "ZoomInfo",
+      "Outreach"
+    ],
+    "decision_maker": false,
+    "next_steps": "Set up POC environment for Priya's team to evaluate",
+    "buying_process": "Standard procurement: demo, security review, legal review, sign-off from VP Finance",
+    "current_solution": "legacy Java application maintained by one person"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 3,
+    "duplicate_facts": 1
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.86,
+  "entity_id": "priya-techflow-inc",
+  "entity_email": "priya@techflow.io",
+  "entity_website": "https://techflow.io",
+  "contact_name": "Priya",
+  "record_id": "crm-priya-techflow-inc"
+}

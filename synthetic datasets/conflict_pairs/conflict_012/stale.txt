@@ -1,0 +1,17 @@
+**Call Note: Sales Meeting**  
+**Date:** December 12, 2025  
+**Contact:** Sarah Ibrahim, VP of Engineering, Meridian Labs (Manufacturing)  
+**Duration:** 45 min Zoom call  
+
+Intro call with Sarah. Meridian Labs identified slow deployment cycles as their primary pain point—current Jenkins-based pipelines take 3-5 weeks per release, bottlenecking production line updates and new feature rollouts amid rising demand for custom automation.  
+
+Discussed their stack: Heavy on legacy on-prem servers with Oracle DBs; no containerization, leading to manual testing overhead. Sarah noted 20% downtime from failed deploys last Q. Expressed strong interest in our cloud-native CI/CD platform for sub-week cycles and auto-scaling.  
+
+Shared ROI calc: Potential 60-70% time savings based on similar mfg clients like Apex Forge. Sarah confirmed budget allocation in Q1 2026 (~$250K initial).  
+
+**Next Steps:**  
+- Schedule product demo for Dec 18 (incl. CTO).  
+- Send Meridian-specific POC proposal by EOD tomorrow.  
+- Follow up Fri on procurement intro.  
+
+High intent; Sarah rated us 8/10 fit. Opportunity stage: Qualified.

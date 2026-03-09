@@ -1,0 +1,68 @@
+{
+  "sample_id": "chat_029",
+  "content_type": "chat_log",
+  "company": "MetalGrid",
+  "industry": "Manufacturing",
+  "message_count_target": 57,
+  "actual_word_count": 667,
+  "expected_facts": [
+    {
+      "text": "Their tech stack includes Scala, Spark, Databricks, Snowflake, Airflow",
+      "type": "explicit"
+    },
+    {
+      "text": "MetalGrid is a Manufacturing company with about 41 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $50,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using Microsoft Dynamics with Power Automate",
+      "type": "explicit"
+    },
+    {
+      "text": "Raj Williams has been at MetalGrid for 8 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with technical debt from rapid early growth",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with customer churn from slow support response times",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Chief Product Officer",
+    "company_name": "MetalGrid",
+    "company_size": "11-50",
+    "technology_stack": "Scala, Spark, Databricks, Snowflake, Airflow",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "technical debt from rapid early growth",
+      "customer churn from slow support response times"
+    ],
+    "deal_value": 50000,
+    "decision_timeline": "2026-11-09",
+    "decision_maker": false,
+    "next_steps": "Raj to present internally and circle back next week",
+    "buying_process": "IT committee evaluates quarterly, next window is Q3 2026",
+    "current_solution": "Microsoft Dynamics with Power Automate",
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 5,
+    "temporal_issues": 3,
+    "duplicate_facts": 2
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@tariq.a"
+  ],
+  "property_coverage": 0.93
+}

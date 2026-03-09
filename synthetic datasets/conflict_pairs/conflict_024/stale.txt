@@ -1,0 +1,22 @@
+**Sales Call Note**  
+**Date:** November 07, 2025  
+**Contact:** James Thompson, VP Engineering, Cirrus Cloud (B2B SaaS)  
+**Duration:** 45 minutes via Zoom  
+**Attendees:** Me, James Thompson  
+
+Discussed potential fit for our cloud-native SaaS platform to enhance their infrastructure orchestration. Cirrus Cloud is currently on legacy on-prem setup with CompetitorX, struggling with 30% downtime during Q3 spikes—attributed to poor auto-scaling.  
+
+Demoed key features: real-time monitoring dashboard and AI-driven resource optimization, which align with their goal to cut ops costs by 20%. James confirmed team of 18 engineers but flagged skills gap in Kubernetes.  
+
+**Key Insight:** Cirrus Cloud described the initiative as low priority, prioritizing ERP migration through FY26. Budget for new tools capped at $150K this quarter; no immediate RFP.  
+
+James open to POC if we prove 15% faster deployment vs. current stack. Mild enthusiasm but deferred decision to Q1.  
+
+**Next Steps:**  
+- Send tailored ROI calculator and case study by 11/10.  
+- Schedule 30-min tech deep-dive with their lead architect for Dec 5 (pending approval).  
+- Follow up email 11/21 to check priority shift.  
+
+**Qualification Update:** Low priority—nurture. Opp stage: Discovery. Score: 3/10.  
+
+(Word count: 198)

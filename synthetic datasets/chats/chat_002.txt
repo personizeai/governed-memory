@@ -1,0 +1,107 @@
+[10:15] @alex.m: Quick update from today's call with Daniel at LedgerPoint. They're in negotiation stage, but security concerns with their current architecture are killing them. @here lmk thoughts
+
+[👍 from @sarah.k]
+
+[10:17] @sarah.k: Got it Alex. Daniel's been there 6 years, right? Knows the pain points inside out.
+
+[10:18] @mike.r: Yeah, Daniel Fernandez, Director of Analytics. They're on Salesforce with custom Apex triggers now. tbh it's a mess.
+
+  ↳ [10:19] @priya.b: Apex triggers? Ngl that explains the security issues. Makes sense.
+
+[10:20] @alex.m: Exactly. No real-time analytics for decision making either. They're evaluating Outreach and Microsoft Copilot too.
+
+[10:21] @sarah.k: Outreach? imo we're better on real-time stuff. fwiw their stack is Go, Kubernetes, AWS, DynamoDB, gRPC.
+
+[👍 from @mike.r]
+
+[10:22] @mike.r: Shared their tech deets last week. Matches what you said Sarah.
+
+[shared link: LedgerPoint pricing page]
+
+[10:23] @priya.b: Pricing page looks solid. But they're 51-200 size, so budget might be tight.
+
+[10:24] @alex.m: Yup, two-phase buying: technical POC first, then business case to leadership. Daniel's not the decision maker tho.
+
+[10:25] @sarah.k: She mentioned timeline? Oct 5th 2026?
+
+[10:26] @mike.r: He said end of Q4 next year basically. Last Friday they poked at Copilot demo.
+
+  ↳ [10:27] @alex.m: Yeah that was Daniel. POC next sprint?
+
+[10:28] @priya.b: Security with current arch is huge. They can't scale decisions rn.
+
+[10:29] @sarah.k: Agreed. No real-time analytics hurts. We've seen this with SFDC shops.
+
+[10:30] @mike.r: Daniel's 6 years in, he gets it. Repeated the Apex pain twice on call.
+
+[👍 from @priya.b]
+
+[10:31] @alex.m: Next steps: send pricing proposal to Daniel by Friday. Thoughts on tweaks?
+
+[10:32] @sarah.k: Got it. Make it POC-focused?
+
+  ↳ [10:33] @mike.r:  ↳ Yup, highlight gRPC integration. Their stack screams for it.
+
+[10:34] @priya.b: They said "we" need better security, but who is we? Leadership or eng?
+
+[10:35] @alex.m: Unclear tbh. Daniel was vague.
+
+[10:36] @sarah.k: Outreach eval is tomorrow. Might sway them.
+
+[10:37] @mike.r: Copilot too. But our real-time edge wins imo.
+
+[10:38] @priya.b: Stack again: Go, K8s, AWS, Dynamo. We integrate seamless.
+
+[10:39] @alex.m: Makes sense. Daniel not decision maker, so POC to prove to bosses.
+
+[👍 from @sarah.k]
+
+[10:40] @sarah.k: He said they're not thrilled with current setup. Who is he?
+
+[10:41] @mike.r: Daniel obv. Security concerns top pain.
+
+[10:42] @priya.b: Repeat: no real-time analytics for decisions. Hurts daily.
+
+[10:43] @alex.m: @channel let's align on proposal. Friday deadline.
+
+[10:44] @sarah.k: On it. Add competitor comparison?
+
+  ↳ [10:45] @mike.r:  ↳ Outreach and Copilot side-by-side. Yes.
+
+[10:46] @priya.b: Timeline 2026-10-05 firm? Or flexible?
+
+[10:47] @alex.m: They said aiming for it. Last Friday call set POC expectation.
+
+[10:48] @sarah.k: Cool. Daniel's tenure means he pushes internally.
+
+[10:49] @mike.r: 51-200 employees, enterprise feel but agile.
+
+[👍 from @alex.m]
+
+[10:50] @priya.b: She wants demo next week? Unclear who she is.
+
+[10:51] @alex.m: Prob eng lead Daniel mentioned. Got it.
+
+[10:52] @sarah.k: Proposal draft by EOD tomorrow?
+
+[10:53] @mike.r: Works. Security arch fix is our hook.
+
+[10:54] @priya.b: And real-time analytics. Repeated pain.
+
+[10:55] @alex.m: Perfect summary. Daniel gets proposal Friday.
+
+[👍 from @sarah.k][👍 from @mike.r]
+
+[10:56] @sarah.k: Their Salesforce Apex is brittle af.
+
+[10:57] @mike.r: Yeah, custom triggers failing under load.
+
+[10:58] @priya.b: Kubernetes scale helps, but analytics lag.
+
+[10:59] @alex.m: Next sprint POC kicks it off.
+
+[11:00] @sarah.k: Agreed. lmk if changes needed.
+
+[11:01] @mike.r: All good here.
+
+[👍 from @priya.b]

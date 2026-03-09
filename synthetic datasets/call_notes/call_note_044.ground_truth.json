@@ -1,0 +1,47 @@
+{
+  "sample_id": "call_note_044",
+  "content_type": "call_notes",
+  "company": "ChannelBridge",
+  "industry": "E-commerce",
+  "duration_minutes": 20,
+  "target_word_count": 550,
+  "actual_word_count": 289,
+  "expected_facts": [
+    {
+      "text": "Nadia Park has been at ChannelBridge for 7 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with scaling issues during peak traffic periods",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with compliance audit failures on data handling",
+      "type": "explicit"
+    },
+    {
+      "text": "ChannelBridge is a E-commerce company with about 565 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Python, Django, AWS, PostgreSQL, Redis",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "company_name": "ChannelBridge",
+    "company_size": "201-1000",
+    "technology_stack": "Python, Django, AWS, PostgreSQL, Redis",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "scaling issues during peak traffic periods",
+      "compliance audit failures on data handling"
+    ],
+    "decision_maker": false
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2
+  },
+  "property_coverage": 0.43
+}

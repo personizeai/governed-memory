@@ -1,0 +1,19 @@
+{
+  "entity_index": 86,
+  "name": "Anita Johnson",
+  "company": "Orchid Software",
+  "industry": "Logistics",
+  "email": "anita.johnson@orchidsoftware.com",
+  "title": "VP of Marketing",
+  "facts": [
+    "Anita Johnson is VP of Marketing at Orchid Software",
+    "Orchid Software is a Logistics company with 1572 employees",
+    "Tech stack: Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+    "Deal value: $650,000",
+    "Pain points: slow deployment cycles taking 2-3 weeks per release; data silos between engineering and sales teams; fragmented tooling across departments",
+    "Competitors: Clari",
+    "Decision timeline: Q4 2026",
+    "Annual revenue: ~$239M"
+  ],
+  "actual_word_count": 330
+}

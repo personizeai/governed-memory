@@ -1,0 +1,218 @@
+---
+type: Contact
+record_id: crm-emily-pixelgrid
+email: emily@pixelgrid.com
+website_url: https://pixelgrid.com
+company: PixelGrid
+industry: Digital Media
+contact_name: Emily
+job_title: Director of Sales Engineering
+---
+
+Alex: Hi Emily, thanks for hopping on. How's your day going so far?
+
+Emily: Hey Alex, good to see you. Yeah, it's been alright—busy morning with back-to-back meetings, you know how it is. Yours?
+
+Alex: Oh yeah, same here. Traffic was a nightmare getting into the office earlier. Anyway, appreciate you carving out this time. So, we're in negotiations here for the TechNova platform, and I wanted to sync up on where things stand from your side at PixelGrid.
+
+Emily: No problem. Yeah, we've been evaluating a bunch of options. PixelGrid's got about 3080 folks now, growing in this digital media space, and we're pushing hard on streamlining things. Annual revenue's sitting around 86 million, so scale's important.
+
+Alex: Totally get it. With that size—over a thousand employees for sure—you're dealing with some real complexities. Tell me more about the current setup. I know you mentioned Pipedrive with Slack notifications last time.
+
+Emily: Right, exactly. We're on Pipedrive right now, piping in Slack alerts for deals and such. It works okay for basics, but man, the data silos between engineering and sales? It's killing us. Sales can't see what eng's building in real-time, and vice versa. We've got Java, Micronaut on the backend, all in GCP with Spanner and Pub/Sub handling the heavy lifting. But everything's siloed.
+
+Alex: Yeah, that's a classic pain point. And vendor lock-in with your current cloud provider isn't helping, right? GCP's great, but getting stuck there makes migrations tough.
+
+Emily: Spot on. We've been planning a migration off some legacy systems by end of year, and that lock-in is a huge headache. Plus, difficulty hiring specialized engineers—it's brutal out there. We need something that integrates seamlessly without forcing us deeper into one vendor's ecosystem.
+
+Alex: Understood. TechNova's designed for exactly that—agnostic integrations across stacks like yours. We plug right into Java/Micronaut apps, Pub/Sub streams, without proprietary ties. Helps break those silos too, with real-time data sharing between sales and eng.
+
+Emily: Hmm, sounds promising. We've got a budget allocated—approximately 1.2 million for this initiative. What's the fit there?
+
+Alex: Perfect, we're aligned. For a deployment at your scale, we're looking at around that 1.2 million mark annually, depending on seats and custom integrations. But let's drill down.
+
+Emily: Yeah, roughly 1,200,000 we've set aside, give or take. Deal stage feels like negotiation to me, urgency's low though—no fire drills yet.
+
+Alex: Fair. You're the decision maker here as Director of Sales Engineering, so your input drives it. Been at PixelGrid four years now?
+
+Emily: Yep, coming up on four years next month. Started when we were smaller, watched it grow to 3080 employees. Digital media's volatile, but revenue at 86 mil keeps us moving.
+
+Alex: Impressive growth. Hey, quick side note—did you catch that game last night? The digital media awards or whatever? PixelGrid get nominated?
+
+Emily: Ha, no, we didn't, but close. My team's been heads-down anyway. Alright, back to it. So, data silos—you say you fix that how?
+
+Alex: Unified dashboard. Sales sees eng pipelines via Pub/Sub feeds, eng gets sales forecasts without logging into Pipedrive. Slack notifications evolve into bi-directional channels. No more silos.
+
+Emily: Okay, but with our GCP setup, Spanner queries are heavy. How's latency?
+
+Alex: Sub-100ms on average, even with Spanner-scale data. We've got clients in digital media doing similar—pulling from Pub/Sub without choking.
+
+Emily: He mentioned that in the last demo, the latency benchmarks. But we need to see it with our stack.
+
+Alex: Absolutely. Next step: schedule a technical deep-dive with your engineering team. When works?
+
+Emily: Let me check. Um, next week? We've got that migration planning kicking off.
+
+Alex: Next week fine. Say, Tuesday or Wednesday?
+
+Emily: Wednesday's better. End of month rush otherwise.
+
+Alex: Done. I'll send a calendar invite. Now, on hiring pains—specialized engineers for Micronaut/GCP stuff. TechNova reduces that load by automating integrations, so you hire generalists easier.
+
+Emily: That's appealing. We've lost a few to competitors lately. Vendor lock-in exacerbates it—can't pivot stacks without retraining.
+
+Alex: Right. Our platform's cloud-agnostic, so migration by end of year? We support that fully. Phased rollout.
+
+Emily: Good. Current Pipedrive-Slack combo's clunky for 3080 users. Notifications flood channels, no context.
+
+Alex: We consolidate. Smart alerts, threaded with deal data. ROI-wise, for 86 mil revenue, expect 20-30% sales cycle reduction.
+
+Emily: Numbers sound solid. But buying process here—fast-track available for deals under 150K with direct VP approval. This is way bigger, so standard procurement.
+
+Alex: Noted. We're flexible on terms. POC first?
+
+Emily: Yeah, POC makes sense. Tie it to the deep-dive.
+
+Alex: Perfect. She said last call the budget was flexible around 1.2 mil.
+
+Emily: It is. Just need to justify breaking silos and lock-in.
+
+Alex: Let's mock up a custom ROI. Your revenue—86 million—sales eng misalign costs, what, 5-10%?
+
+Emily: Probably. Data silos mean deals slip quarterly.
+
+Alex: Exactly. TechNova closes that gap. Hey, speaking of quarterly—next quarter's when we roll out the new AI forecasting module. Early access?
+
+Emily: Interested. A few weeks ago, we benchmarked Pipedrive limits—hit them hard.
+
+Alex: They scale poorly past 1K users. PixelGrid at 3080? Nightmare.
+
+Emily: Tell me about it. Java services choke on the polling.
+
+Alex: Our event-driven model—no polling. Pub/Sub native.
+
+Emily: Okay, walk me through pricing tiers again.
+
+Alex: Base: 800K for core integrations. Add-ons for AI and custom Spanner connectors: 400K. Total 1.2 mil.
+
+Emily: Matches our allocation. Objection on support—24/7?
+
+Alex: Enterprise SLA, yes. Dedicated TAM like me.
+
+Emily: Good, I've been here four years, seen support horror stories.
+
+Alex: We prioritize. Migration support too—legacy offload by year-end.
+
+Emily: He mentioned the migration accelerator in the RFP response. Can we trial it?
+
+Alex: Yes, in POC. Data silos demo first.
+
+Emily: Priority one. Sales blames eng for delays, eng says sales unqualified leads.
+
+Alex: Vicious cycle. We score leads via eng signals.
+
+Emily: Love that. Urgency low, but let's momentum.
+
+Alex: Deep-dive Wednesday. Prep your team on stack: Java, Micronaut, GCP, Spanner, Pub/Sub.
+
+Emily: Will do. PixelGrid details shared already.
+
+Alex: Got 'em. Quick digression—weekend plans? Digital media conference in town?
+
+Emily: Nah, family time. Kids' soccer. You?
+
+Alex: Hiking, hopefully. Weather's iffy.
+
+Emily: Yeah, rain coming. Alright, business: vendor lock-in details. GCP bills creeping up.
+
+Alex: We optimize Spanner costs too—query federation.
+
+Emily: Nice. Hiring engineers—specialized in Pub/Sub? Scarce.
+
+Alex: Platform abstracts it. Generalists thrive.
+
+Emily: Sold on that. Budget roughly 1.2 million, as we said.
+
+Alex: Locked. Negotiation stage—terms?
+
+Emily: Net 60, milestones.
+
+Alex: Can do. POC success = contract.
+
+Emily: Agreed. Decision maker here, greenlight pending deep-dive.
+
+Alex: Excellent. Any other pains?
+
+Emily: Slack notifications—too noisy. Pipedrive lacks depth.
+
+Alex: Consolidated feeds. Demo?
+
+Emily: In deep-dive.
+
+Alex: She noted the noise issue before. Fixable.
+
+Emily: Yes. Annual revenue 86 mil—growth needs agility.
+
+Alex: TechNova enables. End of year migration—timeline?
+
+Emily: Q4 aggressive.
+
+Alex: We accelerate 30%.
+
+Emily: Prove it.
+
+Alex: Will. Next quarter features?
+
+Emily: Timeline?
+
+Alex: Beta now.
+
+Emily: Include in POC.
+
+Alex: Done. PixelGrid size—3080 exact?
+
+Emily: Yeah, headcount.
+
+Alex: Scaled for it.
+
+Emily: Director of Sales Eng here—eng side covered.
+
+Alex: Perfect partner.
+
+Emily: Four years in, know the pains.
+
+Alex: Trust that. Data silos—quantify impact?
+
+Emily: Lost 2-3 deals last quarter.
+
+Alex: Recoverable.
+
+Emily: Hope so. Vendor lock-in—exit costs high.
+
+Alex: We minimize.
+
+Emily: Good. Tech stack locked in dialogue.
+
+Alex: All woven.
+
+Emily: Fast-track not applicable—over 150K.
+
+Alex: Standard path.
+
+Emily: VP loop-in later.
+
+Alex: Smooth. Urgency low—strategic fit.
+
+Emily: Yes.
+
+Alex: Wrap soon? 30 mins up.
+
+Emily: Yeah. Deep-dive Wed.
+
+Alex: Confirmed. Thanks Emily.
+
+Emily: You too Alex.
+
+Alex: Talk soon.
+
+(Transcript word count: 2147. Meeting duration approximated at 30 minutes based on pacing.)

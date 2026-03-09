@@ -1,0 +1,157 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Maya Petrov <maya.petrov@syncwave.com>  
+Subject: Optimizing CRM workflows and infrastructure costs at SyncWave  
+Date: Fri, Feb 15, 2026, 10:32 AM PST  
+
+Hi Maya,  
+
+I hope this email finds you well. I'm Alex Morgan from Technova, and I noticed SyncWave—a growing B2B SaaS company with around 22 employees—is leveraging Pipedrive with Slack notifications for your sales ops. As Director of Analytics, you've been at SyncWave for 2 years now, steering data-driven decisions amid some tough challenges like high infrastructure costs eating into margins and data silos between engineering and sales teams.  
+
+Our platform at Technova specializes in seamless integrations for stacks like Python, FastAPI, AWS Lambda, DynamoDB, and SQS, helping teams like yours cut those infra expenses by up to 40% while unifying data flows. With your planned migration off legacy systems by the end of the year and a security audit looming in Q3, we'd love to explore how we can support scaling during peak traffic periods without the hiring headaches for specialized engineers.  
+
+Are you open to a quick 15-minute chat next week to discuss?  
+
+Best regards,  
+Alex Morgan  
+Sales Representative  
+Technova  
++1 (555) 123-4567  
+alex.morgan@technova.io  
+
+---
+
+From: Maya Petrov <maya.petrov@syncwave.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Optimizing CRM workflows and infrastructure costs at SyncWave  
+Date: Sat, Feb 16, 2026, 9:15 AM PST  
+
+Hi Alex,  
+
+Thanks for reaching out. We're indeed dealing with those high infrastructure costs on AWS Lambda and DynamoDB, plus it's tough hiring specialized engineers these days. Pipedrive with Slack works okay, but the data silos are frustrating during peak traffic.  
+
+How does Technova specifically handle SQS queue management to avoid scaling issues? And what's the typical timeline for a POC in a two-phase buying process like ours—technical validation first, then business case to leadership? Our decision timeline is around October 11th.  
+
+Best,  
+Maya Petrov  
+Director of Analytics  
+SyncWave  
++1 (555) 987-6543  
+maya.petrov@syncwave.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Maya Petrov <maya.petrov@syncwave.com>  
+Subject: Re: Optimizing CRM workflows and infrastructure costs at SyncWave  
+Date: Mon, Feb 18, 2026, 2:45 PM PST  
+
+Hi Maya,  
+
+Great questions—thanks for the quick reply.  
+
+> We're indeed dealing with those high infrastructure costs on AWS Lambda and DynamoDB, plus it's tough hiring specialized engineers these days. Pipedrive with Slack works okay, but the data silos are frustrating during peak traffic.  
+
+Technova's agentless integration layer sits directly atop your existing Python/FastAPI services, auto-scaling SQS queues with predictive bursting that slashes Lambda invocation costs by optimizing cold starts—customers see 35-45% savings immediately. No need for extra engineers; it's plug-and-play with your stack, and it breaks down those eng-sales silos by syncing Pipedrive data into real-time dashboards.  
+
+For the POC, we can spin one up in under a week: technical validation via a sandboxed env mirroring your DynamoDB/SQS setup, followed by a business case review. Perfect for your Q3 security audit prep and end-of-year legacy migration. When works for a call next week?  
+
+Cheers,  
+Alex Morgan  
+Sales Representative  
+Technova  
++1 (555) 123-4567  
+alex.morgan@technova.io  
+
+---
+
+From: Maya Petrov <maya.petrov@syncwave.com>  
+To: Aisha Lee <aisha.lee@syncwave.com>  
+CC: Alex Morgan <alex.morgan@technova.io>  
+Subject: Fwd: Re: Optimizing CRM workflows and infrastructure costs at SyncWave  
+Date: Tue, Feb 19, 2026, 11:20 AM PST  
+
+Hi Aisha,  
+
+Forwarding this thread from Technova—thoughts on their SQS/Lambda approach? We're eyeing options for the migration and audit.  
+
+Thanks,  
+Maya  
+
+---------- Forwarded message ----------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Mon, Feb 18, 2026, 2:45 PM PST  
+Subject: Re: Optimizing CRM workflows and infrastructure costs at SyncWave  
+To: Maya Petrov <maya.petrov@syncwave.com>  
+
+Hi Maya,  
+
+Great questions—thanks for the quick reply.  
+
+> We're indeed dealing with those high infrastructure costs on AWS Lambda and DynamoDB, plus it's tough hiring specialized engineers these days. Pipedrive with Slack works okay, but the data silos are frustrating during peak traffic.  
+
+Technova's agentless integration layer sits directly atop your existing Python/FastAPI services, auto-scaling SQS queues with predictive bursting that slashes Lambda invocation costs by optimizing cold starts—customers see 35-45% savings immediately. No need for extra engineers; it's plug-and-play with your stack, and it breaks down those eng-sales silos by syncing Pipedrive data into real-time dashboards.  
+
+For the POC, we can spin one up in under a week: technical validation via a sandboxed env mirroring your DynamoDB/SQS setup, followed by a business case review. Perfect for your Q3 security audit prep and end-of-year legacy migration. When works for a call next week?  
+
+Cheers,  
+Alex Morgan  
+Sales Representative  
+Technova  
++1 (555) 123-4567  
+alex.morgan@technova.io  
+
+Maya Petrov  
+Director of Analytics  
+SyncWave  
++1 (555) 987-6543  
+maya.petrov@syncwave.com  
+
+---
+
+From: Aisha Lee <aisha.lee@syncwave.com>  
+To: Maya Petrov <maya.petrov@syncwave.com>, Alex Morgan <alex.morgan@technova.io>  
+CC:  
+Subject: Re: Fwd: Re: Optimizing CRM workflows and infrastructure costs at SyncWave  
+Date: Wed, Feb 20, 2026, 4:10 PM PST  
+
+Hi Alex and Maya,  
+
+She mentioned the predictive bursting for SQS—how does it integrate with our DynamoDB streams without introducing latency spikes? We see scaling issues at peak times, and they worry it might affect FastAPI endpoints.  
+
+Also, for the security audit end of quarter, does it support custom IAM roles or just default policies?  
+
+Thanks,  
+Aisha Lee  
+Solutions Architect  
+SyncWave  
++1 (555) 456-7890  
+aisha.lee@syncwave.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Aisha Lee <aisha.lee@syncwave.com>, Maya Petrov <maya.petrov@syncwave.com>  
+CC:  
+Subject: Re: Fwd: Re: Optimizing CRM workflows and infrastructure costs at SyncWave  
+Date: Thu, Feb 21, 2026, 9:55 AM PST  
+
+Hi Aisha and Maya,  
+
+Thanks for looping in, Aisha—great to have your technical perspective.  
+
+> She mentioned the predictive bursting for SQS—how does it integrate with our DynamoDB streams without introducing latency spikes? We see scaling issues at peak times, and they worry it might affect FastAPI endpoints.  
+
+Our integration uses asynchronous stream processors that fan out DynamoDB changes via SQS without blocking your FastAPI routes—latency stays under 50ms p99 even at 10x peaks, as it provisions Lambdas preemptively based on historical patterns from your own metrics. No rewrites needed; it hooks into existing event sources. They’ve seen this resolve hiring gaps for ops engineers too.  
+
+> Also, for the security audit end of quarter, does it support custom IAM roles or just default policies?  
+
+Fully supports granular custom IAM roles, including least-privilege for your audit— we provide SOC2-compliant templates tailored to SyncWave's setup, and it unifies Pipedrive/Slack data without silos, aiding that October 11th decision timeline.  
+
+She could set up a POC next week to test against your stack? Let me know availability.  
+
+Best,  
+Alex Morgan  
+Sales Representative  
+Technova  
++1 (555) 123-4567  
+alex.morgan@technova.io

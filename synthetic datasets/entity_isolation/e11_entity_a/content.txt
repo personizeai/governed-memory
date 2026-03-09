@@ -1,0 +1,28 @@
+Meeting Transcript — Discovery Call with TechFlow Inc
+Date: February 3, 2026 | Duration: 45 minutes
+
+Alex: Thanks for taking the time today, Sarah. I know you're busy at TechFlow.
+
+Sarah: Of course, Alex. I've been looking forward to this. We're really feeling the pain with our current setup.
+
+Alex: Tell me about what's going on at TechFlow right now.
+
+Sarah: So TechFlow is a B2B SaaS company — we have about 280 employees now. I've been VP of Engineering here for 3 years. Our main product is an analytics dashboard for mid-market companies. The engineering team is 85 people across 12 squads.
+
+Alex: That's a significant engineering org. What's your tech stack look like?
+
+Sarah: We're primarily Java and Spring Boot on the backend, Oracle for our main database, all running on AWS. But we're planning to migrate from Oracle to PostgreSQL — that's a big initiative for us. I report directly to our CEO, Mark Thompson, and he's very supportive of modernizing our infrastructure.
+
+Alex: What's driving the migration?
+
+Sarah: Honestly, our deployment velocity is terrible. Releases take about 3 weeks end to end. It's killing our ability to compete. Before TechFlow, I was at Stripe for 5 years where we deployed multiple times a day. The contrast is stark.
+
+Alex: What kind of budget are you working with?
+
+Sarah: Our annual IT budget is $2M, and we've carved out about $450K specifically for this modernization initiative. We're targeting Q2 2026 to start the migration. We're evaluating 3 vendors right now, including you.
+
+Alex: That's helpful context. Anything else I should know about TechFlow?
+
+Sarah: We raised a $45M Series C led by Sequoia back in September 2024. Total funding is about $68M across 3 rounds. Revenue is around $68M annually. We also have a security audit coming up in Q3 that requires SOC 2 compliance, which is another driver for this modernization.
+
+Alex: Great. Let me tell you about how our governed memory approach could help...

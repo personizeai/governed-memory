@@ -1,0 +1,19 @@
+**Sales Call Note**  
+**Date:** November 26, 2025  
+**Contact:** Anita Volkov, VP Engineering, Drift Analytics (Digital Media)  
+**Duration:** 45 min | **Attendees:** Anita Volkov, Eng Lead Alex Kim, [My Name]  
+
+Discussed Drift's digital ad analytics needs amid 30% YoY traffic surge. Drift Analytics uses a custom-built CRM on Rails, handling 500K daily events but struggling with query latency >2s during peaks.  
+
+Anita highlighted pain points: fragmented data from Google Ads/FB and internal tools; need better ML-driven audience segmentation. Demoed our platform's Rails-compatible API integration—impressed with sub-500ms queries and no-code dashboards.  
+
+Expressed strong interest in POC for their 10-engineer team. Budget: $150K pilot targeted Q1 2026, post-year-end review. Competitive: Evaluated Snowflake but preferred our media-specific features.  
+
+**Next Steps:**  
+- Send tailored POC scope + Rails migration guide by 12/2.  
+- Book tech deep-dive w/ Alex: 12/10, 2pm ET.  
+- Follow up on decision-makers intro (CRO).  
+
+**Qualification:** High—technical fit confirmed, urgency from Black Friday scale-up.  
+
+(198 words)

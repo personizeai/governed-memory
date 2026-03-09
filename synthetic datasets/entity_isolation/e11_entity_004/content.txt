@@ -1,0 +1,16 @@
+### Account Overview
+Meridian Labs is an E-commerce company with 48 employees and approximately $126M in annual revenue. Kevin Bhandari serves as VP of Sales, making him the primary point of contact for this prospect. The company specializes in online retail solutions but faces challenges typical of high-growth e-commerce firms, including operational inefficiencies that impact customer retention and scalability.
+
+### Key Details
+Meridian Labs' tech stack includes TypeScript, React, Node.js, GCP, and MongoDB, positioning them as a modern, cloud-native operation reliant on these tools for frontend, backend, and database management. Key pain points revolve around customer churn driven by slow support response times and scaling issues during peak traffic periods. These bottlenecks are eroding their competitive edge in the fast-paced E-commerce space. Competitors such as Gong are likely influencing their evaluation of sales enablement and customer success tools.
+
+### Deal Status
+This opportunity represents a $250,000 deal with a decision timeline targeted for Q2 2026. Kevin Bhandari has expressed strong interest in solutions that address their support and scaling pain points, aligning our platform's capabilities with their Node.js and GCP environment. The deal is in early discovery, with initial conversations confirming fit against Gong alternatives. No major roadblocks identified yet, but revenue scale and employee count suggest budget approval will involve cross-functional buy-in.
+
+### Next Steps
+- Schedule a 30-minute demo with Kevin Bhandari next week to showcase integration with React, Node.js, and MongoDB.
+- Follow up on pain points by sending case studies on churn reduction and peak traffic scaling via GCP.
+- Coordinate internal review of $250,000 pricing and Q2 2026 timeline to prepare customized proposal.
+- Monitor for competitor Gong updates in their pipeline.
+
+(Word count: 348)

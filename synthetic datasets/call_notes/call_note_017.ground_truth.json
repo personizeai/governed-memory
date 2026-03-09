@@ -1,0 +1,61 @@
+{
+  "sample_id": "call_note_017",
+  "content_type": "call_notes",
+  "company": "CloudNova",
+  "industry": "B2B SaaS",
+  "duration_minutes": 15,
+  "target_word_count": 683,
+  "actual_word_count": 375,
+  "expected_facts": [
+    {
+      "text": "They're dealing with poor developer experience slowing feature velocity",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Java, Spring Boot, Azure, Oracle, Kafka",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with poor visibility into pipeline health",
+      "type": "explicit"
+    },
+    {
+      "text": "CloudNova is a B2B SaaS company with about 664 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Michael Reyes has been at CloudNova for 2 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating custom internal tool",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $1,200,000",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "company_name": "CloudNova",
+    "company_size": "201-1000",
+    "technology_stack": "Java, Spring Boot, Azure, Oracle, Kafka",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "poor developer experience slowing feature velocity",
+      "poor visibility into pipeline health"
+    ],
+    "deal_value": 1200000,
+    "decision_timeline": "2026-06-21",
+    "competitors_mentioned": [
+      "custom internal tool"
+    ],
+    "decision_maker": true,
+    "next_steps": "Set up POC environment for Michael's team to evaluate"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 1
+  },
+  "property_coverage": 0.71
+}

@@ -1,0 +1,49 @@
+Call with: Omar Johnson, Head of Data at VaultEdge
+Date: February 28, 2026
+Duration: 15 min
+
+Key Points:
+- Fintech, ~792 emp (201-1000 range)
+- Omar @ VaultEdge 5 yrs
+- Reports dir to CEO
+- Eval'ing Gong, Chorus.ai, existing CRM workflows
+- Likes our edge on conv AI analytics
+- Tech stack: Java, Micronaut, GCP, Spanner, Pub/Sub
+- Matches our GCP-native well
+- Budget alloc ~$120k
+- Deal stage: Negotiation
+- Deal val: 120000
+- Timeline: aim 2026-10-21 close
+- Urgency: High — he's pushing hard
+- Buying proc: 2-phase — tech POC first, then biz case to leadership
+- POC scope: ingest their Pub/Sub feeds, Spanner queries
+- Pain: curr CRM wf miss conv insights, Gong too salesy
+- Chorus.ai eval stalled on GCP integ
+- He wants custom demo w/ VaultEdge data
+- Def decision maker (DM: True)
+- Mentioned CEO inquiring re: ROI fast
+- Our pricing fits budget sweet spot
+- Compet lag: Gong setup heavy, Chorus buggy on Java stacks
+- High buy-in, but needs POC prove scale
+- Qs on our Spanner latency handling — answered pos
+- He noted their Micronaut microsvcs — we align
+- Pushback none, enthusiastic
+- Next: POC kickoff
+- Deal val locked $120k annual
+- Urgency from Q2 goals? He's rushing
+- Leadership rev after POC success
+- Embed our tool in their GCP flow seamless
+- He loves no-code conv tagging vs comps
+- 15min flew — cut short by his mtg
+- Strong signals all around
+
+Action Items:
+- [ ] Send POC guide + Spanner integ docs (me, by EOD)
+- [ ] Sch tech POC call next wk w/ their eng (me)
+- [ ] F/U on budget approval status (Omar)
+- [ ] Loop sales eng re: Micronaut compat test (me)
+
+Notes:
+Omar super engaged, 5yr vet here reports straight to CEO so he greenlights fast. High urgency — mentioned comp evals dragging (Gong integ hell, Chorus.ai flaky), wants our POC to blow past. Tech stack perfect match Java/Micronaut/GCP/Spanner/PubSub, he'll provide sample data next. He's def the DM, pushing internal for 2-phase buy: tech validate first then biz case up. Budget $120k set, deal in negos aiming Oct 21 close. Quick call but solid — he said "this feels right" vs others.
+
+He's excited on our diff vs CRM wf hacks, but noted boss (CEO?) wants proof by EOQ. Vague on exact Q goals but high prio. Fintech scale ~800 emp strains curr tools, our conv AI fills gap. F/U next wk critical to lock timeline. No red flags, just needs that POC win. Deal val holds at 120k, stage Negotiation locked.

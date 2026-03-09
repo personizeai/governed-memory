@@ -1,0 +1,45 @@
+# ContentHQ — Account Overview
+
+## Company Background
+ContentHQ is a dynamic digital media company specializing in content creation, distribution, and analytics platforms for publishers and brands worldwide. With approximately 440 employees—falling squarely in the 201-1000 company size range—the organization operates primarily from its main office in London, UK, with satellite teams in New York and Singapore. Founded in 2015 by a group of former BBC executives frustrated with legacy content management systems, ContentHQ quickly pivoted to a cloud-native SaaS model, emphasizing real-time personalization and AI-driven recommendations to help media outlets monetize their audiences more effectively. The company has grown steadily through acquisitions of smaller analytics startups, but faced a setback last quarter when they lost a major customer due to protracted onboarding issues that exposed gaps in their internal CRM and sales enablement tools. This incident has heightened their focus on seamless integration solutions. Additionally, a recent board meeting last month prompted a strategic shift in priorities, moving away from expansive global expansion toward optimizing core operations and technology infrastructure to regain momentum.
+
+## Key Contacts
+| Name | Title | Role in Deal |
+|---|---|---|
+| Priya Petrov | VP of Sales | Primary Contact |
+| Emily Tanaka | VP of Marketing | Budget Owner |
+| Yusuf Tanaka | VP of Operations | End User |
+| Victor Lee | Director of Engineering | Technical Evaluator |
+
+Priya Petrov, who has been with ContentHQ for 7 years and reports directly to the CEO, serves as the key decision maker (Decision Maker: True) in this opportunity. She has been instrumental in championing the evaluation process. Emily Tanaka controls the allocated budget of approximately $1,800,000, while Yusuf and Victor provide critical input on operational feasibility and technical fit.
+
+## Meeting History
+### Meeting 1: Discovery Call (February 14, 2026)
+The initial discovery call with Priya Petrov and Emily Tanaka lasted 45 minutes and set the foundation for our engagement. Priya outlined ContentHQ's challenges in scaling their sales operations amid recent turbulence, including the loss of a major customer last quarter stemming from onboarding friction that disrupted their pipeline forecasting. They expressed a strong need for a robust sales intelligence platform to replace fragmented tools, emphasizing integration with their existing tech stack of PHP, Laravel, DigitalOcean, MySQL, and Redis. Emily highlighted the board's recent directive from last month to prioritize tools that accelerate deal velocity without heavy customization. We aligned on high-level requirements, such as conversation analytics and real-time coaching, and Priya confirmed they are evaluating two vendors, including ours. The call ended with enthusiasm for a deeper technical exploration, and they shared initial success metrics like reducing sales cycle time by 30%. This meeting positioned us well as a strategic partner, though Priya stressed the urgency post their customer churn.
+
+### Meeting 2: Technical Deep Dive (March 3, 2026)
+Victor Lee joined Priya and Yusuf for this 90-minute session, diving into architecture and proof-of-concept demos. Victor detailed their tech stack—PHP and Laravel for backend services hosted on DigitalOcean droplets, with MySQL for primary data persistence and Redis for caching—which demands low-latency integrations to avoid performance bottlenecks in their high-volume content pipelines. They simulated integrations, confirming our API compatibility and discussing data sovereignty needs given their London HQ. Yusuf raised concerns about operational scalability, referencing how onboarding delays contributed to losing that key customer last quarter, and pushed for automated workflows. Priya reiterated the $1,800,000 budget envelope and the June 24, 2026, decision timeline, influenced by the board's priority realignment last month. We addressed competitive gaps, noting Gong's limitations in custom PHP hooks. The team was impressed with our Redis-optimized querying, scheduling a follow-up POC next week. Priya committed to internal buy-in, signaling strong momentum.
+
+## Technical Requirements
+- **Seamless Integration with Legacy Stack**: Must support PHP/Laravel APIs, DigitalOcean deployments, MySQL databases, and Redis caching layers without requiring middleware rewrites; critical for their content delivery network handling 10M+ daily interactions.
+- **Real-Time Conversation Intelligence**: AI-powered transcription, sentiment analysis, and deal risk scoring integrated into sales workflows, with sub-2-second latency to match Redis caching speeds.
+- **Custom Onboarding Automation**: No-code workflows to eliminate past onboarding pitfalls that led to customer loss; includes automated user provisioning via OAuth and SCIM for their 440-person team.
+- **Scalable Analytics Dashboard**: MySQL-backed reporting with Laravel-friendly endpoints, supporting custom KPIs like content engagement-to-conversion ratios and sales velocity metrics.
+- **Data Privacy Compliance**: GDPR-ready with London-based data residency options, including audit logs exportable to DigitalOcean object storage.
+- **Mobile and Desktop Coaching**: In-call prompts and post-call summaries optimized for remote sales teams across London, NY, and Singapore time zones.
+- **API Rate Limiting and Throttling**: Redis-integrated to handle peak loads from media campaigns without downtime.
+- **Extensibility for Future AI**: Hooks for custom ML models trained on their proprietary content datasets.
+
+## Deal Status
+ContentHQ is currently in the Qualification deal stage, with a potential value of $1,800,000 aligned to their allocated budget. The opportunity stems from their need to modernize sales ops following the major customer loss last quarter due to onboarding challenges, compounded by a board meeting last month that refocused priorities on efficiency tools. Priya Petrov, as primary contact and decision maker reporting directly to the CEO, has greenlit progression after positive meetings. Decision timeline targets June 24, 2026, assuming no delays from technical validation. Key blockers include internal alignment post-board shift and final POC results, but momentum is high with only two vendors under consideration. Next steps: Send pricing proposal to Priya by Friday, followed by a stakeholder demo in two weeks. Their mid-sized scale (201-1000 employees, specifically around 440) positions this as a high-LTV account if closed.
+
+## Competitive Landscape
+- **Gong**: Primary competitor mentioned; they're evaluating Gong for core conversation intelligence but cited concerns over weak PHP/Laravel integrations and higher onboarding friction—echoing ContentHQ's recent customer loss issues. Gong's pricing is competitive but lacks native Redis support.
+- **Internal Evaluation**: No other vendors named beyond these two (us and Gong), giving us a narrow field. Priya noted Gong's demo impressed marketing but fell short technically per Victor.
+
+ContentHQ's deliberate pace reflects caution after past setbacks, but our stack alignment (PHP, Laravel, etc.) differentiates us strongly.
+
+## Risk Factors
+- **Post-Board Priority Shifts**: The board meeting last month altered focuses toward cost-cutting; this could delay budget approval if Qualification drags, especially with their 440-employee structure demanding quick ROI.
+- **Onboarding Trauma Echoes**: They lost a significant customer last quarter to integration delays, making them hypersensitive—any POC hiccup could amplify this, as Priya referenced it twice.
+- **Competitive Poaching**: Gong's established media footprint poses a threat; their team knows it well, and if they offer deeper discounts, it might sway Emily despite technical edges we hold. Priya's long tenure means internal champions are key, but shifting allegiances remain a wildcard.

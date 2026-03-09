@@ -1,0 +1,64 @@
+{
+  "sample_id": "chat_016",
+  "content_type": "chat_log",
+  "company": "LearnStack",
+  "industry": "EdTech",
+  "message_count_target": 45,
+  "actual_word_count": 603,
+  "expected_facts": [
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+      "type": "explicit"
+    },
+    {
+      "text": "Elena Lindgren has been at LearnStack for 7 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with integration complexity with legacy systems",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with customer churn from slow support response times",
+      "type": "explicit"
+    },
+    {
+      "text": "LearnStack is a EdTech company with about 489 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 3 vendors including us",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Engineering",
+    "company_name": "LearnStack",
+    "company_size": "201-1000",
+    "technology_stack": "Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "integration complexity with legacy systems",
+      "customer churn from slow support response times"
+    ],
+    "decision_timeline": "2026-11-26",
+    "next_steps": "Send pricing proposal to Elena by Friday",
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 5,
+    "temporal_issues": 3,
+    "duplicate_facts": 2
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@derek.g"
+  ],
+  "property_coverage": 0.64
+}

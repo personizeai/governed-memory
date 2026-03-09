@@ -1,0 +1,73 @@
+{
+  "sample_id": "transcript_006",
+  "content_type": "meeting_transcript",
+  "company": "RouteWise",
+  "industry": "Logistics",
+  "duration_minutes": 30,
+  "target_word_count": 1852,
+  "actual_word_count": 1286,
+  "expected_facts": [
+    {
+      "text": "Currently using Microsoft Dynamics with Power Automate",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "RouteWise is a Logistics company with about 458 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with integration complexity with legacy systems",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes C#, .NET, Azure, SQL Server, RabbitMQ",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Clari",
+      "type": "explicit"
+    },
+    {
+      "text": "Jennifer Wright has been at RouteWise for 3 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with lack of real-time analytics for decision making",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Data",
+    "company_name": "RouteWise",
+    "technology_stack": "C#, .NET, Azure, SQL Server, RabbitMQ",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "lack of real-time analytics for decision making",
+      "integration complexity with legacy systems"
+    ],
+    "deal_value": 200000,
+    "decision_timeline": "2026-10-01",
+    "competitors_mentioned": [
+      "Clari"
+    ],
+    "buying_process": "Fast-track available for deals under $150K with direct VP approval",
+    "current_solution": "Microsoft Dynamics with Power Automate",
+    "urgency_level": "Critical"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 4,
+    "duplicate_facts": 1
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.79,
+  "entity_id": "jennifer-routewise",
+  "entity_email": "jennifer@routewise.com",
+  "entity_website": "https://routewise.com",
+  "contact_name": "Jennifer",
+  "record_id": "crm-jennifer-routewise"
+}

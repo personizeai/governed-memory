@@ -1,0 +1,16 @@
+### Account Overview
+Ember Software is a prominent Fintech company with approximately 1120 employees and annual revenue of ~$271M. As a key prospect in the Fintech space, they are led by Anita Bhandari, Chief Revenue Officer (anita.bhandari@embersoftware.com). Ember specializes in innovative financial solutions but faces scalability challenges in their revenue operations. Their current setup struggles with outdated tools, making them a strong fit for our CRM platform to enhance pipeline management and analytics.
+
+### Key Details
+Ember Software's tech stack includes Python, Django, AWS, PostgreSQL, and Redis, which powers their core operations. However, they experience significant pain points: poor visibility into pipeline health, lack of real-time analytics for decision making, vendor lock-in with their current cloud provider (AWS), and slow deployment cycles taking 2-3 weeks per release. These issues hinder their ability to scale revenue efficiently. Anita Bhandari has highlighted these gaps in recent discussions, emphasizing the need for a more agile solution. Competitors like Outreach are in play, positioning us to differentiate through superior real-time insights and seamless integrations with their existing stack.
+
+### Deal Status
+This opportunity has a potential deal value of $50,000. Anita Bhandari is the primary decision-maker, with influence over revenue ops and engineering teams. The decision timeline is targeted for Q2 2026, aligning with their fiscal planning cycle. Initial discovery calls have validated our value prop against their pain points, particularly around breaking vendor lock-in and accelerating deployments. Outreach remains the incumbent competitor, but Ember's dissatisfaction with slow analytics gives us a clear edge. Current stage: Qualification – we've aligned on high-level requirements.
+
+### Next Steps
+- Schedule a 30-minute demo with Anita Bhandari next week to showcase real-time pipeline visibility and AWS migration tools.
+- Prepare customized ROI analysis addressing 2-3 week deployment cycles and PostgreSQL/Redis integrations.
+- Engage technical stakeholders for a proof-of-concept trial focused on Django compatibility.
+- Follow up by EOD Friday to confirm Q2 2026 timeline and explore multi-year commitment discounts.
+
+(Word count: 378)

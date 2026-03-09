@@ -1,0 +1,146 @@
+---
+type: Contact
+record_id: crm-rachel-courseforge
+email: rachel@courseforge.com
+website_url: https://courseforge.com
+company: CourseForge
+industry: EdTech
+contact_name: Rachel
+job_title: Director of IT
+---
+
+Alex: Hi Rachel, thanks so much for taking the time today. I'm Alex Morgan from TechNova, and I really appreciate you hopping on this call. How's your day going so far?
+
+Rachel: Hey Alex, good to meet you. Yeah, it's been a busy one here at CourseForge, but I'm glad we could squeeze this in. Day's going okay, just wrapped up a stand-up with the team.
+
+Alex: Awesome, sounds productive. Before we dive in, I saw on LinkedIn you've been with CourseForge for about three years now—congrats on that, by the way. Boston must be a great spot for the main office. Weather treating you well up there?
+
+Rachel: Thanks, yeah, three years feels like yesterday sometimes. Boston's home base is solid, though the winters are no joke. But enough small talk— what's on the agenda today? I know we're evaluating a few solutions, including yours.
+
+Alex: Right, totally get the busy schedule. So, quick agenda: I'd love to hear more about your current setup and challenges at CourseForge, then I can share how TechNova fits in, maybe touch on some competitors you're looking at, and wrap with next steps. Sound good? Since this is qualification stage for us, I want to make sure we're aligned.
+
+Rachel: Qualification, got it. Yeah, that works. We're a mid-sized EdTech player here—about 3009 employees strong, annual revenue around 41 million. We're scaling up courses and platforms, but it's not without headaches.
+
+Alex: Noted, 3000-plus folks is a healthy size for EdTech. Tell me more about those headaches. From what I understand, you're dealing with some security concerns in your current architecture, fragmented tooling across departments. Anything else top of mind?
+
+Rachel: Spot on. Security is huge—we've got a audit coming up in Q2, and last time we had some compliance failures on data handling that didn't look great. Our stack's PHP, Laravel on DigitalOcean, MySQL, Redis—it's functional but aging. Fragmented tools mean sales uses one thing, product another, IT's stuck gluing it all. And measuring ROI on AI initiatives? Nightmare.
+
+Alex: Oof, compliance audit failures sting, especially with sensitive student data in EdTech. He mentioned in our prep call that the fragmentation was causing silos—wait, sorry, our solutions architect noted something similar from industry trends. How bad is the ROI measurement? Like, are you tracking metrics manually or what?
+
+Rachel: Manually half the time, dashboards that don't talk to each other the other half. We've tried plugging in some AI, but it's hard to quantify wins. Oh, and we lost a major customer last quarter—onboarding issues killed it. They just couldn't get up and running smoothly.
+
+Alex: Last quarter's loss sounds rough. Onboarding friction is killer in EdTech. So, you're planning a migration off those legacy systems by end of year, right? That lines up with what you've shared before.
+
+Rachel: Exactly, end of this year is the target. Can't drag our feet anymore. We're evaluating five vendors total, including TechNova, Salesforce Einstein, Microsoft Copilot, HubSpot AI. Need something that integrates without ripping everything apart.
+
+Alex: Five vendors—thorough process. We've seen teams like yours pick us over those because TechNova's AI analytics layer sits lightly on existing stacks like yours: PHP, Laravel, DigitalOcean, no rip-and-replace. It unifies data flows, handles security natively for audits. Let's dig into your pain points. Security concerns first—walk me through what's worrying you most.
+
+Rachel: Um, right now it's the architecture vulnerabilities. Redis caching is great for speed, but with MySQL sprawl, we're exposed on data handling. Q2 audit looms, and we can't afford another fail. Fragmentation too—marketing's on HubSpot-lite stuff, dev on DigitalOcean droplets, no cohesion.
+
+Alex: Got it. He said during discovery that similar EdTechs faced PCI or FERPA slips—ours auto-audits compliance. For fragmentation, TechNova's single pane dashboard pulls from all that—PHP endpoints, Laravel APIs, Redis queues, MySQL queries—into AI-driven insights. You mentioned difficulty measuring ROI on AI; how are you trying now?
+
+Rachel: Spreadsheets mostly, or basic queries. We allocated about 120,000 for this initiative, so ROI has to be crystal clear. Can't justify spend if we can't show uplift in user engagement or retention.
+
+Alex: Budget around $120k—solid allocation for your scale. We've closed similar at that ballpark, delivering 3x ROI in first year via predictive analytics on course completion. Like, for CourseForge's 3009 employees supporting thousands of learners, it flags drop-off risks early.
+
+Rachel: 120 thousand is the rough number we've set aside, yeah. Three years in, I've seen budgets balloon if not careful. Speaking of, a few weeks ago we demoed Salesforce Einstein—impressive NLP, but integration with our Laravel setup? Meh.
+
+Alex: Fair, Einstein's heavy. TechNova's lighter, agentic AI that embeds without forklift upgrades. Microsoft Copilot's chatty, but for EdTech ops? We do deeper: anomaly detection in Redis for security, auto-migrate MySQL schemas. Your revenue at 41 million—how much tied to platform reliability?
+
+Rachel: A good chunk, yeah. That lost customer last quarter? They represented solid recurring rev, all because onboarding dragged with legacy PHP cruft. By end of month, we need POC shortlist finalized internally.
+
+Alex: End of month shortlist—urgency medium, but moving. Noted you're Director of IT, but is there a CRO or CTO who owns final sign-off? Since decision maker flag's off for you solo.
+
+Rachel: Yeah, I'm not the solo decision maker—report to CTO, and procurement loops in. But I drive tech eval. Let's hear more on TechNova. How does it tackle fragmented tooling?
+
+Alex: Great question. Imagine one hub: sales sees AI leads from HubSpot imports, product gets Laravel dev metrics from DigitalOcean, IT monitors MySQL/Redis health. No more silos. We've got clients migrating off legacy by year-end, just like your plan. Demo time? I can screen share a sim of your stack.
+
+Rachel: Sure, go for it. Oh, quick digression—ever been to Boston for EdTech conferences? We host one next quarter; maybe swing by.
+
+Alex: Haha, love it. Haven't yet, but next quarter's on my radar—Q2 security audit timing, right? Perfect tie-in. Alright, sharing screen. Here's a mock of CourseForge setup: PHP backend calling Laravel controllers, DigitalOcean hosts, MySQL primary, Redis cache. TechNova overlays AI layer—boom, unified.
+
+Rachel: Looks clean. How's security baked in? We can't have more concerns like now.
+
+Alex: Layered: encryption at rest/transit for MySQL data, Redis key rotation auto, audit trails for Q2 prep. Compliance pack handles FERPA out-of-box. See this sim? Flags a vuln in architecture—fixes in-click.
+
+Rachel: Nice. And ROI measurement? Difficulty there is real.
+
+Alex: AI dashboard: tracks AI usage lift, like 20% engagement boost. Pre-built for EdTech KPIs—course ROI, churn predix. Budget-wise, fits your 120k sweet spot.
+
+Rachel: Repeated that budget figure, huh? Around 120 grand, yes. Competitors: Copilot integrates with Office, but our stack's not heavy Office. HubSpot AI's marketing-focused.
+
+Alex: Exactly. She noted in a case study—wait, our mutual connection shared—TechNova wins on stack fit. Salesforce Einstein? Overkill for 3009-employee ops. Decision timeline? I see 2026-09-28 flagged—fiscal close?
+
+Rachel: Yeah, September '26 target for full rollout post-eval. Medium urgency, but migration by year-end pushes it.
+
+Alex: Aligns perfectly. Lost customer pain—our onboarding's 1-week, AI-guided. Tell me, fragmented tooling: departments fighting much?
+
+Rachel: Daily. Product wants Redis tweaks, sales needs MySQL reports—chaos. Three years here, it's worsened with growth to 3000-plus staff.
+
+Alex: 3009 employees, scaling pains. TechNova federates it. Another pain: compliance audit failures. How many last time?
+
+Rachel: Two flags on data handling. Q2 can't repeat. He mentioned in the RFP that vendors need SOC2—do you?
+
+Alex: Triple SOC2, plus ISO. Let's simulate audit: tool generates reports from your PHP logs. Seamless.
+
+Rachel: Impressive. Annual revenue 41 mil—AI needs to protect that. Evaluating five total, what's your edge?
+
+Alex: Tailored for EdTech migrations. Like, post-loss quarter, we recover 15% rev via retention AI. Budget roughly 120 thousand? We tier at 110k base.
+
+Rachel: Yep, 120k allocated. A few weeks ago, we scored HubSpot—nice UI, weak on Laravel.
+
+Alex: UI's table stakes. Next quarter conference—invite you to our booth?
+
+Rachel: Maybe. Back to it: difficulty measuring AI ROI—examples?
+
+Alex: Client X, EdTech peer: pre-TechNova, 5% visibility; post, 40% uplift quantified. Dashboards auto-compute.
+
+Rachel: Solid. Security architecture concerns—deeper?
+
+Alex: Current setup: DigitalOcean firewalls help, but Redis/MySQL gaps. We proxy secure.
+
+Rachel: Proxy how? Details.
+
+Alex: API gateway with AI threat modeling. Simulates your stack—see vuln here? Patched.
+
+Rachel: Okay, buying that. Fragmentation: cross-dept workflows?
+
+Alex: Playbooks: IT assigns tasks via Laravel hooks, sales gets AI-enriched HubSpot data.
+
+Rachel: HubSpot AI eval was okay, but yeah. Decision timeline 2026-09-28—post-audit.
+
+Alex: Yes. Urgency medium, but let's POC now. Your three-year tenure—seen stack evos?
+
+Rachel: Tons. From startup PHP to this. Main office Boston traffic's killer, though.
+
+Alex: Haha, digress again—Boston drivers, wild. Back: lost major customer onboarding—how long dragged?
+
+Rachel: Two months. Unacceptable.
+
+Alex: Ours: AI wizards guide. Budget 120k covers premium onboarding.
+
+Rachel: Noted twice now. Roughly $120,000 yeah. Competitors: Einstein's pricey.
+
+Alex: 30% less TCO. She said—our analyst—Copilot's generic for EdTech.
+
+Rachel: True. Tech stack repeat: PHP, Laravel, DO, MySQL, Redis—TechNova plays nice?
+
+Alex: Native connectors. POC it?
+
+Rachel: Internally, by end of month shortlist.
+
+Alex: Perfect. Four relative anchors: last quarter loss, few weeks ago demos, end of month shortlist, next quarter audit/conference, end of year migration.
+
+Rachel: Wait, you listing? Anyway, five vendors, CourseForge 3009 employees, 41M rev—all in.
+
+Alex: Locked. Not decision maker solo, loop CTO?
+
+Rachel: Will. Next steps?
+
+Alex: Send POC contract for 120k scope. Demo recording?
+
+Rachel: Yes. Great chat—45 minutes flew.
+
+Alex: Agreed. Thanks, Rachel. Talk soon.
+
+Rachel: You too, Alex. Bye.

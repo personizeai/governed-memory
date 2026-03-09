@@ -1,0 +1,95 @@
+{
+  "sample_id": "transcript_031",
+  "content_type": "meeting_transcript",
+  "company": "ContentHQ",
+  "industry": "Digital Media",
+  "duration_minutes": 20,
+  "target_word_count": 1310,
+  "actual_word_count": 1780,
+  "expected_facts": [
+    {
+      "text": "Tom Singh has been at ContentHQ for 6 years",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 20% this fiscal year",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $165M",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with integration complexity with legacy systems",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 3 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q3",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 20 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using Salesforce with custom Apex triggers",
+      "type": "explicit"
+    },
+    {
+      "text": "ContentHQ is a Digital Media company with about 3647 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Austin",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with technical debt from rapid early growth",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of IT",
+    "company_name": "ContentHQ",
+    "company_size": "1000+",
+    "technology_stack": "Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "integration complexity with legacy systems",
+      "technical debt from rapid early growth"
+    ],
+    "decision_timeline": "2026-07-25",
+    "decision_maker": true,
+    "next_steps": "Tom will share the RFP by end of week",
+    "current_solution": "Salesforce with custom Apex triggers",
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 4,
+    "duplicate_facts": 2
+  },
+  "has_third_participant": true,
+  "property_coverage": 0.79,
+  "entity_id": "tom-contenthq",
+  "entity_email": "tom@contenthq.io",
+  "entity_website": "https://contenthq.io",
+  "contact_name": "Tom",
+  "record_id": "crm-tom-contenthq"
+}

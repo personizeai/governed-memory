@@ -1,0 +1,28 @@
+Call with: Elena Ito, VP of Marketing at RouteWise
+Date: February 15, 2026
+Duration: 45 min
+
+Key Points:
+- RouteWise logistics co, 11-50 emp (~48)
+- Elena 8 yrs @ RouteWise
+- pains: hiring spec engrs tough, legacy Java app (1 guy maint), compliance audit fails on data hdlg, poor pipeline vis
+- stack: Java, Micronaut, GCP, Spanner, Pub/Sub
+- cur sol: legacy Java, single maint guy — risky
+- deal qual stage, $75k pot, timeline 2026-09-04
+- not DM — she's qual'ing, pushing to tech leads
+- buy proc: std procur — demo, sec rev, legal, VP Fin signoff
+- she's def interested, pains align w/ our vis/audit tools
+- mtg w/ her eng team prob next, he's pushing Q2 close but budget EOQ
+- they flunked last audit bc data handling gaps, legacy killing them
+- hiring freeze-ish, can't get engrs for Micronaut/GCP tweaks
+- good fit, she's teeing up internal pres
+
+Action Items:
+- [ ] Elena present internally to eng/VP Fin (Elena)
+- [ ] F/u call next week re: her feedback + sched demo (me)
+- [ ] Send case study on compliance wins post-audit (me)
+
+Notes:
+Elena solid contact but not dec maker — referred to eng lead (name TBD, "Mike"?), he's swamped w/ legacy maint & hiring woes. Got into pains quick: audit fails killing momentum, one guy on Java app = single pt failure, plus no vis into pipeline health. She's been there 8 yrs, knows ops inside out, RouteWise scaling logistics but tech lagging. Def prospect, qual'd well.
+
+Next wk f/u critical bc she's circling eng team fast, timeline to Sept but he's eyeing EOQ push if demo wows. Stack matches ours perfect (GCP/Spanner/etc), $75k feels right for their size. She's not buying but gatekeeping strong — nudge her on pres deck. Vague on Mike's title, f/u clarify. Good energy, she laughed at our "legacy jailbreak" pitch. Prob send audit comp study today.

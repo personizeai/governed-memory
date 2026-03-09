@@ -1,0 +1,184 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Aisha Singh <aisha.singh@cloudnova.com>  
+Subject: Tailored Solution for CloudNova's Onboarding Challenges  
+Date: Sun, Feb 08, 2026 10:15 AM PST  
+
+Hi Aisha,  
+
+I hope this email finds you well. I'm Alex Morgan, Account Executive at TechnoNova, and I came across CloudNova while researching fast-growing B2B SaaS companies in the AWS ecosystem. With your Python and FastAPI stack powering AWS Lambda, DynamoDB, and SQS, you're doing impressive work scaling services.  
+
+I understand you've had some onboarding hiccups recently—losing a major customer last quarter must have been tough, especially as your engineering team grows (congrats on those 6 new hires this quarter!). Our platform specializes in seamless customer onboarding automation, integrating natively with your exact tech stack to reduce time-to-value by 40% for similar teams.  
+
+Would love to hop on a quick 15-min call to share how we've helped companies like yours reclaim lost revenue. Are you free next week?  
+
+Best regards,  
+Alex Morgan  
+Account Executive  
+TechnoNova  
+(415) 555-0123  
+alex.morgan@technova.io  
+
+---
+
+From: Aisha Singh <aisha.singh@cloudnova.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Tailored Solution for CloudNova's Onboarding Challenges  
+Date: Mon, Feb 09, 2026 09:30 AM PST  
+
+Hi Alex,  
+
+Thanks for reaching out—I've been at CloudNova for 2 years now as CTO, and onboarding is indeed a pain point after that customer loss. We're evaluating 4 vendors right now, including Intercom, plus some in-house builds and Microsoft Copilot options. Our IT budget got a nice 33% bump this fiscal year, with about $120k allocated here.  
+
+Quick question: How does TechnoNova handle serverless scaling with DynamoDB and SQS specifically? Our team is small (44 folks total, 11-50 range) but growing fast.  
+
+Best,  
+Aisha Singh  
+CTO  
+CloudNova  
+(650) 555-0198  
+aisha.singh@cloudnova.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Aisha Singh <aisha.singh@cloudnova.com>  
+Subject: Re: Tailored Solution for CloudNova's Onboarding Challenges  
+Date: Tue, Feb 10, 2026 11:45 AM PST  
+
+Hi Aisha,  
+
+Great to hear from you—thanks for the context on your eval process and budget. We're thrilled to be in the mix with Intercom and the others.  
+
+> Quick question: How does TechnoNova handle serverless scaling with DynamoDB and SQS specifically? Our team is small (44 folks total, 11-50 range) but growing fast.  
+
+We use event-driven architecture mirroring your stack: TechnoNova triggers Lambda functions via SQS queues for async onboarding tasks, with DynamoDB streams for real-time state syncing. This scales effortlessly to millions of events without cold starts, and we've seen 35% cost savings for FastAPI/Lambda users. I can send a one-pager on a light POC proposal tailored to CloudNova if that helps move us forward.  
+
+Free for a call this week?  
+
+Best,  
+Alex Morgan  
+Account Executive  
+Technova  
+(415) 555-0123  
+alex.morgan@technova.io  
+
+---
+
+From: Aisha Singh <aisha.singh@cloudnova.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+CC: Omar Chen <omar.chen@cloudnova.com>  
+Subject: Re: Tailored Solution for CloudNova's Onboarding Challenges  
+Date: Wed, Feb 11, 2026 02:20 PM PST  
+
+Hi Alex,  
+
+Thanks for the details—sounds promising for our two-phase process: technical POC first, then business case to leadership. Decision timeline is April 16th, so we're in negotiation stage now.  
+
+Looping in Omar Chen, our Solutions Architect. He'll have more technical input.  
+
+> We use event-driven architecture mirroring your stack: TechnoNova triggers Lambda functions via SQS queues for async onboarding tasks, with DynamoDB streams for real-time state syncing. This scales effortlessly to millions of events without cold starts, and we've seen 35% cost savings for FastAPI/Lambda users. I can send a one-pager on a light POC proposal tailored to CloudNova if that helps move us forward.  
+
+Omar, thoughts? Alex, expect his reply soon. I'll share the RFP by end of week.  
+
+Best,  
+Aisha Singh  
+CTO  
+CloudNova  
+(650) 555-0198  
+aisha.singh@cloudnova.com  
+
+---
+
+From: Omar Chen <omar.chen@cloudnova.com>  
+To: Aisha Singh <aisha.singh@cloudnova.com>, Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Tailored Solution for CloudNova's Onboarding Challenges  
+Date: Thu, Feb 12, 2026 04:10 PM PST  
+
+Hi Alex, Aisha,  
+
+Omar here—thanks for the intro. We've been heads-down on our Python/FastAPI services, but onboarding scalability is key post-customer loss.  
+
+> We use event-driven architecture mirroring your stack: TechnoNova triggers Lambda functions via SQS queues for async onboarding tasks, with DynamoDB streams for real-time state syncing.  
+
+One technical Q: In high-throughput scenarios (say, 10k+ daily signups), how does it manage SQS dead-letter queues with DynamoDB partitions? Does it auto-partition or require custom sharding? He mentioned cost savings, but we're watching our $120k closely.  
+
+Aisha, this fits our eval of 4 vendors nicely.  
+
+Cheers,  
+Omar Chen  
+Solutions Architect  
+CloudNova  
+(650) 555-0201  
+omar.chen@cloudnova.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Omar Chen <omar.chen@cloudnova.com>, Aisha Singh <aisha.singh@cloudnova.com>  
+Subject: Re: Tailored Solution for CloudNova's Onboarding Challenges  
+Date: Fri, Feb 13, 2026 09:05 AM PST  
+
+Hi Omar, Aisha,  
+
+Appreciate the deep dive question—love when we get into the weeds on serverless.  
+
+> One technical Q: In high-throughput scenarios (say, 10k+ daily signups), how does it manage SQS dead-letter queues with DynamoDB partitions? Does it auto-partition or require custom sharding? He mentioned cost savings, but we're watching our $120k closely.  
+
+TechnoNova auto-configures DLQ handling: Failed SQS messages route to a dedicated DLQ, where our Lambda processor uses DynamoDB's GSIs for fan-out retries with exponential backoff. Partitioning is automatic via DynamoDB's sort keys on timestamp/user_id—no custom sharding needed, even at 50k+ TPS. We've benchmarked this with similar stacks, hitting 99.99% uptime. Attached is that POC one-pager with diagrams.  
+
+This positions us well against Intercom/Microsoft for your timeline. Next week work for a 30-min tech deep-dive?  
+
+Best,  
+Alex Morgan  
+Account Executive  
+TechnoNova  
+(415) 555-0123  
+alex.morgan@technova.io  
+
+---
+
+From: Aisha Singh <aisha.singh@cloudnova.com>  
+To: Alex Morgan <alex.morgan@technova.io>, Omar Chen <omar.chen@cloudnova.com>  
+Subject: Re: Tailored Solution for CloudNova's Onboarding Challenges  
+Date: Mon, Feb 16, 2026 01:30 PM PST  
+
+Hi Alex,  
+
+---------- Forwarded message ---------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Fri, Feb 13, 2026 09:05 AM PST  
+Subject: Re: Tailored Solution for CloudNova's Onboarding Challenges  
+To: Omar Chen <omar.chen@cloudnova.com>, Aisha Singh <aisha.singh@cloudnova.com>  
+
+[Full forwarded content above]  
+
+Omar reviewed the one-pager—solid fit for our stack and growth (those 6 hires need this yesterday). He likes the auto-partitioning; it avoids what killed our in-house attempts.  
+
+RFP attached as promised. Let's schedule that deep-dive next week—how's Wednesday 2pm PST? That gets us to POC before end of quarter.  
+
+Best,  
+Aisha Singh  
+CTO  
+CloudNova  
+(650) 555-0198  
+aisha.singh@cloudnova.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Aisha Singh <aisha.singh@cloudnova.com>, Omar Chen <omar.chen@cloudnova.com>  
+Subject: Re: Tailored Solution for CloudNova's Onboarding Challenges  
+Date: Mon, Feb 16, 2026 03:15 PM PST  
+
+Hi Aisha, Omar,  
+
+Perfect—Wednesday 2pm PST locked in. I'll send the Zoom + agenda shortly. Excited to kick off the POC and align on that $120k value for your leadership review.  
+
+Thanks for moving fast!  
+
+Best,  
+Alex Morgan  
+Account Executive  
+TechnoNova  
+(415) 555-0123  
+alex.morgan@technova.io

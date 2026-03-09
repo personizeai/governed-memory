@@ -1,0 +1,16 @@
+### Account Overview
+Orchid Software is a prominent player in the Logistics industry, employing 1572 people and generating approximately $239M in annual revenue. The company specializes in software solutions that streamline supply chain operations, but faces challenges with internal processes that hinder scalability. Primary point of contact is Anita Johnson, VP of Marketing at Orchid Software (anita.johnson@orchidsoftware.com). Anita oversees marketing strategies and has expressed interest in tools that could unify departmental workflows, addressing key bottlenecks in their operations.
+
+### Key Details
+Orchid Software's tech stack includes Elixir, Phoenix, Fly.io, PostgreSQL, and LiveView, reflecting a modern, real-time focused development environment. However, they grapple with significant pain points: slow deployment cycles taking 2-3 weeks per release, which delays feature rollouts and impacts agility; data silos between engineering and sales teams, leading to misaligned forecasting and missed opportunities; and fragmented tooling across departments, causing inefficiencies in collaboration and reporting. These issues are exacerbated in their logistics-focused environment where rapid iteration is critical. Competitors like Clari are currently in play, as Orchid evaluates revenue intelligence platforms to consolidate insights.
+
+### Deal Status
+This represents a high-potential opportunity with a projected deal value of $650,000. Discussions with Anita Johnson have advanced to the evaluation stage, where our solution's ability to accelerate deployments, break down silos, and integrate seamlessly with their Elixir/Phoenix stack has resonated strongly. The decision timeline is targeted for Q4 2026, aligned with their fiscal planning cycle. No major roadblocks identified yet, though Clari remains a noted competitor, prompting us to emphasize our superior LiveView compatibility and faster time-to-value.
+
+### Next Steps
+- Schedule a demo call with Anita Johnson by end of next week to showcase integration with PostgreSQL and Fly.io, directly addressing 2-3 week deployment pain.
+- Prepare customized ROI analysis highlighting $650,000 value against data silos and fragmented tooling.
+- Follow up on competitor intel vs. Clari, positioning our platform's logistics-specific features.
+- Engage engineering lead (via intro from Anita) for technical validation before Q4 2026 timeline.
+
+(Word count: 378)

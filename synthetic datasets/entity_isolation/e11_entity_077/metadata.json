@@ -1,0 +1,19 @@
+{
+  "entity_index": 77,
+  "name": "Alex Okonkwo",
+  "company": "Thistle AI",
+  "industry": "HRTech",
+  "email": "alex.okonkwo@thistleai.com",
+  "title": "Director of Analytics",
+  "facts": [
+    "Alex Okonkwo is Director of Analytics at Thistle AI",
+    "Thistle AI is a HRTech company with 1658 employees",
+    "Tech stack: TypeScript, React, Node.js, GCP, MongoDB",
+    "Deal value: $250,000",
+    "Pain points: customer churn from slow support response times; inconsistent messaging across sales team",
+    "Competitors: Chorus.ai, custom internal tool, HubSpot AI",
+    "Decision timeline: Q4 2026",
+    "Annual revenue: ~$272M"
+  ],
+  "actual_word_count": 355
+}

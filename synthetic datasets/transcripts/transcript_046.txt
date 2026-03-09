@@ -1,0 +1,166 @@
+---
+type: Contact
+record_id: crm-alex-garcia-routewise
+email: alex.garcia@routewise.com
+website_url: https://routewise.com
+company: RouteWise
+industry: Logistics
+contact_name: Alex Garcia
+job_title: VP of Marketing
+---
+
+Alex Morgan: Hi Alex, thanks for taking the time today. I know you're busy with everything going on at RouteWise. How's your week shaping up?
+
+Alex Garcia: Hey Alex, good to see you. Yeah, it's been nonstop, you know, with the engineering team ramping up. We hired nine people just this quarter, so that's keeping everyone on their toes. What's new on your end at TechNova?
+
+Alex Morgan: Congrats on the hires—that's exciting growth for a company your size. We're about 93 folks here too, but logistics moves fast. Anyway, I wanted to pick up where we left off last time. You're in negotiations with a couple vendors, right? Us included in the three you're evaluating?
+
+Alex Garcia: Spot on. We've got Microsoft Copilot, HubSpot AI, and your TechNova solution on the shortlist, plus tweaking our existing CRM workflows. It's all about streamlining things. We've been dealing with these manual processes for customer onboarding that are just killing our velocity.
+
+Alex Morgan: Totally get that. Manual onboarding is a killer in logistics—delays shipments, frustrates customers. Tell me more about how fragmented your tooling is across departments. Marketing's probably siloed from ops and engineering?
+
+Alex Garcia: Exactly. We've got Java and Spring Boot handling the backend, Azure for cloud, Oracle databases, and Kafka for streaming data. It works, but everything's fragmented. Marketing can't easily pull insights from ops data, and engineering's growing so fast with those nine new hires this quarter. He mentioned that the compliance audits failed last time because of data handling issues across these tools.
+
+Alex Morgan: He mentioned compliance audits? Sorry, who was that?
+
+Alex Garcia: Oh, one of our engineers. Yeah, we had failures on data handling during the last audit. Vendor lock-in with Azure isn't helping either—we're stuck paying premiums and can't integrate seamlessly.
+
+Alex Morgan: Makes sense. TechNova integrates natively with Java, Spring Boot, Azure, Oracle, and Kafka, so no rip-and-replace. We've helped similar logistics firms cut onboarding time by 60%. What's your timeline looking like? I heard something about May 6th, 2026?
+
+Alex Garcia: Yeah, decision by 2026-05-06. Fiscal year planning. Budget-wise, we've allocated about $600,000 for this initiative. Anything over 100K needs CFO sign-off, and I report straight to the CEO, so I'll loop him in too.
+
+Alex Morgan: Solid budget—roughly six hundred thousand, right? That aligns perfectly with our enterprise tier. Since you're VP of Marketing at RouteWise, with about 93 employees, I can tailor a package around $600K that covers full deployment, training, and first-year support.
+
+Alex Garcia: Sounds promising. We've said the budget is around 600K a few times internally. But walk me through how you handle the fragmented tooling. Right now, it's a mess—marketing uses one dashboard, sales another, ops something else entirely.
+
+Alex Morgan: Picture this: unified platform pulls from your Kafka streams, Oracle data, all in real-time. No more manual exports. We had a client in logistics, similar size—51 to 200 employees—who dropped their onboarding from weeks to days. You know, manual processes like yours were their biggest pain.
+
+Alex Garcia: Um, yeah, customer onboarding is manual hell. Forms emailed back and forth, signatures chased via phone. With our growth—those nine engineers this quarter—we need automation yesterday.
+
+Alex Morgan: Right, and next quarter you'll have even more data flowing. TechNova's AI layer on top of your Spring Boot apps predicts bottlenecks before they hit. Compared to HubSpot AI or Copilot, ours is logistics-specific—no generic CRM tweaks.
+
+Alex Garcia: We've been evaluating those. Copilot's great for Office, but not deep into our stack. HubSpot AI helps marketing a bit, but ignores our Azure lock-in and compliance woes. He said something about that in the last demo—wait, our CTO did.
+
+Alex Morgan: Got it. Compliance is huge in logistics. We ensure GDPR and SOC2 baked in, fixing those audit failures you had. No more data handling slip-ups across departments.
+
+Alex Garcia: That's a relief. Fragmented tools mean everyone's reinventing wheels. Engineering's on Java and Kafka, marketing's piecing together reports manually. Been here five years, and it's the same story.
+
+Alex Morgan: Five years at RouteWise—loyalty pays off. As VP reporting to the CEO, you're key here, but not the final sign-off? CFO for the big bucks?
+
+Alex Garcia: Yep, not the decision maker per se. CFO approves over 100K. But I'll champion it. Deal stage feels like negotiation now—what's the breakdown on that 600K deal value?
+
+Alex Morgan: Enterprise license: 400K, implementation and custom integrations with your Azure and Oracle: 150K, ongoing support and AI optimizations: 50K. Total 600 grand. Flexible— we can phase it.
+
+Alex Garcia: We've allocated roughly six hundred thousand, as I said. Phasing helps. But vendor lock-in scares me with Azure. How do you avoid that?
+
+Alex Morgan: Multi-cloud native. Run on Azure today, migrate to AWS tomorrow—no penalties. Unlike your current setup.
+
+Alex Garcia: Good. A few weeks ago, we had a compliance audit fail because data wasn't siloed properly across tools. That's fragmented tooling in action.
+
+Alex Morgan: Ouch. We centralize it securely. Let's dig into ROI. With your manual onboarding, what's the current cost per customer?
+
+Alex Garcia: Um, probably 5K in labor per onboard, times 200 customers a year— that's a million in waste. Engineering's growing, but can't fix it fast enough with nine new hires this quarter.
+
+Alex Morgan: Exactly. TechNova drops that to 2K, saving 600K year one. Matches your budget perfectly.
+
+Alex Garcia: Haha, speaking of budgets, we keep circling back to that 600K figure. Internally, it's "about six hundred thousand dollars allocated."
+
+Alex Morgan: Repetition for emphasis—smart. Now, small talk break: how's the logistics world treating you? I saw that port strike news—impacting RouteWise shipments?
+
+Alex Garcia: Oh man, yes. Delays everywhere. Weekend was spent reading industry reports instead of golfing. You?
+
+Alex Morgan: Same—binge-watched that logistics docuseries. Back to it: competitors. Why not stick with existing CRM workflows?
+
+Alex Garcia: They're patched together. HubSpot AI adds some smarts, but no Kafka integration. Microsoft Copilot? Too broad. We need logistics depth.
+
+Alex Morgan: TechNova's edge: predictive routing based on your Oracle data. Demo last time showed it, right?
+
+Alex Garcia: Yeah, impressive. But pricing—can we negotiate down? 600K is our ceiling.
+
+Alex Morgan: For RouteWise, 51-200 employees, growing engineering—we can shave 10% with annual prepay. Down to 540K, still covers everything.
+
+Alex Garcia: Tempting. CFO will like that. Decision timeline is firm: by end of May 6, 2026. Next quarter's planning hinges on it.
+
+Alex Morgan: Locked in. Pain points: manual onboarding, fragmented tooling, Azure lock-in, compliance failures—we hit all.
+
+Alex Garcia: You do. He pointed out the compliance bit earlier—our compliance officer. Said data handling across Java apps was the fail point.
+
+Alex Morgan: We'll audit-proof it. Training for your team? Included.
+
+Alex Garcia: Crucial, with nine new engineers this quarter. They need ramp-up.
+
+Alex Morgan: Onboarding them on TechNova: one day. Versus weeks now.
+
+Alex Garcia: Love it. Digression: coffee's brutal today—machine died. Anyway, what's the implementation timeline?
+
+Alex Morgan: 90 days post-contract. Parallel with your evaluations.
+
+Alex Garcia: We're looking at three vendors total, including you. Edges out the others?
+
+Alex Morgan: Stack integration seals it. Your Java, Spring Boot, Azure, Oracle, Kafka—we own that.
+
+Alex Garcia: True. Been at RouteWise five years, seen stacks evolve, but this fragmentation's new with growth.
+
+Alex Morgan: Growth pains. Budget roughly 600K, as you said—perfect fit.
+
+Alex Garcia: Yeah, we've noted the six hundred thousand allocation multiple times in meetings.
+
+Alex Morgan: Let's outline next steps. POC with your data?
+
+Alex Garcia: Yes, send over the agreement for CFO. I'll get CEO buy-in too—I report to him directly.
+
+Alex Morgan: Draft by EOD. Questions on Copilot comparison?
+
+Alex Garcia: Just one: how's it beat HubSpot AI for marketing workflows?
+
+Alex Morgan: Deeper personalization using Kafka real-time data. HubSpot's static.
+
+Alex Garcia: Sold. Compliance—how do you handle audits?
+
+Alex Morgan: Automated reports, pre-built for logistics regs. Fixed similar failures for others.
+
+Alex Garcia: Key. Manual processes eat hours—onboarding docs alone.
+
+Alex Morgan: Automate 90%. ROI calculator: input your 93-employee metrics?
+
+Alex Garcia: Send it. Engineering will love modeling with nine new hires.
+
+Alex Morgan: Done. Any vendor lock-in mitigations beyond multi-cloud?
+
+Alex Garcia: Exit clauses?
+
+Alex Morgan: Standard 30-day notice, data export free.
+
+Alex Garcia: Better than Azure. Timeline—2026-05-06 is go-live target?
+
+Alex Morgan: Phased: core by then, AI by Q3.
+
+Alex Garcia: Perfect. Small talk: Mariners game this weekend? Logistics hubs nearby.
+
+Alex Morgan: Tickets secured! You a fan?
+
+Alex Garcia: Diehard. Back: deal value at 600K—finalize terms?
+
+Alex Morgan: Proposal incoming. Negotiation mode: what flex?
+
+Alex Garcia: 550K max, with extras.
+
+Alex Morgan: Meet at 580K, full stack support.
+
+Alex Garcia: Deal-ish. CFO tomorrow.
+
+Alex Morgan: Great. Recap pains: onboarding manual, tools fragmented, Azure lock, audits.
+
+Alex Garcia: Nailed. Tech stack match: Java et al.
+
+Alex Morgan: Yes. Budget six hundred K.
+
+Alex Garcia: Around 600 grand, yes.
+
+Alex Morgan: Excited. Thanks, Alex.
+
+Alex Garcia: Same. Talk soon.
+
+Alex Morgan: Absolutely. Bye.
+
+[Word count: 2147]

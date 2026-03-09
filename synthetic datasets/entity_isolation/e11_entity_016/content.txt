@@ -1,0 +1,17 @@
+### Account Overview
+Beacon Financial is a prominent MarTech company with 1129 employees and annual revenue of approximately $261M. The primary contact is Maria Cho, Chief Revenue Officer, reachable at maria.cho@beaconfinancial.com. As a key decision-maker, Maria oversees revenue operations and is actively evaluating solutions to optimize their tech infrastructure amid rapid growth in the marketing technology space. Beacon Financial specializes in data-driven marketing platforms, serving enterprise clients with tools for customer engagement and analytics.
+
+### Key Details
+Beacon Financial's current tech stack includes Elixir, Phoenix, Fly.io, PostgreSQL, and LiveView, which supports their real-time application needs but is hampered by operational challenges. Key pain points include slow deployment cycles taking 2-3 weeks per release, scaling issues during peak traffic periods, and vendor lock-in with their existing cloud provider. These bottlenecks are delaying feature rollouts and impacting reliability during high-demand events like Black Friday campaigns. Competitors in consideration include HubSpot AI, alongside internal in-house development efforts to address these gaps. Maria has expressed frustration with the status quo, emphasizing the need for faster, more flexible deployment and seamless scalability to maintain competitive edge in MarTech.
+
+### Deal Status
+This represents a high-value opportunity with a potential deal value of $250,000. Maria Cho is aligned on the strategic fit, having validated our solution against their Elixir/Phoenix ecosystem in initial demos. The decision timeline is targeted for Q4 2026, pending POC results and stakeholder buy-in from engineering and finance teams. Current stage: Discovery complete; moving to Proposal. No major blockers identified, though budget approval cycles may extend into early 2026.
+
+### Next Steps
+- Schedule technical deep-dive with Maria and engineering leads (target: week of [insert date]) to demo integration with PostgreSQL/LiveView and address scaling concerns.
+- Share customized ROI analysis highlighting 50-70% reduction in deployment times vs. current 2-3 weeks.
+- Follow up on competitor analysis vs. HubSpot AI by EOW.
+- Secure intro to CFO for deal value alignment ($250K).
+- Monitor Q4 2026 timeline; flag any shifts in vendor lock-in discussions.
+
+(Note: Total word count: 378)

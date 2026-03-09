@@ -1,0 +1,19 @@
+{
+  "entity_index": 33,
+  "name": "Rachel Okonkwo",
+  "company": "Cirrus Cloud",
+  "industry": "PropTech",
+  "email": "rachel.okonkwo@cirruscloud.com",
+  "title": "Head of Infrastructure",
+  "facts": [
+    "Rachel Okonkwo is Head of Infrastructure at Cirrus Cloud",
+    "Cirrus Cloud is a PropTech company with 2226 employees",
+    "Tech stack: PHP, Laravel, DigitalOcean, MySQL, Redis",
+    "Deal value: $120,000",
+    "Pain points: compliance audit failures on data handling; poor visibility into pipeline health; customer churn from slow support response times; data silos between engineering and sales teams",
+    "Competitors: Outreach, custom internal tool",
+    "Decision timeline: Q3 2026",
+    "Annual revenue: ~$94M"
+  ],
+  "actual_word_count": 286
+}

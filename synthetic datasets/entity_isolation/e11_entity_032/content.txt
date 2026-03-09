@@ -1,0 +1,16 @@
+### Account Overview
+Felix Novak serves as Head of Product at Basalt Systems, a LegalTech company specializing in innovative solutions for legal workflows. With 1603 employees and an annual revenue of approximately $57M, Basalt Systems is a mid-sized player in the LegalTech space, focusing on streamlining complex legal processes through advanced technology. Felix is the primary point of contact for product-related initiatives, driving feature development and vendor evaluations to enhance operational efficiency.
+
+### Key Details
+Basalt Systems' tech stack includes Go for backend development, Kubernetes for orchestration, AWS as the primary cloud provider, DynamoDB for NoSQL database needs, and gRPC for efficient microservices communication. The company faces significant pain points, including manual processes for customer onboarding that create bottlenecks and compliance risks, as well as poor developer experience hindering feature velocity and slowing time-to-market. Currently, they rely on competitors like Apollo.io and a custom internal tool for CRM and sales operations, which have proven inadequate for scaling their LegalTech offerings.
+
+### Deal Status
+This prospect represents a high-value opportunity with an estimated deal value of $650,000. Discussions have progressed positively, with Felix expressing strong interest in solutions that automate onboarding and improve dev productivity. The decision timeline is targeted for Q4 2026, aligning with their fiscal planning cycle. No major roadblocks identified yet, though budget approval from leadership is pending post-Q3 review.
+
+### Next Steps
+- Schedule a product demo tailored to LegalTech onboarding pains by end of next week with Felix Novak (felix.novak@basaltsystems.com).
+- Follow up on tech stack compatibility POC, focusing on Go/gRPC integration, within 2 weeks.
+- Prepare competitive analysis vs. Apollo.io and internal tool for Q3 executive briefing.
+- Monitor Q4 2026 timeline; set calendar reminder for re-engagement in Q2 2026 if no movement.
+
+(Word count: 348)

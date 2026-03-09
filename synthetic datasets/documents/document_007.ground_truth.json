@@ -1,0 +1,90 @@
+{
+  "sample_id": "document_007",
+  "content_type": "wiki_document",
+  "company": "StreamOps",
+  "industry": "Digital Media",
+  "target_word_count": 2342,
+  "actual_word_count": 1286,
+  "expected_facts": [
+    {
+      "text": "Their main office is in London",
+      "type": "explicit"
+    },
+    {
+      "text": "Maria reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "Maria Rivera has been at StreamOps for 4 years",
+      "type": "explicit"
+    },
+    {
+      "text": "StreamOps is a Digital Media company with about 2009 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q2",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using spreadsheets and manual data entry",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes TypeScript, React, Node.js, GCP, MongoDB",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 5 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Clari, ZoomInfo, Outreach",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Data",
+    "company_name": "StreamOps",
+    "company_size": "1000+",
+    "technology_stack": "TypeScript, React, Node.js, GCP, MongoDB",
+    "deal_stage": "Proposal",
+    "decision_timeline": "2026-12-07",
+    "competitors_mentioned": [
+      "Clari",
+      "ZoomInfo",
+      "Outreach"
+    ],
+    "decision_maker": false,
+    "buying_process": "Two-phase: technical POC first, then business case to leadership",
+    "current_solution": "spreadsheets and manual data entry"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Brian Xu",
+      "title": "Chief Product Officer",
+      "role": "Technical Evaluator"
+    },
+    {
+      "name": "Derek Oduya",
+      "title": "Head of Product",
+      "role": "Budget Owner"
+    },
+    {
+      "name": "Brandon Costa",
+      "title": "Head of Infrastructure",
+      "role": "End User"
+    },
+    {
+      "name": "Kevin Reyes",
+      "title": "VP of Engineering",
+      "role": "Technical Evaluator"
+    }
+  ],
+  "property_coverage": 0.71
+}

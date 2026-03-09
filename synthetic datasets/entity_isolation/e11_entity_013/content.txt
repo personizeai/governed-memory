@@ -1,0 +1,17 @@
+### Account Overview
+Clarity Insights is a dynamic PropTech company specializing in innovative real estate technology solutions, boasting 174 employees and an impressive annual revenue of ~$250M. Our primary point of contact is Brian Tanaka, the Chief Revenue Officer, reachable at brian.tanaka@clarityinsights.com. As CRO, Brian oversees revenue strategies and growth initiatives, making him a pivotal decision-maker for enterprise tech partnerships. The company is navigating rapid scaling challenges in the competitive PropTech space, where efficient tooling and infrastructure are critical for maintaining market leadership.
+
+### Key Details
+Clarity Insights currently runs on a modern tech stack including PHP, Laravel for backend development, DigitalOcean as their cloud provider, MySQL for databases, and Redis for caching. However, they're grappling with significant pain points: vendor lock-in with their current cloud provider is stifling flexibility and cost optimization; fragmented tooling across departments is hindering collaboration and efficiency; security concerns with the existing architecture pose risks to sensitive PropTech data; and difficulty hiring specialized engineers is slowing down innovation and feature delivery. Key competitors in their evaluation include Apollo.io for sales intelligence, Clari for revenue forecasting, and Drift for conversational marketing—highlighting their focus on revenue operations and customer engagement tools.
+
+### Deal Status
+This represents a high-value opportunity with a potential deal value of $1,000,000. Brian has expressed strong interest in solutions that address their infrastructure and tooling gaps, positioning us favorably against the competition. The decision timeline is targeted for Q4 2026, aligning with their fiscal planning cycle and upcoming budget approvals. Current stage: Discovery complete; moving into solution validation. No major blockers identified, but security and hiring challenges must be directly mitigated in our proposal.
+
+### Next Steps
+- Schedule a technical deep-dive demo with Brian and his engineering leads by end of next week to showcase integrations with their PHP/Laravel stack and migration paths from DigitalOcean.
+- Prepare customized ROI analysis addressing vendor lock-in, security enhancements, and tooling unification—deliver by EOW.
+- Follow up on competitor intel: Position our platform's advantages over Apollo.io, Clari, and Drift in a tailored battle card.
+- Set internal review for Q4 2026 timeline alignment, including stakeholder mapping beyond Brian.
+- Monitor for hiring updates, as engineer shortages could accelerate urgency.
+
+(Word count: 378)

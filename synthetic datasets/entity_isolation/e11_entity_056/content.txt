@@ -1,0 +1,16 @@
+### Account Overview
+Derek Nakamura, Director of Sales Engineering at Cascade Systems, is our primary contact for this MarTech prospect. Cascade Systems is a MarTech company with 2923 employees and annual revenue of ~$116M. They specialize in marketing technology solutions, leveraging a modern tech stack including Go, Kubernetes, AWS, DynamoDB, and gRPC. Derek oversees the sales engineering team, focusing on technical validation and implementation strategies amid the company's rapid scaling challenges.
+
+### Key Details
+Cascade Systems faces several pain points that align with our value proposition: inconsistent messaging across the sales team, technical debt from rapid early growth, integration complexity with legacy systems, and difficulty hiring specialized engineers. These issues stem from their aggressive expansion, creating bottlenecks in sales efficiency and product scalability. Key competitors in their space include Chorus.ai, Intercom, and HubSpot AI, where Cascade is evaluating alternatives to modernize their stack and streamline operations. Derek has highlighted the need for tools that reduce integration friction and enable consistent, data-driven sales interactions.
+
+### Deal Status
+This opportunity represents a high-value deal at $650,000. Cascade Systems is in the evaluation stage, with a decision timeline targeted for Q3 2026. Initial discovery calls with Derek confirmed strong fit for our solution, particularly in addressing their sales messaging inconsistencies and legacy integration hurdles. They've expressed interest in a proof-of-concept to validate compatibility with their Go and Kubernetes environment. Competitive positioning against Chorus.ai and Intercom is favorable, as our AWS-native architecture offers superior scalability without the bloat seen in HubSpot AI.
+
+### Next Steps
+- Schedule technical deep-dive demo with Derek Nakamura (derek.nakamura@cascadesystems.com) by end of next week to showcase DynamoDB/gRPC integrations.
+- Prepare customized ROI analysis addressing technical debt and hiring challenges, incorporating their 2923-employee scale.
+- Follow up on pain point validation via shared slide deck on sales messaging consistency.
+- Align internal resources for Q3 2026 timeline, monitoring competitor activity from Intercom and others.
+
+(Word count: 348)

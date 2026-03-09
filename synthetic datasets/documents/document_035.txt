@@ -1,0 +1,50 @@
+# PharmaPipe — Account Overview
+
+## Company Background
+PharmaPipe is a healthcare technology company headquartered in Seattle, Washington, specializing in SaaS solutions for pharmaceutical pipeline management. With a lean team of approximately 36 employees—fitting squarely into the 11-50 company size category—they provide cloud-based platforms that enable pharma organizations to track drug development pipelines, manage clinical trial data, ensure regulatory compliance, and optimize resource allocation across R&D teams. Founded in 2019 by a group of industry veterans, including former executives from major players like Pfizer and Gilead, PharmaPipe emerged from the founders' frustration with legacy systems that couldn't handle the dynamic, data-intensive nature of modern drug discovery. The company's rapid growth has been fueled by its focus on interoperability and scalability, but recent challenges like fragmented tooling across departments have highlighted scalability pains as they expand their customer base of mid-sized biotech firms. Their engineering backbone relies on a robust tech stack including Java, Spring Boot for backend services, Azure for cloud infrastructure, Oracle databases for high-volume data storage, and Kafka for real-time event streaming, which supports their mission-critical applications. Despite this solid foundation, they've been grappling with customer churn stemming from slow support response times, prompting a strategic shift following a board meeting last month that reprioritized customer success investments.
+
+## Key Contacts
+| Name | Title | Role in Deal |
+|---|---|---|
+| Keiko Singh | Head of Infrastructure | Primary Contact |
+| Elena Dubois | VP of Customer Success | Champion |
+| Marcus O'Brien | VP of Customer Success | Champion |
+| Derek Ito | Head of Data | End User |
+| Derek Petrov | Director of Analytics | Technical Evaluator |
+
+Keiko Singh, who has been with PharmaPipe for six years since shortly after its founding, serves as the key decision maker (Decision Maker: True) and has been instrumental in driving infrastructure decisions. Her team oversees the integration of new tools into their existing environment, and she has emphasized high urgency (Urgency Level: High) in resolving current bottlenecks.
+
+## Meeting History
+### Meeting 1: Discovery Call (February 9, 2026)
+The initial discovery call on February 9, 2026, lasted 75 minutes and involved Keiko Singh, Elena Dubois, and our sales lead, focusing on PharmaPipe's high-level pain points and strategic fit. Keiko opened by detailing their current reliance on Salesforce with custom Apex triggers, which has led to fragmented tooling across departments—particularly between customer success, data analytics, and infrastructure teams. She highlighted customer churn from slow support response times, noting that manual processes for customer onboarding exacerbate delays, sometimes stretching from days to weeks. Elena chimed in as a champion, sharing anecdotes about how their 36-person team struggles to maintain visibility into customer interactions due to siloed systems. They discussed their tech stack—Java, Spring Boot, Azure, Oracle, and Kafka—and how it needs better orchestration for real-time customer data flows. The conversation uncovered a recent board meeting last month that shifted priorities toward unified customer engagement tools, creating immediate budget allocation of approximately $850,000 for solutions addressing these issues. Action items included sharing architecture diagrams and scheduling a technical deep-dive. Our team positioned our platform as a seamless integrator, and Keiko expressed enthusiasm, marking this as a high-urgency opportunity. They also mentioned evaluating alternatives like Chorus.ai for conversation intelligence and Intercom or Drift for chat-based support. The call ended with strong alignment on pain points, with Keiko committing to internal buy-in from Derek Ito and Derek Petrov.
+
+### Meeting 2: Technical Deep Dive (February 7, 2026)
+Held on February 7, 2026, just two days prior to the discovery call, this 90-minute session dove into technical specifics with Keiko Singh, Derek Petrov (Director of Analytics), and our engineering lead. It built on preliminary diagrams shared post-initial outreach. Derek Petrov walked through their Salesforce setup augmented by custom Apex triggers, emphasizing how it fragments workflows across their Seattle-based operations. He demonstrated live issues with Kafka streams not syncing properly with Oracle data lakes, leading to manual interventions in customer onboarding—a key pain point echoed by customer churn from sluggish support. Keiko reiterated the board's recent pivot last month, underscoring the need for tools that unify their Java/Spring Boot backend with Azure-hosted services. They probed our API compatibility, scalability for their 11-50 employee scale, and deployment timelines. We showcased integrations with similar stacks, including real-time Kafka ingestion and Oracle querying, which impressed Derek Ito (joining midway). Competitors came up again: Chorus.ai for call analytics, Intercom and Drift for omnichannel support. They customized extensively around Salesforce, but it causes delays. It was agreed that a proof-of-concept would validate fit. Next steps were outlined as looping in the full customer success team (Elena and Marcus), with Keiko pushing for rapid progression given high urgency. The session solidified technical viability, with Petrov noting our solution could halve onboarding times.
+
+## Technical Requirements
+- **Integration with Existing Tech Stack**: Seamless compatibility required with Java and Spring Boot applications, Azure cloud services, Oracle databases for persistent storage, and Kafka for event-driven architectures to avoid rip-and-replace disruptions.
+- **Unified Tooling Across Departments**: Address fragmented tooling across infrastructure, data, analytics, and customer success teams by providing a single pane of glass for customer data, replacing siloed Salesforce custom Apex triggers.
+- **Improved Support Response Times**: Real-time alerting and automation to combat customer churn from slow support, including AI-driven ticket routing and response suggestions integrated with their current CRM.
+- **Automated Customer Onboarding**: Eliminate manual processes for onboarding new pharma clients, with workflows that handle compliance checks, data migration from Oracle, and initial Kafka stream setups.
+- **Scalability for Growth**: Handle current 36-employee operations with room for expansion, supporting high-volume clinical trial data pipelines without performance degradation.
+- **Security and Compliance**: HIPAA-compliant features tailored for healthcare tech, with audit trails for regulatory reporting in drug pipeline management.
+- **Analytics and Reporting**: Advanced dashboards pulling from Kafka streams and Oracle, enabling Derek Petrov's team to monitor churn metrics and support SLAs in real-time.
+- **Omnichannel Support**: Chat, email, and voice integration to compete with tools like Intercom and Drift, focusing on pharma-specific use cases.
+
+Note: Their tech stack (Java, Spring Boot, Azure, Oracle, Kafka) was referenced consistently in meetings, demanding low-latency integrations.
+
+## Deal Status
+PharmaPipe is currently in the Proposal stage, with a potential deal value of $850,000 aligned to their allocated budget. The decision timeline targets August 7, 2026, driven by high urgency following their board meeting last month that shifted priorities toward customer retention tools. Key pain points—fragmented tooling across departments, customer churn from slow support response times, and manual processes for customer onboarding—position us strongly against their current Salesforce with custom Apex triggers solution. Keiko Singh remains the primary champion and decision maker, advocating internally. Next steps include scheduling a technical deep-dive with Keiko's engineering team to demo integrations with their Java, Spring Boot, Azure, Oracle, and Kafka stack. No major blockers yet, but momentum is building post our February meetings. Competitive pressure from Chorus.ai, Intercom, and Drift requires swift proposal delivery to capitalize on their Seattle HQ's focus on agile adoption.
+
+## Competitive Landscape
+PharmaPipe is actively evaluating several alternatives:
+- **Chorus.ai**: Strong contender for conversation intelligence and call analytics, appealing to their customer success team (Elena and Marcus) for insights into support interactions, but lacks deep integration with their Oracle/Kafka setup.
+- **Intercom**: Considered for omnichannel messaging and support automation to address slow response times and churn, though customization falls short compared to their Apex-heavy Salesforce environment.
+- **Drift**: In play for conversational marketing and chatbots, valued for quick deployment on Azure, but fragmented from their Java/Spring Boot core, risking further tooling silos.
+
+Our differentiation lies in full-stack pharma pipeline compatibility and onboarding automation, which they've noted as gaps in these options.
+
+## Risk Factors
+- **Post-Board Priority Shifts**: The recent board meeting last month altered focus; if further changes occur, the $850k budget could be reallocated away from customer tools toward core R&D.
+- **Competitor Traction**: Chorus.ai, Intercom, or Drift could win on niche features like AI chat if we delay the next technical deep-dive, especially given Keiko's high urgency.
+- **Technical Integration Hurdles**: Their heavy reliance on custom Apex triggers and Kafka streams might reveal unforeseen compatibility issues during PoC, derailing the August 7 timeline; they've customized extensively around Salesforce, and it causes delays in processes that span departments.

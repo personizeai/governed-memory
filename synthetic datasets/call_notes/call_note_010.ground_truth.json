@@ -1,0 +1,54 @@
+{
+  "sample_id": "call_note_010",
+  "content_type": "call_notes",
+  "company": "VaultEdge",
+  "industry": "Fintech",
+  "duration_minutes": 25,
+  "target_word_count": 470,
+  "actual_word_count": 277,
+  "expected_facts": [
+    {
+      "text": "Their tech stack includes TypeScript, React, Node.js, GCP, MongoDB",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with technical debt from rapid early growth",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Gong",
+      "type": "explicit"
+    },
+    {
+      "text": "VaultEdge is a Fintech company with about 47 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with security concerns with current architecture",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Data",
+    "company_name": "VaultEdge",
+    "company_size": "11-50",
+    "technology_stack": "TypeScript, React, Node.js, GCP, MongoDB",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "security concerns with current architecture",
+      "technical debt from rapid early growth"
+    ],
+    "deal_value": 120000,
+    "decision_timeline": "2026-12-10",
+    "competitors_mentioned": [
+      "Gong"
+    ],
+    "decision_maker": true,
+    "next_steps": "Anita will share the RFP by end of week"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2
+  },
+  "property_coverage": 0.79
+}

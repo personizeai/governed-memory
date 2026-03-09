@@ -1,0 +1,91 @@
+{
+  "sample_id": "document_030",
+  "content_type": "wiki_document",
+  "company": "DockSmart",
+  "industry": "Logistics",
+  "target_word_count": 2304,
+  "actual_word_count": 1453,
+  "expected_facts": [
+    {
+      "text": "Maria reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 19 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "DockSmart is a Logistics company with about 786 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 4 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "Maria Chen has been at DockSmart for 7 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Apollo.io",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q3",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Analytics",
+    "company_name": "DockSmart",
+    "company_size": "201-1000",
+    "technology_stack": "Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+    "decision_timeline": "2026-05-30",
+    "competitors_mentioned": [
+      "Apollo.io"
+    ],
+    "decision_maker": true,
+    "next_steps": "Maria will share the RFP by end of week",
+    "buying_process": "Need approval from their CFO (CFO) for anything over $100K"
+  },
+  "planted_issues": {
+    "pronoun_issues": 1,
+    "temporal_issues": 1,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "James Hassan",
+      "title": "Head of Product",
+      "role": "Champion"
+    },
+    {
+      "name": "Alex Bhandari",
+      "title": "Director of IT",
+      "role": "Technical Evaluator"
+    },
+    {
+      "name": "Amanda Petrov",
+      "title": "VP of Customer Success",
+      "role": "Budget Owner"
+    },
+    {
+      "name": "Anita Nakamura",
+      "title": "Director of IT",
+      "role": "Champion"
+    }
+  ],
+  "property_coverage": 0.64
+}

@@ -1,0 +1,19 @@
+{
+  "entity_index": 56,
+  "name": "Derek Nakamura",
+  "company": "Cascade Systems",
+  "industry": "MarTech",
+  "email": "derek.nakamura@cascadesystems.com",
+  "title": "Director of Sales Engineering",
+  "facts": [
+    "Derek Nakamura is Director of Sales Engineering at Cascade Systems",
+    "Cascade Systems is a MarTech company with 2923 employees",
+    "Tech stack: Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "Deal value: $650,000",
+    "Pain points: inconsistent messaging across sales team; technical debt from rapid early growth; integration complexity with legacy systems; difficulty hiring specialized engineers",
+    "Competitors: Chorus.ai, Intercom, HubSpot AI",
+    "Decision timeline: Q3 2026",
+    "Annual revenue: ~$116M"
+  ],
+  "actual_word_count": 317
+}

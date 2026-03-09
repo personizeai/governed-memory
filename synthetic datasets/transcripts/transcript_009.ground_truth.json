@@ -1,0 +1,80 @@
+{
+  "sample_id": "transcript_009",
+  "content_type": "meeting_transcript",
+  "company": "SyncWave",
+  "industry": "B2B SaaS",
+  "duration_minutes": 30,
+  "target_word_count": 2143,
+  "actual_word_count": 2808,
+  "expected_facts": [
+    {
+      "text": "They've also been evaluating Chorus.ai, Drift, Intercom",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 18 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using legacy Java application maintained by one person",
+      "type": "explicit"
+    },
+    {
+      "text": "SyncWave is a B2B SaaS company with about 700 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $600,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes C#, .NET, Azure, SQL Server, RabbitMQ",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $109M",
+      "type": "explicit"
+    },
+    {
+      "text": "Maria Singh has been at SyncWave for 5 years",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Sales",
+    "company_name": "SyncWave",
+    "company_size": "201-1000",
+    "technology_stack": "C#, .NET, Azure, SQL Server, RabbitMQ",
+    "deal_stage": "Negotiation",
+    "deal_value": 600000,
+    "decision_timeline": "2026-08-29",
+    "competitors_mentioned": [
+      "Chorus.ai",
+      "Drift",
+      "Intercom"
+    ],
+    "buying_process": "IT committee evaluates quarterly, next window is Q3 2026",
+    "current_solution": "legacy Java application maintained by one person",
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 5,
+    "temporal_issues": 4,
+    "duplicate_facts": 1
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.79,
+  "entity_id": "maria-syncwave",
+  "entity_email": "maria@syncwave.io",
+  "entity_website": "https://syncwave.io",
+  "contact_name": "Maria",
+  "record_id": "crm-maria-syncwave"
+}

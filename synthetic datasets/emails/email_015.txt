@@ -1,0 +1,184 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Marcus Chen <marcus.chen@adstack.com>  
+Subject: Tailored Solution for AdStack's Marketing and Support Challenges  
+Date: Fri, Feb 06, 2026, 10:15 AM PST  
+
+Hi Marcus,  
+
+I hope this email finds you well. I came across your profile on LinkedIn and noticed you've been VP of Marketing at AdStack for 4 years now—impressive tenure at a growing digital media company with around 828 employees. AdStack's focus on innovative ad tech is really standing out in the industry.  
+
+That said, I also saw mentions in recent industry reports about the challenges many like AdStack face, including losing a major customer last quarter due to onboarding issues and ongoing customer churn from slow support response times. These are common pain points, especially with data silos between engineering and sales teams slowing things down. You're currently using HubSpot CRM with Zapier automations, which I know works for basics but often falls short on seamless integration as teams scale.  
+
+At Technova, we specialize in a unified data platform that eliminates those silos, accelerates onboarding, and cuts support response times by 40% on average for clients in your space. It deploys natively on Go, Kubernetes, AWS, and DynamoDB, with full gRPC support for microservices—perfect for your stack. We've helped similar companies plan migrations off legacy systems by end of year, reporting directly to execs like your CEO.  
+
+Would you be open to a 15-minute call next week to discuss how this could fit your goals? I can share a quick case study tailored to digital media firms.  
+
+Best regards,  
+Alex Morgan  
+Sales Representative  
+Technova.io  
+(415) 555-0101  
+alex.morgan@technova.io  
+
+---
+
+From: Marcus Chen <marcus.chen@adstack.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Tailored Solution for AdStack's Marketing and Support Challenges  
+Date: Sat, Feb 07, 2026, 9:45 AM PST  
+
+Hi Alex,  
+
+Thanks for reaching out—appreciate the personalization. We've definitely been feeling the churn from slow support and those data silos are killing collaboration between eng and sales. HubSpot + Zapier gets us by, but it's clunky for our Go/K8s setup on AWS.  
+
+Quick question: How exactly does Technova handle real-time data sync across DynamoDB and gRPC services? We're planning a full migration off legacy systems by end of year, and I report directly to the CEO, so timing is critical.  
+
+Best,  
+Marcus Chen  
+VP of Marketing  
+AdStack  
+(650) 555-0202  
+marcus.chen@adstack.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Marcus Chen <marcus.chen@adstack.com>  
+Subject: Re: Tailored Solution for AdStack's Marketing and Support Challenges  
+Date: Mon, Feb 09, 2026, 2:30 PM PST  
+
+Hi Marcus,  
+
+Great to hear from you—thanks for the quick reply and for sharing those details.  
+
+> Quick question: How exactly does Technova handle real-time data sync across DynamoDB and gRPC services? We're planning a full migration off legacy systems by end of year, and I report directly to the CEO, so timing is critical.  
+
+Technova uses a reactive streaming architecture built on Kafka and AWS Kinesis for sub-second real-time sync between DynamoDB tables and gRPC endpoints. It auto-maps schemas without custom code, handling high-throughput ad data typical for digital media like AdStack's 828-employee operation. This directly addresses your silos, feeding unified customer insights from eng metrics into sales workflows—reducing churn from slow support by prioritizing tickets based on real-time signals. No more Zapier hacks; it's native to your Go/Kubernetes stack.  
+
+As a light proposal to kick things off: For a company your size (201-1000 employees), our Starter Enterprise plan starts at $350,000 annually, including full migration support, custom gRPC integrations, and onboarding that prevents issues like the major customer loss you had last quarter. We've deployed this for 15+ similar firms, with 92% retention post-migration. Deal stage would move quickly to proposal once we align on your pains.  
+
+Open to hopping on a call this week?  
+
+Best,  
+Alex Morgan  
+Sales Representative  
+Technova.io  
+(415) 555-0101  
+alex.morgan@technova.io  
+
+---
+
+From: Marcus Chen <marcus.chen@adstack.com>  
+To: Lisa Lee <lisa.lee@adstack.com>  
+CC: Alex Morgan <alex.morgan@technova.io>  
+Subject: Fwd: Tailored Solution for AdStack's Marketing and Support Challenges  
+Date: Tue, Feb 10, 2026, 11:20 AM PST  
+
+Lisa,  
+
+Wanted to loop you in as Director of IT—Alex from Technova reached out with a proposal that seems promising for our migration plans by end of year. It ties into the data silos and churn issues we've discussed, and he's proposing something around $350k that works with our Go, Kubernetes, AWS, DynamoDB, gRPC stack. Currently on HubSpot + Zapier, but this could unify eng/sales better. I report to the CEO on this, so your technical take would be great before we proceed.  
+
+---------- Forwarded message ---------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Mon, Feb 09, 2026, 2:30 PM PST  
+Subject: Re: Tailored Solution for AdStack's Marketing and Support Challenges  
+To: Marcus Chen <marcus.chen@adstack.com>  
+
+Hi Marcus,  
+
+[Full body of Alex's previous email quoted here for brevity in this response, but in full thread it would be included]  
+
+Best,  
+Marcus Chen  
+VP of Marketing  
+AdStack  
+(650) 555-0202  
+marcus.chen@adstack.com  
+
+---
+
+From: Lisa Lee <lisa.lee@adstack.com>  
+To: Marcus Chen <marcus.chen@adstack.com>, Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Tailored Solution for AdStack's Marketing and Support Challenges  
+Date: Wed, Feb 11, 2026, 4:15 PM PST  
+
+Hi Alex and Marcus,  
+
+Thanks for forwarding this, Marcus. The proposal sounds aligned with our pains around customer churn from slow support response times and data silos between engineering and sales teams. He mentioned the real-time sync via Kafka/Kinesis, but how does it specifically handle schema evolution in DynamoDB without downtime during our Kubernetes deploys? We've lost customers before due to onboarding glitches, and with 828 employees relying on this, we can't afford disruptions. Also, since you're not the final decision maker, Marcus, we'd need CEO buy-in post-tech validation.  
+
+Our current HubSpot + Zapier setup is brittle for gRPC calls—curious if Technova's $350k package includes custom adapters for that?  
+
+Lisa  
+
+Lisa Lee  
+Director of IT  
+AdStack  
+(650) 555-0303  
+lisa.lee@adstack.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Lisa Lee <lisa.lee@adstack.com>, Marcus Chen <marcus.chen@adstack.com>  
+Subject: Re: Tailored Solution for AdStack's Marketing and Support Challenges  
+Date: Thu, Feb 12, 2026, 9:45 AM PST  
+
+Hi Lisa and Marcus,  
+
+Thanks for the intro, Lisa—great to have IT perspective on this.  
+
+> The proposal sounds aligned with our pains around customer churn from slow support response times and data silos between engineering and sales teams. He mentioned the real-time sync via Kafka/Kinesis, but how does it specifically handle schema evolution in DynamoDB without downtime during our Kubernetes deploys? We've lost customers before due to onboarding glitches, and with 828 employees relying on this, we can't afford disruptions. Also, since you're not the final decision maker, Marcus, we'd need CEO buy-in post-tech validation.  
+
+> Our current HubSpot + Zapier setup is brittle for gRPC calls—curious if Technova's $350k package includes custom adapters for that?  
+
+Excellent questions. For DynamoDB schema evolution, Technova employs a zero-downtime CDC (Change Data Capture) pattern with AWS DMS and our schema registry, which auto-resolves conflicts via semantic versioning. During K8s rolling deploys, it uses blue-green traffic shifting— we've benchmarked <50ms latency spikes even under 10k ops/sec loads, common for AdStack-scale digital media. No disruptions, and it prevented onboarding losses for a peer firm last quarter.  
+
+Yes, the $350k Enterprise plan (Deal Value locked at that for your 201-1000 size) includes 40 hours of custom gRPC adapter dev, fully integrated into your Go services. It replaces Zapier fragility with native protobuf serialization, syncing eng telemetry to sales in real-time—directly cutting support churn. Marcus's point on CEO reporting is spot-on; we can prep a one-pager for that.  
+
+This puts us at Proposal stage—shall we schedule a 30-min tech deep-dive next week? My calendar: [calendly.technova.io/alex].  
+
+Best,  
+Alex Morgan  
+Sales Representative  
+Technova.io  
+(415) 555-0101  
+alex.morgan@technova.io  
+
+---
+
+From: Marcus Chen <marcus.chen@adstack.com>  
+To: Alex Morgan <alex.morgan@technova.io>, Lisa Lee <lisa.lee@adstack.com>  
+Subject: Re: Tailored Solution for AdStack's Marketing and Support Challenges  
+Date: Fri, Feb 13, 2026, 1:10 PM PST  
+
+Hi Alex, Lisa,  
+
+Lisa's questions nailed it—your responses on DynamoDB and gRPC look solid for our stack and migration timeline. He handled the schema stuff perfectly without missing our churn pains from last quarter's customer loss. With the budget at ~$350k and end-of-quarter push, let's get a call on the books. I'm looping back to CEO as I report directly to him, but this seems promising over HubSpot/Zapier.  
+
+How's Thursday next week at 2pm PST? Confirm if that works.  
+
+Marcus  
+VP of Marketing  
+AdStack  
+(650) 555-0202  
+marcus.chen@adstack.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Marcus Chen <marcus.chen@adstack.com>, Lisa Lee <lisa.lee@adstack.com>  
+Subject: Re: Tailored Solution for AdStack's Marketing and Support Challenges  
+Date: Fri, Feb 13, 2026, 3:25 PM PST  
+
+Hi Marcus and Lisa,  
+
+Perfect—Thursday next week at 2pm PST is locked in my calendar. I'll send a Zoom link and agenda tomorrow, covering tech demo, migration roadmap off legacy by EOY, ROI on churn reduction (proj. 25% drop), and next steps to CEO. Thrilled to move this Proposal forward for AdStack's data silos and support wins. She raised great points on downtime, which we'll demo live.  
+
+See you then!  
+
+Best,  
+Alex Morgan  
+Sales Representative  
+Technova.io  
+(415) 555-0101  
+alex.morgan@technova.io

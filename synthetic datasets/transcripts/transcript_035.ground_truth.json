@@ -1,0 +1,86 @@
+{
+  "sample_id": "transcript_035",
+  "content_type": "meeting_transcript",
+  "company": "PharmaPipe",
+  "industry": "Healthcare Tech",
+  "duration_minutes": 45,
+  "target_word_count": 3424,
+  "actual_word_count": 1964,
+  "expected_facts": [
+    {
+      "text": "They're dealing with data silos between engineering and sales teams",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Salesforce Einstein, HubSpot AI, Apollo.io",
+      "type": "explicit"
+    },
+    {
+      "text": "Emily Johnson has been at PharmaPipe for 3 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 5 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $75,000",
+      "type": "explicit"
+    },
+    {
+      "text": "PharmaPipe is a Healthcare Tech company with about 329 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using internal Python scripts pulling from multiple APIs",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with vendor lock-in with current cloud provider",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Python, Django, AWS, PostgreSQL, Redis",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Engineering",
+    "company_name": "PharmaPipe",
+    "company_size": "201-1000",
+    "technology_stack": "Python, Django, AWS, PostgreSQL, Redis",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "vendor lock-in with current cloud provider",
+      "data silos between engineering and sales teams",
+      "scaling issues during peak traffic periods",
+      "poor visibility into pipeline health"
+    ],
+    "deal_value": 75000,
+    "competitors_mentioned": [
+      "Salesforce Einstein",
+      "HubSpot AI",
+      "Apollo.io"
+    ],
+    "decision_maker": true,
+    "next_steps": "Send pricing proposal to Emily by Friday",
+    "buying_process": "Can sign off directly up to $200K, board approval above that",
+    "current_solution": "internal Python scripts pulling from multiple APIs"
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 1,
+    "duplicate_facts": 2
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.86,
+  "entity_id": "emily-pharmapipe",
+  "entity_email": "emily@pharmapipe.io",
+  "entity_website": "https://pharmapipe.io",
+  "contact_name": "Emily",
+  "record_id": "crm-emily-pharmapipe"
+}

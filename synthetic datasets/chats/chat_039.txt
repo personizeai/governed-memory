@@ -1,0 +1,169 @@
+#deals-pixelgrid
+
+[09:15] @alex.m: Quick update from yesterday's call with Simone at PixelGrid. She's CRO there, been with them 4 years. They're struggling with data silos between eng and sales tbh.
+
+[👍 from @sarah.k]
+
+[09:17] @sarah.k: Oh yeah? What'd she say exactly?
+
+  ↳ [09:18] @alex.m: Basically poor visibility into pipeline health because of it. Ngl, sounds painful.
+
+[09:20] @mike.r: Makes sense. They're a digital media co with ~200 folks right? Company size 51-200.
+
+[09:21] @brian.a: Yup, confirmed on LinkedIn. Got it.
+
+[09:22] @alex.m: Deal stage is negotiation now. They want to measure ROI on AI initiatives better.
+
+[09:24] @sarah.k: ROI on AI? That's their big pain?
+
+  ↳ [09:25] @alex.m: Yeah, she mentioned it twice. Hard to track.
+
+[09:27] @mike.r: Current solution is some legacy Java app maintained by one guy. No wonder.
+
+[09:28] @brian.a: LOL one person? That's risky af.
+
+[09:30] @alex.m: Their stack is Elixir, Phoenix, Fly.io, PostgreSQL, LiveView. We integrate well imo.
+
+[👍 from @mike.r]
+
+[09:32] @sarah.k: Nice, Phoenix fan here. But they're evaluating Drift and building in-house.
+
+[09:34] @mike.r: In-house? That's competitor #1.
+
+[09:35] @brian.a: Drift too. We gotta differentiate on the silos fix.
+
+[09:37] @alex.m: Simone's team needs a POC environment set up. Technical POC first, then business case to leadership.
+
+[09:39] @sarah.k: Two-phase buying process. Got it.
+
+[09:40] @mike.r: When's the POC? Tomorrow?
+
+  ↳ [09:41] @alex.m: Aiming for next week, but lmk if we can push.
+
+[09:43] @brian.a: She said they're not interested in pricing yet? Who is she again?
+
+[09:45] @sarah.k: Simone right? Been there 4 years.
+
+[09:46] @mike.r: Yeah her. Fwiw, last Friday they mentioned ROI issues too.
+
+[09:48] @alex.m: @here thoughts on POC setup? Need eng input.
+
+[09:50] @brian.a: I can spin up env on Fly.io side. Matches their stack.
+
+[09:52] @sarah.k: [shared link: PixelGrid pricing page] Check this, but hold off sharing till POC.
+
+[09:54] @mike.r: 👍 Makes sense.
+
+[09:56] @alex.m: Pain points nailed: ROI on AI, silos, pipeline visibility.
+
+[09:58] @brian.a: He mentioned the Java app is a headache. Who’s he?
+
+  ↳ [09:59] @alex.m: Their eng lead I think.
+
+[10:01] @sarah.k: Next sprint we should demo LiveView integration.
+
+[10:03] @mike.r: Agreed. Poor visibility is killing their sales team.
+
+[10:05] @brian.a: Got it. Simone push for POC?
+
+[10:07] @alex.m: Yes, her team specifically.
+
+[10:09] @sarah.k: They’re Digital Media, 200 employees. Fast growing.
+
+[10:11] @mike.r: ~200 yeah. Stack sounds solid tho.
+
+[10:13] @brian.a: Legacy Java by one dev... they're screwed if he leaves.
+
+[10:15] @alex.m: Exactly. Building in-house is nuts imo.
+
+[10:17] @sarah.k: Drift won't fix silos.
+
+[10:19] @mike.r: Nope. We will.
+
+[10:21] @brian.a: POC env ready by EOD tomorrow?
+
+  ↳ [10:22] @alex.m: Perfect, lmk.
+
+[10:24] @sarah.k: She wants data from eng-sales unified. Clear?
+
+[10:26] @mike.r: Yup.
+
+[10:28] @alex.m: ROI measurement is key for AI stuff.
+
+[10:30] @brian.a: Repeated that last call.
+
+[10:32] @sarah.k: Who's setting up the env? Him?
+
+[10:34] @mike.r: Me. On it.
+
+[10:36] @alex.m: Thx. Negotiation stage means close soon?
+
+[10:38] @brian.a: If POC shines.
+
+[10:40] @sarah.k: Two-phase: tech then biz case.
+
+[10:42] @mike.r: Gotcha.
+
+[10:44] @alex.m: Simone's been there 4 years, knows the pains deep.
+
+[10:46] @brian.a: Yeah she does.
+
+[10:48] @sarah.k: Pipeline health visibility sucks for them.
+
+[10:50] @mike.r: Data silos main culprit.
+
+[10:52] @alex.m: Elixir/Phoenix love from their side.
+
+[10:54] @brian.a: Fly.io too.
+
+[10:56] @sarah.k: PostgreSQL standard.
+
+[10:58] @mike.r: LiveView is clutch.
+
+[11:00] @alex.m: Competitors: Drift underwhelms.
+
+[11:02] @brian.a: In-house takes forever.
+
+[11:04] @sarah.k: One guy on Java? Disaster waiting.
+
+[11:06] @mike.r: Agreed.
+
+[11:08] @alex.m: @channel confirm POC for next week?
+
+[👍 from @brian.a] [👍 from @sarah.k]
+
+[11:10] @brian.a: Yes.
+
+[11:12] @sarah.k: Simone excited imo.
+
+[11:14] @mike.r: She say that?
+
+[11:16] @alex.m: Implied. ROI fix is huge.
+
+[11:18] @brian.a: Tomorrow's setup call?
+
+[11:20] @sarah.k: Last Friday was intro.
+
+[11:22] @mike.r: Next sprint demo.
+
+[11:24] @alex.m: Perfect.
+
+[11:26] @brian.a: Got it.
+
+[11:28] @sarah.k: They’re 51-200 size, scalable.
+
+[11:30] @mike.r: Digital Media pros.
+
+[11:32] @alex.m: Deal's heating up.
+
+[11:34] @brian.a: 👍
+
+[11:36] @sarah.k: He’s maintaining Java alone? Wild.
+
+[11:38] @mike.r: Yeah him.
+
+[11:40] @alex.m: POC will wow.
+
+[11:42] @brian.a: Fingers crossed.
+
+[11:44] @sarah.k: Makes sense.

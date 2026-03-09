@@ -1,0 +1,16 @@
+### Account Overview
+Drift Analytics is a prominent Healthcare Tech company specializing in advanced analytics solutions for healthcare providers. With approximately 2426 employees and annual revenue of ~$81M, the company has experienced rapid growth, leading to operational challenges. Key contact is Amanda O'Brien, Head of Product at Drift Analytics, reachable at amanda.o'brien@driftanalytics.com. As Head of Product, Amanda oversees product strategy and development, making her a pivotal decision-maker for tech infrastructure investments.
+
+### Key Details
+Drift Analytics' tech stack includes Java, Micronaut, GCP, Spanner, and Pub/Sub, reflecting a modern, cloud-native architecture optimized for data-intensive healthcare applications. However, the company faces significant pain points: fragmented tooling across departments hinders collaboration and efficiency; technical debt accumulated from rapid early growth is slowing innovation; and scaling issues during peak traffic periods cause performance bottlenecks and downtime risks. Primary competitor in their space is Gong, whose conversational intelligence tools overlap with Drift's analytics needs, positioning our solution as a strong alternative for unified insights.
+
+### Deal Status
+This represents a high-potential opportunity with an estimated deal value of $1,000,000. Amanda O'Brien has expressed strong interest in addressing their scaling and tooling fragmentation through our platform. The decision timeline is targeted for Q2 2026, aligned with their fiscal planning cycle. Current stage: Discovery complete; moving into technical evaluation. No major blockers identified, though budget approval from leadership is pending post-Q1 review.
+
+### Next Steps
+- Schedule demo with Amanda O'Brien and engineering team by end of next week to showcase integration with Java/Micronaut and GCP ecosystem.
+- Follow up on POC request for Spanner/Pub/Sub scalability testing to directly tackle peak traffic pain points.
+- Prepare competitive analysis vs. Gong, highlighting our advantages in healthcare-specific compliance and reduced technical debt.
+- Set internal review in 2 weeks to align on pricing for $1M deal size and Q2 2026 close.
+
+(Word count: 347)

@@ -1,0 +1,20 @@
+**Call Note: Follow-up Sales Meeting**  
+**Date:** January 24, 2026  
+**Contact:** Sarah Ibrahim, VP Engineering, Meridian Labs (Manufacturing)  
+**Duration:** 45 min | **Attendees:** Sarah Ibrahim, [My Name]  
+
+**Key Discussion Points:**  
+- **UPDATE - Concern Shift:** Meridian Labs confirmed their main concern has shifted from legacy system integration to data silos between engineering, production, and quality teams. This supersedes prior focus; silos causing 20-30% delays in R&D-to-manufacturing handoffs. Sarah emphasized need for real-time cross-team data visibility in our platform.  
+
+- Reviewed demo feedback: Strong interest in our analytics dashboard for silo-breaking workflows. Sarah noted it aligns better than Competitor X's offering.  
+
+- Timeline: POC requested for Feb 2026; decision targeted end-Q1 to align with FY budget cycle. Budget: $450K-$600K allocated for enterprise deployment.  
+
+- Risks: Internal stakeholder buy-in from ops team pending; Sarah to loop in Director of Operations.  
+
+**Next Steps:**  
+- Send customized POC proposal by Jan 28, highlighting silo resolution case studies (manufacturing refs).  
+- Schedule ops team intro call wk of Feb 3.  
+- Follow up Jan 30 on proposal receipt.  
+
+**Overall Sentiment:** Positive shift; high potential if silos addressed. Opportunity value: $550K ACV.

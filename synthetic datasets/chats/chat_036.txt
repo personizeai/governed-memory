@@ -1,0 +1,92 @@
+[09:15] @alex.m: @channel heads up on ShopFront Digital - had intro call with Brian Santos yesterday. He's CRO, reports directly to CEO. Big e-comm player, ~1347 employees.  
+[👍 from @sarah.k]  
+[09:17] @sarah.k: Nice! What's their stack?  
+[09:18] @alex.m: C#, .NET, Azure, SQL Server, RabbitMQ. Perfect fit imo.  
+[09:19]  ↳ @mike.r: RabbitMQ? They do a ton of queues?  
+[09:20] @alex.m: Yeah, for order processing tbh.  
+[09:21] @chloe.a: Got it. Pain points?  
+[09:22] @alex.m: Inconsistent messaging across sales team, data silos between eng and sales. Also scaling issues during peak traffic.  
+[09:23] @sarah.k: Ngl that sounds familiar. Budget?  
+[09:24] @alex.m: ~$1.2M allocated. Deal value lines up at 1,200,000. Critical urgency.  
+[09:25]  ↳ @chloe.a: $1.2M? Sweet.  
+[👍 from @mike.r]  
+[09:26] @mike.r: Brian been there long?  
+[09:27] @alex.m: 6 years. Solid guy.  
+[09:28] @sarah.k: Security audit Q3 - they mention compliance failures?  
+[09:29] @alex.m: Yep, data handling issues. She's pushing hard on that.  
+[09:30] @chloe.a: Who's she?  
+[09:31] @alex.m: Brian's team lead I think. Anyway, next call tomorrow.  
+[09:32]  ↳ @mike.r: Tomorrow? Lmk if I should join.  
+[09:33] @sarah.k: Makes sense. Tech stack repeat: C#, .NET heavy.  
+[09:34] @alex.m: [shared link: ShopFront Digital pricing page] Check this for context.  
+[09:35] @mike.r: Viewed it. Their pricing is all over the place - ties to inconsistent messaging.  
+[09:36] @chloe.a: Fwiw, data silos killing their eng-sales collab.  
+[09:37]  ↳ @sarah.k: Yup, heard that last Friday on the other call.  
+[09:38] @alex.m: @here we need demo prep. Scaling peaks are brutal for them.  
+[09:39] @mike.r: On it. Brian reports to CEO directly, right? Leverage that.  
+[09:40] @sarah.k: Confirmed, 6 years at ShopFront.  
+[09:41] @chloe.a: Budget $1.2M again? Locked in?  
+[09:42] @alex.m: Approx, yeah. He said they're not interested in smaller pilots.  
+[09:43]  ↳ @mike.r: He who?  
+[09:44] @sarah.k: Urgency critical with Q3 audit. Got it.  
+[09:45] @chloe.a: 👍 Scaling issues during peaks - our strength.  
+[09:46] @alex.m: Thread on compliance: past failures on data handling. Fix that narrative.  
+[09:47]  ↳ @mike.r: Will do. Next sprint integrate their RabbitMQ demo?  
+[09:48] @sarah.k: Yes please. Company size 1000+, checks out.  
+[09:49] @alex.m: Pain points summary: inconsistent sales msg, silos, scaling, audits.  
+[09:50] @chloe.a: She mentioned silos specifically?  
+[09:51]  ↳ @alex.m: Think so, eng-sales disconnect bad.  
+[09:52] @mike.r: Tech stack: Azure + SQL Server core. No issues.  
+[09:53] @sarah.k: Deal value 1.2M - push for close pre-Q3.  
+[09:54] @alex.m: Agreed. Brian's call notes incoming.  
+[09:55] @chloe.a: Got it.  
+[09:56]  ↳ @sarah.k: 👍  
+[09:57] @mike.r: Last Friday he said budget allocated.  
+[09:58] @alex.m: Yep. CRO title gives him pull.  
+[10:02] @sarah.k: Quick q: they use .NET for frontend too?  
+[10:03] @alex.m: Mostly backend, but yeah.  
+[10:04] @chloe.a: E-comm peaks = Black Friday chaos.  
+[10:05] @mike.r: Our scaling story wins.  
+[👍 from @alex.m]  
+[10:06] @sarah.k: Data silos: eng has metrics sales can't see.  
+[10:07] @alex.m: Exactly. Tomorrow demo focus there.  
+[10:08] @chloe.a: Lmk agenda.  
+[10:09]  ↳ @mike.r: I'll share deck.  
+[10:10] @sarah.k: Fwiw, compliance audit failures hurt them last year.  
+[10:11] @alex.m: Q3 looming. Critical.  
+[10:12] @mike.r: Brian Santos 6 years - loyal.  
+[10:13] @chloe.a: Reports to CEO, fast track.  
+[10:14] @sarah.k: Stack repeat: C#, Azure, RabbitMQ. Good.  
+[10:15] @alex.m: All good?  
+[10:16] @chloe.a: 👍  
+[10:17] @mike.r: Yes.  
+[10:18] @sarah.k: One more: inconsistent messaging - sales team all over.  
+[10:19] @alex.m: Fix with our unified platform.  
+[10:20] @chloe.a: Pain point nailed.  
+[14:22] @alex.m: Update: Brian looped in eng lead. They love stack fit.  
+[14:23] @sarah.k: Nice! Silos next?  
+[14:24] @mike.r: He confirm budget?  
+[14:25]  ↳ @alex.m: $1.2M yes.  
+[14:26] @chloe.a: Tomorrow still on?  
+[14:27] @sarah.k: Security audit Q3 pressure high.  
+[14:28] @alex.m: Critical urgency level.  
+[14:29] @mike.r: Got it. Scaling demo ready.  
+[14:30] @chloe.a: 👍  
+[14:31]  ↳ @sarah.k: Perfect.  
+[15:45] @sarah.k: @here post-call: Brian wants POC next sprint.  
+[15:46] @alex.m: He said scaling fixed their peaks.  
+[15:47] @chloe.a: Who's he? Brian?  
+[15:48] @mike.r: Budget holds at 1,200,000.  
+[15:49] @alex.m: Yes. Data silos demo wowed.  
+[15:50] @sarah.k: Inconsistent msg pain gone.  
+[15:51] @chloe.a: Compliance next.  
+[15:52] @mike.r: Q3 audit savior.  
+[15:53] @alex.m: Deal moving fast.  
+[15:54] @sarah.k: CRO power.  
+[15:55] @chloe.a: 1347 employees, enterprise ready.  
+[15:56] @mike.r: 👍  
+[15:57] @alex.m: Closing thoughts?  
+[15:58] @sarah.k: Green light.  
+[15:59] @chloe.a: Makes sense.  
+[16:00] @mike.r: All set.  
+[16:01] @alex.m: Thanks team! 🚀

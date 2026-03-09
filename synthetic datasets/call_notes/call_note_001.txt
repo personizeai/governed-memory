@@ -1,0 +1,42 @@
+Call with: Ivan Ibrahim, VP of Marketing at TechFlow Inc  
+Date: February 21, 2026  
+Duration: 15 min  
+
+Key Points:  
+- Ivan Ibrahim VP Mktg TechFlow Inc B2B SaaS ~705 emp 201-1000 sz  
+- Been there 3yrs knows pains well  
+- Mig off legacy sys by EOQ def pushing it  
+- Lost big cust last Q onboarding issues killed renewal  
+- Sec concerns curr arch bad vulns  
+- Stack TS React Node GCP Mongo heavy GCP  
+- Vendor lock-in GCP sucking them in prob tech debt rapid early growth too  
+- Pains lock-in sec tech debt all hurting scale  
+- Deal qual stage early  
+- He's not DM just influencer  
+- Timeline 2026-06-04 target but IT comm evals Q next window Q3 2026  
+- Urgency low they're chill no fire  
+- Likes our pitch re: easy mig no lock-in  
+- Asked demos for React/Node int  
+- They eval quarterly IT led  
+- He's presenting int circles back  
+- Prob tech debt from growth killing perf  
+- Sec scares post lost cust  
+- GCP lock-in migration nightmare  
+- Wants f/u on our GCP exit strats  
+- Low urgency bc budget Q3  
+- Qual'd pains timeline next steps  
+- Not buyer but connected IT  
+- EOQ mig aggressive but he's for it  
+- Stack matches ours perf  
+
+Action Items:  
+- [ ] Send deck + GCP mig case studies to Ivan (me) today  
+- [ ] Sch f/u call next week post his int pres (me)  
+- [ ] Ivan present our soln int team this week  
+- [ ] Log pains qual stage CRM update (me)  
+- [ ] Ping IT contact if he shares (Ivan)  
+
+Notes:  
+Ivan solid contact 3yrs in knows TechFlow inside out B2B SaaS pains firsthand. They're mid sz 705ish ramping but legacy drag + lost cust onboarding flop has them scrambling sec holes everywhere curr arch esp GCP heavy. He dug our no-lock-in angle for TS/React/Node stack match said tech debt from early boom killing them perf/scalability. Not the DM but pushing IT comm hard timeline Jun4 but urgency low next eval Q3. He's pres internally next wk cb w/ feedback prob intro IT if hot.  
+
+They def need mig by EOQ he's optimistic but IT slow quarterly cadence. Asked specifics re: our Mongo/GCP exits we've done similar. Qual good pains align vendor lock-in sec debt all check. F/U next week lock in qual stage low burn no rush bc budget cycle. He mentioned they're eyeing alts but our React int sweet spot. Keep nurturing he's connected.

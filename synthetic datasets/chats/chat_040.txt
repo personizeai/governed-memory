@@ -1,0 +1,46 @@
+[09:15] @alex.m: Quick update from my call with James Baker at ClassGrid this morning. EdTech co with ~50 employees, doing ~$42M ARR. They're in discovery stage with us, budget around $450k. [🔥 from @mike.r]
+[09:16] @sarah.k: Nice! Who's James? DM?
+[09:17] @alex.m: Nah, VP of Marketing. Been there 2 years. Not the decision maker tbh.
+[09:18]  ↳ @sarah.k: Got it. Pains?
+[09:19] @alex.m: Big ones: poor dev experience slowing feature velocity, vendor lock-in on AWS, and poor visibility into pipeline health. Tech stack is Go, K8s, AWS, DynamoDB, gRPC.
+[09:20] @mike.r: Same stack as last one? They on Copilot too?
+[09:21] @alex.m: Yup, evaluating Microsoft Copilot fwiw. James said they're not interested yet—ngl sounded vague.
+[09:22]  ↳ @mike.r: Who said not interested? Them or him? [🤔 from @sarah.k]
+[09:23] @felix.c: Lmk more on dev exp pain. That's our sweet spot imo.
+[09:24] @alex.m: Devs complaining about slow velocity due to bad DX. Makes sense with that stack.
+[09:25] @sarah.k: Budget $450k confirmed? Solid for 50 ppl co. [👍 from @alex.m]
+[09:26]  ↳ @felix.c: Yeah $450k ARR potential? Deal value that?
+[09:27] @alex.m: Deal value ~450k yes. Timeline to Sep 27 2026 tho—long one.
+[09:28] @mike.r: Vendor lock-in with AWS? Classic. We can pitch multi-cloud.
+[09:29] @sarah.k: Shared their pricing page btw [shared link: ClassGrid pricing page]
+[09:30]  ↳ @mike.r: Thx—looks basic. Revenue checks out ~$42M.
+[09:31] @felix.c: @here - next steps? Need to schedule tech deep-dive with James's eng team asap.
+[09:32] @alex.m: Agreed. He mentioned tomorrow works for initial sync.
+[09:33] @sarah.k: Tomorrow? Last Friday he was heads down on sprint.
+[09:34] @mike.r: Pipeline visibility pain—did she say how bad? [👀 from @felix.c]
+[09:35] @alex.m: Yeah poor visibility slowing them down. Repeated it twice imo.
+[09:36]  ↳ @sarah.k: Makes sense. Got it.
+[09:37] @felix.c: Tech stack repeat: Go, K8s, DynamoDB etc. We got refs for that?
+[09:38] @mike.r: Yup, two wins last quarter on similar. Fwiw Copilot won't touch DX pains.
+[09:39] @sarah.k: James been there 2 years—loyal? Or itching for change?
+[09:40] @alex.m: Itching imo. Vendor lock-in killing them.
+[09:41]  ↳ @mike.r: Them who? Eng team? [😅 from @sarah.k]
+[09:42] @felix.c: Ngl, $450k budget is huge for 11-50 size. Pumped!
+[09:43] @sarah.k: Company size 11-50 yeah. EdTech growing fast.
+[09:44] @alex.m: Let's loop eng for deep-dive prep next sprint.
+[09:45] @mike.r: 👍 On it.
+[09:46] @felix.c: Discovery stage solid. What's the ask for deep-dive?
+[09:47] @alex.m: Demo our DX tools vs their gRPC/AWS mess.
+[09:48]  ↳ @sarah.k: Love it. Pipeline health viz too?
+[09:49] @mike.r: She confirmed budget again on call? [👍 from @felix.c]
+[09:50] @alex.m: Yup, ~$450k allocated. James reiterated.
+[09:51] @sarah.k: Copilot eval—how serious? We beat them on velocity?
+[09:52] @felix.c: 100%. Their stack screams lock-in pain.
+[09:53]  ↳ @alex.m: Thx man.
+[09:54] @mike.r: Timeline 2026-09-27 fiscal end? Long runway.
+[09:55] @sarah.k: Got it. Schedule that deep-dive lmk.
+[09:56] @alex.m: Will do tomorrow if possible.
+[09:57] @felix.c: James's team ready? He said last week they're blocked.
+[09:58]  ↳ @mike.r: Blocked how? DX? [🤷 from @sarah.k]
+[09:59] @sarah.k: Overall good update Alex. 👍
+[10:00] @alex.m: Thx team. Let's crush this. [🚀 from @felix.c][🎉 from @mike.r]

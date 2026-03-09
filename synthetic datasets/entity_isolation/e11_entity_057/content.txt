@@ -1,0 +1,18 @@
+### Account Overview
+Echo Software is a prominent HRTech company specializing in innovative workforce management solutions. With 818 employees and annual revenue of ~$229M, the company has experienced rapid growth, positioning it as a key player in the industry. Our primary point of contact is Fatima Wright, CTO, reachable at fatima.wright@echosoftware.com. As CTO, Fatima oversees the technical strategy and is directly involved in addressing scalability and compliance challenges that have arisen from the company's explosive early expansion.
+
+### Key Details
+Echo Software's tech stack is built on C#, .NET, Azure, SQL Server, and RabbitMQ, which supports their core HR platforms but is showing signs of strain. Key pain points include significant technical debt accumulated from rapid early growth, leading to inefficiencies in development cycles. They've faced compliance audit failures related to data handling practices, raising red flags with regulators. Security concerns persist with the current architecture, particularly around data encryption and access controls in a cloud-heavy environment. Additionally, the team struggles with measuring ROI on recent AI initiatives, making it hard to justify further investments or demonstrate value to stakeholders.
+
+Competitors in their space include Apollo.io and Gong, both of which Echo Software views as benchmarks for sales intelligence and conversation analytics. Fatima has expressed interest in solutions that integrate seamlessly with their existing .NET and Azure ecosystem to mitigate these issues without a full overhaul.
+
+### Deal Status
+This represents a high-value opportunity with an estimated deal value of $650,000. The decision timeline is targeted for Q4 2026, aligned with their fiscal planning and upcoming compliance deadlines. Initial discussions with Fatima have been positive, with strong alignment on pain points around technical debt, security, and AI ROI measurement. No formal proposal has been submitted yet, but we've qualified the account as "Promising" based on budget confirmation and technical fit.
+
+### Next Steps
+- Schedule a 30-minute discovery call with Fatima Wright by end of next week to deep-dive into compliance audit details and demo our Azure-compatible security modules.
+- Prepare a customized ROI calculator tailored to their AI initiatives, incorporating RabbitMQ integration examples.
+- Research recent audit failures in HRTech peers to position our solution as a proactive fix ahead of Q4 2026 timeline.
+- Loop in sales engineering for a proof-of-concept on technical debt remediation using C#/.NET best practices.
+
+(Word count: 378)

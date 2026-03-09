@@ -1,0 +1,16 @@
+### Account Overview
+Lunar Computing is a prominent EdTech company specializing in innovative learning platforms and data-driven educational tools. With approximately 1735 employees and annual revenue of ~$110M, the company is scaling rapidly to meet growing demand in the education technology sector. Our primary contact is Nina Cho, VP of Marketing at Lunar Computing (nina.cho@lunarcomputing.com). Nina oversees marketing strategies, customer engagement, and growth initiatives, making her a key decision-maker for solutions addressing customer retention and operational efficiency.
+
+### Key Details
+Lunar Computing's tech stack includes Scala, Spark, Databricks, Snowflake, and Airflow, powering their data pipelines and analytics for personalized learning experiences. However, they face significant pain points: high customer churn driven by slow support response times, and security concerns with their current architecture. These issues are hindering user satisfaction and scalability. Competitors in their evaluation include Apollo.io, Intercom, and Outreach, as Lunar Computing seeks integrated tools to streamline support, enhance security, and reduce churn without disrupting their existing stack.
+
+### Deal Status
+This is a high-potential B2B prospect with an estimated deal value of $120,000. Nina Cho has expressed strong interest in our solution to address their support delays and security gaps, positioning us favorably against Apollo.io, Intercom, and Outreach. The decision timeline is targeted for Q2 2026, aligned with their fiscal planning cycle. Initial discussions have validated our fit with their Scala-Spark-Databricks ecosystem, and they've shared internal metrics on churn rates tied to response times.
+
+### Next Steps
+- Schedule a demo with Nina Cho in the next two weeks to showcase integration with Snowflake and Airflow, focusing on churn reduction and security enhancements.
+- Send tailored case studies contrasting our solution against Apollo.io, Intercom, and Outreach by EOW.
+- Follow up via email to Nina.cho@lunarcomputing.com confirming pain points and proposing a technical deep-dive involving their engineering team.
+- Track progress toward Q2 2026 decision; set internal milestone for proposal submission by Q4 2025.
+
+(Word count: 348)

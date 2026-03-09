@@ -1,0 +1,19 @@
+{
+  "entity_index": 24,
+  "name": "Alex Novak",
+  "company": "Canyon Systems",
+  "industry": "E-commerce",
+  "email": "alex.novak@canyonsystems.com",
+  "title": "Director of Analytics",
+  "facts": [
+    "Alex Novak is Director of Analytics at Canyon Systems",
+    "Canyon Systems is a E-commerce company with 1871 employees",
+    "Tech stack: Rust, Actix, AWS, PostgreSQL, NATS",
+    "Deal value: $250,000",
+    "Pain points: poor visibility into pipeline health; difficulty measuring ROI on AI initiatives",
+    "Competitors: Salesforce Einstein",
+    "Decision timeline: Q4 2026",
+    "Annual revenue: ~$49M"
+  ],
+  "actual_word_count": 298
+}

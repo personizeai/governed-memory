@@ -1,0 +1,19 @@
+{
+  "entity_index": 96,
+  "name": "Chloe Fernandez",
+  "company": "Pearl Analytics",
+  "industry": "MarTech",
+  "email": "chloe.fernandez@pearlanalytics.com",
+  "title": "Head of Product",
+  "facts": [
+    "Chloe Fernandez is Head of Product at Pearl Analytics",
+    "Pearl Analytics is a MarTech company with 1890 employees",
+    "Tech stack: TypeScript, React, Node.js, GCP, MongoDB",
+    "Deal value: $400,000",
+    "Pain points: integration complexity with legacy systems; technical debt from rapid early growth",
+    "Competitors: Clari",
+    "Decision timeline: Q3 2026",
+    "Annual revenue: ~$149M"
+  ],
+  "actual_word_count": 298
+}

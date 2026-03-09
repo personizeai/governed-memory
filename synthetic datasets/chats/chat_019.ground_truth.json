@@ -1,0 +1,77 @@
+{
+  "sample_id": "chat_019",
+  "content_type": "chat_log",
+  "company": "BioSignal AI",
+  "industry": "Healthcare Tech",
+  "message_count_target": 50,
+  "actual_word_count": 662,
+  "expected_facts": [
+    {
+      "text": "They're dealing with difficulty measuring ROI on AI initiatives",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $120,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with poor developer experience slowing feature velocity",
+      "type": "explicit"
+    },
+    {
+      "text": "Emily Santos has been at BioSignal AI for 2 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Clari, Apollo.io, Chorus.ai",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using Salesforce with custom Apex triggers",
+      "type": "explicit"
+    },
+    {
+      "text": "BioSignal AI is a Healthcare Tech company with about 371 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes C#, .NET, Azure, SQL Server, RabbitMQ",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "CTO",
+    "company_name": "BioSignal AI",
+    "company_size": "201-1000",
+    "technology_stack": "C#, .NET, Azure, SQL Server, RabbitMQ",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "difficulty measuring ROI on AI initiatives",
+      "poor developer experience slowing feature velocity",
+      "fragmented tooling across departments",
+      "security concerns with current architecture"
+    ],
+    "deal_value": 120000,
+    "decision_timeline": "2026-06-05",
+    "competitors_mentioned": [
+      "Clari",
+      "Apollo.io",
+      "Chorus.ai"
+    ],
+    "buying_process": "IT committee evaluates quarterly, next window is Q3 2026",
+    "current_solution": "Salesforce with custom Apex triggers",
+    "urgency_level": "Critical"
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 3,
+    "duplicate_facts": 2
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@amanda.b"
+  ],
+  "property_coverage": 0.86
+}

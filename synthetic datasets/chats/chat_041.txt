@@ -1,0 +1,213 @@
+[09:15] @alex.m: Quick update on TechFlow Inc @channel. Just got off discovery call with Elena Chen, their Head of Data. Deal stage is discovery rn.
+
+[👍 from @sarah.k]
+
+[09:16] @sarah.k: Nice! What'd she say about their current setup?
+
+[09:17] @alex.m: They're on a legacy Java app maintained by one person. Super risky tbh.
+
+  ↳ [09:18] @mike.r: One person? That's wild. No redundancy?
+
+[09:19] @alex.m: Nope, and deploys take 2-3 weeks per release. Pain point city.
+
+[09:20] @jennifer.g: Slow cycles make sense with that stack. Got it.
+
+[09:21] @sarah.k: Tech stack? Lmk details.
+
+[09:22] @alex.m: Rust, Actix, AWS, PostgreSQL, NATS. Modern but hiring specialized engineers is tough for them.
+
+[09:23] @mike.r: Difficulty hiring – yeah, Rust talent is scarce imo.
+
+[👍 from @jennifer.g]
+
+[09:24] @alex.m: Company is B2B SaaS, ~2684 employees, so 1000+ size. Budget allocated ~$1.2M.
+
+[09:25] @sarah.k: $1.2M deal value? Solid.
+
+[09:26]  ↳ @alex.m: [shared link: TechFlow Inc pricing page]
+
+[09:27] @jennifer.g: Elena been there 1 year? New blood.
+
+[09:28] @alex.m: Yup, Elena Chen 1 year at TechFlow Inc. Decision maker for sure.
+
+[09:29] @mike.r: Timeline? When do they decide?
+
+[09:30] @alex.m: Decision timeline 2026-04-18. Long runway.
+
+[09:31] @sarah.k: She mentioned hiring pains again? Ngl, that's our angle.
+
+[09:32] @alex.m: Yeah, she said they're struggling big time with engineers.
+
+[09:33] @jennifer.g: Who? Her team?
+
+[09:34] @mike.r: Makes sense, Rust/Actix niche.
+
+[09:35] @sarah.k: Fwiw, last Friday's call notes align – legacy Java one guy.
+
+[👍 from @alex.m]
+
+[09:36] @alex.m: Exactly, Mike. Repeated that pain.
+
+[09:37] @jennifer.g: He say anything else about deploys?
+
+[09:38] @mike.r: 2-3 weeks, brutal. Our solution crushes that.
+
+[09:39] @sarah.k: @here – let's prep demo for them tomorrow.
+
+[09:40] @alex.m: On it. Elena wants to see AWS integration.
+
+[09:41] @jennifer.g: Got it. PostgreSQL side too?
+
+[09:42]  ↳ @sarah.k: Yes, and NATS streaming.
+
+[09:43] @mike.r: She excited? Or hesitant?
+
+[09:44] @alex.m: Enthused imo. Said they're not interested in sticking with legacy.
+
+[09:45] @sarah.k: Who said that? Her?
+
+[09:46] @jennifer.g: Budget confirms $1,200,000 allocated.
+
+[09:47] @mike.r: Yeah, I heard 2684 employees, enterprise play.
+
+[09:48] @alex.m: Pain points: slow deploys, hiring diffs. Nailed it.
+
+[09:49] @sarah.k: Lmk if we need to loop in eng for Rust q's.
+
+[09:50] @jennifer.g: They mentioned Actix specifically?
+
+[09:51] @alex.m: Yup, he did. Tough to maintain.
+
+[09:52] @mike.r: Who? The one guy on Java?
+
+[09:53] @sarah.k: Haha unclear but yeah.
+
+[09:54] @jennifer.g: Next sprint we prioritize this?
+
+[09:55] @alex.m: Makes sense. 👍
+
+[👍 from @mike.r]
+
+[09:56] @sarah.k: Deal value 1200000 locked?
+
+[09:57] @alex.m: Affirm. Discovery moving fast.
+
+[09:58] @mike.r: Elena's title Head of Data – perfect fit.
+
+[09:59] @jennifer.g: 1 year in, she's pushing change.
+
+[10:00] @alex.m: Their stack: Rust, Actix, AWS, Postgres, NATS. Check.
+
+[10:01] @sarah.k: Fwiw, she emailed post-call.
+
+[10:02]  ↳ @mike.r: What'd she say?
+
+[10:03] @sarah.k: Wants POC next week.
+
+[10:04] @jennifer.g: Sweet. Budget covers it.
+
+[10:05] @alex.m: $1.2M does. TechFlow Inc B2B SaaS beast.
+
+[10:06] @mike.r: 2684 emps – scale issues obvious.
+
+[10:07] @sarah.k: Hiring engineers pain repeated.
+
+[10:08] @alex.m: Yeah, she said it twice.
+
+[10:09] @jennifer.g: Legacy Java one person – risky af.
+
+[10:10] @mike.r: Deploys 2-3 weeks? No thanks.
+
+[👍 from @sarah.k]
+
+[10:11] @alex.m: Demo tomorrow @here confirm?
+
+[10:12] @sarah.k: Yep.
+
+[10:13] @jennifer.g: Got it.
+
+[10:14] @mike.r: Timeline to 2026-04-18 – plenty time.
+
+[10:15] @alex.m: Elena decision maker, green light.
+
+[10:16] @sarah.k: She mention competitors?
+
+[10:17] @alex.m: Nah, they're fed up.
+
+[10:18] @jennifer.g: Who is?
+
+[10:19] @mike.r: Makes sense tho.
+
+[10:20] @sarah.k: Pricing link helpful – they compared.
+
+[10:21] @alex.m: Cool. Pain on hiring specialized for Rust etc.
+
+[10:22] @jennifer.g: AWS heavy users.
+
+[10:23] @mike.r: NATS for messaging probs.
+
+[10:24] @alex.m: Postgres bottlenecks maybe.
+
+[10:25] @sarah.k: All fits our pitch.
+
+[10:26] @jennifer.g: 1000+ company, enterprise deal.
+
+[10:27] @mike.r: ~2684 yeah.
+
+[10:28] @alex.m: Budget $1,200,000 firm.
+
+[10:29] @sarah.k: Lmk updates post-demo.
+
+[10:30] @jennifer.g: Will do.
+
+[👍 from @alex.m]
+
+[10:31] @mike.r: Last Friday notes gold.
+
+[10:32] @alex.m: True. Elena 1 year, fresh eyes.
+
+[10:33] @sarah.k: Head of Data pushing modernization.
+
+[10:34] @jennifer.g: Legacy Java dying.
+
+[10:35] @mike.r: One maintainer nightmare.
+
+[10:36] @alex.m: Agreed.
+
+[10:37] @sarah.k: @channel any blockers?
+
+[10:38] @jennifer.g: None imo.
+
+[10:39] @mike.r: Green.
+
+[10:40] @alex.m: POC scope?
+
+  ↳ [10:41] @sarah.k: Rust/Actix deploy sim.
+
+[10:42] @jennifer.g: Add hiring relief angle.
+
+[10:43] @mike.r: Timeline aligns.
+
+[10:44] @alex.m: 2026-04-18 decision.
+
+[10:45] @sarah.k: She confirm budget?
+
+[10:46] @alex.m: Yup, he did.
+
+[10:47] @jennifer.g: Who?
+
+[10:48] @mike.r: Haha classic.
+
+[10:49] @sarah.k: Ngl funny.
+
+[10:50] @alex.m: TechFlow Inc facts solid.
+
+[10:51] @jennifer.g: Deal stage discovery – advance soon.
+
+[10:52] @mike.r: 👍
+
+[10:53] @sarah.k: Tomorrow demo key.
+
+[10:54] @alex.m: Locked in.
+
+[10:55] @jennifer.g: Excited!

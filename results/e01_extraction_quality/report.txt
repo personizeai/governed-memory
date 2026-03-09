@@ -1,0 +1,24 @@
+E01 Summary: Quality by Content Type
+------------------------------------
+Content Type | Samples | Avg Facts | Avg Props | Fact Recall | Prop Recall
+-------------+---------+-----------+-----------+-------------+------------
+call_notes   | 10      | 6.9       | 12.5      | 96%         | 99%        
+chats        | 10      | 6.5       | 10.4      | 85%         | 94%        
+documents    | 10      | 7.7       | 12.7      | 79%         | 99%        
+emails       | 10      | 7.0       | 7.0       | 77%         | 71%        
+transcripts  | 50      | 8.2       | 8.8       | 74%         | 78%        
+
+
+Results saved to: /Users/mahdis/Desktop/Personize Studio/ai-fargate/mahdis-governed-memory-public/experiments/results/e01_extraction_quality/e01_extraction_quality_20260220_215510.json
+
+==================================================
+API Stats:
+  Requests:      91
+  Input tokens:  0
+  Output tokens: 0
+  Est. cost:     $0.0000
+  Total time:    0ms
+==================================================
+
+Completed 1/1 experiments.
+Results saved to: /Users/mahdis/Desktop/Personize Studio/ai-fargate/mahdis-governed-memory-public/experiments/results

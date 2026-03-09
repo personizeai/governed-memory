@@ -1,0 +1,95 @@
+{
+  "sample_id": "document_034",
+  "content_type": "wiki_document",
+  "company": "CoinTrail",
+  "industry": "Fintech",
+  "target_word_count": 2031,
+  "actual_word_count": 1314,
+  "expected_facts": [
+    {
+      "text": "Currently evaluating 5 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating HubSpot AI, Outreach",
+      "type": "explicit"
+    },
+    {
+      "text": "CoinTrail is a Fintech company with about 562 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using Salesforce with custom Apex triggers",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 5 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "Brandon Oduya has been at CoinTrail for 8 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Denver",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Infrastructure",
+    "company_name": "CoinTrail",
+    "company_size": "201-1000",
+    "technology_stack": "Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+    "deal_stage": "Negotiation",
+    "decision_timeline": "2026-07-28",
+    "competitors_mentioned": [
+      "HubSpot AI",
+      "Outreach"
+    ],
+    "decision_maker": true,
+    "next_steps": "Brandon to present internally and circle back next week",
+    "buying_process": "Procurement requires three competitive bids before decision",
+    "current_solution": "Salesforce with custom Apex triggers",
+    "urgency_level": "Low"
+  },
+  "planted_issues": {
+    "pronoun_issues": 1,
+    "temporal_issues": 2,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Sarah Xu",
+      "title": "CTO",
+      "role": "Technical Evaluator"
+    },
+    {
+      "name": "Elena Williams",
+      "title": "Head of Data",
+      "role": "Technical Evaluator"
+    },
+    {
+      "name": "Victor Ibrahim",
+      "title": "Head of Product",
+      "role": "Technical Evaluator"
+    },
+    {
+      "name": "Jennifer Petrov",
+      "title": "Director of Sales Engineering",
+      "role": "Budget Owner"
+    }
+  ],
+  "property_coverage": 0.86
+}

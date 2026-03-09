@@ -1,0 +1,62 @@
+{
+  "sample_id": "call_note_047",
+  "content_type": "call_notes",
+  "company": "StreamOps",
+  "industry": "Digital Media",
+  "duration_minutes": 15,
+  "target_word_count": 492,
+  "actual_word_count": 356,
+  "expected_facts": [
+    {
+      "text": "StreamOps is a Digital Media company with about 35 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Victor Alvarez has been at StreamOps for 8 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with poor developer experience slowing feature velocity",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating HubSpot AI, Microsoft Copilot, custom internal tool",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with difficulty measuring ROI on AI initiatives",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Chief Revenue Officer",
+    "company_name": "StreamOps",
+    "company_size": "11-50",
+    "technology_stack": "Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "difficulty measuring ROI on AI initiatives",
+      "poor developer experience slowing feature velocity",
+      "compliance audit failures on data handling",
+      "poor visibility into pipeline health"
+    ],
+    "deal_value": 75000,
+    "decision_timeline": "2026-07-12",
+    "competitors_mentioned": [
+      "HubSpot AI",
+      "Microsoft Copilot",
+      "custom internal tool"
+    ],
+    "buying_process": "Need approval from their CFO (CFO) for anything over $100K",
+    "urgency_level": "High"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1
+  },
+  "property_coverage": 0.79
+}

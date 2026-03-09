@@ -1,0 +1,76 @@
+{
+  "sample_id": "transcript_003",
+  "content_type": "meeting_transcript",
+  "company": "CareStack",
+  "industry": "Healthcare Tech",
+  "duration_minutes": 20,
+  "target_word_count": 1469,
+  "actual_word_count": 1460,
+  "expected_facts": [
+    {
+      "text": "They've also been evaluating Gong",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Go, Kubernetes, AWS, DynamoDB, gRPC",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with vendor lock-in with current cloud provider",
+      "type": "explicit"
+    },
+    {
+      "text": "Kevin Garcia has been at CareStack for 4 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $1,200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using custom-built CRM on Rails",
+      "type": "explicit"
+    },
+    {
+      "text": "CareStack is a Healthcare Tech company with about 29 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with fragmented tooling across departments",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Data",
+    "company_name": "CareStack",
+    "company_size": "11-50",
+    "technology_stack": "Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "fragmented tooling across departments",
+      "vendor lock-in with current cloud provider"
+    ],
+    "deal_value": 1200000,
+    "decision_timeline": "2026-10-27",
+    "competitors_mentioned": [
+      "Gong"
+    ],
+    "decision_maker": false,
+    "next_steps": "Set up POC environment for Kevin's team to evaluate",
+    "buying_process": "IT committee evaluates quarterly, next window is Q3 2026",
+    "current_solution": "custom-built CRM on Rails",
+    "urgency_level": "Critical"
+  },
+  "planted_issues": {
+    "pronoun_issues": 4,
+    "temporal_issues": 3,
+    "duplicate_facts": 1
+  },
+  "has_third_participant": true,
+  "property_coverage": 1.0,
+  "entity_id": "kevin-garcia-carestack",
+  "entity_email": "kevin.garcia@carestack.io",
+  "entity_website": "https://carestack.io",
+  "contact_name": "Kevin Garcia",
+  "record_id": "crm-kevin-garcia-carestack"
+}

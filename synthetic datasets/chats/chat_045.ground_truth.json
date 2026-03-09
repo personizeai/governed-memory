@@ -1,0 +1,69 @@
+{
+  "sample_id": "chat_045",
+  "content_type": "chat_log",
+  "company": "CastPoint",
+  "industry": "Manufacturing",
+  "message_count_target": 57,
+  "actual_word_count": 676,
+  "expected_facts": [
+    {
+      "text": "Sarah Singh has been at CastPoint for 1 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with difficulty hiring specialized engineers",
+      "type": "explicit"
+    },
+    {
+      "text": "CastPoint is a Manufacturing company with about 2942 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $850,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Java, Micronaut, GCP, Spanner, Pub/Sub",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with fragmented tooling across departments",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 5 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Engineering",
+    "company_name": "CastPoint",
+    "company_size": "1000+",
+    "technology_stack": "Java, Micronaut, GCP, Spanner, Pub/Sub",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "difficulty hiring specialized engineers",
+      "fragmented tooling across departments",
+      "security concerns with current architecture",
+      "poor visibility into pipeline health"
+    ],
+    "deal_value": 850000,
+    "next_steps": "Sarah to present internally and circle back next week"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 3,
+    "duplicate_facts": 2
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@michael.f"
+  ],
+  "property_coverage": 0.57
+}

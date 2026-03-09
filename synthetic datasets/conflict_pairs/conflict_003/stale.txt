@@ -1,0 +1,20 @@
+**Call Note: Sales Meeting**  
+**Date:** August 10, 2025  
+**Contact:** Alex Costa, VP of Engineering, Cortex Systems (Digital Media)  
+**Duration:** 45 minutes via Zoom  
+
+Met with Alex to discuss our scalable CMS platform for high-traffic digital media sites. Alex shared Cortex Systems has an engineering team of about 40 people, focused on real-time content personalization and A/B testing at scale. They're currently using a legacy system that's bottlenecking during peak traffic (up to 5M daily users), causing 20-30% downtime in ad delivery.
+
+Key pain points:  
+- Need faster integration with their React-based frontend.  
+- Budget approved for Q4: $250K for core platform + custom modules.  
+- Competitor eval: Reviewed Acme CMS but found it lacking in API flexibility.  
+
+Alex expressed strong interest in our edge-caching features and requested a POC demo tailored to their video streaming workflows. Scheduling follow-up POC kickoff for Aug 25 with their lead dev.  
+
+**Next Steps:**  
+- Send customized demo link and case study by EOD tomorrow.  
+- Alex to loop in CTO for budget sign-off.  
+- Update opportunity stage to "Qualified Opportunity" – high potential, 75% close probability.  
+
+**Attendees:** Alex Costa, myself. No objections raised. Positive tone throughout.

@@ -1,0 +1,19 @@
+{
+  "entity_index": 19,
+  "name": "Derek Anderson",
+  "company": "Nexus Prime",
+  "industry": "SpaceTech",
+  "email": "derek.anderson@nexusprime.com",
+  "title": "Director of Analytics",
+  "facts": [
+    "Derek Anderson is Director of Analytics at Nexus Prime",
+    "Nexus Prime is a SpaceTech company with 1194 employees",
+    "Tech stack: Elixir, Phoenix, Fly.io, PostgreSQL, LiveView",
+    "Deal value: $1,000,000",
+    "Pain points: compliance audit failures on data handling; poor visibility into pipeline health; scaling issues during peak traffic periods; inconsistent messaging across sales team",
+    "Competitors: ZoomInfo, HubSpot AI, Apollo.io",
+    "Decision timeline: Q3 2026",
+    "Annual revenue: ~$77M"
+  ],
+  "actual_word_count": 403
+}

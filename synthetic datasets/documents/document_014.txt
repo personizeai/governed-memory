@@ -1,0 +1,58 @@
+# FreightPulse — Account Overview
+
+## Company Background
+
+FreightPulse is a dynamic logistics company specializing in digital freight forwarding and supply chain optimization, operating primarily in the North American market with about 60 employees. Founded in 2018 by a trio of former executives from established shipping giants—led by CEO Elena Vasquez, who identified gaps in real-time visibility for small-to-medium shippers—the company quickly disrupted the industry by launching a SaaS platform that connects shippers directly with carriers, streamlining quoting, booking, and tracking processes. What started as a bootstrapped MVP in a garage in Seattle has grown into a venture-backed operation with Series A funding secured in 2021, enabling rapid expansion amid the e-commerce boom during the pandemic. Today, FreightPulse handles over 10,000 shipments monthly, focusing on less-than-truckload (LTL) and parcel services for e-commerce retailers and manufacturers. However, this explosive early growth—doubling headcount in the first two years—has left them grappling with significant technical debt, including outdated monolithic applications that hinder scalability. Their engineering team is growing rapidly, having hired 6 people this quarter alone to tackle these challenges, as they plan a full migration off legacy systems by end of year. Currently, their tech stack revolves around Ruby on Rails for the core application, hosted on Heroku, with PostgreSQL as the primary database and Sidekiq for background job processing. This setup supports their agile operations but struggles with advanced analytics needs, particularly around measuring ROI on recent AI initiatives like predictive ETAs.
+
+## Key Contacts
+
+| Name | Title | Role in Deal |
+|---|---|---|
+| Daniel Nakamura | VP of Customer Success | Primary Contact |
+| Robert Okonkwo | VP of Marketing | Technical Evaluator |
+| Kevin Nakamura | Chief Product Officer | Technical Evaluator |
+| Lisa Moreau | Head of Data | Budget Owner |
+
+Daniel Nakamura has been with FreightPulse for 6 years, rising through the ranks from Customer Success Manager to his current VP role, giving him deep institutional knowledge of their operational pain points. Robert Okonkwo brings marketing expertise to evaluate user adoption potential, while brothers Daniel and Kevin Nakamura coordinate closely on product decisions. Lisa Moreau controls the budget and focuses on data integration feasibility.
+
+## Meeting History
+
+### Meeting 1: Discovery Call (February 9, 2026)
+
+The initial discovery call on February 9, 2026, lasted 45 minutes and set the stage for our engagement with FreightPulse, led primarily by Daniel Nakamura as the primary contact. They outlined their core challenges: difficulty measuring ROI on AI initiatives, such as automated routing suggestions that haven't yielded clear metrics despite implementation last year, and pervasive technical debt from rapid early growth that has slowed feature releases. Daniel emphasized how their current solution, Microsoft Dynamics with Power Automate, handles basic CRM workflows but falls short on advanced analytics and real-time logistics optimization, leading to manual interventions that frustrate their growing customer base. He mentioned that the engineering team had expanded recently—they hired 6 people this quarter—to address these gaps, but integration hurdles persist with their Ruby on Rails app on Heroku, PostgreSQL backend, and Sidekiq queues. Kevin Nakamura chimed in on the need for seamless data flows, noting that legacy systems migration is a priority by end of year, and they were open to vendors who could accelerate this. Robert Okonkwo probed our differentiation from their existing CRM workflows, while Lisa Moreau highlighted budget constraints tied to provable ROI. We discussed high-level fit, with them expressing interest in our platform's AI-driven insights. Action items included sharing a technical one-pager, which we delivered promptly. Their enthusiasm was evident, though it was unclear if the entire team aligned on urgency, as Daniel referenced "some internal debates" without specifying stakeholders. This call positioned us well in their evaluation of two vendors, including Drift as a conversational AI alternative.
+
+### Meeting 2: Technical Deep Dive (March 12, 2026)
+
+The technical deep dive on March 12, 2026, spanned 90 minutes and involved deeper dives into FreightPulse's architecture and our proposed integrations, with all key contacts present—Daniel Nakamura facilitating, Kevin and Robert evaluating technically, and Lisa Moreau assessing data implications. They detailed their tech stack: Ruby on Rails powering the frontend and API layers, deployed on Heroku for scalability, PostgreSQL for transactional data storage, and Sidekiq for handling asynchronous tasks like shipment notifications. Challenges surfaced around syncing this with Microsoft Dynamics and Power Automate, where custom flows often break under volume, exacerbating ROI measurement issues for AI pilots like demand forecasting models that lack end-to-end traceability. Kevin walked us through a demo of their dashboard, revealing bottlenecks from technical debt accumulated during hyper-growth phases, and confirmed plans for migrating off legacy on-prem systems by year's end to a fully cloud-native setup. Daniel, with his 6 years at the company, provided context on how early pivots strained the codebase, and he stressed the recent engineering hires—6 this quarter—as a boost for modernization efforts. We demoed our APIs, showing Rails gem compatibility and PostgreSQL connectors, which excited them for potential Sidekiq job offloading. Lisa raised questions on data governance for ROI dashboards, and Robert compared us to in-house build options they'd considered. They disclosed evaluating Drift for chat-based workflows alongside enhancing existing CRM processes, but our logistics-specific AI edged us ahead tentatively. One highlight was their feedback on our ROI simulator tool, which they want customized. It was agreed we'd follow up with a POC scope, though pronouns flew loosely when Robert said "they need it fast," leaving ambiguity on who "they" meant—engineering or leadership. This meeting advanced us to proposal stage, solidifying mutual fit.
+
+## Technical Requirements
+
+* **Integration with Existing Stack**: Must support Ruby on Rails APIs natively, with SDKs for Heroku deployments, direct PostgreSQL querying via secure connectors, and Sidekiq compatibility for job queuing to avoid rework in their async workflows.
+* **ROI Measurement for AI Initiatives**: Provide customizable dashboards tracking metrics like cost savings from AI routing, adoption rates, and predictive accuracy, addressing their core pain of unclear returns on tools like ETA forecasters—beyond what Microsoft Dynamics offers.
+* **Legacy Migration Support**: Tools and consulting for phased migration off legacy systems by end of year, including data export from on-prem to cloud, with minimal downtime for their 10,000+ monthly shipments.
+* **Scalability for Growing Team**: Handle increased load from engineering expansion (recently added 6 hires this quarter), supporting 51-200 employee scale with auto-scaling and low-latency queries on PostgreSQL datasets exceeding 1TB.
+* **CRM Workflow Enhancement**: Augment Microsoft Dynamics and Power Automate with no-code automations, event triggers for Sidekiq, and Rails middleware plugins to reduce technical debt from rapid growth.
+* **Real-Time Logistics Analytics**: Shipment tracking, carrier performance scoring, and anomaly detection integrated into their Heroku app, with export to PostgreSQL for Lisa Moreau's data team.
+* **Security and Compliance**: SOC 2 compliance, role-based access for key contacts like Daniel Nakamura, and audit logs for VP-level oversight.
+* **Custom Reporting**: ROI calculators tailored to logistics KPIs, pulling from Sidekiq-processed events and Rails models.
+* **POC Feasibility**: Quick-start POC deployable on Heroku in under a week, validating against their full stack.
+* **Vendor Support**: Dedicated onboarding for 6-year veteran Daniel and his team, with SLAs matching their high-volume ops.
+
+## Deal Status
+
+FreightPulse is currently in the Discovery deal stage, with a potential annual contract value (ACV) of $250K based on their 60-employee scale and shipment volume, positioning it as a high-priority mid-market win. The decision timeline targets May 2, 2026, aligning with their Q2 fiscal planning, though internal alignment could shift this. Key pain points—technical debt from rapid early growth and difficulty measuring ROI on AI initiatives—drive urgency, compounded by their reliance on Microsoft Dynamics with Power Automate as the current solution, which they've outgrown. Progress has been strong post-deep dive, with engineering's recent growth (6 hires this quarter) signaling readiness for investment. Blockers include Lisa Moreau's budget scrutiny, requiring ironclad ROI proofs, and competing priorities like the end-of-year legacy migration. Next steps: Send pricing proposal to Daniel Nakamura by Friday, followed by a customized ROI demo. Their evaluation of two vendors including us keeps momentum, but we must differentiate sharply. Overall, optimism is high—they referenced our fit repeatedly—but it hinges on proposal reception, as Daniel noted "we're close if the numbers work," though unclear who final-signs.
+
+## Competitive Landscape
+
+FreightPulse is evaluating a mix of options beyond us:
+- **Drift**: Strong contender for conversational AI in customer interactions, appealing to Robert Okonkwo's marketing focus, but lacks deep logistics integrations with their Ruby on Rails/Heroku/PostgreSQL/Sidekiq stack.
+- **Existing CRM Workflows**: Enhancing Microsoft Dynamics and Power Automate internally, low-cost but insufficient for AI ROI tracking and migration needs.
+- **Building In-House**: Leveraged by their growing engineering team (6 new hires this quarter), but technical debt and timeline pressures make this risky for end-of-year goals.
+
+We're positioned as the logistics-native leader among the two formal vendors, with superior stack compatibility.
+
+## Risk Factors
+
+* **Budget Constraints**: Lisa Moreau's ownership could delay if ROI projections don't quantify savings amid 60-employee scale—mitigate with tailored modeling by Friday's proposal.
+* **Internal Buy-In Ambiguity**: Unclear alignment between Nakamuras and Okonkwo; Daniel's 6-year tenure pushes forward, but "team hesitations" surfaced without specifics, risking stalled POC.
+* **Migration Overlap**: End-of-year legacy push might divert resources from our deal, especially with recent hires stretched thin on tech debt cleanup.

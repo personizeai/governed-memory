@@ -1,0 +1,183 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Chen Johansson <chen.johansson@medcoreanalytics.com>  
+Subject: Helping MedCore Analytics Scale Backend Operations Amid Rapid Growth  
+Date: Mon, Feb 15, 2026, 10:30 AM EST  
+
+Hi Chen,  
+
+I hope this email finds you well. I came across MedCore Analytics' recent hiring spree on LinkedIn—congratulations on bringing on 13 new engineers this quarter alone! With your engineering team growing so quickly at a healthcare tech company like yours (around 129 employees strong and pushing annual revenue toward $184M), I imagine scaling backend infrastructure is top of mind.  
+
+Your tech stack caught my eye too: Rust with Actix for web services, deployed on AWS, backed by PostgreSQL, and orchestrated via NATS for messaging. That's a solid, high-performance setup, but as you scale, observability and monitoring become critical to avoid blind spots. At Technova.io, we provide a fully managed platform optimized exactly for stacks like yours—seamless integration without the overhead of building in-house tooling. Our customers in healthcare see 40% faster incident resolution and support teams 3x larger without added complexity.  
+
+Would you be open to a 15-minute call next week to discuss how we can support MedCore's growth?  
+
+Best regards,  
+Alex Morgan  
+Sales Executive  
+Technova.io  
++1 (555) 123-4567  
+alex.morgan@technova.io  
+
+---
+
+From: Chen Johansson <chen.johansson@medcoreanalytics.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Helping MedCore Analytics Scale Backend Operations Amid Rapid Growth  
+Date: Tue, Feb 16, 2026, 2:15 PM EST  
+
+Hi Alex,  
+
+Thanks for reaching out—timely as always. We've indeed been ramping up the engineering team with those 13 hires this quarter, and as VP of Operations here at MedCore Analytics (I've been with the company for 6 years now), I report directly to the CEO on these scaling initiatives. Our stack is Rust/Actix on AWS with PostgreSQL and NATS, as you noted, and revenue growth to $184M has us evaluating options carefully.  
+
+One question: we've been considering building an in-house observability solution to keep full control. How does Technova compare in terms of customization and total cost? We have about $600,000 budgeted for this area this year.  
+
+Looking forward to your thoughts.  
+
+Best,  
+Chen Johansson  
+VP of Operations  
+MedCore Analytics  
++1 (555) 987-6543  
+chen.johansson@medcoreanalytics.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Chen Johansson <chen.johansson@medcoreanalytics.com>  
+Subject: Re: Helping MedCore Analytics Scale Backend Operations Amid Rapid Growth  
+Date: Wed, Feb 17, 2026, 9:45 AM EST  
+
+Hi Chen,  
+
+> On Tue, Feb 16, 2026, 2:15 PM EST, Chen Johansson wrote:  
+> > Hi Alex,  
+> >   
+> > Thanks for reaching out—timely as always. We've indeed been ramping up the engineering team with those 13 hires this quarter, and as VP of Operations here at MedCore Analytics (I've been with the company for 6 years now), I report directly to the CEO on these scaling initiatives. Our stack is Rust/Actix on AWS with PostgreSQL and NATS, as you noted, and revenue growth to $184M has us evaluating options carefully.  
+> >   
+> > One question: we've been considering building an in-house observability solution to keep full control. How does Technova compare in terms of customization and total cost? We have about $600,000 budgeted for this area this year.  
+> >   
+> > Looking forward to your thoughts.  
+> >   
+> > Best,  
+> > Chen Johansson  
+> > VP of Operations  
+> > MedCore Analytics  
+> > +1 (555) 987-6543  
+> > chen.johansson@medcoreanalytics.com  
+
+Thanks for the quick reply, Chen—appreciate the context on your team's growth and that impressive $184M revenue trajectory for a 129-person healthcare tech powerhouse.  
+
+Technova shines here because it's purpose-built for Rust/Actix environments on AWS, with native plugins for PostgreSQL query tracing and NATS stream monitoring. Unlike building in-house (which can take 6-12 months and divert your 13 new engineers from core work), we offer unlimited customization via our config-as-code interface—no vendor lock-in. Pricing is usage-based (ingestion + queries), typically 30-50% less than in-house OpEx for teams your size (51-200 employees). Your $600k budget would comfortably cover enterprise tier for 50+ engineers, including premium support.  
+
+As a light next step, I'd propose a no-cost 2-week POC tailored to your NATS and Actix services. How does next week work for a 20-min kickoff?  
+
+Best,  
+Alex Morgan  
+Sales Executive  
+Technova.io  
++1 (555) 123-4567  
+alex.morgan@technova.io  
+
+---
+
+From: Chen Johansson <chen.johansson@medcoreanalytics.com>  
+To: Chen Williams <chen.williams@medcoreanalytics.com>  
+CC: Alex Morgan <alex.morgan@technova.io>  
+Subject: Fwd: Helping MedCore Analytics Scale Backend Operations Amid Rapid Growth  
+Date: Thu, Feb 18, 2026, 11:20 AM EST  
+
+Hi Chen,  
+
+Thought you'd want to weigh in on this thread from Technova.io's Alex Morgan. With our engineering team expanding (those 13 hires this quarter) and $600k allocated for observability, this could be a strong alternative to building in-house. Alex has some good points on integration with our Rust/Actix/AWS/PostgreSQL/NATS stack.  
+
+Looping you in as Director of IT—your technical take? Alex, meet Chen Williams.  
+
+Thanks,  
+Chen Johansson  
+VP of Operations  
+MedCore Analytics  
++1 (555) 987-6543  
+chen.johansson@medcoreanalytics.com  
+
+---------- Forwarded message ----------  
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Chen Johansson <chen.johansson@medcoreanalytics.com>  
+Subject: Re: Helping MedCore Analytics Scale Backend Operations Amid Rapid Growth  
+Date: Wed, Feb 17, 2026, 9:45 AM EST  
+
+> On Tue, Feb 16, 2026, 2:15 PM EST, Chen Johansson wrote: [previous quoted text as above]  
+
+[Full body of Email 3 as above, including its signature]  
+
+---
+
+From: Chen Williams <chen.williams@medcoreanalytics.com>  
+To: Chen Johansson <chen.johansson@medcoreanalytics.com>, Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Helping MedCore Analytics Scale Backend Operations Amid Rapid Growth  
+Date: Fri, Feb 19, 2026, 3:10 PM EST  
+
+Thanks Chen for forwarding this over—Alex, good to connect. They mentioned how it would help us manage the growth from those 13 new engineers without diverting resources to in-house builds. He has solid points on the stack fit too.  
+
+A few technical questions on the POC proposal: How does Technova specifically instrument Actix web services for distributed tracing on AWS EKS clusters? Does it support custom PostgreSQL query sampling rates, and what's the latency overhead for NATS message metrics at high throughput (say 100k msgs/sec)? We're aiming for a decision by May 15 to align with end-of-quarter rollout, and our $600k budget needs to stretch across qualification. As decision makers here at MedCore (51-200 employees, $184M ARR healthcare analytics), we prioritize seamless integration.  
+
+Chen, does this timeline work with what the CEO is expecting?  
+
+Best regards,  
+Chen Williams  
+Director of IT  
+MedCore Analytics  
++1 (555) 456-7890  
+chen.williams@medcoreanalytics.com  
+
+> On Thu, Feb 18, 2026, 11:20 AM EST, Chen Johansson wrote:  
+> > Hi Chen,  
+> >   
+> > Thought you'd want to weigh in on this thread from Technova.io's Alex Morgan. With our engineering team expanding (those 13 hires this quarter) and $600k allocated for observability, this could be a strong alternative to building in-house. Alex has some good points on integration with our Rust/Actix/AWS/PostgreSQL/NATS stack.  
+> >   
+> > Looping you in as Director of IT—your technical take? Alex, meet Chen Williams.  
+> >   
+> > Thanks,  
+> > Chen Johansson  
+> > VP of Operations  
+> > MedCore Analytics  
+> > +1 (555) 987-6543  
+> > chen.johansson@medcoreanalytics.com  
+> >   
+> > ---------- Forwarded message ----------  
+> > [Full forwarded Email 3 with its quotes]  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Chen Williams <chen.williams@medcoreanalytics.com>, Chen Johansson <chen.johansson@medcoreanalytics.com>  
+Subject: Re: Helping MedCore Analytics Scale Backend Operations Amid Rapid Growth  
+Date: Mon, Feb 22, 2026, 2:00 PM EST  
+
+Hi Chen Williams (and Chen J),  
+
+> On Fri, Feb 19, 2026, 3:10 PM EST, Chen Williams wrote:  
+> > Thanks Chen for forwarding this over—Alex, good to connect. They mentioned how it would help us manage the growth from those 13 new engineers without diverting resources to in-house builds. He has solid points on the stack fit too.  
+> >   
+> > A few technical questions on the POC proposal: How does Technova specifically instrument Actix web services for distributed tracing on AWS EKS clusters? Does it support custom PostgreSQL query sampling rates, and what's the latency overhead for NATS message metrics at high throughput (say 100k msgs/sec)? We're aiming for a decision by May 15 to align with end-of-quarter rollout, and our $600k budget needs to stretch across qualification. As decision makers here at MedCore (51-200 employees, $184M ARR healthcare analytics), we prioritize seamless integration.  
+> >   
+> > Chen, does this timeline work with what the CEO is expecting?  
+> >   
+> > Best regards,  
+> > Chen Williams  
+> > ...  
+> > > [quoted previous as above]  
+
+Thanks for the intro, Chen J, and great questions, Chen W—excited to dive in at this qualification stage.  
+
+Technova instruments Actix via our lightweight Rust crate (technova-actix-span), which auto-captures request spans and propagates traces via AWS X-Ray compatible headers on EKS. For PostgreSQL, yes—head/tail sampling at custom rates (down to 0.01%) with zero-config SQL beautification and explain plan capture. On NATS, our JetStream consumer integrates directly, adding <1ms latency at 100k+ msgs/sec (benchmarked on similar healthcare workloads); we've handled 500k/sec peaks for Rust-based services without drops.  
+
+Your May 15 timeline fits perfectly—we've accelerated POCs to 1 week for stacks like yours, keeping you on track for end-of-quarter. With $600k, you're set for full coverage (quote incoming if helpful). Happy to hop on a call this week to demo live against your NATS/Postgres setup?  
+
+Let me know preferences.  
+
+Best,  
+Alex Morgan  
+Sales Executive  
+Technova.io  
++1 (555) 123-4567  
+alex.morgan@technova.io

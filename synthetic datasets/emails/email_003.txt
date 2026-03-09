@@ -1,0 +1,205 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Anita Chen <anita.chen@carestack.com>  
+Subject: Streamlining customer onboarding at CareStack?  
+Date: Thu, February 8, 2026, 10:15 AM PST  
+
+Hi Anita,  
+
+I hope this email finds you well. I'm Alex Morgan, an Account Executive at Technova, and I came across CareStack while researching innovative healthcare tech companies in the 51-200 employee range. With your focus on rapid growth, I imagine dealing with fragmented tooling across departments and manual processes for customer onboarding is a daily headache—especially after hearing about that major customer loss last quarter due to onboarding delays.  
+
+Technova is a unified operations platform that automates onboarding workflows and integrates seamlessly with stacks like Java, Micronaut, GCP, Spanner, and Pub/Sub. We've helped similar healthcare firms reduce onboarding time by 60% and eliminate siloed tools. Would you be open to a 15-minute chat next week to see if it aligns with your end-of-year legacy migration plans?  
+
+Best regards,  
+Alex Morgan  
+Account Executive  
+Technova  
+(415) 555-0101  
+alex.morgan@technova.io  
+www.technova.io  
+
+---
+
+From: Anita Chen <anita.chen@carestack.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Streamlining customer onboarding at CareStack?  
+Date: Fri, February 9, 2026, 2:45 PM PST  
+
+Hi Alex,  
+
+Thanks for reaching out—timely as we've been grappling with those exact issues since I joined CareStack a year ago. Manual onboarding is killing us, and fragmented tooling means Ops, IT, and Customer Success are all using different systems. We've been evaluating ZoomInfo for intel, Clari for forecasting, and Intercom for comms, but nothing fully addresses the technical debt from our early growth spurt.  
+
+What sets Technova apart, especially for a healthcare tech company like ours with about 95 employees? Any case studies on onboarding automation?  
+
+Thanks,  
+Anita Chen  
+VP of Operations  
+CareStack  
+(650) 555-0202  
+anita.chen@carestack.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Anita Chen <anita.chen@carestack.com>  
+Subject: Re: Streamlining customer onboarding at CareStack?  
+Date: Fri, February 9, 2026, 4:20 PM PST  
+
+Hi Anita,  
+
+Great to hear from you—thanks for the quick reply and context on your stack and challenges.  
+
+> Thanks for reaching out—timely as we've been grappling with those exact issues since I joined CareStack a year ago. Manual onboarding is killing us, and fragmented tooling means Ops, IT, and Customer Success are all using different systems. We've been evaluating ZoomInfo for intel, Clari for forecasting, and Intercom for comms, but nothing fully addresses the technical debt from our early growth spurt.  
+
+Technova stands out with native integrations to GCP, Spanner, and Pub/Sub, plus Java/Micronaut support, allowing real-time data sync for automated onboarding without custom dev. Unlike ZoomInfo/Clari/Intercom, which are point solutions, we unify rev ops end-to-end—check this healthcare case study where a 100-employee firm cut onboarding from 2 weeks to 2 days and retained a key account post-loss: [link to case study].  
+
+Light proposal attached: starter package at $45K/year (under your likely $100K CFO threshold), scales with your migration timeline. Decision by Sept 14? Let's hop on a call to demo how it fits your critical urgency. Available Tue or Wed next week?  
+
+Cheers,  
+Alex Morgan  
+Account Executive  
+Technova  
+(415) 555-0101  
+alex.morgan@technova.io  
+www.technova.io  
+
+---
+
+From: Anita Chen <anita.chen@carestack.com>  
+To: Heather Xu <heather.xu@carestack.com>  
+CC: Alex Morgan <alex.morgan@technova.io>  
+Subject: Fwd: Streamlining customer onboarding at CareStack?  
+Date: Mon, February 12, 2026, 9:30 AM PST  
+
+Heather,  
+
+Thoughts on this? They seem to get our pains with fragmented tooling and onboarding—lost that big customer last quarter because of it. Might help with the migration off legacy by end of year. I've been pushing for something unified since I got here a year ago.  
+
+Thanks,  
+Anita  
+
+---------- Forwarded message ---------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Fri, February 9, 2026, 4:20 PM PST  
+Subject: Re: Streamlining customer onboarding at CareStack?  
+To: Anita Chen <anita.chen@carestack.com>  
+
+Hi Anita,  
+
+[full body of Alex's previous email as above, omitted here for brevity but included in thread]  
+
+---
+
+From: Heather Xu <heather.xu@carestack.com>  
+To: Anita Chen <anita.chen@carestack.com>, Alex Morgan <alex.morgan@technova.io>  
+CC:  
+Subject: Re: Streamlining customer onboarding at CareStack?  
+Date: Mon, February 12, 2026, 11:15 AM PST  
+
+Hi Alex,  
+
+Anita forwarded this over—interesting proposal. We run Java/Micronaut on GCP with Spanner for DB and Pub/Sub for events, so integrations are key for us in healthcare (HIPAA compliance is non-negotiable). How does Technova hook into Spanner for real-time customer data during onboarding? Any latency issues or custom connectors needed? Also, how does it handle our technical debt without adding more fragmentation?  
+
+We've looked at ZoomInfo et al., but their stacks don't play nice with ours. Urgency is high with the migration and that customer loss.  
+
+Best,  
+Heather Xu  
+Director of IT  
+CareStack  
+(650) 555-0303  
+heather.xu@carestack.com  
+
+> Hi Anita,  
+>  
+> Great to hear from you—thanks for the quick reply and context on your stack and challenges.  
+>  
+> > Thanks for reaching out—timely as we've been grappling with those exact issues since I joined CareStack a year ago. Manual onboarding is killing us, and fragmented tooling means Ops, IT, and Customer Success are all using different systems. We've been evaluating ZoomInfo for intel, Clari for forecasting, and Intercom for comms, but nothing fully addresses the technical debt from our early growth spurt.  
+>  
+> Technova stands out with native integrations to GCP, Spanner, and Pub/Sub, plus Java/Micronaut support, allowing real-time data sync for automated onboarding without custom dev. Unlike ZoomInfo/Clari/Intercom, which are point solutions, we unify rev ops end-to-end—check this healthcare case study where a 100-employee firm cut onboarding from 2 weeks to 2 days and retained a key account post-loss: [link to case study].  
+>  
+> Light proposal attached: starter package at $45K/year (under your likely $100K CFO threshold), scales with your migration timeline. Decision by Sept 14? Let's hop on a call to demo how it fits your critical urgency. Available Tue or Wed next week?  
+>  
+> Cheers,  
+> Alex Morgan  
+> ...  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Heather Xu <heather.xu@carestack.com>, Anita Chen <anita.chen@carestack.com>  
+CC:  
+Subject: Re: Streamlining customer onboarding at CareStack?  
+Date: Mon, February 12, 2026, 1:05 PM PST  
+
+Hi Heather and Anita,  
+
+Thanks for looping in, Heather—great questions on the tech side.  
+
+> Anita forwarded this over—interesting proposal. We run Java/Micronaut on GCP with Spanner for DB and Pub/Sub for events, so integrations are key for us in healthcare (HIPAA compliance is non-negotiable). How does Technova hook into Spanner for real-time customer data during onboarding? Any latency issues or custom connectors needed? Also, how does it handle our technical debt without adding more fragmentation?  
+> We've looked at ZoomInfo et al., but their stacks don't play nice with ours. Urgency is high with the migration and that customer loss.  
+
+Technova uses GCP-native connectors: direct Spanner API integration (no ETL intermediaries) for sub-100ms latency on customer data pulls/pushes during onboarding workflows. Pub/Sub subscriptions trigger events bi-directionally—e.g., new customer onboarded auto-publishes to your Micronaut services. Zero custom code; our SDK embeds in Java apps seamlessly. On technical debt: we abstract legacy migrations with API wrappers, letting you phase out old systems without ripping everything up. Full HIPAA/SOC2 compliance, with healthcare clients like [redacted] attesting to it.  
+
+Updated proposal attached factoring IT reqs—still under $100K for CFO sign-off. This positions you perfectly for end-of-quarter wins post-migration.  
+
+Anita/Heather: Tue 2pm or Wed 10am PST work? I'll send a Calendly.  
+
+Best,  
+Alex Morgan  
+Account Executive  
+Technova  
+(415) 555-0101  
+alex.morgan@technova.io  
+www.technova.io  
+
+---
+
+From: Anita Chen <anita.chen@carestack.com>  
+To: Alex Morgan <alex.morgan@technova.io>, Heather Xu <heather.xu@carestack.com>  
+CC:  
+Subject: Re: Streamlining customer onboarding at CareStack?  
+Date: Tue, February 13, 2026, 8:45 AM PST  
+
+Hi Alex,  
+
+Heather and I reviewed—tech specs look solid, and it addresses our fragmented tooling head-on. They mentioned the onboarding automation could prevent another customer loss like last quarter, which is critical with our Sept 14 decision timeline. We'll need CFO approval since it's pushing toward $100K if we scale, but the proposal stage feels right.  
+
+I'll share our RFP by end of week. Wed 10am works for the demo—Heather will join.  
+
+Thanks,  
+Anita Chen  
+VP of Operations  
+CareStack  
+(650) 555-0202  
+anita.chen@carestack.com  
+
+> [quoted previous Alex email body]  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Anita Chen <anita.chen@carestack.com>, Heather Xu <heather.xu@carestack.com>  
+CC:  
+Subject: Re: Streamlining customer onboarding at CareStack? - Demo Confirmed Wed 10am PST  
+Date: Tue, February 13, 2026, 9:30 AM PST  
+
+Perfect, Anita and Heather—Wed 10am PST locked in. Calendly invite incoming with Zoom link. We'll tailor the demo to your GCP/Spanner setup, onboarding flows, and migration path. Excited to show how we beat out ZoomInfo/Clari/Intercom on unification.  
+
+Looking forward!  
+
+Best,  
+Alex Morgan  
+Account Executive  
+Technova  
+(415) 555-0101  
+alex.morgan@technova.io  
+www.technova.io  
+
+> Hi Alex,  
+>  
+> Heather and I reviewed—tech specs look solid, and it addresses our fragmented tooling head-on. They mentioned the onboarding automation could prevent another customer loss like last quarter, which is critical with our Sept 14 decision timeline. We'll need CFO approval since it's pushing toward $100K if we scale, but the proposal stage feels right.  
+>  
+> I'll share our RFP by end of week. Wed 10am works for the demo—Heather will join.  
+>  
+> Thanks,  
+> Anita Chen  
+> ...

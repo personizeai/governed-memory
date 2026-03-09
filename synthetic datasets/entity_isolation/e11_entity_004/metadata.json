@@ -1,0 +1,19 @@
+{
+  "entity_index": 4,
+  "name": "Kevin Bhandari",
+  "company": "Meridian Labs",
+  "industry": "E-commerce",
+  "email": "kevin.bhandari@meridianlabs.com",
+  "title": "VP of Sales",
+  "facts": [
+    "Kevin Bhandari is VP of Sales at Meridian Labs",
+    "Meridian Labs is a E-commerce company with 48 employees",
+    "Tech stack: TypeScript, React, Node.js, GCP, MongoDB",
+    "Deal value: $250,000",
+    "Pain points: customer churn from slow support response times; scaling issues during peak traffic periods",
+    "Competitors: Gong",
+    "Decision timeline: Q2 2026",
+    "Annual revenue: ~$126M"
+  ],
+  "actual_word_count": 280
+}

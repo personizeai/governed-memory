@@ -1,0 +1,54 @@
+{
+  "sample_id": "call_note_021",
+  "content_type": "call_notes",
+  "company": "BuildTech Corp",
+  "industry": "Manufacturing",
+  "duration_minutes": 30,
+  "target_word_count": 683,
+  "actual_word_count": 443,
+  "expected_facts": [
+    {
+      "text": "Currently using Microsoft Dynamics with Power Automate",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with poor visibility into pipeline health",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Go, Kubernetes, AWS, DynamoDB, gRPC",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Chorus.ai",
+      "type": "explicit"
+    },
+    {
+      "text": "Kevin Okonkwo has been at BuildTech Corp for 5 years",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Operations",
+    "company_name": "BuildTech Corp",
+    "company_size": "1000+",
+    "technology_stack": "Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "difficulty measuring ROI on AI initiatives",
+      "poor visibility into pipeline health"
+    ],
+    "decision_timeline": "2026-09-20",
+    "competitors_mentioned": [
+      "Chorus.ai"
+    ],
+    "next_steps": "Set up POC environment for Kevin's team to evaluate",
+    "buying_process": "Fast-track available for deals under $150K with direct VP approval",
+    "current_solution": "Microsoft Dynamics with Power Automate"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2
+  },
+  "property_coverage": 0.79
+}

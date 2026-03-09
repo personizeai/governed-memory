@@ -1,0 +1,16 @@
+### Account Overview
+Marble Tech is a prominent Digital Media company with approximately 2156 employees and ~$264M in annual revenue. As a key prospect in the B2B space, they are grappling with operational challenges that align perfectly with our CRM solutions. Primary contact is Brian Rivera, Director of IT at Marble Tech (brian.rivera@marbletech.com). Their tech stack heavily relies on Python, FastAPI, AWS Lambda, DynamoDB, and SQS, indicating a modern, cloud-native infrastructure that's scaling rapidly but facing inefficiencies.
+
+### Key Details
+Brian Rivera, as Director of IT, oversees technology decisions amid Marble Tech's growth in digital content delivery. Key pain points include fragmented tooling across departments, which hinders cross-functional collaboration; difficulty measuring ROI on AI initiatives, leading to underutilized investments; scaling issues during peak traffic periods that cause performance bottlenecks; and inconsistent messaging across the sales team, impacting revenue predictability. Competitors in play are Clari, their existing CRM workflows, and ZoomInfo, but these fall short on integrated AI-driven insights and seamless scalability. Marble Tech's size and revenue position them as a high-value target, with a potential deal value of $400,000.
+
+### Deal Status
+The opportunity is in early discovery, with strong alignment to their pain points around ROI measurement and sales messaging consistency. Brian has expressed frustration with current tools' inability to unify data silos, especially during high-traffic events that strain their AWS Lambda and SQS setups. Decision timeline is targeted for Q4 2026, giving ample runway for nurturing. No formal proposal yet, but initial conversations highlight our differentiation from Clari and ZoomInfo through superior AI analytics and Python/FastAPI compatibility.
+
+### Next Steps
+1. Schedule a 30-minute demo with Brian Rivera next week to showcase ROI dashboards tailored to AI initiatives and peak scaling simulations.
+2. Share case studies of Digital Media clients resolving fragmented tooling and sales inconsistencies.
+3. Engage sales and IT stakeholders for a multi-department workshop by end of Q3 2025.
+4. Monitor competitor activity and prepare customized benchmarks against existing CRM workflows.
+
+(Word count: 347)

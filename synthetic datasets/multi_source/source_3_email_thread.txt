@@ -1,0 +1,159 @@
+---
+type: Contact
+record_id: crm-sarah-chen-techflow-inc
+email: sarah.chen@techflow.io
+website_url: https://techflow.io
+company: TechFlow Inc
+industry: B2B SaaS
+contact_name: Sarah Chen
+job_title: VP of Engineering
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Sarah Chen <sarah.chen@techflow.com>  
+CC:  
+Subject: TechNova Vector Memory Solution - POC Proposal for TechFlow  
+Date: Mon, Oct 7, 2024, 10:15 AM PDT  
+
+Hi Sarah,  
+
+I hope this email finds you well. Following our great discussion last week at the SaaS Summit, I'm excited to follow up with a tailored POC proposal for TechNova's Vector Memory Solution at TechFlow.  
+
+Our solution is designed specifically for high-scale B2B SaaS environments like yours, enabling ultra-fast semantic search and memory retrieval across massive datasets. Key highlights include:  
+- Sub-200ms query latencies even at petabyte scale  
+- Seamless integration with your existing pipeline  
+- Horizontal scaling on AWS (perfect timing with your migration initiatives)  
+
+I'd love to schedule a 30-min deep dive next week to walk through architecture, pricing, and next steps. What does your calendar look like?  
+
+Best regards,  
+Alex Morgan  
+Sales Engineer  
+TechNova.io  
+alex.morgan@technova.io  
+(415) 555-0123  
+
+--  
+> From: Sarah Chen <sarah.chen@techflow.com>  
+> To: Alex Morgan <alex.morgan@technova.io>  
+> CC:  
+> Subject: Re: TechNova Vector Memory Solution - POC Proposal for TechFlow  
+> Date: Wed, Oct 9, 2024, 2:45 PM PDT  
+>  
+> Hi Alex,  
+>  
+> Thanks for the proposal—timely as we're scaling our event processing pipeline, which handles ~50M customer events per day. Performance is critical; we need <200ms response times for memory retrieval at scale to keep our user-facing features snappy.  
+>  
+> My colleague Mike Rivera, our Director of Data, will be the technical evaluator on this. Can you loop him in? Also, could you share customer references in healthcare and fintech verticals? Those are key sectors for us.  
+>  
+> Looking forward to your thoughts.  
+>  
+> Best,  
+> Sarah Chen  
+> VP of Engineering  
+> TechFlow Inc  
+> B2B SaaS Platform | ~280 employees | Empowering businesses with seamless workflows  
+> sarah.chen@techflow.com  
+> (650) 555-0198  
+
+--  
+> From: Alex Morgan <alex.morgan@technova.io>  
+> To: Sarah Chen <sarah.chen@techflow.com>  
+> CC: Mike Rivera <mike.rivera@techflow.com>  
+> Subject: Re: TechNova Vector Memory Solution - POC Proposal for TechFlow  
+> Date: Fri, Oct 11, 2024, 9:30 AM PDT  
+>  
+> Hi Sarah (and Mike—welcome aboard!),  
+>  
+> Great to hear about your scale—50M events/day is impressive, and our solution is battle-tested at similar volumes (e.g., our client in adtech processes 100M+). On performance: we've consistently delivered <200ms p99 latencies in production for retrieval ops, even during peaks. Happy to demo this live.  
+>  
+> References as requested:  
+> - Healthcare: MediSync (HIPAA-compliant semantic search for 20M patient records; contact: jdoe@medisync.com)  
+> - Fintech: PayForge (real-time fraud detection memory layer; contact: fraudlead@payforge.io)  
+>  
+> Both are happy to chat. For the POC, I propose a 4-week sprint: Week 1 ingest sample data, Week 2 tune/index, Weeks 3-4 load test with your pipeline. Thoughts on kickoff?  
+>  
+> Best,  
+> Alex Morgan  
+> Sales Engineer  
+> TechNova.io  
+> alex.morgan@technova.io  
+> (415) 555-0123  
+
+Sarah, Mike—attached is the POC SOW draft. Let's align on scope.  
+
+--  
+> From: Sarah Chen <sarah.chen@techflow.com>  
+> To: Alex Morgan <alex.morgan@technova.io>  
+> CC: Mike Rivera <mike.rivera@techflow.com>  
+> Subject: Re: TechNova Vector Memory Solution - POC Proposal for TechFlow  
+> Date: Mon, Oct 14, 2024, 4:20 PM PDT  
+>  
+> Hi Alex, Mike,  
+>  
+> Alex, thanks for the quick references—I've reached out to both. Solid fits for our use case. Mike reviewed the SOW and likes the architecture; our AWS migration is a key initiative this year, so native AWS support is a big plus.  
+>  
+> One ask: our legal team needs a DPA signed before any POC work starts. Can you send that over? Also, we're targeting a phased rollout starting with our sales team (they need fast memory retrieval for customer interactions). Confirming the project budget at four hundred fifty thousand—does that cover the full POC + initial prod deployment for 10 users?  
+>  
+> Mike—any tech feedback?  
+>  
+> Best,  
+> Sarah Chen  
+> VP of Engineering  
+> TechFlow Inc  
+> B2B SaaS Platform | ~280 employees | Empowering businesses with seamless workflows  
+> sarah.chen@techflow.com  
+> (650) 555-0198  
+
+--  
+> From: Alex Morgan <alex.morgan@technova.io>  
+> To: Sarah Chen <sarah.chen@techflow.com>  
+> CC: Mike Rivera <mike.rivera@techflow.com>  
+> Subject: Re: TechNova Vector Memory Solution - POC Proposal for TechFlow  
+> Date: Wed, Oct 16, 2024, 11:10 AM PDT  
+>  
+> Hi Sarah, Mike,  
+>  
+> Perfect—phased rollout starting with sales team confirmed. Budget locked at $450k: $150k POC (4 weeks), $300k Phase 1 prod (10 users, full pipeline integration incl. 50M events/day ingestion). Scalable to full org post-validation.  
+>  
+> DPA attached (standard EU/US compliant, covers your data sovereignty needs). Legal review? Once signed, we can kick off ingest next Monday.  
+>  
+> Mike: Sarah mentioned you're the technical evaluator—curious on your take for <200ms at our scale sim? We've got a custom benchmark script ready for your dataset.  
+>  
+> Excited to move forward!  
+>  
+> Best,  
+> Alex Morgan  
+> Sales Engineer  
+> TechNova.io  
+> alex.morgan@technova.io  
+> (415) 555-0123  
+>  
+> Attachments: TechNova_DPA_v2.pdf, POC_SOW_v1.2.pdf  
+
+--  
+> From: Sarah Chen <sarah.chen@techflow.com>  
+> To: Alex Morgan <alex.morgan@technova.io>  
+> CC: Mike Rivera <mike.rivera@techflow.com>  
+> Subject: Re: TechNova Vector Memory Solution - POC Proposal for TechFlow  
+> Date: Fri, Oct 18, 2024, 3:55 PM PDT  
+>  
+> Hi Alex, Mike,  
+>  
+> DPA looks good—Legal signed off this morning (cc'd copy attached). Budget confirmed at four hundred fifty thousand, phased rollout starting sales team greenlit. Mike ran prelim benchmarks on your script with our synthetic 50M event data and hit 180ms p99—exceeds our <200ms req. Thumbs up!  
+>  
+> AWS migration alignment is spot-on; we'll provide pipeline access early next week. Kickoff call Tuesday 10AM PT?  
+>  
+> Mike: Thanks for the quick eval.  
+>  
+> Let's do this!  
+>  
+> Best,  
+> Sarah Chen  
+> VP of Engineering  
+> TechFlow Inc  
+> B2B SaaS Platform | ~280 employees | Empowering businesses with seamless workflows  
+> sarah.chen@techflow.com  
+> (650) 555-0198  
+>  
+> Attachments: Signed_TechNova_DPA.pdf

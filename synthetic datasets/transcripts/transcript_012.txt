@@ -1,0 +1,150 @@
+---
+type: Contact
+record_id: crm-jennifer-cartlogic
+email: jennifer@cartlogic.com
+website_url: https://cartlogic.com
+company: CartLogic
+industry: E-commerce
+contact_name: Jennifer
+job_title: Director of Engineering
+---
+
+Alex: Hi Jennifer, thanks so much for taking the time today. I know you're busy over there at CartLogic. How's your week going so far?
+
+Jennifer: Hey Alex, no problem at all. Yeah, it's been a whirlwind, you know, with the end-of-quarter rush. But good, good. Yourself?
+
+Alex: Oh man, same here. TechNova's been ramping up these demos left and right. Anyway, I appreciate you carving out 30 minutes. So, just to kick us off, we're here to dive deeper into the proposal stage for our e-commerce optimization suite. Last time we chatted, you mentioned some of those pain points around customer onboarding and scaling. Want to start there?
+
+Jennifer: Yeah, absolutely. So, as Director of Engineering here, I've been with CartLogic for five years now, and we've grown to about 714 employees, mostly in e-commerce ops. But onboarding new customers is still a nightmare—totally manual processes, spreadsheets flying around between sales, support, and engineering. It takes days sometimes, and we're losing deals because of it.
+
+Alex: I hear you. That manual stuff kills efficiency, right? Especially in e-commerce where speed is everything. Tell me more—how fragmented is it across departments? You know, we've seen that a lot with companies your size, 201 to 1000 employees, where tooling doesn't sync up.
+
+Jennifer: Fragmented is an understatement. Sales uses one CRM workflow, engineering's buried in our stack—Rust for the backend, Actix web framework, all hosted on AWS with PostgreSQL and NATS for messaging. But support's on something else entirely, and it shows. We've had compliance audit failures on data handling too, because nothing integrates properly. He mentioned that in the last audit report, by the way.
+
+Alex: He mentioned what exactly? Sorry, jog my memory.
+
+Jennifer: Oh, our compliance officer. Yeah, he flagged the data silos as a huge risk. And then scaling during peak traffic—Black Friday last year, we nearly melted down because our pipelines couldn't handle the surge.
+
+Alex: Got it. Peaks like that are brutal. Our suite plugs right into stacks like yours—Rust and Actix compatible out of the box, seamless with AWS, Postgres, NATS. We automate onboarding end-to-end, so no more manual handoffs. Compliance? Built-in audit trails that have helped similar e-com folks pass audits first try.
+
+Jennifer: That sounds promising. We've been evaluating Apollo.io lately, and our existing CRM workflows, but they don't touch engineering side much. Apollo's great for leads, but onboarding? Meh.
+
+Alex: Right, Apollo's more sales-focused. We're engineering-centric, which fits your Director of Engineering role perfectly. Let me walk you through a quick demo flow. Imagine a new customer signs up—our tool pulls from your CRM, validates against Postgres, queues via NATS, and deploys Rust microservices automatically on AWS. No fragmentation.
+
+Jennifer: Hmm, interesting. A few weeks ago, we had a spike from a viral promo, and it exposed those scaling issues big time. She said it was the worst outage since launch.
+
+Alex: She who?
+
+Jennifer: Our VP of Ops. Anyway, scaling is key. What's the integration timeline look like?
+
+Alex: Typically two to four weeks for a POC, full rollout by end of month if greenlit. We've done it with Actix setups just like yours.
+
+Jennifer: End of month might work, but our buying process is IT committee—they evaluate quarterly, next window's Q3 2026. Urgency's low right now, deal timeline's pegged to September 7th, 2026.
+
+Alex: Noted, low urgency makes sense for a thoughtful eval. Speaking of which, budget-wise? You mentioned around 50,000 allocated.
+
+Jennifer: Yeah, approximately $50,000 for this initiative. IT budget got a 12% bump this fiscal year, so we're good there. But we've got to justify it across fragmented tooling fixes.
+
+Alex: Perfect alignment. Our proposal comes in right at that 50K mark—roughly fifty thousand for the full suite, including onboarding automation, compliance modules, and scaling optimizers. That's the deal value we're quoting.
+
+Jennifer: Fifty grand, got it. We've said budget's around 50K internally too. But compliance failures—can you give an example? We failed two audits last year on data handling.
+
+Alex: Sure. Take a client like yours in e-com—manual onboarding meant PII scattered across tools. Our system centralizes it with SOC2-compliant logging. One customer, similar size to your 714 heads, cut audit prep from weeks to days.
+
+Jennifer: Nice. Hey, quick side note—did you catch that e-com summit last week? The one on AWS scaling? Brutal talks.
+
+Alex: Oh yeah, I did virtually. The NATS session was gold. Reminded me of your stack. Anyway, back on track—fragmented tooling: how many departments are clashing right now?
+
+Jennifer: At least four—sales, eng, support, compliance. It mentioned in our last all-hands that it's costing us 20% productivity.
+
+Alex: It who?
+
+Jennifer: The CEO. Yeah, he hammered it home. Your tool unify that?
+
+Alex: 100%. Single pane for all, Rust-native APIs for eng, no rip-and-replace. We've integrated with Apollo.io exports too, since you're looking there.
+
+Jennifer: Apollo's on our shortlist, but CRM workflows are legacy. Scaling peaks—how does it handle, say, 10x traffic?
+
+Alex: Auto-scales on AWS, leverages NATS for queuing. In demos, we've simulated Black Friday loads—no sweat. Want me to mock up your stack?
+
+Jennifer: Yeah, let's see. Next quarter we're expecting another promo wave, so timing's decent.
+
+Alex: Pulling it up now. See here—customer data flows from CRM to Postgres, Actix spins up services, NATS distributes. Onboarding? Instant, compliant.
+
+Jennifer: Looks clean. But I'm not the decision maker—IT committee is. They'll want POC data.
+
+Alex: Understood. Proposal stage means we'll tailor for them. Budget at 50K fits, as you said.
+
+Jennifer: Right, roughly fifty thousand, yeah. We've allocated that. Pain points match: manual onboarding, fragmentation, audits, peaks.
+
+Alex: Spot on. Objections? Apollo cheaper?
+
+Jennifer: Maybe, but less eng-focused. Existing CRM's clunky.
+
+Alex: Exactly. Next steps: I'll send the pricing proposal to you by Friday. Customize for CartLogic's 714-employee scale, your stack.
+
+Jennifer: Friday works. By end of month, we can review internally?
+
+Alex: Absolutely. Low urgency, but let's momentum-build before Q3 2026.
+
+Jennifer: Sounds good. Oh, weekend plans? I'm hiking if weather holds.
+
+Alex: Nice, jealous. I'm coaching soccer. Anyway, questions on compliance?
+
+Jennifer: One more—how's data sovereignty with AWS? Audits nitpick that.
+
+Alex: Full control, regions match yours. Passed EU regs easy.
+
+Jennifer: Good. Scaling example—real client story?
+
+Alex: Sure, e-com firm, 500 employees, Rust/Actix. Peaks doubled post-implementation, zero downtime. They were manual onboarding too, cut to hours.
+
+Jennifer: Hours? From days? Huge.
+
+Alex: Yep. Your 714 scale? Scales linearly.
+
+Jennifer: Impressive. Fragmentation—cross-dept dashboards?
+
+Alex: Real-time, role-based. Eng sees Postgres metrics, sales sees pipelines.
+
+Jennifer: And NATS integration? Zero config?
+
+Alex: Plug-and-play. We've got Actix middleware ready.
+
+Jennifer: Awesome. Budget confirmation—IT's 12% up, so $50K is locked.
+
+Alex: Locked in proposal. Deal value 50,000.
+
+Jennifer: Yep. Competitors: Apollo.io's sales-heavy, CRM's outdated.
+
+Alex: Our edge. Decision timeline September 7, 2026—plenty runway.
+
+Jennifer: IT committee quarterly, Q3 slot.
+
+Alex: Perfect. Any blockers?
+
+Jennifer: Just committee signoff. She noted budget flexibility.
+
+Alex: She who?
+
+Jennifer: Finance lead. Anyway, send that proposal Friday.
+
+Alex: Will do. Thanks for the deep dive, Jennifer. Excited to move this forward for CartLogic.
+
+Jennifer: Me too, Alex. Talk soon.
+
+Alex: Great. Have a solid rest of your day.
+
+Jennifer: You too. Bye.
+
+[Pause for a moment as they wrap up screens]
+
+Alex: One last thing—any quick wins pre-proposal? Like a mini-POC script for your Rust team?
+
+Jennifer: Um, yeah, that'd help. Email it?
+
+Alex: On it by EOD. Thanks again.
+
+Jennifer: Perfect. Cheers. 
+
+[End of meeting]

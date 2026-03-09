@@ -1,0 +1,153 @@
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Nadia Hassan <nadia.hassan@classgrid.com>  
+Subject: Tailored insights for ClassGrid's product tooling unification  
+Date: Thu, 12 Feb 2026 10:15:32 -0800  
+
+Hi Nadia,  
+
+I hope this email finds you well. My name is Alex Morgan, and I'm a Senior Account Executive at Technova, where we specialize in unified product analytics and tooling platforms that streamline operations for growing EdTech companies like ClassGrid.  
+
+I've been following ClassGrid's impressive growth—3248 employees strong, with your main office in San Francisco—and I understand you're grappling with fragmented tooling across departments, especially as you rely on a combination of Notion and Airtable for now. With your tech stack including PHP, Laravel, DigitalOcean, MySQL, and Redis, plus the urgency to migrate off legacy systems by the end of the year, real-time analytics could make a huge difference, particularly after losing that major customer last quarter due to onboarding issues.  
+
+Technova integrates seamlessly with your stack to provide the real-time decision-making insights you're missing, reducing silos and accelerating migrations. We've helped similar teams cut onboarding times by 40% and unify data flows effortlessly. With your $50,000 budget allocated and a decision timeline around May 27, I'd love to share a quick 15-minute demo tailored to ClassGrid's needs. Are you available next week?  
+
+Looking forward to your thoughts!  
+
+Best regards,  
+Alex Morgan  
+Senior Account Executive  
+Technova.io  
++1 (415) 555-0123  
+alex.morgan@technova.io  
+
+---
+
+From: Nadia Hassan <nadia.hassan@classgrid.com>  
+To: Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Tailored insights for ClassGrid's product tooling unification  
+Date: Fri, 13 Feb 2026 14:22:47 -0800  
+
+Hi Alex,  
+
+Thanks for reaching out—I've been at ClassGrid for 5 years as Head of Product, and fragmented tooling across our departments is indeed a pain point, compounded by the lack of real-time analytics for decision-making. Your mention of our stack (PHP, Laravel, DigitalOcean, MySQL, Redis) and the legacy migration by end of year hits home, especially after we lost that big customer due to onboarding delays.  
+
+One question: How does Technova handle real-time syncing with Redis for caching in a Laravel environment? We're critically urgent on this with our negotiation stage deal value around $50k.  
+
+Best,  
+Nadia Hassan  
+Head of Product  
+ClassGrid  
++1 (415) 555-0198  
+nadia.hassan@classgrid.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Nadia Hassan <nadia.hassan@classgrid.com>  
+Subject: Re: Tailored insights for ClassGrid's product tooling unification  
+Date: Fri, 13 Feb 2026 16:45:21 -0800  
+
+Hi Nadia,  
+
+Great to hear from you—thanks for the context on your 5 years at ClassGrid and the critical urgency around your EdTech operations in San Francisco.  
+
+> One question: How does Technova handle real-time syncing with Redis for caching in a Laravel environment? We're critically urgent on this with our negotiation stage deal value around $50k.  
+
+Technova uses a lightweight Redis adapter that plugs directly into Laravel's queue system via our SDK—think pub/sub patterns for sub-100ms latency syncing. It unifies your Notion/Airtable data into real-time dashboards without disrupting your DigitalOcean droplets or MySQL schemas. We've seen teams like yours reduce fragmentation by consolidating 15+ tools into one, especially helpful post that customer loss from onboarding issues.  
+
+As a light proposal: A proof-of-concept integration with your stack, scoped to your $50k budget, deliverable before end of quarter. Decision by May 27 aligns perfectly. Shall we hop on a 15-min call next week to mock it up?  
+
+Cheers,  
+Alex Morgan  
+Senior Account Executive  
+Technova.io  
++1 (415) 555-0123  
+alex.morgan@technova.io  
+
+---
+
+From: Nadia Hassan <nadia.hassan@classgrid.com>  
+To: Brandon Ibrahim <brandon.ibrahim@classgrid.com>  
+CC: Alex Morgan <alex.morgan@technova.io>  
+Subject: Fwd: Tailored insights for ClassGrid's product tooling unification  
+Date: Mon, 16 Feb 2026 09:30:15 -0800  
+
+Brandon,  
+
+Forwarding this thread from Technova—thoughts? Their real-time analytics could address our fragmented tooling and legacy migration by end of year. Alex seems solid on Laravel/Redis. Can you vet the technical side? We're at negotiation stage with ~$50k budget and May 27 timeline; urgency is critical after Q4 customer loss.  
+
+Thanks,  
+Nadia  
+
+---------- Forwarded message ----------  
+From: Alex Morgan <alex.morgan@technova.io>  
+Date: Fri, 13 Feb 2026 16:45:21 -0800  
+Subject: Re: Tailored insights for ClassGrid's product tooling unification  
+To: Nadia Hassan <nadia.hassan@classgrid.com>  
+
+Hi Nadia,  
+
+Great to hear from you—thanks for the context on your 5 years at ClassGrid and the critical urgency around your EdTech operations in San Francisco.  
+
+> One question: How does Technova handle real-time syncing with Redis for caching in a Laravel environment? We're critically urgent on this with our negotiation stage deal value around $50k.  
+
+Technova uses a lightweight Redis adapter that plugs directly into Laravel's queue system via our SDK—think pub/sub patterns for sub-100ms latency syncing. It unifies your Notion/Airtable data into real-time dashboards without disrupting your DigitalOcean droplets or MySQL schemas. We've seen teams like yours reduce fragmentation by consolidating 15+ tools into one, especially helpful post that customer loss from onboarding issues.  
+
+As a light proposal: A proof-of-concept integration with your stack, scoped to your $50k budget, deliverable before end of quarter. Decision by May 27 aligns perfectly. Shall we hop on a 15-min call next week to mock it up?  
+
+Cheers,  
+Alex Morgan  
+Senior Account Executive  
+Technova.io  
++1 (415) 555-0123  
+alex.morgan@technova.io  
+
+---
+
+From: Brandon Ibrahim <brandon.ibrahim@classgrid.com>  
+To: Nadia Hassan <nadia.hassan@classgrid.com>, Alex Morgan <alex.morgan@technova.io>  
+Subject: Re: Tailored insights for ClassGrid's product tooling unification  
+Date: Mon, 16 Feb 2026 11:47:09 -0800  
+
+Nadia, Alex,  
+
+Thanks for looping me in—I'm Brandon Ibrahim, Engineering Manager here at ClassGrid (3248 employees, SF HQ). Nadia's forward makes sense given our pain with fragmented tooling and no real-time analytics, plus the legacy migration push.  
+
+> Technova uses a lightweight Redis adapter that plugs directly into Laravel's queue system via our SDK—think pub/sub patterns for sub-100ms latency syncing.  
+
+A technical question: Does it support Redis Cluster mode for our DigitalOcean setup with MySQL replication? We can't afford downtime like with the onboarding issues that lost us that customer last quarter. Also, how does it handle schema evolution in Laravel migrations without breaking Notion/Airtable imports? Their proposal sounds good for the $50k, but need details before end of quarter.  
+
+He mentioned next week for the call—let's align.  
+
+Best,  
+Brandon Ibrahim  
+Engineering Manager  
+ClassGrid  
++1 (415) 555-0276  
+brandon.ibrahim@classgrid.com  
+
+---
+
+From: Alex Morgan <alex.morgan@technova.io>  
+To: Brandon Ibrahim <brandon.ibrahim@classgrid.com>, Nadia Hassan <nadia.hassan@classgrid.com>  
+Subject: Re: Tailored insights for ClassGrid's product tooling unification  
+Date: Mon, 16 Feb 2026 14:22:56 -0800  
+
+Hi Brandon and Nadia,  
+
+Brandon, great to meet you—thanks for jumping in on this. Appreciate the engineering perspective from ClassGrid's SF team, especially with your 3248-employee scale and the critical timeline to migrate off legacy by year-end.  
+
+> A technical question: Does it support Redis Cluster mode for our DigitalOcean setup with MySQL replication? We can't afford downtime like with the onboarding issues that lost us that customer last quarter. Also, how does it handle schema evolution in Laravel migrations without breaking Notion/Airtable imports?  
+
+Yes, full Redis Cluster support out-of-the-box—our SDK auto-discovers nodes and handles failover with zero-config for DigitalOcean. Pairs seamlessly with MySQL replication via CDC (change data capture) listeners, ensuring <50ms sync even under load. For Laravel migrations, we use a non-blocking schema diff tool that shadows changes in a staging layer, preserving Notion/Airtable imports via API webhooks—no breakage, as proven in 200+ EdTech deployments. This directly tackles your fragmented tooling and real-time analytics gaps, avoiding past onboarding pitfalls.  
+
+Proof-of-concept still scoped to $50k budget, ready next week. With May 27 decision and end-of-quarter delivery, let's schedule that 15-min tech deep-dive tomorrow? Here's my Calendly: [calendly.com/alex-morgan/technova-poc].  
+
+They've been at ClassGrid a while—Nadia's insights plus your tech lead will get us there fast.  
+
+Best,  
+Alex Morgan  
+Senior Account Executive  
+Technova.io  
++1 (415) 555-0123  
+alex.morgan@technova.io

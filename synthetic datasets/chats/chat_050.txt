@@ -1,0 +1,74 @@
+[09:15] @alex.m: @channel quick update on VaultEdge - had intro call with Aisha Ibrahim yesterday, she's CRO there. Fintech with ~578 folks. Deal stage discovery.  
+[👍 from @sarah.k]  
+[09:17] @sarah.k: nice! what's their stack?  
+[09:18] @alex.m: PHP, Laravel, DigitalOcean, MySQL, Redis. Legacy Java app that's a nightmare, maintained by one guy.  
+[09:19]  ↳ @mike.r: one guy? that's risky af tbh  
+[09:20] @simone.f: yeah they've been evaluating ZoomInfo and Drift too fwiw  
+[09:21] @alex.m: pains are high infra costs eating margins and poor dev exp slowing velocity. ngl sounds perfect for us  
+[👍 from @mike.r]  
+[09:22]  ↳ @sarah.k: poor dev exp? like what specifically?  
+[09:23] @alex.m: she said dev velocity is tanked, features take forever. Budget ~450k allocated.  
+[09:24] @mike.r: 450k? solid deal value. timeline?  
+[09:25] @alex.m: decision by 2026-05-22, so we've got time but let's push.  
+[09:26] @sarah.k: got it. Aisha been there 2 years?  
+[09:27] @alex.m: yep. Company size 201-1000, fits our sweet spot.  
+[09:28]  ↳ @simone.f: sweet spot imo  
+[09:29] @mike.r: shared link: VaultEdge pricing page - check their current spend  
+[09:30] @simone.f: thx mike. so they're on DigitalOcean? high costs make sense  
+[09:31] @alex.m: exactly, infra eating margins. legacy java slowing everything  
+[09:32]  ↳ @sarah.k: legacy java? he mentioned that too  
+[09:33] @mike.r: yeah one person maintains it. risky.  
+[09:34] @simone.f: lmk if we need to loop eng for demo next week  
+[09:35] @alex.m: makes sense. they're looking at competitors like ZoomInfo still  
+[09:36] @sarah.k: drift too right? we beat them on price imo  
+[09:37]  ↳ @mike.r: drift yeah, but zoominfo is the real threat  
+[09:38] @alex.m: tbh she said they're not interested in drift anymore - too salesy  
+[09:39] @simone.f: who said? aisha?  
+[09:40] @mike.r: probably. anyway budget 450k is locked?  
+[09:41] @alex.m: approx yeah. poor dev exp is killing feature velocity  
+[09:42]  ↳ @sarah.k: velocity yeah, mentioned last Friday  
+[09:43] @simone.f: got it. stack is PHP Laravel DO MySQL Redis right?  
+[09:44] @mike.r: yep confirmed on call.  
+[09:45] @alex.m: @here let's schedule follow-up with Aisha tomorrow  
+[09:46] @sarah.k: on it  
+[👍 from @simone.f]  
+[09:47] @mike.r: she ok'd it?  
+[09:48] @alex.m: yep. high infra costs top pain  
+[09:49]  ↳ @simone.f: infra yeah eating margins  
+[09:50] @sarah.k: legacy java by one dev - that's what he hates most  
+[09:51] @mike.r: who? the dev?  
+[09:52] @simone.f: ngl vaultedge sounds like low hanging fruit  
+[09:53] @alex.m: 100%. deal value 450000 straight up  
+[09:54]  ↳ @sarah.k: sweet  
+[09:55] @mike.r: timeline to may 22 2026? long but ok  
+[09:56] @alex.m: yeah plenty runway. they've got 578 employees fintech  
+[09:57] @sarah.k: repeated that earlier alex lol  
+[09:58] @simone.f: true. poor dev exp slowing velocity big time  
+[09:59]  ↳ @mike.r: velocity af  
+[10:00] @alex.m: thx all. i'll own next sprint demo prep  
+[10:01] @sarah.k: perfect 👍  
+[👍 from @mike.r]  
+[10:02] @mike.r: zoominfo eval still active?  
+[10:03] @alex.m: they said it but drift is out  
+[10:04]  ↳ @simone.f: drift out good  
+[10:05] @sarah.k: aisha's been there 2 years, solid contact  
+[10:06] @simone.f: CRO title? yeah chief revenue officer  
+[10:07] @mike.r: deal stage discovery - need to move to demo asap  
+[10:08] @alex.m: agreed. pains nailed: infra costs and dev exp  
+[10:09] @sarah.k: makes sense  
+[10:10]  ↳ @mike.r: +1  
+[10:11] @simone.f: fwiw their stack PHP Laravel etc matches us well  
+[10:12] @alex.m: yep DigitalOcean MySQL Redis all good  
+[10:13] @mike.r: legacy java killing them tho  
+[10:14] @sarah.k: one person maint - nightmare  
+[10:15] @alex.m: tbh let's quote 450k to match budget  
+[👍 from @simone.f]  
+[10:16]  ↳ @sarah.k: quote tomorrow?  
+[10:17] @mike.r: company size 201-1000 confirmed  
+[10:18] @simone.f: vaultedge fintech yeah  
+[10:19] @alex.m: ok wrapping here - lmk thoughts  
+[10:20] @sarah.k: all good  
+[got it from @mike.r]  
+[10:21] @simone.f: 👍  
+[10:22] @alex.m: one more: decision 2026-05-22 lock it in  
+[10:23]  ↳ @mike.r: noted

@@ -1,0 +1,202 @@
+---
+type: Contact
+record_id: crm-kevin-garcia-carestack
+email: kevin.garcia@carestack.io
+website_url: https://carestack.io
+company: CareStack
+industry: Healthcare Tech
+contact_name: Kevin Garcia
+job_title: Head of Data
+---
+
+Alex: Hey Kevin, great to see you again. Thanks for hopping on this call. And Fatima, this is Kevin Garcia, Head of Data over at CareStack. Kevin, Fatima's our Technical Lead here at TechNova—she's gonna dive into some of the nuts and bolts with us today.
+
+Kevin: Hey Alex, no problem. Hi Fatima, nice to meet you. Yeah, appreciate you guys making time. We've got about 20 minutes here, right?
+
+Fatima: Absolutely, Kevin. Pleasure's mine. So, Alex filled me in a bit, but let's hear from you—what's top of mind today?
+
+Alex: Yeah, Kevin, last time we chatted, you mentioned you're in discovery mode for some sales enablement tools. CareStack's that Healthcare Tech player with around 29 employees, scaling up in this space. What's the current vibe?
+
+Kevin: Spot on, Alex. We're a small but mighty team—Healthcare Tech, about 29 folks total. Been here four years myself, seen us grow from scrappy startup to handling real patient data flows. Right now, it's discovery for sure. We're evaluating solutions to unify our sales and data ops. You know, fragmented tooling across departments is killing us—sales on one platform, data on another, engineering scattered.
+
+Alex: Fragmented tooling, yeah, that's a classic pain. And I remember you saying vendor lock-in with your current cloud provider is another headache. AWS, right? With DynamoDB and all that.
+
+Kevin: Exactly. We're deep in Go, Kubernetes, AWS, DynamoDB, gRPC—that stack's solid for our microservices, but the lock-in... it's making us nervous. Can't pivot easily, costs are creeping up. Plus, our custom-built CRM on Rails? It's homegrown, but it's creaky. Maintains all our leads and patient outreach, but scaling it with our growth? Nightmare.
+
+Fatima: Got it. Rails for CRM—I've seen that a lot in healthcare startups. Handles the basics, but when you hit compliance hurdles or data volume spikes, it buckles. He mentioned earlier that sales teams are siloed too. How's that playing out day-to-day?
+
+Kevin: Oh man, daily fire drills. Sales can't see real-time data insights, data team's building dashboards in isolation. We need something that integrates seamlessly with our Go services and gRPC endpoints. You know, without ripping everything apart.
+
+Alex: Totally. And Gong's been in the mix too, right? You've been evaluating them?
+
+Kevin: Yeah, Gong's on the shortlist. They do call analysis well, but we're worried it'll just add another layer of fragmentation. Their pricing's steep too, and integration with Kubernetes? Meh. Not as native as we'd like.
+
+Fatima: Fair point. Gong's great for transcription, but for a stack like yours—Go, K8s, AWS—they often require custom bridges. We at TechNova are built for that from the ground up. Plug right into gRPC, pull from DynamoDB without a hitch. No vendor lock-in traps either—we're multi-cloud friendly.
+
+Kevin: That's intriguing. We've got budget allocated, around $1,200,000 for this initiative. Critical urgency too—need to lock something in before things spiral.
+
+Alex: $1.2 million—solid commitment. Matches what you said last time. And timeline-wise, IT committee evaluates quarterly, next window Q3 2026?
+
+Kevin: Yep, buying process is IT committee, quarterly reviews. Next one's Q3 2026, decision by October 27th, 2026. Gotta move fast though—urgency is critical with our growth.
+
+Fatima: October 27th gives us runway. She noted the committee angle—smart to loop them early. But for discovery, let's talk POC. We can spin up a POC environment for your team to evaluate next week.
+
+Kevin: Next week? Nice. A few weeks ago, we tried something similar with another vendor, but it was a mess—took forever to provision.
+
+Alex: We won't do that. Fatima's team prides itself on day-zero setups. He mentioned vendor lock-in again—how's that factoring into urgency?
+
+Kevin: It's huge. Locked into AWS now, but want flexibility. If we go deeper, no more of that. Oh, hey, before we dive deeper—how was your weekend, Alex? Saw that game yesterday?
+
+Alex: Haha, yeah, caught the end of the match. Thrilling, right? You a sports guy?
+
+Kevin: Big time. Helps unwind from data wrangling. Anyway, back to it—our custom CRM on Rails, it's handling sales pipelines okay, but fragmented across depts. Sales wants Gong-like insights, but without the bloat.
+
+Fatima: Right, fragmentation's the killer. He said sales-data silos earlier. TechNova unifies that—AI-driven insights from calls, CRM data, all fed into your DynamoDB via gRPC. No Rails rewrite needed.
+
+Kevin: No rewrite? That's gold. We've allocated roughly 1.2 million for this, so scope's there. But I'm not the final decision maker—gotta get buy-in from the C-suite and IT.
+
+Alex: Understood, Head of Data's key influencer though. Discovery stage perfect for POC. Let's outline next steps: Fatima sets up POC env for your team by end of month. You poke around, integrate with a Go service maybe?
+
+Fatima: End of month works. We'll mirror your Kubernetes setup—deploy a pod, test gRPC calls live. Pull sample data from DynamoDB, show how we avoid lock-in.
+
+Kevin: Sounds solid. Gong demo last month was flashy, but they glossed over AWS specifics. You guys hit our stack head-on.
+
+Alex: That's our edge. And with 29 employees, you need scalable without enterprise bloat. He mentioned four years tenure— what's changed most in that time?
+
+Kevin: Patient data volumes exploded. From simple EHR integrations to full-stack analytics. Custom Rails CRM can't keep up. Fragmented tools mean duplicated efforts—marketing rebuilds lists sales already has.
+
+Fatima: Duplication's a revenue leak. We consolidate: one pane for calls, emails, CRM pulls. Kubernetes-native scaling too.
+
+Kevin: Scaling—yes. We're at 11-50 size now, pushing limits. Urgency critical; by next quarter, we hit compliance audits.
+
+Alex: Next quarter's Q3? Aligns with your IT window.
+
+Kevin: Exactly. A few weeks ago, we audited tooling—total mess. Vendor lock-in topped the list.
+
+Fatima: He highlighted lock-in twice—smart call. We use open standards: gRPC everywhere, AWS optional. POC will demo egress to GCP if you want.
+
+Kevin: GCP pivot? Tempting. Budget's about 1.2 million, as I said. Let's do the POC.
+
+Alex: Great. Fatima, can you send the POC spec post-call?
+
+Fatima: On it. He'll get it in 30 mins. Questions on integration?
+
+Kevin: One: how's latency with DynamoDB queries? Our Go services are latency-sensitive.
+
+Fatima: Sub-50ms average. We cache smartly, gRPC streaming.
+
+Alex: Perfect. Oh, quick digression—Fatima, you catch that healthcare conference last week?
+
+Fatima: Yeah, panels on AI ethics. Relevant for us.
+
+Kevin: Ethics matter here—patient data. Good you're on it.
+
+Alex: Always. So, wrapping up: POC next week, eval by end of month, feedback to IT committee for Q3 2026.
+
+Kevin: Deal. Thanks, team.
+
+Fatima: Pleasure, Kevin. Talk soon.
+
+Alex: Awesome. Chat later.
+
+[Pause, as they wrap up]
+
+Alex: One more thing, Kevin—any initial stack configs to share for POC?
+
+Kevin: Yeah, send me the form; I'll fill Go versions, K8s namespaces.
+
+Fatima: Gotcha. Standard AWS creds anonymized?
+
+Kevin: Yep. Avoid lock-in from jump.
+
+Alex: Smart. He's been at it four years—knows the pitfalls.
+
+Kevin: Haha, too well. Custom Rails CRM was my baby early on, but it's time.
+
+Fatima: We migrate incrementally—no big bang.
+
+Kevin: Love that. Gong pushed all-or-nothing.
+
+Alex: Our way wins. Budget roughly $1,200,000 covers full rollout.
+
+Kevin: Confirmed. Urgency critical—decision timeline October 27th, 2026.
+
+Fatima: Noted. She'll prep POC with your pains in mind: fragmentation, lock-in.
+
+Kevin: Spot on. Digression over—sports weekend was fun, but work calls.
+
+Alex: Right? Let's execute.
+
+[They continue discussing POC details for a few more minutes]
+
+Fatima: For the POC, we'll simulate fragmented data flows—sales calls into CRM, data team queries.
+
+Kevin: Perfect. Our depts will love testing that.
+
+Alex: And since you're Head of Data at CareStack, your eval carries weight.
+
+Kevin: Appreciate it. Not decision maker, but influential.
+
+Fatima: Understood. He mentioned Gong integration issues—ours is seamless.
+
+Kevin: Yeah, their AWS story weak. Yours?
+
+Fatima: Native. Kubernetes operators deploy in mins.
+
+Alex: Next quarter's key—Q3 2026.
+
+Kevin: By end of month POC, we iterate.
+
+Fatima: Deal. She thinks that's feasible.
+
+[More back-and-forth on tech specifics]
+
+Kevin: One pain: gRPC auth with DynamoDB. Secure?
+
+Fatima: IAM roles, fine-grained. No vendor lock.
+
+Alex: He's nailed the pains.
+
+Kevin: Four years here, yeah. Company size 29, Healthcare Tech pure.
+
+Fatima: Fits our sweet spot—11-50 scaling.
+
+Alex: POC env up next week. Confirm?
+
+Kevin: Yes. Thanks.
+
+Fatima: He said urgency critical—prioritizing.
+
+Alex: Budget 1.2 mil, timeline set.
+
+[Extended discussion on custom CRM migration]
+
+Kevin: Rails CRM has these legacy models—patient leads, outreach logs.
+
+Fatima: We ETL them over, map to our schema. Go SDK available.
+
+Kevin: SDK? Nice. A few weeks ago, vendor couldn't.
+
+Alex: We can. Fragmented tooling ends here.
+
+Kevin: Gong didn't address that.
+
+Fatima: We do. POC proves it.
+
+Alex: Decision by 2026-10-27.
+
+Kevin: Locked in.
+
+[Small talk interlude]
+
+Alex: Before we go, coffee recommendation? I'm in SF.
+
+Kevin: Try that spot near Market—great lattes.
+
+Fatima: Noted for next visit.
+
+Kevin: Haha, deal.
+
+Alex: Alright, solid call. Next steps clear.
+
+Kevin: Yep. Talk soon.

@@ -1,0 +1,79 @@
+{
+  "sample_id": "document_050",
+  "content_type": "wiki_document",
+  "company": "VaultEdge",
+  "industry": "Fintech",
+  "target_word_count": 1996,
+  "actual_word_count": 971,
+  "expected_facts": [
+    {
+      "text": "Budget allocated is approximately $50,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with data silos between engineering and sales teams",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Chorus.ai",
+      "type": "explicit"
+    },
+    {
+      "text": "Aisha Okonkwo has been at VaultEdge for 5 years",
+      "type": "explicit"
+    },
+    {
+      "text": "VaultEdge is a Fintech company with about 28 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with technical debt from rapid early growth",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Engineering",
+    "company_name": "VaultEdge",
+    "company_size": "11-50",
+    "technology_stack": "Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "data silos between engineering and sales teams",
+      "technical debt from rapid early growth",
+      "difficulty hiring specialized engineers",
+      "poor visibility into pipeline health"
+    ],
+    "deal_value": 50000,
+    "decision_timeline": "2026-05-26",
+    "competitors_mentioned": [
+      "Chorus.ai"
+    ],
+    "decision_maker": true
+  },
+  "planted_issues": {
+    "pronoun_issues": 1,
+    "temporal_issues": 2,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Raj Garcia",
+      "title": "Head of Infrastructure",
+      "role": "Budget Owner"
+    },
+    {
+      "name": "Maria Wright",
+      "title": "VP of Operations",
+      "role": "Budget Owner"
+    }
+  ],
+  "property_coverage": 0.71
+}

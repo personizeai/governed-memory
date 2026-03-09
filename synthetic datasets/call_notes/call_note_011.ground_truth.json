@@ -1,0 +1,55 @@
+{
+  "sample_id": "call_note_011",
+  "content_type": "call_notes",
+  "company": "MedCore Analytics",
+  "industry": "Healthcare Tech",
+  "duration_minutes": 20,
+  "target_word_count": 674,
+  "actual_word_count": 410,
+  "expected_facts": [
+    {
+      "text": "MedCore Analytics is a Healthcare Tech company with about 739 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $120,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Aisha Anderson has been at MedCore Analytics for 2 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with vendor lock-in with current cloud provider",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with inconsistent messaging across sales team",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Product",
+    "company_name": "MedCore Analytics",
+    "company_size": "201-1000",
+    "technology_stack": "Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "inconsistent messaging across sales team",
+      "vendor lock-in with current cloud provider",
+      "integration complexity with legacy systems",
+      "manual processes for customer onboarding"
+    ],
+    "deal_value": 120000,
+    "competitors_mentioned": [
+      "custom internal tool"
+    ],
+    "decision_maker": false,
+    "next_steps": "Set up POC environment for Aisha's team to evaluate"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1
+  },
+  "property_coverage": 0.71
+}

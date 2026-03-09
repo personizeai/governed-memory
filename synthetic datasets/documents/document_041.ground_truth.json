@@ -1,0 +1,82 @@
+{
+  "sample_id": "document_041",
+  "content_type": "wiki_document",
+  "company": "TechFlow Inc",
+  "industry": "B2B SaaS",
+  "target_word_count": 1877,
+  "actual_word_count": 1270,
+  "expected_facts": [
+    {
+      "text": "They're dealing with integration complexity with legacy systems",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Apollo.io, HubSpot AI",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with difficulty hiring specialized engineers",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $850,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Simone Reyes has been at TechFlow Inc for 6 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    },
+    {
+      "text": "TechFlow Inc is a B2B SaaS company with about 166 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Go, Kubernetes, AWS, DynamoDB, gRPC",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Product",
+    "company_name": "TechFlow Inc",
+    "company_size": "51-200",
+    "technology_stack": "Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "difficulty hiring specialized engineers",
+      "integration complexity with legacy systems",
+      "manual processes for customer onboarding",
+      "compliance audit failures on data handling"
+    ],
+    "deal_value": 850000,
+    "decision_timeline": "2026-11-09",
+    "competitors_mentioned": [
+      "Apollo.io",
+      "HubSpot AI"
+    ],
+    "decision_maker": true,
+    "buying_process": "Standard procurement: demo, security review, legal review, sign-off from VP Finance",
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Tom Dubois",
+      "title": "VP of Marketing",
+      "role": "Budget Owner"
+    },
+    {
+      "name": "Brandon Nakamura",
+      "title": "VP of Marketing",
+      "role": "Champion"
+    }
+  ],
+  "property_coverage": 0.86
+}

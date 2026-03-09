@@ -1,0 +1,179 @@
+[
+  {
+    "id": "query_01",
+    "category": "broad",
+    "entity_email": "sarah.chen@techflow.io",
+    "query": "What do we know about Sarah Chen at TechFlow Inc?",
+    "expected_source_coverage": [
+      "source_1",
+      "source_2",
+      "source_3",
+      "source_4",
+      "source_5"
+    ],
+    "expected_topics": [
+      "role",
+      "company",
+      "deal",
+      "technology",
+      "background"
+    ],
+    "notes": "Should retrieve memories from ALL sources. Tests comprehensive recall."
+  },
+  {
+    "id": "query_02",
+    "category": "broad",
+    "entity_email": "sarah.chen@techflow.io",
+    "query": "Summarize our relationship with TechFlow Inc",
+    "expected_source_coverage": [
+      "source_1",
+      "source_2",
+      "source_3",
+      "source_4"
+    ],
+    "expected_topics": [
+      "meeting history",
+      "deal status",
+      "next steps"
+    ],
+    "notes": "Should retrieve interaction memories. Source 5 (research) less relevant."
+  },
+  {
+    "id": "query_03",
+    "category": "specific",
+    "entity_email": "sarah.chen@techflow.io",
+    "query": "What is TechFlow Inc's technology stack?",
+    "expected_source_coverage": [
+      "source_1",
+      "source_5"
+    ],
+    "expected_topics": [
+      "Java",
+      "Spring Boot",
+      "AWS",
+      "Oracle",
+      "PostgreSQL migration"
+    ],
+    "notes": "Should retrieve 2-3 memories mentioning technical stack details."
+  },
+  {
+    "id": "query_04",
+    "category": "specific",
+    "entity_email": "sarah.chen@techflow.io",
+    "query": "What's the deal value and expected close date?",
+    "expected_source_coverage": [
+      "source_2",
+      "source_3",
+      "source_4"
+    ],
+    "expected_topics": [
+      "$450K",
+      "Q2 2026"
+    ],
+    "notes": "Tests dedup \u2014 this fact appears in 3+ sources. Should NOT return duplicates."
+  },
+  {
+    "id": "query_05",
+    "category": "multi_topic",
+    "entity_email": "sarah.chen@techflow.io",
+    "query": "What are their pain points and who makes the buying decision?",
+    "expected_source_coverage": [
+      "source_1",
+      "source_2",
+      "source_4"
+    ],
+    "expected_topics": [
+      "deployment velocity",
+      "tooling gaps",
+      "Sarah as champion",
+      "CFO involvement"
+    ],
+    "notes": "Tests retrieval across two distinct topics in a single query."
+  },
+  {
+    "id": "query_06",
+    "category": "multi_topic",
+    "entity_email": "sarah.chen@techflow.io",
+    "query": "What competitors did they mention and what's their current solution?",
+    "expected_source_coverage": [
+      "source_1",
+      "source_2",
+      "source_4"
+    ],
+    "expected_topics": [
+      "Gong",
+      "Microsoft Copilot",
+      "Oracle database",
+      "Spring Boot backend"
+    ],
+    "notes": "Tests extraction of competitive intelligence across sources."
+  },
+  {
+    "id": "query_07",
+    "category": "temporal",
+    "entity_email": "sarah.chen@techflow.io",
+    "query": "What happened in our most recent conversation?",
+    "expected_source_coverage": [
+      "source_2"
+    ],
+    "expected_topics": [
+      "vendor evaluation",
+      "SOC 2",
+      "Snowflake integration",
+      "board meeting"
+    ],
+    "notes": "Should retrieve memories from source 2 (follow-up) not source 1 (discovery)."
+  },
+  {
+    "id": "query_08",
+    "category": "temporal",
+    "entity_email": "sarah.chen@techflow.io",
+    "query": "How has Sarah Chen's position evolved across our conversations?",
+    "expected_source_coverage": [
+      "source_1",
+      "source_2",
+      "source_3",
+      "source_4"
+    ],
+    "expected_topics": [
+      "initial interest -> active evaluation -> champion status"
+    ],
+    "notes": "Tests temporal understanding across chronologically ordered sources."
+  },
+  {
+    "id": "query_09",
+    "category": "relational",
+    "entity_email": "sarah.chen@techflow.io",
+    "query": "Who else at TechFlow Inc should we be talking to?",
+    "expected_source_coverage": [
+      "source_1",
+      "source_3",
+      "source_4"
+    ],
+    "expected_topics": [
+      "CEO Mark Thompson",
+      "Mike Rivera",
+      "CFO",
+      "security team"
+    ],
+    "notes": "Tests extraction of stakeholder relationships."
+  },
+  {
+    "id": "query_10",
+    "category": "relational",
+    "entity_email": "sarah.chen@techflow.io",
+    "query": "What technical requirements have they specified?",
+    "expected_source_coverage": [
+      "source_2",
+      "source_3"
+    ],
+    "expected_topics": [
+      "SOC 2",
+      "API-first",
+      "Snowflake",
+      "<200ms retrieval",
+      "phased rollout"
+    ],
+    "notes": "Tests retrieval of technical specifications across sources."
+  }
+]

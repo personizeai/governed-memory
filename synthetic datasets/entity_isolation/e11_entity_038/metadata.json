@@ -1,0 +1,19 @@
+{
+  "entity_index": 38,
+  "name": "Michael Costa",
+  "company": "Cobalt Engineering",
+  "industry": "GovTech",
+  "email": "michael.costa@cobaltengineering.com",
+  "title": "VP of Engineering",
+  "facts": [
+    "Michael Costa is VP of Engineering at Cobalt Engineering",
+    "Cobalt Engineering is a GovTech company with 997 employees",
+    "Tech stack: PHP, Laravel, DigitalOcean, MySQL, Redis",
+    "Deal value: $1,000,000",
+    "Pain points: difficulty hiring specialized engineers; technical debt from rapid early growth",
+    "Competitors: Apollo.io, HubSpot AI, Clari",
+    "Decision timeline: Q3 2026",
+    "Annual revenue: ~$60M"
+  ],
+  "actual_word_count": 350
+}

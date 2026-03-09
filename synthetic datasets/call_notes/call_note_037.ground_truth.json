@@ -1,0 +1,56 @@
+{
+  "sample_id": "call_note_037",
+  "content_type": "call_notes",
+  "company": "ForgeNet Industries",
+  "industry": "Manufacturing",
+  "duration_minutes": 15,
+  "target_word_count": 645,
+  "actual_word_count": 432,
+  "expected_facts": [
+    {
+      "text": "They've also been evaluating Drift, Clari",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with difficulty hiring specialized engineers",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+      "type": "explicit"
+    },
+    {
+      "text": "Fatima Dubois has been at ForgeNet Industries for 7 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with technical debt from rapid early growth",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Analytics",
+    "company_name": "ForgeNet Industries",
+    "company_size": "51-200",
+    "technology_stack": "Ruby on Rails, Heroku, PostgreSQL, Sidekiq",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "technical debt from rapid early growth",
+      "difficulty hiring specialized engineers",
+      "compliance audit failures on data handling",
+      "high infrastructure costs eating into margins"
+    ],
+    "decision_timeline": "2026-11-26",
+    "competitors_mentioned": [
+      "Drift",
+      "Clari"
+    ],
+    "decision_maker": false,
+    "current_solution": "Microsoft Dynamics with Power Automate"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 2
+  },
+  "property_coverage": 0.71
+}

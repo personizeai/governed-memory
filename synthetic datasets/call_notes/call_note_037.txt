@@ -1,0 +1,38 @@
+Call with: Fatima Dubois, Director of Analytics at ForgeNet Industries
+Date: February 28, 2026
+Duration: 15 min
+
+Key Points:
+- Fatima D., Dir Analytics, ForgeNet (51-200), 7yrs tenure
+- Stack: RoR, Heroku, PG, Sidekiq — loves it but debt heavy
+- Curr: MS Dynamics + Power Automate — compliance audit fails last Q, data handling mess
+- Pains: tech debt rapid early growth, high infra costs eating margins (up 25% YoY), hiring spec engs brutal (market tight)
+- Evalling Drift/Clari too — she likes our qual stage fit better, less bloat
+- Not DM, but gatekeeps process — knows CIO well
+- Timeline: target 11/26 close, budget FY27
+- Demo resonated — quick wins on debt refactor
+- She pushing POC heavy, team skeptical
+- He's (eng mgr?) grinding on costs vs Clari
+- Prob w/ Dynamics lock-in, audits killing them
+- Def need Rails/Sidekiq hooks demo'd deeper
+- Hiring freeze prob extending, need our automation relief
+- Open to qual next steps, but he's veto risk
+- Mentioned EOQ push internally — budget crunch
+- Her team's swamped, infra bills spiking
+- Clari pricing lower short-term, but Drift flopped POC
+- We diff on compliance — she agd, wants proof
+- Tech debt specifics: legacy Sidekiq queues exploding
+- ForgeNet growth 3x past 2yrs, now plateau
+- She looped in eng leads post-call?
+
+Action Items:
+- [ ] Send custom POC env (RoR/Sidekiq focus) — me by EOW
+- [ ] F/u Drift/Clari comp sheet w/ compliance wins — me next week
+- [ ] Sch mtg w/ her + CIO/eng mgr — Fatima to intro, me own by 3/7
+- [ ] Quote tweak for high infra pain — me + pricing team EOQ
+- [ ] Log pains to qual stage update — me today
+
+Notes:
+Quick intro call, Fatima super sharp, knows stack inside out after 7yrs. Pitched our low-code vs Dynamics pains — lit up on audit fixes/compliance, said last one failed hard bc data flows. Tech debt from crazy growth killing velocity, hiring engs impossible rn (they lost 2 to FAANG). She's not final DM but influences heavy, mentioned CIO's on board if POC shines. High costs margin-killer, wants relief fast.
+
+She eval'd Drift (too sales-y) + Clari (cheap but no Rails love), open to us. Team needs demo next week, she's pushing but he's dragging (tech side?). Set POC action, qual stage solid. Timeline Nov '26 def, budget locked post-EOQ. Feels warm, f/u aggressive. Her notes on Sidekiq infra — queue lags costing $$ daily. Gonna win if we nail hiring pain angle w/ automation.

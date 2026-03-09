@@ -1,0 +1,62 @@
+{
+  "sample_id": "email_011",
+  "content_type": "email_thread",
+  "company": "MedCore Analytics",
+  "industry": "Healthcare Tech",
+  "email_count": 5,
+  "actual_word_count": 1519,
+  "expected_facts": [
+    {
+      "text": "Engineering team is growing \u2014 hired 13 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $600,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating building in-house",
+      "type": "explicit"
+    },
+    {
+      "text": "MedCore Analytics is a Healthcare Tech company with about 129 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $184M",
+      "type": "explicit"
+    },
+    {
+      "text": "Chen reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Rust, Actix, AWS, PostgreSQL, NATS",
+      "type": "explicit"
+    },
+    {
+      "text": "Chen Johansson has been at MedCore Analytics for 6 years",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Operations",
+    "company_name": "MedCore Analytics",
+    "company_size": "51-200",
+    "technology_stack": "Rust, Actix, AWS, PostgreSQL, NATS",
+    "deal_stage": "Qualification",
+    "deal_value": 600000,
+    "decision_timeline": "2026-05-15",
+    "competitors_mentioned": [
+      "building in-house"
+    ],
+    "decision_maker": true
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 1
+  },
+  "introduces_new_person": true,
+  "colleague": "Chen Williams, Director of IT",
+  "property_coverage": 0.64
+}

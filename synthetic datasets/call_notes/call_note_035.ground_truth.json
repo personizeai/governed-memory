@@ -1,0 +1,58 @@
+{
+  "sample_id": "call_note_035",
+  "content_type": "call_notes",
+  "company": "PharmaPipe",
+  "industry": "Healthcare Tech",
+  "duration_minutes": 25,
+  "target_word_count": 590,
+  "actual_word_count": 372,
+  "expected_facts": [
+    {
+      "text": "Currently evaluating 5 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $600,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with high infrastructure costs eating into margins",
+      "type": "explicit"
+    },
+    {
+      "text": "Alex Mitchell has been at PharmaPipe for 4 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with poor developer experience slowing feature velocity",
+      "type": "explicit"
+    },
+    {
+      "text": "PharmaPipe is a Healthcare Tech company with about 171 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 16% this fiscal year",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "company_name": "PharmaPipe",
+    "company_size": "51-200",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "high infrastructure costs eating into margins",
+      "poor developer experience slowing feature velocity",
+      "inconsistent messaging across sales team"
+    ],
+    "deal_value": 600000,
+    "decision_timeline": "2026-09-19",
+    "decision_maker": false,
+    "next_steps": "Send pricing proposal to Alex by Friday"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1
+  },
+  "property_coverage": 0.57
+}

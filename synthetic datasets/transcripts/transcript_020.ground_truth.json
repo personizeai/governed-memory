@@ -1,0 +1,85 @@
+{
+  "sample_id": "transcript_020",
+  "content_type": "meeting_transcript",
+  "company": "PriceMatrix",
+  "industry": "E-commerce",
+  "duration_minutes": 45,
+  "target_word_count": 2936,
+  "actual_word_count": 1896,
+  "expected_facts": [
+    {
+      "text": "Currently using Pipedrive with Slack notifications",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Go, Kubernetes, AWS, DynamoDB, gRPC",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 12% this fiscal year",
+      "type": "explicit"
+    },
+    {
+      "text": "PriceMatrix is a E-commerce company with about 3835 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $450,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in New York",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating ZoomInfo, existing CRM workflows",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $33M",
+      "type": "explicit"
+    },
+    {
+      "text": "Sarah Williams has been at PriceMatrix for 6 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 2 vendors including us",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Data",
+    "company_name": "PriceMatrix",
+    "company_size": "1000+",
+    "technology_stack": "Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "deal_stage": "Negotiation",
+    "deal_value": 450000,
+    "decision_timeline": "2026-11-11",
+    "competitors_mentioned": [
+      "ZoomInfo",
+      "existing CRM workflows"
+    ],
+    "decision_maker": true,
+    "next_steps": "Send pricing proposal to Sarah by Friday",
+    "buying_process": "Can sign off directly up to $200K, board approval above that",
+    "current_solution": "Pipedrive with Slack notifications",
+    "urgency_level": "High"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2,
+    "duplicate_facts": 2
+  },
+  "has_third_participant": true,
+  "property_coverage": 0.93,
+  "entity_id": "sarah-williams-pricematrix",
+  "entity_email": "sarah.williams@pricematrix.io",
+  "entity_website": "https://pricematrix.io",
+  "contact_name": "Sarah Williams",
+  "record_id": "crm-sarah-williams-pricematrix"
+}

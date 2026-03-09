@@ -1,0 +1,43 @@
+# SyncWave — Account Overview
+
+## Company Background
+SyncWave is a fast-growing B2B SaaS company operating in the sales enablement and revenue operations space, with a company size of 51-200 employees, specifically around 120 team members across engineering, sales, and customer success functions. Founded in 2018 by a trio of former sales executives from Salesforce and HubSpot who identified gaps in real-time pipeline forecasting tools, SyncWave has positioned itself as a provider of AI-driven analytics platforms that help mid-market sales teams optimize deal cycles and forecasting accuracy. Headquartered in Austin, Texas, the company bootstrapped initially through consulting gigs before raising a $15M Series A in 2021, which fueled expansion into Europe and Asia. Their core product, WaveForecast, integrates with CRM systems to deliver predictive insights, but recent challenges like poor visibility into pipeline health and compliance audit failures on data handling have prompted them to seek advanced solutions like ours. SyncWave's tech stack, built primarily on TypeScript for frontend reliability, React for dynamic UIs, Node.js for scalable backends, Google Cloud Platform (GCP) for hosting, and MongoDB for flexible data storage, underscores their modern, cloud-native approach to development.
+
+## Key Contacts
+| Name | Title | Role in Deal | Email | Phone | Notes |
+|---|---|---|---|---|---|
+| Sarah Santos | CTO | Primary Contact | sarah.santos@syncwave.com | +1-512-555-0101 | At SyncWave for 1 year; champions the deal internally |
+| Alex Petrov | VP of Operations | End User | alex.petrov@syncwave.com | +1-512-555-0102 | Key stakeholder for ops integration; focused on pipeline visibility |
+| Chen Bhandari | Head of Data | Technical Evaluator | chen.bhandari@syncwave.com | +1-512-555-0103 | Leads security and compliance reviews; concerned about data handling audits |
+
+## Meeting History
+### Meeting 1: Discovery Call (January 15, 2026)
+This initial 45-minute discovery call, hosted virtually via Zoom, introduced SyncWave's leadership to our platform's capabilities and uncovered their core pain points. Sarah Santos led the discussion, articulating frustrations with poor visibility into pipeline health, where their current tools fail to provide real-time alerts on deal slippage, leading to 20-30% forecasting inaccuracies quarter-over-quarter. Alex Petrov highlighted slow deployment cycles taking 2-3 weeks per release, exacerbated by their TypeScript and Node.js stack on GCP, which bottlenecks frequent updates needed for competitive sales ops. They shared that a board meeting last month had shifted priorities toward compliance, following recent audit failures on data handling practices involving MongoDB schemas that didn't meet SOC 2 standards. The call ended with agreement on a technical deep dive, and Sarah committed to circulating an internal summary. It was productive, though they noted evaluating alternatives like Microsoft Copilot for lighter integrations.
+
+### Meeting 2: Technical Deep Dive (March 4, 2026)
+In this 90-minute session with shared screens and live demos, our engineering team dove into SyncWave's technical requirements, mapping our solution against their React-based frontend and MongoDB backend on GCP. Chen Bhandari grilled us on integration feasibility, confirming seamless API hooks into their Node.js services for pipeline health monitoring. Sarah reiterated the urgency, tying it back to those compliance audit failures that nearly derailed Q1 goals, and Alex demoed their current setup, revealing how slow deployment cycles—often 2-3 weeks due to manual GCP pipelines—hinder rapid iteration on sales forecasts. We addressed their pain points directly: real-time visibility dashboards for pipeline health, automated compliance checks for data flows, and CI/CD accelerations. They appreciated our TypeScript compatibility, which aligns perfectly with their stack. Post-meeting, Sarah promised to share the RFP by end of week, signaling high urgency. A follow-up on blockers from the board's recent priority shift was tabled for next week.
+
+## Technical Requirements
+- **Pipeline Visibility**: Real-time dashboards and AI-driven alerts for deal health, addressing poor visibility into pipeline metrics; must integrate with existing CRM via Node.js APIs to flag risks like slippage or stalled opportunities.
+- **Compliance and Data Handling**: Automated auditing tools to prevent failures like their recent SOC 2 issues; support for secure data pipelines in GCP environments, with MongoDB schema validation and encryption at rest/transit.
+- **Deployment Acceleration**: CI/CD optimizations to reduce slow deployment cycles from 2-3 weeks per release; compatibility with TypeScript, React, and Node.js stacks for seamless frontend/backend deployments.
+- **Scalability for 51-200 Employee Org**: Handle 120+ users across sales and ops, with low-latency querying on large datasets stored in MongoDB.
+- **Integration Depth**: Native support for GCP services, including Cloud Functions and Pub/Sub for event-driven pipeline updates.
+- **Customization**: React-compatible UI components for embedding WaveForecast-like insights into their internal tools.
+- **Security Posture**: Zero-trust architecture with RBAC, aligning with their post-audit compliance mandates.
+
+## Deal Status
+SyncWave is currently in the Proposal stage of the buying process, with a proposed deal value of approximately $350,000 annually, covering enterprise licensing for 120 users, premium support, and custom integrations. The standard procurement workflow includes an initial demo (completed), ongoing security review led by Chen Bhandari, legal review of our MSA, and final sign-off from the VP of Finance—expected by the decision timeline of July 2, 2026. Urgency is high, driven by Q3 planning needs and recent board directives from last month emphasizing pipeline health and compliance fixes. Next steps include Sarah sharing the RFP by end of this week, after which we'll submit a tailored proposal incorporating their TypeScript/React/Node.js/GCP/MongoDB stack requirements. No major blockers yet, but monitoring for procurement delays; overall momentum is strong post-technical deep dive.
+
+## Competitive Landscape
+SyncWave has been actively evaluating a shortlist of competitors to address their pipeline visibility and compliance gaps:
+- **Microsoft Copilot**: Strong contender for its Office 365 integrations and lightweight AI forecasting; Sarah noted its appeal for quick wins but concerns over customization limits in their GCP-centric environment.
+- **Clari**: Leading in revenue intelligence, praised by Alex for pipeline health features, but criticized for higher TCO and slower MongoDB integrations compared to our Node.js-native approach.
+- **Outreach**: Focuses on sales engagement, which overlaps with their deployment cycle pains; however, it lacks deep compliance auditing, a post-audit priority for Chen.
+
+We've differentiated on full-stack compatibility (e.g., TypeScript and React support) and faster deployments, positioning us ahead in their internal scorecard.
+
+## Risk Factors
+- **Board Priority Shifts**: Last month's board meeting altered focus toward cost controls, potentially squeezing the $350K budget if finance pushback intensifies; they've hinted at reprioritizing non-core SaaS spends.
+- **Procurement Delays**: Their standard process—demo, security review, legal, VP Finance sign-off—could extend beyond the July 2, 2026 timeline, especially with Chen's rigorous data handling audits still pending.
+- **Competitor Momentum**: Microsoft Copilot's low-friction entry might sway them if our RFP response (due end of week) doesn't clearly outshine on GCP/MongoDB compliance; unclear references to "it" in their feedback suggested hesitation on integration depth.

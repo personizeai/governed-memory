@@ -1,0 +1,63 @@
+{
+  "sample_id": "chat_014",
+  "content_type": "chat_log",
+  "company": "FreightPulse",
+  "industry": "Logistics",
+  "message_count_target": 43,
+  "actual_word_count": 550,
+  "expected_facts": [
+    {
+      "text": "FreightPulse is a Logistics company with about 1557 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with difficulty hiring specialized engineers",
+      "type": "explicit"
+    },
+    {
+      "text": "James Mueller has been at FreightPulse for 4 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Salesforce Einstein",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $1,200,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with compliance audit failures on data handling",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Operations",
+    "company_name": "FreightPulse",
+    "company_size": "1000+",
+    "technology_stack": "Scala, Spark, Databricks, Snowflake, Airflow",
+    "pain_points": [
+      "difficulty hiring specialized engineers",
+      "compliance audit failures on data handling"
+    ],
+    "deal_value": 1200000,
+    "decision_timeline": "2026-08-26",
+    "competitors_mentioned": [
+      "Salesforce Einstein"
+    ],
+    "next_steps": "James will share the RFP by end of week",
+    "urgency_level": "High"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 2,
+    "duplicate_facts": 1
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@brian.b"
+  ],
+  "property_coverage": 0.71
+}

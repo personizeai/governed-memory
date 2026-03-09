@@ -1,0 +1,83 @@
+{
+  "sample_id": "transcript_032",
+  "content_type": "meeting_transcript",
+  "company": "EduFlow",
+  "industry": "EdTech",
+  "duration_minutes": 45,
+  "target_word_count": 3144,
+  "actual_word_count": 3112,
+  "expected_facts": [
+    {
+      "text": "They've also been evaluating Clari, Drift, existing CRM workflows",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with technical debt from rapid early growth",
+      "type": "explicit"
+    },
+    {
+      "text": "EduFlow is a EdTech company with about 73 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $120,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Emily Hassan has been at EduFlow for 4 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Rust, Actix, AWS, PostgreSQL, NATS",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with fragmented tooling across departments",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using legacy Java application maintained by one person",
+      "type": "explicit"
+    },
+    {
+      "text": "They're planning a migration off legacy systems by end of year",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Head of Product",
+    "company_name": "EduFlow",
+    "company_size": "51-200",
+    "technology_stack": "Rust, Actix, AWS, PostgreSQL, NATS",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "fragmented tooling across departments",
+      "technical debt from rapid early growth",
+      "security concerns with current architecture",
+      "poor visibility into pipeline health"
+    ],
+    "deal_value": 120000,
+    "decision_timeline": "2026-08-09",
+    "competitors_mentioned": [
+      "Clari",
+      "Drift",
+      "existing CRM workflows"
+    ],
+    "decision_maker": false,
+    "buying_process": "Procurement requires three competitive bids before decision",
+    "current_solution": "legacy Java application maintained by one person",
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2,
+    "duplicate_facts": 3
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.93,
+  "entity_id": "emily-eduflow",
+  "entity_email": "emily@eduflow.com",
+  "entity_website": "https://eduflow.com",
+  "contact_name": "Emily",
+  "record_id": "crm-emily-eduflow"
+}

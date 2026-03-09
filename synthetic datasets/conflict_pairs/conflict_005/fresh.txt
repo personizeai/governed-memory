@@ -1,0 +1,24 @@
+**Call Note: Follow-Up Sales Meeting**  
+**Date:** January 08, 2026  
+**Contact:** Nina Dubois, VP Engineering, Atlas Engineering (Logistics)  
+**Duration:** 45 min | **Rep:** [Your Name]  
+
+Followed up on proposal for AI-driven logistics optimization platform. Nina provided positive feedback on demo, noting strong alignment with their supply chain bottlenecks amid recent port delays.  
+
+**Key Update:** Budget increased to $500K (supersedes prior $350K allocation; approved by exec team last week to accelerate Q2 rollout).  
+
+Discussed customization needs:  
+- Integration with existing SAP ERP system critical; promised API specs by EOW.  
+- Interest in predictive analytics module for route optimization—Nina highlighted 15% efficiency gains from our case study as compelling.  
+- Pain point: Current vendor (legacy TMS) causing 20% overages in fuel costs; seeking RFP refresh by March.  
+
+Nina confirmed internal champion (CTO) on board. No red flags on pricing.  
+
+**Next Steps:**  
+- Send revised SOW reflecting $500K budget by 1/10.  
+- Schedule technical deep-dive with her team for 1/22.  
+- Nina to share current TMS contract details for competitive displacement analysis.  
+
+Opportunity heating up—high confidence in close by Q2. Stage: Proposal.  
+
+(Word count: 178)

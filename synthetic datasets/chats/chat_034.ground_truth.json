@@ -1,0 +1,73 @@
+{
+  "sample_id": "chat_034",
+  "content_type": "chat_log",
+  "company": "CoinTrail",
+  "industry": "Fintech",
+  "message_count_target": 58,
+  "actual_word_count": 596,
+  "expected_facts": [
+    {
+      "text": "They're dealing with customer churn from slow support response times",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes C#, .NET, Azure, SQL Server, RabbitMQ",
+      "type": "explicit"
+    },
+    {
+      "text": "IT budget was increased by 14% this fiscal year",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Denver",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating HubSpot AI, existing CRM workflows",
+      "type": "explicit"
+    },
+    {
+      "text": "CoinTrail is a Fintech company with about 45 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with technical debt from rapid early growth",
+      "type": "explicit"
+    },
+    {
+      "text": "Rachel Fernandez has been at CoinTrail for 2 years",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Chief Product Officer",
+    "company_name": "CoinTrail",
+    "company_size": "11-50",
+    "technology_stack": "C#, .NET, Azure, SQL Server, RabbitMQ",
+    "pain_points": [
+      "technical debt from rapid early growth",
+      "customer churn from slow support response times",
+      "data silos between engineering and sales teams"
+    ],
+    "decision_timeline": "2026-04-17",
+    "competitors_mentioned": [
+      "HubSpot AI",
+      "existing CRM workflows"
+    ],
+    "decision_maker": false,
+    "next_steps": "Rachel to present internally and circle back next week",
+    "buying_process": "Two-phase: technical POC first, then business case to leadership"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 3,
+    "duplicate_facts": 2
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@ivan.g"
+  ],
+  "property_coverage": 0.71
+}

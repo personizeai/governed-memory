@@ -1,0 +1,27 @@
+**Follow-Up Sales Meeting - Cirrus Cloud**
+
+**Date:** January 21, 2026  
+**Contact:** James Thompson, VP Engineering  
+**Duration:** 45 min | **Attendees:** JT, Me  
+
+**Key Discussion Points:**  
+Called James for status update post-demo. Strong alignment on our SaaS integration for their cloud orchestration platform.  
+
+**CRITICAL UPDATE:** Cirrus has escalated our project to **critical priority** after board review last week. This supersedes previous medium-priority classification—board cited competitive pressures and Q1 scaling needs as drivers. James confirmed accelerated timeline now targets full rollout by April 2026.  
+
+Other details:  
+- **Technical:** Resolved API versioning concerns; they validated our SDK against their beta env. Shared POC architecture diagram.  
+- **Budget:** Unlocked $300K allocation for pilot (up from $200K estimate). Needs formal PO by Feb 1.  
+- **Stakeholders:** Engaged CTO for buy-in; marketing team requesting co-branded case study post-launch.  
+
+James enthusiastic: "This is now top-of-list—let's move fast." No major blockers.  
+
+**Next Steps:**  
+- Send revised SOW + pricing by Jan 27.  
+- Schedule joint POC kickoff wk of Feb 2 (JT + 2 devs).  
+- Follow up Jan 28 if no PO received.  
+
+**Opportunity Stage:** Proposal (High Probability: 85%)  
+**Notes:** Log escalation in Salesforce; notify AM for resource prioritization.  
+
+(Word count: 198)

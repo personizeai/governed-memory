@@ -1,0 +1,56 @@
+# PriceMatrix — Account Overview
+
+## Company Background
+PriceMatrix is a dynamic e-commerce pricing platform specializing in AI-powered revenue optimization for mid-market online retailers. Founded in 2018 by two former Amazon pricing engineers, Alex Chen and Maria Lopez, the company emerged from a frustration with static pricing models that failed to adapt to real-time market fluctuations. Starting as a bootstrapped startup in San Francisco, PriceMatrix quickly gained traction by helping fashion and consumer goods brands implement machine learning-driven dynamic pricing strategies, which boosted average client margins by 15-20%. Today, with about 81 employees across engineering, sales, and analytics teams, the company operates in the competitive e-commerce SaaS space, serving over 200 retail clients globally. Their business model revolves around subscription-based pricing software that integrates deeply with existing e-commerce stacks, enabling real-time price adjustments based on demand signals, competitor data, and inventory levels. PriceMatrix has raised two funding rounds totaling $25M, with the latest Series A in 2022 valuing them at $120M post-money. The team prides itself on a lean, data-first culture, leveraging a robust technology stack that includes Scala for backend services, Spark for big data processing, Databricks for ML workflows, Snowflake for data warehousing, and Airflow for orchestration. This setup supports their core product, which processes millions of pricing events daily. Recently, they've expanded into international markets, focusing on Europe and Asia-Pacific, amid a post-pandemic surge in e-commerce adoption. However, a board meeting last month introduced some strategic shifts, emphasizing cost efficiencies and tighter integration with CRM systems over new feature expansions.
+
+## Key Contacts
+| Name | Title | Role in Deal | Notes |
+|---|---|---|---|
+| Rachel Park | VP of Sales | Primary Contact | Decision Maker: True; 6 years at PriceMatrix; Reports directly to CEO; Key champion for vendor evaluation |
+| Sarah Fernandez | Chief Revenue Officer | Technical Evaluator | Oversees integration feasibility; Focused on ROI metrics |
+| Daniel Rivera | Director of Analytics | Budget Owner | Controls $1.8M allocation; Prioritizes data pipeline compatibility |
+| Mike Thompson | CTO | Executive Sponsor | Approves technical architecture; Attended deep-dive sessions |
+
+Rachel Park has been instrumental in driving the sales transformation at PriceMatrix since joining six years ago, rising quickly due to her direct reporting line to the CEO. She leads a team of 12 sales reps and has been the primary interface for our discussions, advocating strongly for solutions that enhance their Salesforce workflows. Sarah Fernandez, as CRO, brings a sharp focus on revenue impact, often probing our demos for quantifiable uplift in pricing accuracy. Daniel Rivera manages the analytics budget and has flagged the need for seamless integration with their existing tools, while CTO Mike Thompson provides the final technical sign-off.
+
+## Meeting History
+### Meeting 1: Discovery Call (January 15, 2026)
+The initial discovery call lasted 45 minutes and set the stage for our engagement with PriceMatrix. Rachel Park led the discussion, outlining their core challenges with dynamic pricing in a volatile e-commerce landscape. They currently rely on Salesforce with custom Apex triggers for basic pricing logic, but these have become brittle as transaction volumes scaled to 10M+ monthly. Rachel emphasized pain points like delayed competitor price scraping and manual overrides, which erode margins during peak seasons. We introduced our platform's AI capabilities, and she noted enthusiasm for Spark-compatible integrations given their heavy use of Scala and Databricks. Sarah Fernandez joined midway, questioning scalability against their Snowflake warehouse. Daniel Rivera highlighted the allocated budget of approximately $1,800,000 for a full replacement. The call ended with agreement on a technical deep-dive; Rachel committed to internal alignment post-call. They mentioned evaluating three vendors including ours, with Chorus.ai already in play for conversation intelligence to augment sales processes. This meeting established rapport, though urgency was flagged as low due to their Q2 security audit looming.
+
+### Meeting 2: Technical Deep Dive (March 2, 2026)
+This 90-minute session dove into architecture, attended by Sarah Fernandez, Daniel Rivera, and CTO Mike Thompson. We demoed real-time pricing simulations integrated with a mock Scala/Spark environment, mirroring their stack of Spark, Databricks, Snowflake, and Airflow. Daniel was particularly impressed with query performance against Snowflake but raised concerns about Apex trigger migrations from Salesforce. Sarah pushed for evidence of 20% margin uplift, sharing internal benchmarks. Rachel Park recapped from the discovery call, reinforcing her direct CEO reporting for swift escalations. We uncovered that their existing CRM workflows were a makeshift competitor, handling basic intelligence but lacking AI depth. Mike Thompson grilled us on security postures ahead of their upcoming Q2 audit, requesting SOC 2 details. Post-meeting, they shared a technical RFP draft. A relative highlight was their recent board meeting last month, which shifted priorities toward CRM-price optimization synergies, delaying non-core evals. She agreed to a POC kickoff, though timelines slipped due to this reprioritization.
+
+### Meeting 3: POC Planning and Integration Workshop (April 10, 2026)
+Building on prior momentum, this workshop focused on POC scoping. Rachel reiterated the $1.8M deal value potential, tying it to her budget oversight via Daniel. We mapped integrations: our API endpoints to their Airflow DAGs, Spark jobs for pricing models, and Snowflake connectors. Sarah tested live data flows, uncovering a gap in Apex deprecation paths. Mike stressed audit readiness, as Q2 approaches rapidly. They disclosed the three-vendor bake-off: us, Chorus.ai for call analytics tie-ins, and enhancing existing CRM workflows. Rachel's team prepared a decision matrix; she mentioned excitement but noted her team's hesitation on vendor switch costs. This session clarified requirements, with commitment to POC launch by end-April despite low urgency.
+
+### Meeting 4: Executive Review and Objection Handling (April 28, 2026)
+Rachel escalated to CEO alignment in this high-stakes review. Daniel presented budget justifications, confirming the approximately $1.8 million envelope. We addressed blockers from the board's recent priority shift—last month's meeting emphasized security over speed. Sarah probed Chorus.ai's pricing module overlaps. Mike validated our stack compatibility (Scala backend, Spark processing). Rachel, reporting directly, pushed for July timeline adherence. Unclear pronoun references arose when she said, "We've been pushing hard, but it hasn't landed yet," leaving ambiguity on whether "it" meant budget approval or vendor consensus. POC data showed promising results, edging us ahead.
+
+## Technical Requirements
+- **Dynamic Pricing Engine**: Real-time adjustments based on competitor data, demand elasticity, and inventory; must outperform current Salesforce Apex triggers handling 10M+ events/month.
+- **Integration with Core Stack**: Seamless compatibility with Scala services, Apache Spark for ETL, Databricks ML pipelines, Snowflake data warehouse, and Airflow orchestration; low-latency APIs required.
+- **CRM Augmentation**: Enhance existing Salesforce instance without full rip-and-replace; support for custom Apex migration paths and bi-directional sync.
+- **Security and Compliance**: SOC 2 Type II, GDPR-ready; audit-proof logging for upcoming Q2 security review; role-based access controls integrated with their Okta setup.
+- **Analytics Dashboards**: Customizable BI views in Tableau/Power BI, querying Snowflake directly; margin simulation tools with 99.9% uptime SLA.
+- **Scalability**: Handle peak Black Friday loads (50x baseline); auto-scaling on Databricks clusters.
+- **AI/ML Features**: Predictive pricing models using their Spark MLlib libs; explainable AI for sales team audits.
+- **Vendor Ecosystem**: Open APIs for Chorus.ai integration trials; workflow hooks into existing CRM processes.
+- **Deployment Options**: Hybrid cloud (AWS/GCP) supporting their multi-cloud strategy; CI/CD via Airflow.
+- **Performance Metrics**: Sub-100ms pricing decisions; 20%+ margin uplift validated in POC.
+
+Their tech stack—Scala, Spark, Databricks, Snowflake, Airflow—demands vendor agnosticism, as reiterated in multiple sessions.
+
+## Deal Status
+The deal is currently in the POC validation stage, with a projected value of $1,800,000 ARR over a 3-year commitment, aligning with their allocated budget. Decision timeline targets July 10, 2026, though low urgency level stems from post-board reprioritizations and Q2 security audit prep. We've completed initial POC with positive signals: 18% simulated margin gains in Spark-integrated tests. Blockers include final CTO sign-off on audit alignments and comparative Chorus.ai benchmarks. Rachel remains champion, but Daniel's budget scrutiny and Sarah's ROI demands require one more exec demo. Competitive positioning is strong, as our stack fit outshines CRM workflows. Recent progress: POC report shared last week; next step is contract redline by mid-May. Overall pipeline health: 65% close probability, with timeline slippage of 4 weeks from original Q2 close.
+
+## Competitive Landscape
+- **Chorus.ai**: Strong in conversation intelligence; they're evaluating for sales call pricing insights, but lacks full dynamic engine; POC overlap noted.
+- **Existing CRM Workflows**: Internal Salesforce customizations with Apex; cost-free but unscalable; serves as status quo, not true competitor.
+- **Third Vendor (Undisclosed)**: Likely Gong.io equivalent for broader analytics; Rachel hinted at it during deep-dive.
+
+PriceMatrix is formally evaluating three vendors including ours, per discovery call disclosures. Chorus.ai leads in sales enablement synergy, but trails in pricing depth. Their board's recent shift favors integrated CRM plays, pressuring us to differentiate on tech stack mastery.
+
+## Risk Factors
+- **Priority Shift from Recent Board Meeting**: Last month's board session reprioritized security and CRM efficiencies, potentially de-emphasizing new pricing tools; monitor Rachel's CEO updates.
+- **Q2 Security Audit**: Imminent review could halt integrations if compliance gaps emerge; we've mitigated with early SOC 2 shares, but delays loom.
+- **Budget Overruns in POC**: Daniel flags potential scope creep; low urgency amplifies if margins don't hit 20% threshold, risking stall to existing workflows.

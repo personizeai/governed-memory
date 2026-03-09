@@ -1,0 +1,98 @@
+{
+  "sample_id": "transcript_047",
+  "content_type": "meeting_transcript",
+  "company": "StreamOps",
+  "industry": "Digital Media",
+  "duration_minutes": 20,
+  "target_word_count": 1454,
+  "actual_word_count": 1312,
+  "expected_facts": [
+    {
+      "text": "Budget allocated is approximately $600,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with slow deployment cycles taking 2-3 weeks per release",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating ZoomInfo, Clari, Drift",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 2 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using legacy Java application maintained by one person",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $65M",
+      "type": "explicit"
+    },
+    {
+      "text": "StreamOps is a Digital Media company with about 393 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with lack of real-time analytics for decision making",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes PHP, Laravel, DigitalOcean, MySQL, Redis",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in Chicago",
+      "type": "explicit"
+    },
+    {
+      "text": "Robert reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q2",
+      "type": "explicit"
+    },
+    {
+      "text": "Robert Mueller has been at StreamOps for 1 years",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Chief Product Officer",
+    "company_name": "StreamOps",
+    "company_size": "201-1000",
+    "technology_stack": "PHP, Laravel, DigitalOcean, MySQL, Redis",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "slow deployment cycles taking 2-3 weeks per release",
+      "lack of real-time analytics for decision making",
+      "inconsistent messaging across sales team",
+      "vendor lock-in with current cloud provider"
+    ],
+    "deal_value": 600000,
+    "decision_timeline": "2026-11-20",
+    "competitors_mentioned": [
+      "ZoomInfo",
+      "Clari",
+      "Drift"
+    ],
+    "decision_maker": true,
+    "current_solution": "legacy Java application maintained by one person",
+    "urgency_level": "Low"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2,
+    "duplicate_facts": 2
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.86,
+  "entity_id": "robert-streamops",
+  "entity_email": "robert@streamops.io",
+  "entity_website": "https://streamops.io",
+  "contact_name": "Robert",
+  "record_id": "crm-robert-streamops"
+}

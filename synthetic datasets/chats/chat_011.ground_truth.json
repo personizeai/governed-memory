@@ -1,0 +1,69 @@
+{
+  "sample_id": "chat_011",
+  "content_type": "chat_log",
+  "company": "MedCore Analytics",
+  "industry": "Healthcare Tech",
+  "message_count_target": 45,
+  "actual_word_count": 662,
+  "expected_facts": [
+    {
+      "text": "MedCore Analytics is a Healthcare Tech company with about 36 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Nina Bhandari has been at MedCore Analytics for 7 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Rust, Actix, AWS, PostgreSQL, NATS",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Chorus.ai, Outreach",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $350,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with data silos between engineering and sales teams",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with integration complexity with legacy systems",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Sales",
+    "company_name": "MedCore Analytics",
+    "company_size": "11-50",
+    "technology_stack": "Rust, Actix, AWS, PostgreSQL, NATS",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "data silos between engineering and sales teams",
+      "integration complexity with legacy systems",
+      "customer churn from slow support response times"
+    ],
+    "deal_value": 350000,
+    "competitors_mentioned": [
+      "Chorus.ai",
+      "Outreach"
+    ],
+    "decision_maker": false,
+    "next_steps": "Nina to present internally and circle back next week"
+  },
+  "planted_issues": {
+    "pronoun_issues": 5,
+    "temporal_issues": 3,
+    "duplicate_facts": 2
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@anita.c"
+  ],
+  "property_coverage": 0.71
+}

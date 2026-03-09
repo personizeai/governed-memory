@@ -1,0 +1,95 @@
+{
+  "sample_id": "document_046",
+  "content_type": "wiki_document",
+  "company": "RouteWise",
+  "industry": "Logistics",
+  "target_word_count": 1769,
+  "actual_word_count": 1230,
+  "expected_facts": [
+    {
+      "text": "Currently using spreadsheets and manual data entry",
+      "type": "explicit"
+    },
+    {
+      "text": "They had a board meeting last month that shifted priorities",
+      "type": "explicit"
+    },
+    {
+      "text": "Raj Kaur has been at RouteWise for 6 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $1,800,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+      "type": "explicit"
+    },
+    {
+      "text": "RouteWise is a Logistics company with about 638 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Raj reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q2",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with fragmented tooling across departments",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with vendor lock-in with current cloud provider",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Sales",
+    "company_name": "RouteWise",
+    "company_size": "201-1000",
+    "technology_stack": "Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "vendor lock-in with current cloud provider",
+      "fragmented tooling across departments"
+    ],
+    "deal_value": 1800000,
+    "decision_maker": true,
+    "next_steps": "Schedule a technical deep-dive with Raj's engineering team",
+    "buying_process": "Fast-track available for deals under $150K with direct VP approval",
+    "current_solution": "spreadsheets and manual data entry",
+    "urgency_level": "Critical"
+  },
+  "planted_issues": {
+    "pronoun_issues": 1,
+    "temporal_issues": 1,
+    "duplicate_facts": 1
+  },
+  "additional_contacts": [
+    {
+      "name": "Brandon Alvarez",
+      "title": "Director of Sales Engineering",
+      "role": "End User"
+    },
+    {
+      "name": "Anita Okonkwo",
+      "title": "Chief Product Officer",
+      "role": "Champion"
+    },
+    {
+      "name": "Simone Reyes",
+      "title": "Head of Infrastructure",
+      "role": "Champion"
+    },
+    {
+      "name": "Sarah Anderson",
+      "title": "VP of Engineering",
+      "role": "Champion"
+    }
+  ],
+  "property_coverage": 0.86
+}

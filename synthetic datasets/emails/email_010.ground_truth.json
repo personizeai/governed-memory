@@ -1,0 +1,69 @@
+{
+  "sample_id": "email_010",
+  "content_type": "email_thread",
+  "company": "VaultEdge",
+  "industry": "Fintech",
+  "email_count": 5,
+  "actual_word_count": 1514,
+  "expected_facts": [
+    {
+      "text": "They're dealing with vendor lock-in with current cloud provider",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $450,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Sarah reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q2",
+      "type": "explicit"
+    },
+    {
+      "text": "Sarah Oduya has been at VaultEdge for 7 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Their main office is in London",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes TypeScript, React, Node.js, GCP, MongoDB",
+      "type": "explicit"
+    },
+    {
+      "text": "VaultEdge is a Fintech company with about 714 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with high infrastructure costs eating into margins",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $112M",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Chief Revenue Officer",
+    "company_name": "VaultEdge",
+    "technology_stack": "TypeScript, React, Node.js, GCP, MongoDB",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "high infrastructure costs eating into margins",
+      "vendor lock-in with current cloud provider"
+    ],
+    "deal_value": 450000,
+    "urgency_level": "High"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2
+  },
+  "introduces_new_person": true,
+  "colleague": "Ivan Rivera, Director of IT",
+  "property_coverage": 0.5
+}

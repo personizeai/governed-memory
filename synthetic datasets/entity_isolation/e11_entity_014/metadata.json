@@ -1,0 +1,19 @@
+{
+  "entity_index": 14,
+  "name": "Victor Santos",
+  "company": "Pulse Dynamics",
+  "industry": "AgriTech",
+  "email": "victor.santos@pulsedynamics.com",
+  "title": "Director of Engineering",
+  "facts": [
+    "Victor Santos is Director of Engineering at Pulse Dynamics",
+    "Pulse Dynamics is a AgriTech company with 1980 employees",
+    "Tech stack: Rust, Actix, AWS, PostgreSQL, NATS",
+    "Deal value: $50,000",
+    "Pain points: scaling issues during peak traffic periods; customer churn from slow support response times; lack of real-time analytics for decision making; security concerns with current architecture",
+    "Competitors: Microsoft Copilot",
+    "Decision timeline: Q3 2026",
+    "Annual revenue: ~$281M"
+  ],
+  "actual_word_count": 280
+}

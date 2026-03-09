@@ -1,0 +1,15 @@
+{
+  "pair_id": "conflict_008",
+  "category": "competitor",
+  "company": "Tempest Software",
+  "contact": "Chloe Anderson",
+  "industry": "Healthcare Tech",
+  "stale_date": "2025-06-26",
+  "fresh_date": "2026-01-24",
+  "stale_claim": "Tempest Software is evaluating Salesforce Einstein as an alternative",
+  "fresh_claim": "Tempest Software dropped Salesforce and is now evaluating HubSpot AI",
+  "expected_query": "What competitors is Tempest Software considering?",
+  "expected_answer": "dropped Salesforce and is now evaluating HubSpot AI",
+  "stale_word_count": 193,
+  "fresh_word_count": 197
+}

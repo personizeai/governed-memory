@@ -1,0 +1,57 @@
+{
+  "sample_id": "call_note_032",
+  "content_type": "call_notes",
+  "company": "EduFlow",
+  "industry": "EdTech",
+  "duration_minutes": 15,
+  "target_word_count": 563,
+  "actual_word_count": 375,
+  "expected_facts": [
+    {
+      "text": "Their tech stack includes Go, Kubernetes, AWS, DynamoDB, gRPC",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with lack of real-time analytics for decision making",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using Pipedrive with Slack notifications",
+      "type": "explicit"
+    },
+    {
+      "text": "Keiko Hassan has been at EduFlow for 8 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with scaling issues during peak traffic periods",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $850,000",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Chief Product Officer",
+    "company_name": "EduFlow",
+    "company_size": "201-1000",
+    "technology_stack": "Go, Kubernetes, AWS, DynamoDB, gRPC",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "lack of real-time analytics for decision making",
+      "scaling issues during peak traffic periods",
+      "integration complexity with legacy systems",
+      "technical debt from rapid early growth"
+    ],
+    "deal_value": 850000,
+    "decision_timeline": "2026-11-23",
+    "decision_maker": true,
+    "current_solution": "Pipedrive with Slack notifications"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 1
+  },
+  "property_coverage": 0.71
+}

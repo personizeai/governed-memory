@@ -1,0 +1,95 @@
+{
+  "sample_id": "transcript_033",
+  "content_type": "meeting_transcript",
+  "company": "DataPulse Systems",
+  "industry": "B2B SaaS",
+  "duration_minutes": 45,
+  "target_word_count": 2719,
+  "actual_word_count": 2000,
+  "expected_facts": [
+    {
+      "text": "Rachel Mueller has been at DataPulse Systems for 1 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $50,000",
+      "type": "explicit"
+    },
+    {
+      "text": "DataPulse Systems is a B2B SaaS company with about 31 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "Engineering team is growing \u2014 hired 10 people this quarter",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with integration complexity with legacy systems",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with customer churn from slow support response times",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using Microsoft Dynamics with Power Automate",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Scala, Spark, Databricks, Snowflake, Airflow",
+      "type": "explicit"
+    },
+    {
+      "text": "Annual revenue is around $19M",
+      "type": "explicit"
+    },
+    {
+      "text": "Rachel reports to the CEO directly",
+      "type": "explicit"
+    },
+    {
+      "text": "They lost a major customer last quarter due to onboarding issues",
+      "type": "explicit"
+    },
+    {
+      "text": "Security audit is coming up in Q3",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating custom internal tool",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of Sales Engineering",
+    "company_name": "DataPulse Systems",
+    "company_size": "11-50",
+    "technology_stack": "Scala, Spark, Databricks, Snowflake, Airflow",
+    "deal_stage": "Negotiation",
+    "pain_points": [
+      "integration complexity with legacy systems",
+      "customer churn from slow support response times",
+      "inconsistent messaging across sales team",
+      "manual processes for customer onboarding"
+    ],
+    "deal_value": 50000,
+    "decision_timeline": "2026-12-02",
+    "competitors_mentioned": [
+      "custom internal tool"
+    ],
+    "decision_maker": true,
+    "current_solution": "Microsoft Dynamics with Power Automate"
+  },
+  "planted_issues": {
+    "pronoun_issues": 2,
+    "temporal_issues": 2,
+    "duplicate_facts": 2
+  },
+  "has_third_participant": false,
+  "property_coverage": 0.79,
+  "entity_id": "rachel-datapulse-systems",
+  "entity_email": "rachel@datapulse.io",
+  "entity_website": "https://datapulse.io",
+  "contact_name": "Rachel",
+  "record_id": "crm-rachel-datapulse-systems"
+}

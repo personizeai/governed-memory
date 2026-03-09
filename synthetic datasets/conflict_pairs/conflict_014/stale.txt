@@ -1,0 +1,18 @@
+**Call Note: Sales Meeting**  
+**Date:** October 04, 2025  
+**Contact:** Tom O'Brien, VP of Engineering, Tidal Solutions (Fintech)  
+**Duration:** 45 minutes  
+**Attendees:** Me, Tom O'Brien  
+
+Met with Tom via Zoom to discuss scaling opportunities post-funding. Tidal Solutions raised a $20M Series A last month, led by Apex Ventures, enabling a 40% headcount ramp in engineering and product teams over the next 6 months. They're prioritizing infrastructure upgrades to support 10x transaction volume growth in real-time payments processing.
+
+Demoed our scalable API platform, focusing on seamless integration with their Kubernetes/AWS stack and React-based dashboards. Tom highlighted pain points: current latency issues in fraud detection (sub-50ms SLA unmet) and compliance hurdles with evolving PSD3 regs. Expressed strong interest in our ML-driven anomaly detection module, which aligns with their zero-downtime goals.
+
+Competitive landscape: Evaluating Stripe Radar and internal builds but frustrated with customization limits. Tom sees us as a strong fit for rapid deployment.
+
+**Next Steps:**  
+- Send tailored POC proposal (incl. pricing tiers) by Oct 10.  
+- Schedule intro call with CTO, Sarah Lin, for Oct 15.  
+- Follow up on their RFP timeline (target Q4 pilot).  
+
+Positive engagement; Tom rated demo 8/10. High potential—nurture aggressively. (198 words)

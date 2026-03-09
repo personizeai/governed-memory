@@ -1,0 +1,19 @@
+**Call Note: Sales Meeting**  
+**Date:** December 16, 2025  
+**Contact:** Derek Xu, VP Engineering, Helix Software (Logistics)  
+**Duration:** 45 min via Zoom  
+
+Discussed Helix's logistics platform challenges: legacy routing system causing 15-20% delays in real-time fleet tracking. Helix Software, headquartered in San Francisco, seeks scalable API integrations for their cloud-based TMS.  
+
+Derek highlighted pain points with current vendor (not named): poor scalability during peak seasons, leading to $500K annual inefficiencies. Expressed strong interest in our RouteOptix suite for ML-driven optimization—demoed quick POC showing 12% efficiency gains on sample data.  
+
+Budget: $250K allocated for Q1 2026 pilot across 5 warehouses. Team size: 12 engineers ready to POC. No red flags on procurement; Derek owns eval process.  
+
+**Next Steps:**  
+- Send Helix-specific RouteOptix spec sheet by 12/18.  
+- Schedule technical deep-dive w/ their lead dev on 12/23.  
+- Follow up on RFP timeline (target Jan 15).  
+
+Opportunity rated High (8/10). Derek receptive; rapport strong—mentioned SF office synergies for potential in-person. Action owner: Me.  
+
+(Word count: 178)

@@ -1,0 +1,19 @@
+{
+  "entity_index": 48,
+  "name": "Amanda Mueller",
+  "company": "Crest Digital",
+  "industry": "EdTech",
+  "email": "amanda.mueller@crestdigital.com",
+  "title": "Head of Data",
+  "facts": [
+    "Amanda Mueller is Head of Data at Crest Digital",
+    "Crest Digital is a EdTech company with 1740 employees",
+    "Tech stack: C#, .NET, Azure, SQL Server, RabbitMQ",
+    "Deal value: $400,000",
+    "Pain points: technical debt from rapid early growth; data silos between engineering and sales teams; difficulty hiring specialized engineers; compliance audit failures on data handling",
+    "Competitors: Chorus.ai, ZoomInfo, HubSpot AI",
+    "Decision timeline: Q4 2026",
+    "Annual revenue: ~$19M"
+  ],
+  "actual_word_count": 311
+}

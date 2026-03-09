@@ -1,0 +1,55 @@
+{
+  "sample_id": "call_note_040",
+  "content_type": "call_notes",
+  "company": "ClassGrid",
+  "industry": "EdTech",
+  "duration_minutes": 45,
+  "target_word_count": 497,
+  "actual_word_count": 323,
+  "expected_facts": [
+    {
+      "text": "Currently using Pipedrive with Slack notifications",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with inconsistent messaging across sales team",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Apollo.io, Drift, Clari",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with difficulty measuring ROI on AI initiatives",
+      "type": "explicit"
+    },
+    {
+      "text": "Keiko Garcia has been at ClassGrid for 1 years",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Operations",
+    "company_name": "ClassGrid",
+    "company_size": "51-200",
+    "technology_stack": "Python, FastAPI, AWS Lambda, DynamoDB, SQS",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "inconsistent messaging across sales team",
+      "difficulty measuring ROI on AI initiatives"
+    ],
+    "deal_value": 75000,
+    "competitors_mentioned": [
+      "Apollo.io",
+      "Drift",
+      "Clari"
+    ],
+    "current_solution": "Pipedrive with Slack notifications",
+    "urgency_level": "High"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 1
+  },
+  "property_coverage": 0.71
+}

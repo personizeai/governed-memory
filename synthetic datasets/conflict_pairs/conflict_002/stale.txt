@@ -1,0 +1,19 @@
+**Call Note: Sales Meeting - Brian Moreau, VP Engineering, Forge Platform (Fintech)**  
+**Date:** November 12, 2025  
+**Duration:** 45 min | **Attendees:** Brian Moreau, [My Name]  
+
+Discussed Forge Platform's infrastructure challenges amid rapid scaling in payment processing. Confirmed they run their entire infrastructure on AWS, with heavy reliance on EC2 and Lambda for transaction handling. Experiencing 15-20% latency spikes during peak hours (e.g., EOFM), impacting user conversion rates.  
+
+Brian highlighted need for seamless AWS-native integration to avoid vendor lock-in risks. Expressed strong interest in our low-latency API gateway for fraud detection and throughput optimization—demo resonated well, as it addresses their current Stripe dependency limitations. Budget cycle aligns with Q1 2026 approval; targeting $250K pilot PoC. No major blockers; procurement team to review SLA terms next.  
+
+**Key Insights:**  
+- Team of 25 engineers; prioritizing observability tools.  
+- Competitor eval: Dismissed Datadog due to cost overruns.  
+
+**Next Steps:**  
+- Send AWS integration whitepaper and custom ROI calc by EOD Fri (11/15).  
+- Schedule follow-up w/ their CTO on Nov 25.  
+- Action owner: [My Name]  
+
+Overall positive; high intent—move to proposal stage.  
+(Word count: 198)

@@ -1,0 +1,92 @@
+[
+  {
+    "category": "sales",
+    "well_authored": {
+      "name": "Sales Playbook: Discovery Call Framework",
+      "description": "Step-by-step framework for conducting B2B discovery calls. Use when preparing for or debriefing after initial prospect meetings. Covers qualification criteria, key questions by persona, red flags, and next-step recommendations.",
+      "tags": [
+        "Sales",
+        "Skill"
+      ]
+    },
+    "poorly_authored": {
+      "name": "Discovery Playbook",
+      "description": "Sales tips for calls",
+      "tags": [
+        "Sales"
+      ]
+    }
+  },
+  {
+    "category": "brand",
+    "well_authored": {
+      "name": "Brand Voice Guidelines: External Communications",
+      "description": "Defines tone, style, and messaging standards for all customer-facing content including emails, proposals, and marketing collateral. Use when writing any communication that represents the company to prospects or customers.",
+      "tags": [
+        "Brand",
+        "Guideline"
+      ]
+    },
+    "poorly_authored": {
+      "name": "Brand Guide",
+      "description": "How we write things",
+      "tags": [
+        "Brand"
+      ]
+    }
+  },
+  {
+    "category": "compliance",
+    "well_authored": {
+      "name": "Data Handling and Privacy Policy: Customer Data",
+      "description": "Governs how customer data is collected, stored, processed, and deleted. Reference when handling PII, responding to GDPR/CCPA requests, conducting security reviews, or designing data pipelines. Includes DPA requirements and consent frameworks.",
+      "tags": [
+        "Policy",
+        "Guideline"
+      ]
+    },
+    "poorly_authored": {
+      "name": "Data Policy",
+      "description": "Privacy rules",
+      "tags": [
+        "Policy"
+      ]
+    }
+  },
+  {
+    "category": "product",
+    "well_authored": {
+      "name": "Product Knowledge: Core Analytics Platform",
+      "description": "Technical and functional overview of the core analytics platform. Use when answering prospect questions about features, architecture, integrations, performance, and roadmap. Includes competitive differentiators and positioning against alternatives.",
+      "tags": [
+        "Product",
+        "Skill"
+      ]
+    },
+    "poorly_authored": {
+      "name": "Product Info",
+      "description": "About the product",
+      "tags": [
+        "Product"
+      ]
+    }
+  },
+  {
+    "category": "support",
+    "well_authored": {
+      "name": "Support Escalation Policy: Incident Response",
+      "description": "Defines escalation paths, response time SLAs, and communication templates for P1-P4 customer incidents. Use when a customer reports an issue or when triaging incoming support tickets. Covers severity classification criteria and stakeholder notification rules.",
+      "tags": [
+        "Support",
+        "Policy"
+      ]
+    },
+    "poorly_authored": {
+      "name": "Escalation Rules",
+      "description": "When to escalate",
+      "tags": [
+        "Support"
+      ]
+    }
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "sample_id": "call_note_007",
+  "content_type": "call_notes",
+  "company": "StreamOps",
+  "industry": "Digital Media",
+  "duration_minutes": 25,
+  "target_word_count": 506,
+  "actual_word_count": 240,
+  "expected_facts": [
+    {
+      "text": "StreamOps is a Digital Media company with about 22 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Apollo.io, Gong, Intercom",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently using Salesforce with custom Apex triggers",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes Python, Django, AWS, PostgreSQL, Redis",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with fragmented tooling across departments",
+      "type": "explicit"
+    },
+    {
+      "text": "Emily Lee has been at StreamOps for 2 years",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Director of IT",
+    "company_name": "StreamOps",
+    "company_size": "11-50",
+    "technology_stack": "Python, Django, AWS, PostgreSQL, Redis",
+    "deal_stage": "Proposal",
+    "pain_points": [
+      "fragmented tooling across departments",
+      "technical debt from rapid early growth",
+      "vendor lock-in with current cloud provider"
+    ],
+    "competitors_mentioned": [
+      "Apollo.io",
+      "Gong",
+      "Intercom"
+    ],
+    "current_solution": "Salesforce with custom Apex triggers"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 1
+  },
+  "property_coverage": 0.57
+}

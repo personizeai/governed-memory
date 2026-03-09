@@ -1,0 +1,80 @@
+{
+  "sample_id": "transcript_037",
+  "content_type": "meeting_transcript",
+  "company": "ForgeNet Industries",
+  "industry": "Manufacturing",
+  "duration_minutes": 30,
+  "target_word_count": 2107,
+  "actual_word_count": 2019,
+  "expected_facts": [
+    {
+      "text": "Currently using legacy Java application maintained by one person",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with inconsistent messaging across sales team",
+      "type": "explicit"
+    },
+    {
+      "text": "ForgeNet Industries is a Manufacturing company with about 197 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with integration complexity with legacy systems",
+      "type": "explicit"
+    },
+    {
+      "text": "Currently evaluating 5 vendors including us",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes PHP, Laravel, DigitalOcean, MySQL, Redis",
+      "type": "explicit"
+    },
+    {
+      "text": "Tom Kim has been at ForgeNet Industries for 4 years",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $50,000",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Chorus.ai",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "VP of Marketing",
+    "company_name": "ForgeNet Industries",
+    "company_size": "51-200",
+    "technology_stack": "PHP, Laravel, DigitalOcean, MySQL, Redis",
+    "deal_stage": "Qualification",
+    "pain_points": [
+      "integration complexity with legacy systems",
+      "inconsistent messaging across sales team",
+      "customer churn from slow support response times"
+    ],
+    "deal_value": 50000,
+    "decision_timeline": "2026-06-07",
+    "competitors_mentioned": [
+      "Chorus.ai"
+    ],
+    "next_steps": "Tom will share the RFP by end of week",
+    "buying_process": "Two-phase: technical POC first, then business case to leadership",
+    "current_solution": "legacy Java application maintained by one person",
+    "urgency_level": "Medium"
+  },
+  "planted_issues": {
+    "pronoun_issues": 5,
+    "temporal_issues": 1,
+    "duplicate_facts": 1
+  },
+  "has_third_participant": true,
+  "property_coverage": 0.93,
+  "entity_id": "tom-kim-forgenet-industries",
+  "entity_email": "tom.kim@forgenet.com",
+  "entity_website": "https://forgenet.com",
+  "contact_name": "Tom Kim",
+  "record_id": "crm-tom-kim-forgenet-industries"
+}

@@ -1,0 +1,73 @@
+{
+  "sample_id": "chat_015",
+  "content_type": "chat_log",
+  "company": "AdStack",
+  "industry": "Digital Media",
+  "message_count_target": 32,
+  "actual_word_count": 486,
+  "expected_facts": [
+    {
+      "text": "Lucia Kim has been at AdStack for 3 years",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with vendor lock-in with current cloud provider",
+      "type": "explicit"
+    },
+    {
+      "text": "AdStack is a Digital Media company with about 84 employees",
+      "type": "explicit"
+    },
+    {
+      "text": "They're dealing with scaling issues during peak traffic periods",
+      "type": "explicit"
+    },
+    {
+      "text": "They've also been evaluating Apollo.io, Gong",
+      "type": "explicit"
+    },
+    {
+      "text": "Budget allocated is approximately $600,000",
+      "type": "explicit"
+    },
+    {
+      "text": "Their tech stack includes PHP, Laravel, DigitalOcean, MySQL, Redis",
+      "type": "explicit"
+    }
+  ],
+  "expected_properties": {
+    "job_title": "Chief Revenue Officer",
+    "company_name": "AdStack",
+    "company_size": "51-200",
+    "technology_stack": "PHP, Laravel, DigitalOcean, MySQL, Redis",
+    "deal_stage": "Discovery",
+    "pain_points": [
+      "scaling issues during peak traffic periods",
+      "vendor lock-in with current cloud provider",
+      "customer churn from slow support response times",
+      "high infrastructure costs eating into margins"
+    ],
+    "deal_value": 600000,
+    "decision_timeline": "2026-05-04",
+    "competitors_mentioned": [
+      "Apollo.io",
+      "Gong"
+    ],
+    "decision_maker": true,
+    "next_steps": "Send pricing proposal to Lucia by Friday",
+    "buying_process": "Need approval from their CFO (CFO) for anything over $100K",
+    "current_solution": "internal Python scripts pulling from multiple APIs"
+  },
+  "planted_issues": {
+    "pronoun_issues": 3,
+    "temporal_issues": 3,
+    "duplicate_facts": 1
+  },
+  "participants": [
+    "@alex.m",
+    "@sarah.k",
+    "@mike.r",
+    "@brandon.d"
+  ],
+  "property_coverage": 0.93
+}

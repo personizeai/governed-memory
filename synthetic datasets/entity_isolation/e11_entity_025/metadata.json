@@ -1,0 +1,19 @@
+{
+  "entity_index": 25,
+  "name": "Marcus Tanaka",
+  "company": "Vantage Point",
+  "industry": "Manufacturing",
+  "email": "marcus.tanaka@vantagepoint.com",
+  "title": "VP of Customer Success",
+  "facts": [
+    "Marcus Tanaka is VP of Customer Success at Vantage Point",
+    "Vantage Point is a Manufacturing company with 866 employees",
+    "Tech stack: Scala, Spark, Databricks, Snowflake, Airflow",
+    "Deal value: $50,000",
+    "Pain points: slow deployment cycles taking 2-3 weeks per release; security concerns with current architecture; integration complexity with legacy systems",
+    "Competitors: Clari, HubSpot AI",
+    "Decision timeline: Q3 2026",
+    "Annual revenue: ~$204M"
+  ],
+  "actual_word_count": 352
+}

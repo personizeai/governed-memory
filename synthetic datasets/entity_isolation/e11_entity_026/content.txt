@@ -1,0 +1,16 @@
+### Account Overview
+Mosaic Data is a prominent Logistics company with 2482 employees and annual revenue of ~$188M. As a key player in the industry, they specialize in data-driven supply chain optimization. Primary contact: Heather Volkov, Head of Product (heather.volkov@mosaicdata.com). Heather leads product strategy and is actively evaluating solutions to modernize their tech infrastructure amid rapid scaling challenges.
+
+### Key Details
+Mosaic Data's current tech stack includes Python, Django, AWS, PostgreSQL, and Redis, which supports their core logistics platform but is showing strain. Key pain points include vendor lock-in with their current cloud provider, limiting flexibility; data silos between engineering and sales teams, hindering cross-functional insights; security concerns with the existing architecture, exposing risks in high-volume data handling; and poor developer experience that's slowing feature velocity and innovation pace. Competitors in consideration: Chorus.ai, Salesforce Einstein, Apollo.io. These issues are critical as Mosaic pushes for faster iteration in a competitive logistics market.
+
+### Deal Status
+High-potential opportunity with an estimated deal value of $1,000,000. Mosaic Data is in early evaluation stages, with a decision timeline targeted for Q4 2026. Initial discussions with Heather Volkov have surfaced strong alignment on addressing vendor lock-in and data silos through our platform's multi-cloud capabilities and seamless integrations. They've expressed frustration with current tools mirroring competitor weaknesses, positioning us favorably for differentiation on security and developer productivity.
+
+### Next Steps
+- Schedule a 30-minute discovery call with Heather Volkov by end of next week to deep-dive into pain points and demo tailored integrations for Python/Django workflows.
+- Prepare customized ROI analysis highlighting $1M value prop, focusing on alleviating AWS lock-in, unifying data silos, bolstering security, and accelerating dev velocity vs. Chorus.ai/Salesforce Einstein/Apollo.io.
+- Follow up via email with case studies from similar Logistics clients (2500+ employees) post-call.
+- Internal: Align sales engineering on PostgreSQL/Redis compatibility audit ahead of Q4 2026 timeline.
+
+(Word count: 348)
